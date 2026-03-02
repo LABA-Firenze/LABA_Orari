@@ -234,19 +234,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2026-09-04T09:30:00+01:00",
-    "end": "2026-09-04T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -267,6 +254,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2026-09-04T09:30:00+01:00",
+    "end": "2026-09-04T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2026-09-04T09:30:00+01:00",
     "end": "2026-09-04T12:30:00+01:00",
     "note": "portatili",
@@ -676,19 +676,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2026-09-11T09:30:00+01:00",
-    "end": "2026-09-11T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -709,6 +696,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2026-09-11T09:30:00+01:00",
+    "end": "2026-09-11T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2026-09-11T09:30:00+01:00",
     "end": "2026-09-11T12:30:00+01:00",
     "note": "portatili",
@@ -1118,19 +1118,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2026-09-18T09:30:00+01:00",
-    "end": "2026-09-18T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -1151,6 +1138,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2026-09-18T09:30:00+01:00",
+    "end": "2026-09-18T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2026-09-18T09:30:00+01:00",
     "end": "2026-09-18T12:30:00+01:00",
     "note": "portatili",
@@ -1560,19 +1560,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2026-09-25T09:30:00+01:00",
-    "end": "2026-09-25T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -1593,6 +1580,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2026-09-25T09:30:00+01:00",
+    "end": "2026-09-25T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2026-09-25T09:30:00+01:00",
     "end": "2026-09-25T12:30:00+01:00",
     "note": "portatili",
@@ -2002,19 +2002,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2026-10-02T09:30:00+01:00",
-    "end": "2026-10-02T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -2035,6 +2022,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2026-10-02T09:30:00+01:00",
+    "end": "2026-10-02T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2026-10-02T09:30:00+01:00",
     "end": "2026-10-02T12:30:00+01:00",
     "note": "portatili",
@@ -2444,19 +2444,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2026-10-09T09:30:00+01:00",
-    "end": "2026-10-09T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -2477,6 +2464,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2026-10-09T09:30:00+01:00",
+    "end": "2026-10-09T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2026-10-09T09:30:00+01:00",
     "end": "2026-10-09T12:30:00+01:00",
     "note": "portatili",
@@ -2886,19 +2886,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2026-10-16T09:30:00+01:00",
-    "end": "2026-10-16T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -2919,6 +2906,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2026-10-16T09:30:00+01:00",
+    "end": "2026-10-16T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2026-10-16T09:30:00+01:00",
     "end": "2026-10-16T12:30:00+01:00",
     "note": "portatili",
@@ -3328,19 +3328,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2026-10-23T09:30:00+01:00",
-    "end": "2026-10-23T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -3361,6 +3348,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2026-10-23T09:30:00+01:00",
+    "end": "2026-10-23T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2026-10-23T09:30:00+01:00",
     "end": "2026-10-23T12:30:00+01:00",
     "note": "portatili",
@@ -3770,19 +3770,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2026-10-30T09:30:00+01:00",
-    "end": "2026-10-30T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -3803,6 +3790,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2026-10-30T09:30:00+01:00",
+    "end": "2026-10-30T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2026-10-30T09:30:00+01:00",
     "end": "2026-10-30T12:30:00+01:00",
     "note": "portatili",
@@ -4212,19 +4212,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2026-11-06T09:30:00+01:00",
-    "end": "2026-11-06T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -4245,6 +4232,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2026-11-06T09:30:00+01:00",
+    "end": "2026-11-06T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2026-11-06T09:30:00+01:00",
     "end": "2026-11-06T12:30:00+01:00",
     "note": "portatili",
@@ -4654,19 +4654,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2026-11-13T09:30:00+01:00",
-    "end": "2026-11-13T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -4687,6 +4674,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2026-11-13T09:30:00+01:00",
+    "end": "2026-11-13T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2026-11-13T09:30:00+01:00",
     "end": "2026-11-13T12:30:00+01:00",
     "note": "portatili",
@@ -5096,19 +5096,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2026-11-20T09:30:00+01:00",
-    "end": "2026-11-20T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -5129,6 +5116,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2026-11-20T09:30:00+01:00",
+    "end": "2026-11-20T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2026-11-20T09:30:00+01:00",
     "end": "2026-11-20T12:30:00+01:00",
     "note": "portatili",
@@ -5538,19 +5538,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2026-11-27T09:30:00+01:00",
-    "end": "2026-11-27T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -5571,6 +5558,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2026-11-27T09:30:00+01:00",
+    "end": "2026-11-27T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2026-11-27T09:30:00+01:00",
     "end": "2026-11-27T12:30:00+01:00",
     "note": "portatili",
@@ -5980,19 +5980,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2026-12-04T09:30:00+01:00",
-    "end": "2026-12-04T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -6013,6 +6000,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2026-12-04T09:30:00+01:00",
+    "end": "2026-12-04T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2026-12-04T09:30:00+01:00",
     "end": "2026-12-04T12:30:00+01:00",
     "note": "portatili",
@@ -6422,19 +6422,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2026-12-11T09:30:00+01:00",
-    "end": "2026-12-11T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -6455,6 +6442,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2026-12-11T09:30:00+01:00",
+    "end": "2026-12-11T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2026-12-11T09:30:00+01:00",
     "end": "2026-12-11T12:30:00+01:00",
     "note": "portatili",
@@ -6864,19 +6864,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2026-12-18T09:30:00+01:00",
-    "end": "2026-12-18T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -6897,6 +6884,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2026-12-18T09:30:00+01:00",
+    "end": "2026-12-18T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2026-12-18T09:30:00+01:00",
     "end": "2026-12-18T12:30:00+01:00",
     "note": "portatili",
@@ -7306,19 +7306,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2026-12-25T09:30:00+01:00",
-    "end": "2026-12-25T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -7339,6 +7326,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2026-12-25T09:30:00+01:00",
+    "end": "2026-12-25T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2026-12-25T09:30:00+01:00",
     "end": "2026-12-25T12:30:00+01:00",
     "note": "portatili",
@@ -7748,19 +7748,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2027-01-01T09:30:00+01:00",
-    "end": "2027-01-01T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -7781,6 +7768,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2027-01-01T09:30:00+01:00",
+    "end": "2027-01-01T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2027-01-01T09:30:00+01:00",
     "end": "2027-01-01T12:30:00+01:00",
     "note": "portatili",
@@ -8190,19 +8190,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2027-01-08T09:30:00+01:00",
-    "end": "2027-01-08T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -8223,6 +8210,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2027-01-08T09:30:00+01:00",
+    "end": "2027-01-08T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2027-01-08T09:30:00+01:00",
     "end": "2027-01-08T12:30:00+01:00",
     "note": "portatili",
@@ -8632,19 +8632,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2027-01-15T09:30:00+01:00",
-    "end": "2027-01-15T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -8665,6 +8652,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2027-01-15T09:30:00+01:00",
+    "end": "2027-01-15T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2027-01-15T09:30:00+01:00",
     "end": "2027-01-15T12:30:00+01:00",
     "note": "portatili",
@@ -9074,19 +9074,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2027-01-22T09:30:00+01:00",
-    "end": "2027-01-22T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -9107,6 +9094,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2027-01-22T09:30:00+01:00",
+    "end": "2027-01-22T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2027-01-22T09:30:00+01:00",
     "end": "2027-01-22T12:30:00+01:00",
     "note": "portatili",
@@ -9516,19 +9516,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "start": "2027-01-29T09:30:00+01:00",
-    "end": "2027-01-29T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Elaborazione Digitale Immagini",
     "oidCorso": null,
     "oidCorsi": null,
@@ -9549,6 +9536,19 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2027-01-29T09:30:00+01:00",
+    "end": "2027-01-29T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologie Progettuali per la Comunicazione Visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
     "start": "2027-01-29T09:30:00+01:00",
     "end": "2027-01-29T12:30:00+01:00",
     "note": "portatili",
