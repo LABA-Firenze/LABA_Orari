@@ -101,7 +101,13 @@
     "start": "2026-09-03T10:30:00+01:00",
     "end": "2026-09-03T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -179,7 +185,81 @@
     "start": "2026-09-05T14:00:00+01:00",
     "end": "2026-09-05T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia 3",
@@ -361,7 +441,13 @@
     "start": "2026-09-10T10:30:00+01:00",
     "end": "2026-09-10T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -439,7 +525,81 @@
     "start": "2026-09-12T14:00:00+01:00",
     "end": "2026-09-12T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia 3",
@@ -621,7 +781,13 @@
     "start": "2026-09-17T10:30:00+01:00",
     "end": "2026-09-17T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -699,7 +865,81 @@
     "start": "2026-09-19T14:00:00+01:00",
     "end": "2026-09-19T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia 3",
@@ -881,7 +1121,13 @@
     "start": "2026-09-24T10:30:00+01:00",
     "end": "2026-09-24T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -959,7 +1205,81 @@
     "start": "2026-09-26T14:00:00+01:00",
     "end": "2026-09-26T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia 3",
@@ -1141,7 +1461,13 @@
     "start": "2026-10-01T10:30:00+01:00",
     "end": "2026-10-01T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -1219,7 +1545,81 @@
     "start": "2026-10-03T14:00:00+01:00",
     "end": "2026-10-03T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia 3",
@@ -1401,7 +1801,13 @@
     "start": "2026-10-08T10:30:00+01:00",
     "end": "2026-10-08T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -1479,7 +1885,81 @@
     "start": "2026-10-10T14:00:00+01:00",
     "end": "2026-10-10T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia 3",
@@ -1661,7 +2141,13 @@
     "start": "2026-10-15T10:30:00+01:00",
     "end": "2026-10-15T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -1739,7 +2225,81 @@
     "start": "2026-10-17T14:00:00+01:00",
     "end": "2026-10-17T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia 3",
@@ -1921,7 +2481,13 @@
     "start": "2026-10-22T10:30:00+01:00",
     "end": "2026-10-22T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -1999,7 +2565,81 @@
     "start": "2026-10-24T14:00:00+01:00",
     "end": "2026-10-24T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia 3",
@@ -2181,7 +2821,13 @@
     "start": "2026-10-29T10:30:00+01:00",
     "end": "2026-10-29T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -2259,7 +2905,81 @@
     "start": "2026-10-31T14:00:00+01:00",
     "end": "2026-10-31T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia 3",
@@ -2441,7 +3161,13 @@
     "start": "2026-11-05T10:30:00+01:00",
     "end": "2026-11-05T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -2519,7 +3245,81 @@
     "start": "2026-11-07T14:00:00+01:00",
     "end": "2026-11-07T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia 3",
@@ -2701,7 +3501,13 @@
     "start": "2026-11-12T10:30:00+01:00",
     "end": "2026-11-12T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -2779,7 +3585,81 @@
     "start": "2026-11-14T14:00:00+01:00",
     "end": "2026-11-14T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia 3",
@@ -2961,7 +3841,13 @@
     "start": "2026-11-19T10:30:00+01:00",
     "end": "2026-11-19T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -3039,7 +3925,81 @@
     "start": "2026-11-21T14:00:00+01:00",
     "end": "2026-11-21T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia 3",
@@ -3221,7 +4181,13 @@
     "start": "2026-11-26T10:30:00+01:00",
     "end": "2026-11-26T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -3299,7 +4265,81 @@
     "start": "2026-11-28T14:00:00+01:00",
     "end": "2026-11-28T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia 3",
@@ -3481,7 +4521,13 @@
     "start": "2026-12-03T10:30:00+01:00",
     "end": "2026-12-03T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -3559,7 +4605,81 @@
     "start": "2026-12-05T14:00:00+01:00",
     "end": "2026-12-05T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia 3",
@@ -3741,7 +4861,13 @@
     "start": "2026-12-10T10:30:00+01:00",
     "end": "2026-12-10T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -3819,7 +4945,81 @@
     "start": "2026-12-12T14:00:00+01:00",
     "end": "2026-12-12T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia 3",
@@ -4001,7 +5201,13 @@
     "start": "2026-12-17T10:30:00+01:00",
     "end": "2026-12-17T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -4079,7 +5285,81 @@
     "start": "2026-12-19T14:00:00+01:00",
     "end": "2026-12-19T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia 3",
@@ -4261,7 +5541,13 @@
     "start": "2026-12-24T10:30:00+01:00",
     "end": "2026-12-24T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -4339,7 +5625,81 @@
     "start": "2026-12-26T14:00:00+01:00",
     "end": "2026-12-26T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia 3",
@@ -4521,7 +5881,13 @@
     "start": "2026-12-31T10:30:00+01:00",
     "end": "2026-12-31T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -4599,7 +5965,81 @@
     "start": "2027-01-02T14:00:00+01:00",
     "end": "2027-01-02T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia 3",
@@ -4781,7 +6221,13 @@
     "start": "2027-01-07T10:30:00+01:00",
     "end": "2027-01-07T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -4859,7 +6305,81 @@
     "start": "2027-01-09T14:00:00+01:00",
     "end": "2027-01-09T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia 3",
@@ -5041,7 +6561,13 @@
     "start": "2027-01-14T10:30:00+01:00",
     "end": "2027-01-14T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -5119,7 +6645,81 @@
     "start": "2027-01-16T14:00:00+01:00",
     "end": "2027-01-16T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia 3",
@@ -5301,7 +6901,13 @@
     "start": "2027-01-21T10:30:00+01:00",
     "end": "2027-01-21T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -5379,7 +6985,81 @@
     "start": "2027-01-23T14:00:00+01:00",
     "end": "2027-01-23T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia 3",
@@ -5561,7 +7241,13 @@
     "start": "2027-01-28T10:30:00+01:00",
     "end": "2027-01-28T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Direzione della Fotografia",
@@ -5639,6 +7325,80 @@
     "start": "2027-01-30T14:00:00+01:00",
     "end": "2027-01-30T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   }
 ]

@@ -127,7 +127,13 @@
     "start": "2027-02-05T13:00:00+01:00",
     "end": "2027-02-05T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -140,7 +146,81 @@
     "start": "2027-02-06T14:00:00+01:00",
     "end": "2027-02-06T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Computer Graphic",
@@ -270,7 +350,13 @@
     "start": "2027-02-12T13:00:00+01:00",
     "end": "2027-02-12T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -283,7 +369,81 @@
     "start": "2027-02-13T14:00:00+01:00",
     "end": "2027-02-13T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Computer Graphic",
@@ -413,7 +573,13 @@
     "start": "2027-02-19T13:00:00+01:00",
     "end": "2027-02-19T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -426,7 +592,81 @@
     "start": "2027-02-20T14:00:00+01:00",
     "end": "2027-02-20T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Computer Graphic",
@@ -556,7 +796,13 @@
     "start": "2027-02-26T13:00:00+01:00",
     "end": "2027-02-26T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -569,7 +815,81 @@
     "start": "2027-02-27T14:00:00+01:00",
     "end": "2027-02-27T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Computer Graphic",
@@ -699,7 +1019,13 @@
     "start": "2027-03-05T13:00:00+01:00",
     "end": "2027-03-05T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -712,7 +1038,81 @@
     "start": "2027-03-06T14:00:00+01:00",
     "end": "2027-03-06T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Computer Graphic",
@@ -842,7 +1242,13 @@
     "start": "2027-03-12T13:00:00+01:00",
     "end": "2027-03-12T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -855,7 +1261,81 @@
     "start": "2027-03-13T14:00:00+01:00",
     "end": "2027-03-13T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Computer Graphic",
@@ -985,7 +1465,13 @@
     "start": "2027-03-19T13:00:00+01:00",
     "end": "2027-03-19T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -998,7 +1484,81 @@
     "start": "2027-03-20T14:00:00+01:00",
     "end": "2027-03-20T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Computer Graphic",
@@ -1128,7 +1688,13 @@
     "start": "2027-03-26T13:00:00+01:00",
     "end": "2027-03-26T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1141,7 +1707,81 @@
     "start": "2027-03-27T14:00:00+01:00",
     "end": "2027-03-27T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Computer Graphic",
@@ -1271,7 +1911,13 @@
     "start": "2027-04-02T13:00:00+01:00",
     "end": "2027-04-02T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1284,7 +1930,81 @@
     "start": "2027-04-03T14:00:00+01:00",
     "end": "2027-04-03T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Computer Graphic",
@@ -1414,7 +2134,13 @@
     "start": "2027-04-09T13:00:00+01:00",
     "end": "2027-04-09T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1427,7 +2153,81 @@
     "start": "2027-04-10T14:00:00+01:00",
     "end": "2027-04-10T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Computer Graphic",
@@ -1557,7 +2357,13 @@
     "start": "2027-04-16T13:00:00+01:00",
     "end": "2027-04-16T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1570,7 +2376,81 @@
     "start": "2027-04-17T14:00:00+01:00",
     "end": "2027-04-17T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Computer Graphic",
@@ -1700,7 +2580,13 @@
     "start": "2027-04-23T13:00:00+01:00",
     "end": "2027-04-23T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1713,7 +2599,81 @@
     "start": "2027-04-24T14:00:00+01:00",
     "end": "2027-04-24T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Computer Graphic",
@@ -1843,7 +2803,13 @@
     "start": "2027-04-30T13:00:00+01:00",
     "end": "2027-04-30T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1856,7 +2822,81 @@
     "start": "2027-05-01T14:00:00+01:00",
     "end": "2027-05-01T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Computer Graphic",
@@ -1986,7 +3026,13 @@
     "start": "2027-05-07T13:00:00+01:00",
     "end": "2027-05-07T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1999,7 +3045,81 @@
     "start": "2027-05-08T14:00:00+01:00",
     "end": "2027-05-08T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Computer Graphic",
@@ -2129,7 +3249,13 @@
     "start": "2027-05-14T13:00:00+01:00",
     "end": "2027-05-14T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2142,7 +3268,81 @@
     "start": "2027-05-15T14:00:00+01:00",
     "end": "2027-05-15T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Computer Graphic",
@@ -2272,7 +3472,13 @@
     "start": "2027-05-21T13:00:00+01:00",
     "end": "2027-05-21T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2285,7 +3491,81 @@
     "start": "2027-05-22T14:00:00+01:00",
     "end": "2027-05-22T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Computer Graphic",
@@ -2415,7 +3695,13 @@
     "start": "2027-05-28T13:00:00+01:00",
     "end": "2027-05-28T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2428,7 +3714,81 @@
     "start": "2027-05-29T14:00:00+01:00",
     "end": "2027-05-29T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Computer Graphic",
@@ -2558,7 +3918,13 @@
     "start": "2027-06-04T13:00:00+01:00",
     "end": "2027-06-04T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2571,7 +3937,81 @@
     "start": "2027-06-05T14:00:00+01:00",
     "end": "2027-06-05T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Computer Graphic",
@@ -2701,7 +4141,13 @@
     "start": "2027-06-11T13:00:00+01:00",
     "end": "2027-06-11T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2714,7 +4160,81 @@
     "start": "2027-06-12T14:00:00+01:00",
     "end": "2027-06-12T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Computer Graphic",
@@ -2844,7 +4364,13 @@
     "start": "2027-06-18T13:00:00+01:00",
     "end": "2027-06-18T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2857,7 +4383,81 @@
     "start": "2027-06-19T14:00:00+01:00",
     "end": "2027-06-19T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Computer Graphic",
@@ -2987,7 +4587,13 @@
     "start": "2027-06-25T13:00:00+01:00",
     "end": "2027-06-25T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -3000,7 +4606,81 @@
     "start": "2027-06-26T14:00:00+01:00",
     "end": "2027-06-26T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "GD"
+    "corsoStudio": "GD",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Computer Graphic",

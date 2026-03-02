@@ -36,7 +36,17 @@
     "start": "2027-02-01T14:00:00+01:00",
     "end": "2027-02-01T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",
@@ -166,7 +176,81 @@
     "start": "2027-02-06T14:00:00+01:00",
     "end": "2027-02-06T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Linguaggi Multimediali",
@@ -205,7 +289,17 @@
     "start": "2027-02-08T14:00:00+01:00",
     "end": "2027-02-08T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",
@@ -335,7 +429,81 @@
     "start": "2027-02-13T14:00:00+01:00",
     "end": "2027-02-13T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Linguaggi Multimediali",
@@ -374,7 +542,17 @@
     "start": "2027-02-15T14:00:00+01:00",
     "end": "2027-02-15T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",
@@ -504,7 +682,81 @@
     "start": "2027-02-20T14:00:00+01:00",
     "end": "2027-02-20T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Linguaggi Multimediali",
@@ -543,7 +795,17 @@
     "start": "2027-02-22T14:00:00+01:00",
     "end": "2027-02-22T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",
@@ -673,7 +935,81 @@
     "start": "2027-02-27T14:00:00+01:00",
     "end": "2027-02-27T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Linguaggi Multimediali",
@@ -712,7 +1048,17 @@
     "start": "2027-03-01T14:00:00+01:00",
     "end": "2027-03-01T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",
@@ -842,7 +1188,81 @@
     "start": "2027-03-06T14:00:00+01:00",
     "end": "2027-03-06T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Linguaggi Multimediali",
@@ -881,7 +1301,17 @@
     "start": "2027-03-08T14:00:00+01:00",
     "end": "2027-03-08T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",
@@ -1011,7 +1441,81 @@
     "start": "2027-03-13T14:00:00+01:00",
     "end": "2027-03-13T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Linguaggi Multimediali",
@@ -1050,7 +1554,17 @@
     "start": "2027-03-15T14:00:00+01:00",
     "end": "2027-03-15T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",
@@ -1180,7 +1694,81 @@
     "start": "2027-03-20T14:00:00+01:00",
     "end": "2027-03-20T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Linguaggi Multimediali",
@@ -1219,7 +1807,17 @@
     "start": "2027-03-22T14:00:00+01:00",
     "end": "2027-03-22T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",
@@ -1349,7 +1947,81 @@
     "start": "2027-03-27T14:00:00+01:00",
     "end": "2027-03-27T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Linguaggi Multimediali",
@@ -1388,7 +2060,17 @@
     "start": "2027-03-29T14:00:00+01:00",
     "end": "2027-03-29T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",
@@ -1518,7 +2200,81 @@
     "start": "2027-04-03T14:00:00+01:00",
     "end": "2027-04-03T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Linguaggi Multimediali",
@@ -1557,7 +2313,17 @@
     "start": "2027-04-05T14:00:00+01:00",
     "end": "2027-04-05T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",
@@ -1687,7 +2453,81 @@
     "start": "2027-04-10T14:00:00+01:00",
     "end": "2027-04-10T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Linguaggi Multimediali",
@@ -1726,7 +2566,17 @@
     "start": "2027-04-12T14:00:00+01:00",
     "end": "2027-04-12T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",
@@ -1856,7 +2706,81 @@
     "start": "2027-04-17T14:00:00+01:00",
     "end": "2027-04-17T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Linguaggi Multimediali",
@@ -1895,7 +2819,17 @@
     "start": "2027-04-19T14:00:00+01:00",
     "end": "2027-04-19T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",
@@ -2025,7 +2959,81 @@
     "start": "2027-04-24T14:00:00+01:00",
     "end": "2027-04-24T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Linguaggi Multimediali",
@@ -2064,7 +3072,17 @@
     "start": "2027-04-26T14:00:00+01:00",
     "end": "2027-04-26T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",
@@ -2194,7 +3212,81 @@
     "start": "2027-05-01T14:00:00+01:00",
     "end": "2027-05-01T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Linguaggi Multimediali",
@@ -2233,7 +3325,17 @@
     "start": "2027-05-03T14:00:00+01:00",
     "end": "2027-05-03T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",
@@ -2363,7 +3465,81 @@
     "start": "2027-05-08T14:00:00+01:00",
     "end": "2027-05-08T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Linguaggi Multimediali",
@@ -2402,7 +3578,17 @@
     "start": "2027-05-10T14:00:00+01:00",
     "end": "2027-05-10T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",
@@ -2532,7 +3718,81 @@
     "start": "2027-05-15T14:00:00+01:00",
     "end": "2027-05-15T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Linguaggi Multimediali",
@@ -2571,7 +3831,17 @@
     "start": "2027-05-17T14:00:00+01:00",
     "end": "2027-05-17T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",
@@ -2701,7 +3971,81 @@
     "start": "2027-05-22T14:00:00+01:00",
     "end": "2027-05-22T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Linguaggi Multimediali",
@@ -2740,7 +4084,17 @@
     "start": "2027-05-24T14:00:00+01:00",
     "end": "2027-05-24T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",
@@ -2870,7 +4224,81 @@
     "start": "2027-05-29T14:00:00+01:00",
     "end": "2027-05-29T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Linguaggi Multimediali",
@@ -2909,7 +4337,17 @@
     "start": "2027-05-31T14:00:00+01:00",
     "end": "2027-05-31T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",
@@ -3039,7 +4477,81 @@
     "start": "2027-06-05T14:00:00+01:00",
     "end": "2027-06-05T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Linguaggi Multimediali",
@@ -3078,7 +4590,17 @@
     "start": "2027-06-07T14:00:00+01:00",
     "end": "2027-06-07T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",
@@ -3208,7 +4730,81 @@
     "start": "2027-06-12T14:00:00+01:00",
     "end": "2027-06-12T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Linguaggi Multimediali",
@@ -3247,7 +4843,17 @@
     "start": "2027-06-14T14:00:00+01:00",
     "end": "2027-06-14T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",
@@ -3377,7 +4983,81 @@
     "start": "2027-06-19T14:00:00+01:00",
     "end": "2027-06-19T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Linguaggi Multimediali",
@@ -3416,7 +5096,17 @@
     "start": "2027-06-21T14:00:00+01:00",
     "end": "2027-06-21T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",
@@ -3546,7 +5236,81 @@
     "start": "2027-06-26T14:00:00+01:00",
     "end": "2027-06-26T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Linguaggi Multimediali",
@@ -3585,7 +5349,17 @@
     "start": "2027-06-28T14:00:00+01:00",
     "end": "2027-06-28T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "REGIA"
+    "corsoStudio": "REGIA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "PITTURA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Informatica di Base",

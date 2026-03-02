@@ -62,7 +62,13 @@
     "start": "2026-09-02T08:30:00+01:00",
     "end": "2026-09-02T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -75,7 +81,13 @@
     "start": "2026-09-02T09:30:00+01:00",
     "end": "2026-09-02T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -88,7 +100,13 @@
     "start": "2026-09-02T10:30:00+01:00",
     "end": "2026-09-02T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -101,7 +119,13 @@
     "start": "2026-09-02T11:30:00+01:00",
     "end": "2026-09-02T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -140,7 +164,13 @@
     "start": "2026-09-03T10:30:00+01:00",
     "end": "2026-09-03T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -166,7 +196,81 @@
     "start": "2026-09-05T14:00:00+01:00",
     "end": "2026-09-05T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -192,7 +296,17 @@
     "start": "2026-09-07T14:00:00+01:00",
     "end": "2026-09-07T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -257,7 +371,13 @@
     "start": "2026-09-09T08:30:00+01:00",
     "end": "2026-09-09T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -270,7 +390,13 @@
     "start": "2026-09-09T09:30:00+01:00",
     "end": "2026-09-09T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -283,7 +409,13 @@
     "start": "2026-09-09T10:30:00+01:00",
     "end": "2026-09-09T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -296,7 +428,13 @@
     "start": "2026-09-09T11:30:00+01:00",
     "end": "2026-09-09T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -335,7 +473,13 @@
     "start": "2026-09-10T10:30:00+01:00",
     "end": "2026-09-10T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -361,7 +505,81 @@
     "start": "2026-09-12T14:00:00+01:00",
     "end": "2026-09-12T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -387,7 +605,17 @@
     "start": "2026-09-14T14:00:00+01:00",
     "end": "2026-09-14T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -452,7 +680,13 @@
     "start": "2026-09-16T08:30:00+01:00",
     "end": "2026-09-16T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -465,7 +699,13 @@
     "start": "2026-09-16T09:30:00+01:00",
     "end": "2026-09-16T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -478,7 +718,13 @@
     "start": "2026-09-16T10:30:00+01:00",
     "end": "2026-09-16T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -491,7 +737,13 @@
     "start": "2026-09-16T11:30:00+01:00",
     "end": "2026-09-16T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -530,7 +782,13 @@
     "start": "2026-09-17T10:30:00+01:00",
     "end": "2026-09-17T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -556,7 +814,81 @@
     "start": "2026-09-19T14:00:00+01:00",
     "end": "2026-09-19T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -582,7 +914,17 @@
     "start": "2026-09-21T14:00:00+01:00",
     "end": "2026-09-21T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -647,7 +989,13 @@
     "start": "2026-09-23T08:30:00+01:00",
     "end": "2026-09-23T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -660,7 +1008,13 @@
     "start": "2026-09-23T09:30:00+01:00",
     "end": "2026-09-23T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -673,7 +1027,13 @@
     "start": "2026-09-23T10:30:00+01:00",
     "end": "2026-09-23T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -686,7 +1046,13 @@
     "start": "2026-09-23T11:30:00+01:00",
     "end": "2026-09-23T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -725,7 +1091,13 @@
     "start": "2026-09-24T10:30:00+01:00",
     "end": "2026-09-24T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -751,7 +1123,81 @@
     "start": "2026-09-26T14:00:00+01:00",
     "end": "2026-09-26T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -777,7 +1223,17 @@
     "start": "2026-09-28T14:00:00+01:00",
     "end": "2026-09-28T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -842,7 +1298,13 @@
     "start": "2026-09-30T08:30:00+01:00",
     "end": "2026-09-30T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -855,7 +1317,13 @@
     "start": "2026-09-30T09:30:00+01:00",
     "end": "2026-09-30T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -868,7 +1336,13 @@
     "start": "2026-09-30T10:30:00+01:00",
     "end": "2026-09-30T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -881,7 +1355,13 @@
     "start": "2026-09-30T11:30:00+01:00",
     "end": "2026-09-30T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -920,7 +1400,13 @@
     "start": "2026-10-01T10:30:00+01:00",
     "end": "2026-10-01T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -946,7 +1432,81 @@
     "start": "2026-10-03T14:00:00+01:00",
     "end": "2026-10-03T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -972,7 +1532,17 @@
     "start": "2026-10-05T14:00:00+01:00",
     "end": "2026-10-05T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -1037,7 +1607,13 @@
     "start": "2026-10-07T08:30:00+01:00",
     "end": "2026-10-07T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -1050,7 +1626,13 @@
     "start": "2026-10-07T09:30:00+01:00",
     "end": "2026-10-07T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1063,7 +1645,13 @@
     "start": "2026-10-07T10:30:00+01:00",
     "end": "2026-10-07T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1076,7 +1664,13 @@
     "start": "2026-10-07T11:30:00+01:00",
     "end": "2026-10-07T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -1115,7 +1709,13 @@
     "start": "2026-10-08T10:30:00+01:00",
     "end": "2026-10-08T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -1141,7 +1741,81 @@
     "start": "2026-10-10T14:00:00+01:00",
     "end": "2026-10-10T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -1167,7 +1841,17 @@
     "start": "2026-10-12T14:00:00+01:00",
     "end": "2026-10-12T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -1232,7 +1916,13 @@
     "start": "2026-10-14T08:30:00+01:00",
     "end": "2026-10-14T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -1245,7 +1935,13 @@
     "start": "2026-10-14T09:30:00+01:00",
     "end": "2026-10-14T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1258,7 +1954,13 @@
     "start": "2026-10-14T10:30:00+01:00",
     "end": "2026-10-14T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1271,7 +1973,13 @@
     "start": "2026-10-14T11:30:00+01:00",
     "end": "2026-10-14T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -1310,7 +2018,13 @@
     "start": "2026-10-15T10:30:00+01:00",
     "end": "2026-10-15T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -1336,7 +2050,81 @@
     "start": "2026-10-17T14:00:00+01:00",
     "end": "2026-10-17T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -1362,7 +2150,17 @@
     "start": "2026-10-19T14:00:00+01:00",
     "end": "2026-10-19T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -1427,7 +2225,13 @@
     "start": "2026-10-21T08:30:00+01:00",
     "end": "2026-10-21T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -1440,7 +2244,13 @@
     "start": "2026-10-21T09:30:00+01:00",
     "end": "2026-10-21T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1453,7 +2263,13 @@
     "start": "2026-10-21T10:30:00+01:00",
     "end": "2026-10-21T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1466,7 +2282,13 @@
     "start": "2026-10-21T11:30:00+01:00",
     "end": "2026-10-21T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -1505,7 +2327,13 @@
     "start": "2026-10-22T10:30:00+01:00",
     "end": "2026-10-22T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -1531,7 +2359,81 @@
     "start": "2026-10-24T14:00:00+01:00",
     "end": "2026-10-24T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -1557,7 +2459,17 @@
     "start": "2026-10-26T14:00:00+01:00",
     "end": "2026-10-26T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -1622,7 +2534,13 @@
     "start": "2026-10-28T08:30:00+01:00",
     "end": "2026-10-28T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -1635,7 +2553,13 @@
     "start": "2026-10-28T09:30:00+01:00",
     "end": "2026-10-28T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1648,7 +2572,13 @@
     "start": "2026-10-28T10:30:00+01:00",
     "end": "2026-10-28T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1661,7 +2591,13 @@
     "start": "2026-10-28T11:30:00+01:00",
     "end": "2026-10-28T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -1700,7 +2636,13 @@
     "start": "2026-10-29T10:30:00+01:00",
     "end": "2026-10-29T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -1726,7 +2668,81 @@
     "start": "2026-10-31T14:00:00+01:00",
     "end": "2026-10-31T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -1752,7 +2768,17 @@
     "start": "2026-11-02T14:00:00+01:00",
     "end": "2026-11-02T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -1817,7 +2843,13 @@
     "start": "2026-11-04T08:30:00+01:00",
     "end": "2026-11-04T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -1830,7 +2862,13 @@
     "start": "2026-11-04T09:30:00+01:00",
     "end": "2026-11-04T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1843,7 +2881,13 @@
     "start": "2026-11-04T10:30:00+01:00",
     "end": "2026-11-04T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1856,7 +2900,13 @@
     "start": "2026-11-04T11:30:00+01:00",
     "end": "2026-11-04T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -1895,7 +2945,13 @@
     "start": "2026-11-05T10:30:00+01:00",
     "end": "2026-11-05T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -1921,7 +2977,81 @@
     "start": "2026-11-07T14:00:00+01:00",
     "end": "2026-11-07T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -1947,7 +3077,17 @@
     "start": "2026-11-09T14:00:00+01:00",
     "end": "2026-11-09T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -2012,7 +3152,13 @@
     "start": "2026-11-11T08:30:00+01:00",
     "end": "2026-11-11T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -2025,7 +3171,13 @@
     "start": "2026-11-11T09:30:00+01:00",
     "end": "2026-11-11T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2038,7 +3190,13 @@
     "start": "2026-11-11T10:30:00+01:00",
     "end": "2026-11-11T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2051,7 +3209,13 @@
     "start": "2026-11-11T11:30:00+01:00",
     "end": "2026-11-11T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -2090,7 +3254,13 @@
     "start": "2026-11-12T10:30:00+01:00",
     "end": "2026-11-12T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -2116,7 +3286,81 @@
     "start": "2026-11-14T14:00:00+01:00",
     "end": "2026-11-14T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -2142,7 +3386,17 @@
     "start": "2026-11-16T14:00:00+01:00",
     "end": "2026-11-16T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -2207,7 +3461,13 @@
     "start": "2026-11-18T08:30:00+01:00",
     "end": "2026-11-18T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -2220,7 +3480,13 @@
     "start": "2026-11-18T09:30:00+01:00",
     "end": "2026-11-18T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2233,7 +3499,13 @@
     "start": "2026-11-18T10:30:00+01:00",
     "end": "2026-11-18T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2246,7 +3518,13 @@
     "start": "2026-11-18T11:30:00+01:00",
     "end": "2026-11-18T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -2285,7 +3563,13 @@
     "start": "2026-11-19T10:30:00+01:00",
     "end": "2026-11-19T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -2311,7 +3595,81 @@
     "start": "2026-11-21T14:00:00+01:00",
     "end": "2026-11-21T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -2337,7 +3695,17 @@
     "start": "2026-11-23T14:00:00+01:00",
     "end": "2026-11-23T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -2402,7 +3770,13 @@
     "start": "2026-11-25T08:30:00+01:00",
     "end": "2026-11-25T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -2415,7 +3789,13 @@
     "start": "2026-11-25T09:30:00+01:00",
     "end": "2026-11-25T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2428,7 +3808,13 @@
     "start": "2026-11-25T10:30:00+01:00",
     "end": "2026-11-25T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2441,7 +3827,13 @@
     "start": "2026-11-25T11:30:00+01:00",
     "end": "2026-11-25T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -2480,7 +3872,13 @@
     "start": "2026-11-26T10:30:00+01:00",
     "end": "2026-11-26T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -2506,7 +3904,81 @@
     "start": "2026-11-28T14:00:00+01:00",
     "end": "2026-11-28T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -2532,7 +4004,17 @@
     "start": "2026-11-30T14:00:00+01:00",
     "end": "2026-11-30T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -2597,7 +4079,13 @@
     "start": "2026-12-02T08:30:00+01:00",
     "end": "2026-12-02T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -2610,7 +4098,13 @@
     "start": "2026-12-02T09:30:00+01:00",
     "end": "2026-12-02T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2623,7 +4117,13 @@
     "start": "2026-12-02T10:30:00+01:00",
     "end": "2026-12-02T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2636,7 +4136,13 @@
     "start": "2026-12-02T11:30:00+01:00",
     "end": "2026-12-02T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -2675,7 +4181,13 @@
     "start": "2026-12-03T10:30:00+01:00",
     "end": "2026-12-03T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -2701,7 +4213,81 @@
     "start": "2026-12-05T14:00:00+01:00",
     "end": "2026-12-05T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -2727,7 +4313,17 @@
     "start": "2026-12-07T14:00:00+01:00",
     "end": "2026-12-07T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -2792,7 +4388,13 @@
     "start": "2026-12-09T08:30:00+01:00",
     "end": "2026-12-09T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -2805,7 +4407,13 @@
     "start": "2026-12-09T09:30:00+01:00",
     "end": "2026-12-09T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2818,7 +4426,13 @@
     "start": "2026-12-09T10:30:00+01:00",
     "end": "2026-12-09T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2831,7 +4445,13 @@
     "start": "2026-12-09T11:30:00+01:00",
     "end": "2026-12-09T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -2870,7 +4490,13 @@
     "start": "2026-12-10T10:30:00+01:00",
     "end": "2026-12-10T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -2896,7 +4522,81 @@
     "start": "2026-12-12T14:00:00+01:00",
     "end": "2026-12-12T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -2922,7 +4622,17 @@
     "start": "2026-12-14T14:00:00+01:00",
     "end": "2026-12-14T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -2987,7 +4697,13 @@
     "start": "2026-12-16T08:30:00+01:00",
     "end": "2026-12-16T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -3000,7 +4716,13 @@
     "start": "2026-12-16T09:30:00+01:00",
     "end": "2026-12-16T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3013,7 +4735,13 @@
     "start": "2026-12-16T10:30:00+01:00",
     "end": "2026-12-16T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3026,7 +4754,13 @@
     "start": "2026-12-16T11:30:00+01:00",
     "end": "2026-12-16T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -3065,7 +4799,13 @@
     "start": "2026-12-17T10:30:00+01:00",
     "end": "2026-12-17T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -3091,7 +4831,81 @@
     "start": "2026-12-19T14:00:00+01:00",
     "end": "2026-12-19T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -3117,7 +4931,17 @@
     "start": "2026-12-21T14:00:00+01:00",
     "end": "2026-12-21T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -3182,7 +5006,13 @@
     "start": "2026-12-23T08:30:00+01:00",
     "end": "2026-12-23T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -3195,7 +5025,13 @@
     "start": "2026-12-23T09:30:00+01:00",
     "end": "2026-12-23T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3208,7 +5044,13 @@
     "start": "2026-12-23T10:30:00+01:00",
     "end": "2026-12-23T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3221,7 +5063,13 @@
     "start": "2026-12-23T11:30:00+01:00",
     "end": "2026-12-23T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -3260,7 +5108,13 @@
     "start": "2026-12-24T10:30:00+01:00",
     "end": "2026-12-24T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -3286,7 +5140,81 @@
     "start": "2026-12-26T14:00:00+01:00",
     "end": "2026-12-26T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -3312,7 +5240,17 @@
     "start": "2026-12-28T14:00:00+01:00",
     "end": "2026-12-28T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -3377,7 +5315,13 @@
     "start": "2026-12-30T08:30:00+01:00",
     "end": "2026-12-30T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -3390,7 +5334,13 @@
     "start": "2026-12-30T09:30:00+01:00",
     "end": "2026-12-30T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3403,7 +5353,13 @@
     "start": "2026-12-30T10:30:00+01:00",
     "end": "2026-12-30T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3416,7 +5372,13 @@
     "start": "2026-12-30T11:30:00+01:00",
     "end": "2026-12-30T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -3455,7 +5417,13 @@
     "start": "2026-12-31T10:30:00+01:00",
     "end": "2026-12-31T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -3481,7 +5449,81 @@
     "start": "2027-01-02T14:00:00+01:00",
     "end": "2027-01-02T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -3507,7 +5549,17 @@
     "start": "2027-01-04T14:00:00+01:00",
     "end": "2027-01-04T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -3572,7 +5624,13 @@
     "start": "2027-01-06T08:30:00+01:00",
     "end": "2027-01-06T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -3585,7 +5643,13 @@
     "start": "2027-01-06T09:30:00+01:00",
     "end": "2027-01-06T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3598,7 +5662,13 @@
     "start": "2027-01-06T10:30:00+01:00",
     "end": "2027-01-06T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3611,7 +5681,13 @@
     "start": "2027-01-06T11:30:00+01:00",
     "end": "2027-01-06T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -3650,7 +5726,13 @@
     "start": "2027-01-07T10:30:00+01:00",
     "end": "2027-01-07T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -3676,7 +5758,81 @@
     "start": "2027-01-09T14:00:00+01:00",
     "end": "2027-01-09T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -3702,7 +5858,17 @@
     "start": "2027-01-11T14:00:00+01:00",
     "end": "2027-01-11T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -3767,7 +5933,13 @@
     "start": "2027-01-13T08:30:00+01:00",
     "end": "2027-01-13T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -3780,7 +5952,13 @@
     "start": "2027-01-13T09:30:00+01:00",
     "end": "2027-01-13T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3793,7 +5971,13 @@
     "start": "2027-01-13T10:30:00+01:00",
     "end": "2027-01-13T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3806,7 +5990,13 @@
     "start": "2027-01-13T11:30:00+01:00",
     "end": "2027-01-13T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -3845,7 +6035,13 @@
     "start": "2027-01-14T10:30:00+01:00",
     "end": "2027-01-14T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -3871,7 +6067,81 @@
     "start": "2027-01-16T14:00:00+01:00",
     "end": "2027-01-16T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -3897,7 +6167,17 @@
     "start": "2027-01-18T14:00:00+01:00",
     "end": "2027-01-18T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -3962,7 +6242,13 @@
     "start": "2027-01-20T08:30:00+01:00",
     "end": "2027-01-20T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -3975,7 +6261,13 @@
     "start": "2027-01-20T09:30:00+01:00",
     "end": "2027-01-20T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3988,7 +6280,13 @@
     "start": "2027-01-20T10:30:00+01:00",
     "end": "2027-01-20T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -4001,7 +6299,13 @@
     "start": "2027-01-20T11:30:00+01:00",
     "end": "2027-01-20T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -4040,7 +6344,13 @@
     "start": "2027-01-21T10:30:00+01:00",
     "end": "2027-01-21T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -4066,7 +6376,81 @@
     "start": "2027-01-23T14:00:00+01:00",
     "end": "2027-01-23T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -4092,7 +6476,17 @@
     "start": "2027-01-25T14:00:00+01:00",
     "end": "2027-01-25T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -4157,7 +6551,13 @@
     "start": "2027-01-27T08:30:00+01:00",
     "end": "2027-01-27T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -4170,7 +6570,13 @@
     "start": "2027-01-27T09:30:00+01:00",
     "end": "2027-01-27T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -4183,7 +6589,13 @@
     "start": "2027-01-27T10:30:00+01:00",
     "end": "2027-01-27T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -4196,7 +6608,13 @@
     "start": "2027-01-27T11:30:00+01:00",
     "end": "2027-01-27T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -4235,7 +6653,13 @@
     "start": "2027-01-28T10:30:00+01:00",
     "end": "2027-01-28T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -4261,6 +6685,80 @@
     "start": "2027-01-30T14:00:00+01:00",
     "end": "2027-01-30T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   }
 ]

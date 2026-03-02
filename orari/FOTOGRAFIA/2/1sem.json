@@ -88,7 +88,13 @@
     "start": "2026-09-02T13:00:00+01:00",
     "end": "2026-09-02T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -127,7 +133,13 @@
     "start": "2026-09-02T16:30:00+01:00",
     "end": "2026-09-02T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -244,7 +256,81 @@
     "start": "2026-09-05T14:00:00+01:00",
     "end": "2026-09-05T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 2",
@@ -387,7 +473,13 @@
     "start": "2026-09-09T13:00:00+01:00",
     "end": "2026-09-09T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -426,7 +518,13 @@
     "start": "2026-09-09T16:30:00+01:00",
     "end": "2026-09-09T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -543,7 +641,81 @@
     "start": "2026-09-12T14:00:00+01:00",
     "end": "2026-09-12T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 2",
@@ -686,7 +858,13 @@
     "start": "2026-09-16T13:00:00+01:00",
     "end": "2026-09-16T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -725,7 +903,13 @@
     "start": "2026-09-16T16:30:00+01:00",
     "end": "2026-09-16T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -842,7 +1026,81 @@
     "start": "2026-09-19T14:00:00+01:00",
     "end": "2026-09-19T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 2",
@@ -985,7 +1243,13 @@
     "start": "2026-09-23T13:00:00+01:00",
     "end": "2026-09-23T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -1024,7 +1288,13 @@
     "start": "2026-09-23T16:30:00+01:00",
     "end": "2026-09-23T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -1141,7 +1411,81 @@
     "start": "2026-09-26T14:00:00+01:00",
     "end": "2026-09-26T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 2",
@@ -1284,7 +1628,13 @@
     "start": "2026-09-30T13:00:00+01:00",
     "end": "2026-09-30T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -1323,7 +1673,13 @@
     "start": "2026-09-30T16:30:00+01:00",
     "end": "2026-09-30T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -1440,7 +1796,81 @@
     "start": "2026-10-03T14:00:00+01:00",
     "end": "2026-10-03T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 2",
@@ -1583,7 +2013,13 @@
     "start": "2026-10-07T13:00:00+01:00",
     "end": "2026-10-07T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -1622,7 +2058,13 @@
     "start": "2026-10-07T16:30:00+01:00",
     "end": "2026-10-07T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -1739,7 +2181,81 @@
     "start": "2026-10-10T14:00:00+01:00",
     "end": "2026-10-10T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 2",
@@ -1882,7 +2398,13 @@
     "start": "2026-10-14T13:00:00+01:00",
     "end": "2026-10-14T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -1921,7 +2443,13 @@
     "start": "2026-10-14T16:30:00+01:00",
     "end": "2026-10-14T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -2038,7 +2566,81 @@
     "start": "2026-10-17T14:00:00+01:00",
     "end": "2026-10-17T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 2",
@@ -2181,7 +2783,13 @@
     "start": "2026-10-21T13:00:00+01:00",
     "end": "2026-10-21T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -2220,7 +2828,13 @@
     "start": "2026-10-21T16:30:00+01:00",
     "end": "2026-10-21T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -2337,7 +2951,81 @@
     "start": "2026-10-24T14:00:00+01:00",
     "end": "2026-10-24T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 2",
@@ -2480,7 +3168,13 @@
     "start": "2026-10-28T13:00:00+01:00",
     "end": "2026-10-28T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -2519,7 +3213,13 @@
     "start": "2026-10-28T16:30:00+01:00",
     "end": "2026-10-28T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -2636,7 +3336,81 @@
     "start": "2026-10-31T14:00:00+01:00",
     "end": "2026-10-31T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 2",
@@ -2779,7 +3553,13 @@
     "start": "2026-11-04T13:00:00+01:00",
     "end": "2026-11-04T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -2818,7 +3598,13 @@
     "start": "2026-11-04T16:30:00+01:00",
     "end": "2026-11-04T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -2935,7 +3721,81 @@
     "start": "2026-11-07T14:00:00+01:00",
     "end": "2026-11-07T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 2",
@@ -3078,7 +3938,13 @@
     "start": "2026-11-11T13:00:00+01:00",
     "end": "2026-11-11T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -3117,7 +3983,13 @@
     "start": "2026-11-11T16:30:00+01:00",
     "end": "2026-11-11T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -3234,7 +4106,81 @@
     "start": "2026-11-14T14:00:00+01:00",
     "end": "2026-11-14T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 2",
@@ -3377,7 +4323,13 @@
     "start": "2026-11-18T13:00:00+01:00",
     "end": "2026-11-18T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -3416,7 +4368,13 @@
     "start": "2026-11-18T16:30:00+01:00",
     "end": "2026-11-18T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -3533,7 +4491,81 @@
     "start": "2026-11-21T14:00:00+01:00",
     "end": "2026-11-21T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 2",
@@ -3676,7 +4708,13 @@
     "start": "2026-11-25T13:00:00+01:00",
     "end": "2026-11-25T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -3715,7 +4753,13 @@
     "start": "2026-11-25T16:30:00+01:00",
     "end": "2026-11-25T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -3832,7 +4876,81 @@
     "start": "2026-11-28T14:00:00+01:00",
     "end": "2026-11-28T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 2",
@@ -3975,7 +5093,13 @@
     "start": "2026-12-02T13:00:00+01:00",
     "end": "2026-12-02T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -4014,7 +5138,13 @@
     "start": "2026-12-02T16:30:00+01:00",
     "end": "2026-12-02T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -4131,7 +5261,81 @@
     "start": "2026-12-05T14:00:00+01:00",
     "end": "2026-12-05T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 2",
@@ -4274,7 +5478,13 @@
     "start": "2026-12-09T13:00:00+01:00",
     "end": "2026-12-09T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -4313,7 +5523,13 @@
     "start": "2026-12-09T16:30:00+01:00",
     "end": "2026-12-09T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -4430,7 +5646,81 @@
     "start": "2026-12-12T14:00:00+01:00",
     "end": "2026-12-12T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 2",
@@ -4573,7 +5863,13 @@
     "start": "2026-12-16T13:00:00+01:00",
     "end": "2026-12-16T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -4612,7 +5908,13 @@
     "start": "2026-12-16T16:30:00+01:00",
     "end": "2026-12-16T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -4729,7 +6031,81 @@
     "start": "2026-12-19T14:00:00+01:00",
     "end": "2026-12-19T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 2",
@@ -4872,7 +6248,13 @@
     "start": "2026-12-23T13:00:00+01:00",
     "end": "2026-12-23T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -4911,7 +6293,13 @@
     "start": "2026-12-23T16:30:00+01:00",
     "end": "2026-12-23T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -5028,7 +6416,81 @@
     "start": "2026-12-26T14:00:00+01:00",
     "end": "2026-12-26T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 2",
@@ -5171,7 +6633,13 @@
     "start": "2026-12-30T13:00:00+01:00",
     "end": "2026-12-30T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -5210,7 +6678,13 @@
     "start": "2026-12-30T16:30:00+01:00",
     "end": "2026-12-30T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -5327,7 +6801,81 @@
     "start": "2027-01-02T14:00:00+01:00",
     "end": "2027-01-02T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 2",
@@ -5470,7 +7018,13 @@
     "start": "2027-01-06T13:00:00+01:00",
     "end": "2027-01-06T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -5509,7 +7063,13 @@
     "start": "2027-01-06T16:30:00+01:00",
     "end": "2027-01-06T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -5626,7 +7186,81 @@
     "start": "2027-01-09T14:00:00+01:00",
     "end": "2027-01-09T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 2",
@@ -5769,7 +7403,13 @@
     "start": "2027-01-13T13:00:00+01:00",
     "end": "2027-01-13T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -5808,7 +7448,13 @@
     "start": "2027-01-13T16:30:00+01:00",
     "end": "2027-01-13T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -5925,7 +7571,81 @@
     "start": "2027-01-16T14:00:00+01:00",
     "end": "2027-01-16T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 2",
@@ -6068,7 +7788,13 @@
     "start": "2027-01-20T13:00:00+01:00",
     "end": "2027-01-20T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -6107,7 +7833,13 @@
     "start": "2027-01-20T16:30:00+01:00",
     "end": "2027-01-20T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -6224,7 +7956,81 @@
     "start": "2027-01-23T14:00:00+01:00",
     "end": "2027-01-23T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 2",
@@ -6367,7 +8173,13 @@
     "start": "2027-01-27T13:00:00+01:00",
     "end": "2027-01-27T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese",
@@ -6406,7 +8218,13 @@
     "start": "2027-01-27T16:30:00+01:00",
     "end": "2027-01-27T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        3
+      ]
+    ]
   },
   {
     "corso": "Digital Video",
@@ -6523,6 +8341,80 @@
     "start": "2027-01-30T14:00:00+01:00",
     "end": "2027-01-30T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   }
 ]

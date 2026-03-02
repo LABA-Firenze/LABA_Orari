@@ -140,7 +140,13 @@
     "start": "2026-09-03T14:00:00+01:00",
     "end": "2026-09-03T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -153,7 +159,81 @@
     "start": "2026-09-05T14:00:00+01:00",
     "end": "2026-09-05T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 1",
@@ -192,7 +272,17 @@
     "start": "2026-09-07T14:00:00+01:00",
     "end": "2026-09-07T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Storia della Fotografia",
@@ -335,7 +425,13 @@
     "start": "2026-09-10T14:00:00+01:00",
     "end": "2026-09-10T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -348,7 +444,81 @@
     "start": "2026-09-12T14:00:00+01:00",
     "end": "2026-09-12T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 1",
@@ -387,7 +557,17 @@
     "start": "2026-09-14T14:00:00+01:00",
     "end": "2026-09-14T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Storia della Fotografia",
@@ -530,7 +710,13 @@
     "start": "2026-09-17T14:00:00+01:00",
     "end": "2026-09-17T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -543,7 +729,81 @@
     "start": "2026-09-19T14:00:00+01:00",
     "end": "2026-09-19T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 1",
@@ -582,7 +842,17 @@
     "start": "2026-09-21T14:00:00+01:00",
     "end": "2026-09-21T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Storia della Fotografia",
@@ -725,7 +995,13 @@
     "start": "2026-09-24T14:00:00+01:00",
     "end": "2026-09-24T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -738,7 +1014,81 @@
     "start": "2026-09-26T14:00:00+01:00",
     "end": "2026-09-26T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 1",
@@ -777,7 +1127,17 @@
     "start": "2026-09-28T14:00:00+01:00",
     "end": "2026-09-28T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Storia della Fotografia",
@@ -920,7 +1280,13 @@
     "start": "2026-10-01T14:00:00+01:00",
     "end": "2026-10-01T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -933,7 +1299,81 @@
     "start": "2026-10-03T14:00:00+01:00",
     "end": "2026-10-03T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 1",
@@ -972,7 +1412,17 @@
     "start": "2026-10-05T14:00:00+01:00",
     "end": "2026-10-05T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Storia della Fotografia",
@@ -1115,7 +1565,13 @@
     "start": "2026-10-08T14:00:00+01:00",
     "end": "2026-10-08T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1128,7 +1584,81 @@
     "start": "2026-10-10T14:00:00+01:00",
     "end": "2026-10-10T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 1",
@@ -1167,7 +1697,17 @@
     "start": "2026-10-12T14:00:00+01:00",
     "end": "2026-10-12T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Storia della Fotografia",
@@ -1310,7 +1850,13 @@
     "start": "2026-10-15T14:00:00+01:00",
     "end": "2026-10-15T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1323,7 +1869,81 @@
     "start": "2026-10-17T14:00:00+01:00",
     "end": "2026-10-17T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 1",
@@ -1362,7 +1982,17 @@
     "start": "2026-10-19T14:00:00+01:00",
     "end": "2026-10-19T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Storia della Fotografia",
@@ -1505,7 +2135,13 @@
     "start": "2026-10-22T14:00:00+01:00",
     "end": "2026-10-22T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1518,7 +2154,81 @@
     "start": "2026-10-24T14:00:00+01:00",
     "end": "2026-10-24T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 1",
@@ -1557,7 +2267,17 @@
     "start": "2026-10-26T14:00:00+01:00",
     "end": "2026-10-26T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Storia della Fotografia",
@@ -1700,7 +2420,13 @@
     "start": "2026-10-29T14:00:00+01:00",
     "end": "2026-10-29T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1713,7 +2439,81 @@
     "start": "2026-10-31T14:00:00+01:00",
     "end": "2026-10-31T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 1",
@@ -1752,7 +2552,17 @@
     "start": "2026-11-02T14:00:00+01:00",
     "end": "2026-11-02T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Storia della Fotografia",
@@ -1895,7 +2705,13 @@
     "start": "2026-11-05T14:00:00+01:00",
     "end": "2026-11-05T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1908,7 +2724,81 @@
     "start": "2026-11-07T14:00:00+01:00",
     "end": "2026-11-07T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 1",
@@ -1947,7 +2837,17 @@
     "start": "2026-11-09T14:00:00+01:00",
     "end": "2026-11-09T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Storia della Fotografia",
@@ -2090,7 +2990,13 @@
     "start": "2026-11-12T14:00:00+01:00",
     "end": "2026-11-12T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2103,7 +3009,81 @@
     "start": "2026-11-14T14:00:00+01:00",
     "end": "2026-11-14T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 1",
@@ -2142,7 +3122,17 @@
     "start": "2026-11-16T14:00:00+01:00",
     "end": "2026-11-16T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Storia della Fotografia",
@@ -2285,7 +3275,13 @@
     "start": "2026-11-19T14:00:00+01:00",
     "end": "2026-11-19T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2298,7 +3294,81 @@
     "start": "2026-11-21T14:00:00+01:00",
     "end": "2026-11-21T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 1",
@@ -2337,7 +3407,17 @@
     "start": "2026-11-23T14:00:00+01:00",
     "end": "2026-11-23T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Storia della Fotografia",
@@ -2480,7 +3560,13 @@
     "start": "2026-11-26T14:00:00+01:00",
     "end": "2026-11-26T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2493,7 +3579,81 @@
     "start": "2026-11-28T14:00:00+01:00",
     "end": "2026-11-28T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 1",
@@ -2532,7 +3692,17 @@
     "start": "2026-11-30T14:00:00+01:00",
     "end": "2026-11-30T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Storia della Fotografia",
@@ -2675,7 +3845,13 @@
     "start": "2026-12-03T14:00:00+01:00",
     "end": "2026-12-03T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2688,7 +3864,81 @@
     "start": "2026-12-05T14:00:00+01:00",
     "end": "2026-12-05T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 1",
@@ -2727,7 +3977,17 @@
     "start": "2026-12-07T14:00:00+01:00",
     "end": "2026-12-07T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Storia della Fotografia",
@@ -2870,7 +4130,13 @@
     "start": "2026-12-10T14:00:00+01:00",
     "end": "2026-12-10T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2883,7 +4149,81 @@
     "start": "2026-12-12T14:00:00+01:00",
     "end": "2026-12-12T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 1",
@@ -2922,7 +4262,17 @@
     "start": "2026-12-14T14:00:00+01:00",
     "end": "2026-12-14T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Storia della Fotografia",
@@ -3065,7 +4415,13 @@
     "start": "2026-12-17T14:00:00+01:00",
     "end": "2026-12-17T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -3078,7 +4434,81 @@
     "start": "2026-12-19T14:00:00+01:00",
     "end": "2026-12-19T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 1",
@@ -3117,7 +4547,17 @@
     "start": "2026-12-21T14:00:00+01:00",
     "end": "2026-12-21T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Storia della Fotografia",
@@ -3260,7 +4700,13 @@
     "start": "2026-12-24T14:00:00+01:00",
     "end": "2026-12-24T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -3273,7 +4719,81 @@
     "start": "2026-12-26T14:00:00+01:00",
     "end": "2026-12-26T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 1",
@@ -3312,7 +4832,17 @@
     "start": "2026-12-28T14:00:00+01:00",
     "end": "2026-12-28T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Storia della Fotografia",
@@ -3455,7 +4985,13 @@
     "start": "2026-12-31T14:00:00+01:00",
     "end": "2026-12-31T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -3468,7 +5004,81 @@
     "start": "2027-01-02T14:00:00+01:00",
     "end": "2027-01-02T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 1",
@@ -3507,7 +5117,17 @@
     "start": "2027-01-04T14:00:00+01:00",
     "end": "2027-01-04T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Storia della Fotografia",
@@ -3650,7 +5270,13 @@
     "start": "2027-01-07T14:00:00+01:00",
     "end": "2027-01-07T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -3663,7 +5289,81 @@
     "start": "2027-01-09T14:00:00+01:00",
     "end": "2027-01-09T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 1",
@@ -3702,7 +5402,17 @@
     "start": "2027-01-11T14:00:00+01:00",
     "end": "2027-01-11T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Storia della Fotografia",
@@ -3845,7 +5555,13 @@
     "start": "2027-01-14T14:00:00+01:00",
     "end": "2027-01-14T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -3858,7 +5574,81 @@
     "start": "2027-01-16T14:00:00+01:00",
     "end": "2027-01-16T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 1",
@@ -3897,7 +5687,17 @@
     "start": "2027-01-18T14:00:00+01:00",
     "end": "2027-01-18T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Storia della Fotografia",
@@ -4040,7 +5840,13 @@
     "start": "2027-01-21T14:00:00+01:00",
     "end": "2027-01-21T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -4053,7 +5859,81 @@
     "start": "2027-01-23T14:00:00+01:00",
     "end": "2027-01-23T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Fotografia Digitale 1",
@@ -4092,7 +5972,17 @@
     "start": "2027-01-25T14:00:00+01:00",
     "end": "2027-01-25T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Storia della Fotografia",
@@ -4235,7 +6125,13 @@
     "start": "2027-01-28T14:00:00+01:00",
     "end": "2027-01-28T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -4248,6 +6144,80 @@
     "start": "2027-01-30T14:00:00+01:00",
     "end": "2027-01-30T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA"
+    "corsoStudio": "FOTOGRAFIA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   }
 ]

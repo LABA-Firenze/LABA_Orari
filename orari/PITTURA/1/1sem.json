@@ -153,7 +153,13 @@
     "start": "2026-09-04T13:00:00+01:00",
     "end": "2026-09-04T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -166,7 +172,81 @@
     "start": "2026-09-05T14:00:00+01:00",
     "end": "2026-09-05T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Decorazione",
@@ -374,7 +454,13 @@
     "start": "2026-09-11T13:00:00+01:00",
     "end": "2026-09-11T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -387,7 +473,81 @@
     "start": "2026-09-12T14:00:00+01:00",
     "end": "2026-09-12T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Decorazione",
@@ -595,7 +755,13 @@
     "start": "2026-09-18T13:00:00+01:00",
     "end": "2026-09-18T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -608,7 +774,81 @@
     "start": "2026-09-19T14:00:00+01:00",
     "end": "2026-09-19T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Decorazione",
@@ -816,7 +1056,13 @@
     "start": "2026-09-25T13:00:00+01:00",
     "end": "2026-09-25T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -829,7 +1075,81 @@
     "start": "2026-09-26T14:00:00+01:00",
     "end": "2026-09-26T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Decorazione",
@@ -1037,7 +1357,13 @@
     "start": "2026-10-02T13:00:00+01:00",
     "end": "2026-10-02T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1050,7 +1376,81 @@
     "start": "2026-10-03T14:00:00+01:00",
     "end": "2026-10-03T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Decorazione",
@@ -1258,7 +1658,13 @@
     "start": "2026-10-09T13:00:00+01:00",
     "end": "2026-10-09T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1271,7 +1677,81 @@
     "start": "2026-10-10T14:00:00+01:00",
     "end": "2026-10-10T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Decorazione",
@@ -1479,7 +1959,13 @@
     "start": "2026-10-16T13:00:00+01:00",
     "end": "2026-10-16T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1492,7 +1978,81 @@
     "start": "2026-10-17T14:00:00+01:00",
     "end": "2026-10-17T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Decorazione",
@@ -1700,7 +2260,13 @@
     "start": "2026-10-23T13:00:00+01:00",
     "end": "2026-10-23T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1713,7 +2279,81 @@
     "start": "2026-10-24T14:00:00+01:00",
     "end": "2026-10-24T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Decorazione",
@@ -1921,7 +2561,13 @@
     "start": "2026-10-30T13:00:00+01:00",
     "end": "2026-10-30T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1934,7 +2580,81 @@
     "start": "2026-10-31T14:00:00+01:00",
     "end": "2026-10-31T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Decorazione",
@@ -2142,7 +2862,13 @@
     "start": "2026-11-06T13:00:00+01:00",
     "end": "2026-11-06T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2155,7 +2881,81 @@
     "start": "2026-11-07T14:00:00+01:00",
     "end": "2026-11-07T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Decorazione",
@@ -2363,7 +3163,13 @@
     "start": "2026-11-13T13:00:00+01:00",
     "end": "2026-11-13T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2376,7 +3182,81 @@
     "start": "2026-11-14T14:00:00+01:00",
     "end": "2026-11-14T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Decorazione",
@@ -2584,7 +3464,13 @@
     "start": "2026-11-20T13:00:00+01:00",
     "end": "2026-11-20T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2597,7 +3483,81 @@
     "start": "2026-11-21T14:00:00+01:00",
     "end": "2026-11-21T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Decorazione",
@@ -2805,7 +3765,13 @@
     "start": "2026-11-27T13:00:00+01:00",
     "end": "2026-11-27T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2818,7 +3784,81 @@
     "start": "2026-11-28T14:00:00+01:00",
     "end": "2026-11-28T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Decorazione",
@@ -3026,7 +4066,13 @@
     "start": "2026-12-04T13:00:00+01:00",
     "end": "2026-12-04T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -3039,7 +4085,81 @@
     "start": "2026-12-05T14:00:00+01:00",
     "end": "2026-12-05T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Decorazione",
@@ -3247,7 +4367,13 @@
     "start": "2026-12-11T13:00:00+01:00",
     "end": "2026-12-11T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -3260,7 +4386,81 @@
     "start": "2026-12-12T14:00:00+01:00",
     "end": "2026-12-12T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Decorazione",
@@ -3468,7 +4668,13 @@
     "start": "2026-12-18T13:00:00+01:00",
     "end": "2026-12-18T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -3481,7 +4687,81 @@
     "start": "2026-12-19T14:00:00+01:00",
     "end": "2026-12-19T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Decorazione",
@@ -3689,7 +4969,13 @@
     "start": "2026-12-25T13:00:00+01:00",
     "end": "2026-12-25T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -3702,7 +4988,81 @@
     "start": "2026-12-26T14:00:00+01:00",
     "end": "2026-12-26T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Decorazione",
@@ -3910,7 +5270,13 @@
     "start": "2027-01-01T13:00:00+01:00",
     "end": "2027-01-01T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -3923,7 +5289,81 @@
     "start": "2027-01-02T14:00:00+01:00",
     "end": "2027-01-02T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Decorazione",
@@ -4131,7 +5571,13 @@
     "start": "2027-01-08T13:00:00+01:00",
     "end": "2027-01-08T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -4144,7 +5590,81 @@
     "start": "2027-01-09T14:00:00+01:00",
     "end": "2027-01-09T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Decorazione",
@@ -4352,7 +5872,13 @@
     "start": "2027-01-15T13:00:00+01:00",
     "end": "2027-01-15T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -4365,7 +5891,81 @@
     "start": "2027-01-16T14:00:00+01:00",
     "end": "2027-01-16T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Decorazione",
@@ -4573,7 +6173,13 @@
     "start": "2027-01-22T13:00:00+01:00",
     "end": "2027-01-22T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -4586,7 +6192,81 @@
     "start": "2027-01-23T14:00:00+01:00",
     "end": "2027-01-23T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Decorazione",
@@ -4794,7 +6474,13 @@
     "start": "2027-01-29T13:00:00+01:00",
     "end": "2027-01-29T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        1
+      ]
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -4807,6 +6493,80 @@
     "start": "2027-01-30T14:00:00+01:00",
     "end": "2027-01-30T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   }
 ]

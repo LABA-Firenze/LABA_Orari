@@ -23,7 +23,17 @@
     "start": "2027-02-01T14:00:00+01:00",
     "end": "2027-02-01T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -88,7 +98,13 @@
     "start": "2027-02-03T08:30:00+01:00",
     "end": "2027-02-03T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -101,7 +117,13 @@
     "start": "2027-02-03T09:30:00+01:00",
     "end": "2027-02-03T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -114,7 +136,13 @@
     "start": "2027-02-03T10:30:00+01:00",
     "end": "2027-02-03T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -127,7 +155,13 @@
     "start": "2027-02-03T11:30:00+01:00",
     "end": "2027-02-03T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -166,7 +200,13 @@
     "start": "2027-02-04T10:30:00+01:00",
     "end": "2027-02-04T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -192,7 +232,81 @@
     "start": "2027-02-06T14:00:00+01:00",
     "end": "2027-02-06T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -218,7 +332,17 @@
     "start": "2027-02-08T14:00:00+01:00",
     "end": "2027-02-08T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -283,7 +407,13 @@
     "start": "2027-02-10T08:30:00+01:00",
     "end": "2027-02-10T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -296,7 +426,13 @@
     "start": "2027-02-10T09:30:00+01:00",
     "end": "2027-02-10T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -309,7 +445,13 @@
     "start": "2027-02-10T10:30:00+01:00",
     "end": "2027-02-10T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -322,7 +464,13 @@
     "start": "2027-02-10T11:30:00+01:00",
     "end": "2027-02-10T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -361,7 +509,13 @@
     "start": "2027-02-11T10:30:00+01:00",
     "end": "2027-02-11T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -387,7 +541,81 @@
     "start": "2027-02-13T14:00:00+01:00",
     "end": "2027-02-13T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -413,7 +641,17 @@
     "start": "2027-02-15T14:00:00+01:00",
     "end": "2027-02-15T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -478,7 +716,13 @@
     "start": "2027-02-17T08:30:00+01:00",
     "end": "2027-02-17T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -491,7 +735,13 @@
     "start": "2027-02-17T09:30:00+01:00",
     "end": "2027-02-17T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -504,7 +754,13 @@
     "start": "2027-02-17T10:30:00+01:00",
     "end": "2027-02-17T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -517,7 +773,13 @@
     "start": "2027-02-17T11:30:00+01:00",
     "end": "2027-02-17T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -556,7 +818,13 @@
     "start": "2027-02-18T10:30:00+01:00",
     "end": "2027-02-18T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -582,7 +850,81 @@
     "start": "2027-02-20T14:00:00+01:00",
     "end": "2027-02-20T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -608,7 +950,17 @@
     "start": "2027-02-22T14:00:00+01:00",
     "end": "2027-02-22T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -673,7 +1025,13 @@
     "start": "2027-02-24T08:30:00+01:00",
     "end": "2027-02-24T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -686,7 +1044,13 @@
     "start": "2027-02-24T09:30:00+01:00",
     "end": "2027-02-24T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -699,7 +1063,13 @@
     "start": "2027-02-24T10:30:00+01:00",
     "end": "2027-02-24T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -712,7 +1082,13 @@
     "start": "2027-02-24T11:30:00+01:00",
     "end": "2027-02-24T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -751,7 +1127,13 @@
     "start": "2027-02-25T10:30:00+01:00",
     "end": "2027-02-25T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -777,7 +1159,81 @@
     "start": "2027-02-27T14:00:00+01:00",
     "end": "2027-02-27T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -803,7 +1259,17 @@
     "start": "2027-03-01T14:00:00+01:00",
     "end": "2027-03-01T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -868,7 +1334,13 @@
     "start": "2027-03-03T08:30:00+01:00",
     "end": "2027-03-03T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -881,7 +1353,13 @@
     "start": "2027-03-03T09:30:00+01:00",
     "end": "2027-03-03T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -894,7 +1372,13 @@
     "start": "2027-03-03T10:30:00+01:00",
     "end": "2027-03-03T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -907,7 +1391,13 @@
     "start": "2027-03-03T11:30:00+01:00",
     "end": "2027-03-03T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -946,7 +1436,13 @@
     "start": "2027-03-04T10:30:00+01:00",
     "end": "2027-03-04T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -972,7 +1468,81 @@
     "start": "2027-03-06T14:00:00+01:00",
     "end": "2027-03-06T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -998,7 +1568,17 @@
     "start": "2027-03-08T14:00:00+01:00",
     "end": "2027-03-08T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -1063,7 +1643,13 @@
     "start": "2027-03-10T08:30:00+01:00",
     "end": "2027-03-10T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -1076,7 +1662,13 @@
     "start": "2027-03-10T09:30:00+01:00",
     "end": "2027-03-10T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1089,7 +1681,13 @@
     "start": "2027-03-10T10:30:00+01:00",
     "end": "2027-03-10T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1102,7 +1700,13 @@
     "start": "2027-03-10T11:30:00+01:00",
     "end": "2027-03-10T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -1141,7 +1745,13 @@
     "start": "2027-03-11T10:30:00+01:00",
     "end": "2027-03-11T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -1167,7 +1777,81 @@
     "start": "2027-03-13T14:00:00+01:00",
     "end": "2027-03-13T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -1193,7 +1877,17 @@
     "start": "2027-03-15T14:00:00+01:00",
     "end": "2027-03-15T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -1258,7 +1952,13 @@
     "start": "2027-03-17T08:30:00+01:00",
     "end": "2027-03-17T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -1271,7 +1971,13 @@
     "start": "2027-03-17T09:30:00+01:00",
     "end": "2027-03-17T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1284,7 +1990,13 @@
     "start": "2027-03-17T10:30:00+01:00",
     "end": "2027-03-17T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1297,7 +2009,13 @@
     "start": "2027-03-17T11:30:00+01:00",
     "end": "2027-03-17T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -1336,7 +2054,13 @@
     "start": "2027-03-18T10:30:00+01:00",
     "end": "2027-03-18T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -1362,7 +2086,81 @@
     "start": "2027-03-20T14:00:00+01:00",
     "end": "2027-03-20T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -1388,7 +2186,17 @@
     "start": "2027-03-22T14:00:00+01:00",
     "end": "2027-03-22T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -1453,7 +2261,13 @@
     "start": "2027-03-24T08:30:00+01:00",
     "end": "2027-03-24T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -1466,7 +2280,13 @@
     "start": "2027-03-24T09:30:00+01:00",
     "end": "2027-03-24T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1479,7 +2299,13 @@
     "start": "2027-03-24T10:30:00+01:00",
     "end": "2027-03-24T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1492,7 +2318,13 @@
     "start": "2027-03-24T11:30:00+01:00",
     "end": "2027-03-24T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -1531,7 +2363,13 @@
     "start": "2027-03-25T10:30:00+01:00",
     "end": "2027-03-25T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -1557,7 +2395,81 @@
     "start": "2027-03-27T14:00:00+01:00",
     "end": "2027-03-27T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -1583,7 +2495,17 @@
     "start": "2027-03-29T14:00:00+01:00",
     "end": "2027-03-29T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -1648,7 +2570,13 @@
     "start": "2027-03-31T08:30:00+01:00",
     "end": "2027-03-31T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -1661,7 +2589,13 @@
     "start": "2027-03-31T09:30:00+01:00",
     "end": "2027-03-31T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1674,7 +2608,13 @@
     "start": "2027-03-31T10:30:00+01:00",
     "end": "2027-03-31T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1687,7 +2627,13 @@
     "start": "2027-03-31T11:30:00+01:00",
     "end": "2027-03-31T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -1726,7 +2672,13 @@
     "start": "2027-04-01T10:30:00+01:00",
     "end": "2027-04-01T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -1752,7 +2704,81 @@
     "start": "2027-04-03T14:00:00+01:00",
     "end": "2027-04-03T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -1778,7 +2804,17 @@
     "start": "2027-04-05T14:00:00+01:00",
     "end": "2027-04-05T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -1843,7 +2879,13 @@
     "start": "2027-04-07T08:30:00+01:00",
     "end": "2027-04-07T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -1856,7 +2898,13 @@
     "start": "2027-04-07T09:30:00+01:00",
     "end": "2027-04-07T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1869,7 +2917,13 @@
     "start": "2027-04-07T10:30:00+01:00",
     "end": "2027-04-07T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1882,7 +2936,13 @@
     "start": "2027-04-07T11:30:00+01:00",
     "end": "2027-04-07T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -1921,7 +2981,13 @@
     "start": "2027-04-08T10:30:00+01:00",
     "end": "2027-04-08T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -1947,7 +3013,81 @@
     "start": "2027-04-10T14:00:00+01:00",
     "end": "2027-04-10T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -1973,7 +3113,17 @@
     "start": "2027-04-12T14:00:00+01:00",
     "end": "2027-04-12T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -2038,7 +3188,13 @@
     "start": "2027-04-14T08:30:00+01:00",
     "end": "2027-04-14T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -2051,7 +3207,13 @@
     "start": "2027-04-14T09:30:00+01:00",
     "end": "2027-04-14T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2064,7 +3226,13 @@
     "start": "2027-04-14T10:30:00+01:00",
     "end": "2027-04-14T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2077,7 +3245,13 @@
     "start": "2027-04-14T11:30:00+01:00",
     "end": "2027-04-14T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -2116,7 +3290,13 @@
     "start": "2027-04-15T10:30:00+01:00",
     "end": "2027-04-15T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -2142,7 +3322,81 @@
     "start": "2027-04-17T14:00:00+01:00",
     "end": "2027-04-17T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -2168,7 +3422,17 @@
     "start": "2027-04-19T14:00:00+01:00",
     "end": "2027-04-19T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -2233,7 +3497,13 @@
     "start": "2027-04-21T08:30:00+01:00",
     "end": "2027-04-21T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -2246,7 +3516,13 @@
     "start": "2027-04-21T09:30:00+01:00",
     "end": "2027-04-21T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2259,7 +3535,13 @@
     "start": "2027-04-21T10:30:00+01:00",
     "end": "2027-04-21T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2272,7 +3554,13 @@
     "start": "2027-04-21T11:30:00+01:00",
     "end": "2027-04-21T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -2311,7 +3599,13 @@
     "start": "2027-04-22T10:30:00+01:00",
     "end": "2027-04-22T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -2337,7 +3631,81 @@
     "start": "2027-04-24T14:00:00+01:00",
     "end": "2027-04-24T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -2363,7 +3731,17 @@
     "start": "2027-04-26T14:00:00+01:00",
     "end": "2027-04-26T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -2428,7 +3806,13 @@
     "start": "2027-04-28T08:30:00+01:00",
     "end": "2027-04-28T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -2441,7 +3825,13 @@
     "start": "2027-04-28T09:30:00+01:00",
     "end": "2027-04-28T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2454,7 +3844,13 @@
     "start": "2027-04-28T10:30:00+01:00",
     "end": "2027-04-28T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2467,7 +3863,13 @@
     "start": "2027-04-28T11:30:00+01:00",
     "end": "2027-04-28T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -2506,7 +3908,13 @@
     "start": "2027-04-29T10:30:00+01:00",
     "end": "2027-04-29T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -2532,7 +3940,81 @@
     "start": "2027-05-01T14:00:00+01:00",
     "end": "2027-05-01T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -2558,7 +4040,17 @@
     "start": "2027-05-03T14:00:00+01:00",
     "end": "2027-05-03T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -2623,7 +4115,13 @@
     "start": "2027-05-05T08:30:00+01:00",
     "end": "2027-05-05T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -2636,7 +4134,13 @@
     "start": "2027-05-05T09:30:00+01:00",
     "end": "2027-05-05T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2649,7 +4153,13 @@
     "start": "2027-05-05T10:30:00+01:00",
     "end": "2027-05-05T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2662,7 +4172,13 @@
     "start": "2027-05-05T11:30:00+01:00",
     "end": "2027-05-05T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -2701,7 +4217,13 @@
     "start": "2027-05-06T10:30:00+01:00",
     "end": "2027-05-06T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -2727,7 +4249,81 @@
     "start": "2027-05-08T14:00:00+01:00",
     "end": "2027-05-08T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -2753,7 +4349,17 @@
     "start": "2027-05-10T14:00:00+01:00",
     "end": "2027-05-10T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -2818,7 +4424,13 @@
     "start": "2027-05-12T08:30:00+01:00",
     "end": "2027-05-12T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -2831,7 +4443,13 @@
     "start": "2027-05-12T09:30:00+01:00",
     "end": "2027-05-12T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2844,7 +4462,13 @@
     "start": "2027-05-12T10:30:00+01:00",
     "end": "2027-05-12T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2857,7 +4481,13 @@
     "start": "2027-05-12T11:30:00+01:00",
     "end": "2027-05-12T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -2896,7 +4526,13 @@
     "start": "2027-05-13T10:30:00+01:00",
     "end": "2027-05-13T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -2922,7 +4558,81 @@
     "start": "2027-05-15T14:00:00+01:00",
     "end": "2027-05-15T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -2948,7 +4658,17 @@
     "start": "2027-05-17T14:00:00+01:00",
     "end": "2027-05-17T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -3013,7 +4733,13 @@
     "start": "2027-05-19T08:30:00+01:00",
     "end": "2027-05-19T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -3026,7 +4752,13 @@
     "start": "2027-05-19T09:30:00+01:00",
     "end": "2027-05-19T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3039,7 +4771,13 @@
     "start": "2027-05-19T10:30:00+01:00",
     "end": "2027-05-19T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3052,7 +4790,13 @@
     "start": "2027-05-19T11:30:00+01:00",
     "end": "2027-05-19T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -3091,7 +4835,13 @@
     "start": "2027-05-20T10:30:00+01:00",
     "end": "2027-05-20T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -3117,7 +4867,81 @@
     "start": "2027-05-22T14:00:00+01:00",
     "end": "2027-05-22T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -3143,7 +4967,17 @@
     "start": "2027-05-24T14:00:00+01:00",
     "end": "2027-05-24T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -3208,7 +5042,13 @@
     "start": "2027-05-26T08:30:00+01:00",
     "end": "2027-05-26T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -3221,7 +5061,13 @@
     "start": "2027-05-26T09:30:00+01:00",
     "end": "2027-05-26T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3234,7 +5080,13 @@
     "start": "2027-05-26T10:30:00+01:00",
     "end": "2027-05-26T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3247,7 +5099,13 @@
     "start": "2027-05-26T11:30:00+01:00",
     "end": "2027-05-26T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -3286,7 +5144,13 @@
     "start": "2027-05-27T10:30:00+01:00",
     "end": "2027-05-27T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -3312,7 +5176,81 @@
     "start": "2027-05-29T14:00:00+01:00",
     "end": "2027-05-29T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -3338,7 +5276,17 @@
     "start": "2027-05-31T14:00:00+01:00",
     "end": "2027-05-31T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -3403,7 +5351,13 @@
     "start": "2027-06-02T08:30:00+01:00",
     "end": "2027-06-02T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -3416,7 +5370,13 @@
     "start": "2027-06-02T09:30:00+01:00",
     "end": "2027-06-02T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3429,7 +5389,13 @@
     "start": "2027-06-02T10:30:00+01:00",
     "end": "2027-06-02T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3442,7 +5408,13 @@
     "start": "2027-06-02T11:30:00+01:00",
     "end": "2027-06-02T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -3481,7 +5453,13 @@
     "start": "2027-06-03T10:30:00+01:00",
     "end": "2027-06-03T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -3507,7 +5485,81 @@
     "start": "2027-06-05T14:00:00+01:00",
     "end": "2027-06-05T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -3533,7 +5585,17 @@
     "start": "2027-06-07T14:00:00+01:00",
     "end": "2027-06-07T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -3598,7 +5660,13 @@
     "start": "2027-06-09T08:30:00+01:00",
     "end": "2027-06-09T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -3611,7 +5679,13 @@
     "start": "2027-06-09T09:30:00+01:00",
     "end": "2027-06-09T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3624,7 +5698,13 @@
     "start": "2027-06-09T10:30:00+01:00",
     "end": "2027-06-09T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3637,7 +5717,13 @@
     "start": "2027-06-09T11:30:00+01:00",
     "end": "2027-06-09T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -3676,7 +5762,13 @@
     "start": "2027-06-10T10:30:00+01:00",
     "end": "2027-06-10T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -3702,7 +5794,81 @@
     "start": "2027-06-12T14:00:00+01:00",
     "end": "2027-06-12T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -3728,7 +5894,17 @@
     "start": "2027-06-14T14:00:00+01:00",
     "end": "2027-06-14T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -3793,7 +5969,13 @@
     "start": "2027-06-16T08:30:00+01:00",
     "end": "2027-06-16T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -3806,7 +5988,13 @@
     "start": "2027-06-16T09:30:00+01:00",
     "end": "2027-06-16T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3819,7 +6007,13 @@
     "start": "2027-06-16T10:30:00+01:00",
     "end": "2027-06-16T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3832,7 +6026,13 @@
     "start": "2027-06-16T11:30:00+01:00",
     "end": "2027-06-16T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -3871,7 +6071,13 @@
     "start": "2027-06-17T10:30:00+01:00",
     "end": "2027-06-17T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -3897,7 +6103,81 @@
     "start": "2027-06-19T14:00:00+01:00",
     "end": "2027-06-19T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -3923,7 +6203,17 @@
     "start": "2027-06-21T14:00:00+01:00",
     "end": "2027-06-21T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -3988,7 +6278,13 @@
     "start": "2027-06-23T08:30:00+01:00",
     "end": "2027-06-23T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -4001,7 +6297,13 @@
     "start": "2027-06-23T09:30:00+01:00",
     "end": "2027-06-23T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -4014,7 +6316,13 @@
     "start": "2027-06-23T10:30:00+01:00",
     "end": "2027-06-23T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -4027,7 +6335,13 @@
     "start": "2027-06-23T11:30:00+01:00",
     "end": "2027-06-23T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -4066,7 +6380,13 @@
     "start": "2027-06-24T10:30:00+01:00",
     "end": "2027-06-24T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -4092,7 +6412,81 @@
     "start": "2027-06-26T14:00:00+01:00",
     "end": "2027-06-26T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "DESIGN",
+        1
+      ],
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Tecniche e Tecnologie per le Arti Visive 3",
@@ -4118,7 +6512,17 @@
     "start": "2027-06-28T14:00:00+01:00",
     "end": "2027-06-28T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "REGIA",
+        1
+      ]
+    ]
   },
   {
     "corso": "Pittura 3",
@@ -4183,7 +6587,13 @@
     "start": "2027-06-30T08:30:00+01:00",
     "end": "2027-06-30T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -4196,7 +6606,13 @@
     "start": "2027-06-30T09:30:00+01:00",
     "end": "2027-06-30T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -4209,7 +6625,13 @@
     "start": "2027-06-30T10:30:00+01:00",
     "end": "2027-06-30T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -4222,7 +6644,13 @@
     "start": "2027-06-30T11:30:00+01:00",
     "end": "2027-06-30T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "GD",
+        3
+      ]
+    ]
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
