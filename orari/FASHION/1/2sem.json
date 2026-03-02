@@ -208,19 +208,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Modellistica 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Atelier",
-    "docente": "Monaco",
-    "start": "2027-02-04T09:30:00+01:00",
-    "end": "2027-02-04T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Fashion Design 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -229,6 +216,19 @@
     "aula": "Sala Gialla",
     "docente": "Restivo / Frigerio",
     "start": "2027-02-04T09:30:00+01:00",
+    "end": "2027-02-04T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-02-04T10:30:00+01:00",
     "end": "2027-02-04T13:30:00+01:00",
     "note": null,
     "corsoStudio": "FASHION"
@@ -520,19 +520,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Modellistica 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Atelier",
-    "docente": "Monaco",
-    "start": "2027-02-11T09:30:00+01:00",
-    "end": "2027-02-11T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Fashion Design 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -541,6 +528,19 @@
     "aula": "Sala Gialla",
     "docente": "Restivo / Frigerio",
     "start": "2027-02-11T09:30:00+01:00",
+    "end": "2027-02-11T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-02-11T10:30:00+01:00",
     "end": "2027-02-11T13:30:00+01:00",
     "note": null,
     "corsoStudio": "FASHION"
@@ -832,19 +832,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Modellistica 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Atelier",
-    "docente": "Monaco",
-    "start": "2027-02-18T09:30:00+01:00",
-    "end": "2027-02-18T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Fashion Design 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -853,6 +840,19 @@
     "aula": "Sala Gialla",
     "docente": "Restivo / Frigerio",
     "start": "2027-02-18T09:30:00+01:00",
+    "end": "2027-02-18T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-02-18T10:30:00+01:00",
     "end": "2027-02-18T13:30:00+01:00",
     "note": null,
     "corsoStudio": "FASHION"
@@ -1144,19 +1144,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Modellistica 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Atelier",
-    "docente": "Monaco",
-    "start": "2027-02-25T09:30:00+01:00",
-    "end": "2027-02-25T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Fashion Design 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -1165,6 +1152,19 @@
     "aula": "Sala Gialla",
     "docente": "Restivo / Frigerio",
     "start": "2027-02-25T09:30:00+01:00",
+    "end": "2027-02-25T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-02-25T10:30:00+01:00",
     "end": "2027-02-25T13:30:00+01:00",
     "note": null,
     "corsoStudio": "FASHION"
@@ -1456,19 +1456,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Modellistica 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Atelier",
-    "docente": "Monaco",
-    "start": "2027-03-04T09:30:00+01:00",
-    "end": "2027-03-04T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Fashion Design 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -1477,6 +1464,19 @@
     "aula": "Sala Gialla",
     "docente": "Restivo / Frigerio",
     "start": "2027-03-04T09:30:00+01:00",
+    "end": "2027-03-04T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-03-04T10:30:00+01:00",
     "end": "2027-03-04T13:30:00+01:00",
     "note": null,
     "corsoStudio": "FASHION"
@@ -1768,19 +1768,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Modellistica 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Atelier",
-    "docente": "Monaco",
-    "start": "2027-03-11T09:30:00+01:00",
-    "end": "2027-03-11T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Fashion Design 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -1789,6 +1776,19 @@
     "aula": "Sala Gialla",
     "docente": "Restivo / Frigerio",
     "start": "2027-03-11T09:30:00+01:00",
+    "end": "2027-03-11T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-03-11T10:30:00+01:00",
     "end": "2027-03-11T13:30:00+01:00",
     "note": null,
     "corsoStudio": "FASHION"
@@ -2080,19 +2080,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Modellistica 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Atelier",
-    "docente": "Monaco",
-    "start": "2027-03-18T09:30:00+01:00",
-    "end": "2027-03-18T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Fashion Design 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -2101,6 +2088,19 @@
     "aula": "Sala Gialla",
     "docente": "Restivo / Frigerio",
     "start": "2027-03-18T09:30:00+01:00",
+    "end": "2027-03-18T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-03-18T10:30:00+01:00",
     "end": "2027-03-18T13:30:00+01:00",
     "note": null,
     "corsoStudio": "FASHION"
@@ -2392,19 +2392,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Modellistica 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Atelier",
-    "docente": "Monaco",
-    "start": "2027-03-25T09:30:00+01:00",
-    "end": "2027-03-25T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Fashion Design 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -2413,6 +2400,19 @@
     "aula": "Sala Gialla",
     "docente": "Restivo / Frigerio",
     "start": "2027-03-25T09:30:00+01:00",
+    "end": "2027-03-25T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-03-25T10:30:00+01:00",
     "end": "2027-03-25T13:30:00+01:00",
     "note": null,
     "corsoStudio": "FASHION"
@@ -2704,19 +2704,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Modellistica 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Atelier",
-    "docente": "Monaco",
-    "start": "2027-04-01T09:30:00+01:00",
-    "end": "2027-04-01T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Fashion Design 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -2725,6 +2712,19 @@
     "aula": "Sala Gialla",
     "docente": "Restivo / Frigerio",
     "start": "2027-04-01T09:30:00+01:00",
+    "end": "2027-04-01T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-04-01T10:30:00+01:00",
     "end": "2027-04-01T13:30:00+01:00",
     "note": null,
     "corsoStudio": "FASHION"
@@ -3016,19 +3016,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Modellistica 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Atelier",
-    "docente": "Monaco",
-    "start": "2027-04-08T09:30:00+01:00",
-    "end": "2027-04-08T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Fashion Design 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -3037,6 +3024,19 @@
     "aula": "Sala Gialla",
     "docente": "Restivo / Frigerio",
     "start": "2027-04-08T09:30:00+01:00",
+    "end": "2027-04-08T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-04-08T10:30:00+01:00",
     "end": "2027-04-08T13:30:00+01:00",
     "note": null,
     "corsoStudio": "FASHION"
@@ -3328,19 +3328,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Modellistica 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Atelier",
-    "docente": "Monaco",
-    "start": "2027-04-15T09:30:00+01:00",
-    "end": "2027-04-15T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Fashion Design 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -3349,6 +3336,19 @@
     "aula": "Sala Gialla",
     "docente": "Restivo / Frigerio",
     "start": "2027-04-15T09:30:00+01:00",
+    "end": "2027-04-15T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-04-15T10:30:00+01:00",
     "end": "2027-04-15T13:30:00+01:00",
     "note": null,
     "corsoStudio": "FASHION"
@@ -3640,19 +3640,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Modellistica 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Atelier",
-    "docente": "Monaco",
-    "start": "2027-04-22T09:30:00+01:00",
-    "end": "2027-04-22T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Fashion Design 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -3661,6 +3648,19 @@
     "aula": "Sala Gialla",
     "docente": "Restivo / Frigerio",
     "start": "2027-04-22T09:30:00+01:00",
+    "end": "2027-04-22T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-04-22T10:30:00+01:00",
     "end": "2027-04-22T13:30:00+01:00",
     "note": null,
     "corsoStudio": "FASHION"
@@ -3952,19 +3952,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Modellistica 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Atelier",
-    "docente": "Monaco",
-    "start": "2027-04-29T09:30:00+01:00",
-    "end": "2027-04-29T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Fashion Design 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -3973,6 +3960,19 @@
     "aula": "Sala Gialla",
     "docente": "Restivo / Frigerio",
     "start": "2027-04-29T09:30:00+01:00",
+    "end": "2027-04-29T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-04-29T10:30:00+01:00",
     "end": "2027-04-29T13:30:00+01:00",
     "note": null,
     "corsoStudio": "FASHION"
@@ -4264,19 +4264,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Modellistica 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Atelier",
-    "docente": "Monaco",
-    "start": "2027-05-06T09:30:00+01:00",
-    "end": "2027-05-06T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Fashion Design 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -4285,6 +4272,19 @@
     "aula": "Sala Gialla",
     "docente": "Restivo / Frigerio",
     "start": "2027-05-06T09:30:00+01:00",
+    "end": "2027-05-06T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-05-06T10:30:00+01:00",
     "end": "2027-05-06T13:30:00+01:00",
     "note": null,
     "corsoStudio": "FASHION"
@@ -4576,19 +4576,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Modellistica 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Atelier",
-    "docente": "Monaco",
-    "start": "2027-05-13T09:30:00+01:00",
-    "end": "2027-05-13T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Fashion Design 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -4597,6 +4584,19 @@
     "aula": "Sala Gialla",
     "docente": "Restivo / Frigerio",
     "start": "2027-05-13T09:30:00+01:00",
+    "end": "2027-05-13T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-05-13T10:30:00+01:00",
     "end": "2027-05-13T13:30:00+01:00",
     "note": null,
     "corsoStudio": "FASHION"
@@ -4888,19 +4888,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Modellistica 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Atelier",
-    "docente": "Monaco",
-    "start": "2027-05-20T09:30:00+01:00",
-    "end": "2027-05-20T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Fashion Design 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -4909,6 +4896,19 @@
     "aula": "Sala Gialla",
     "docente": "Restivo / Frigerio",
     "start": "2027-05-20T09:30:00+01:00",
+    "end": "2027-05-20T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-05-20T10:30:00+01:00",
     "end": "2027-05-20T13:30:00+01:00",
     "note": null,
     "corsoStudio": "FASHION"
@@ -5200,19 +5200,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Modellistica 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Atelier",
-    "docente": "Monaco",
-    "start": "2027-05-27T09:30:00+01:00",
-    "end": "2027-05-27T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Fashion Design 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -5221,6 +5208,19 @@
     "aula": "Sala Gialla",
     "docente": "Restivo / Frigerio",
     "start": "2027-05-27T09:30:00+01:00",
+    "end": "2027-05-27T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-05-27T10:30:00+01:00",
     "end": "2027-05-27T13:30:00+01:00",
     "note": null,
     "corsoStudio": "FASHION"
@@ -5512,19 +5512,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Modellistica 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Atelier",
-    "docente": "Monaco",
-    "start": "2027-06-03T09:30:00+01:00",
-    "end": "2027-06-03T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Fashion Design 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -5533,6 +5520,19 @@
     "aula": "Sala Gialla",
     "docente": "Restivo / Frigerio",
     "start": "2027-06-03T09:30:00+01:00",
+    "end": "2027-06-03T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-06-03T10:30:00+01:00",
     "end": "2027-06-03T13:30:00+01:00",
     "note": null,
     "corsoStudio": "FASHION"
@@ -5824,19 +5824,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Modellistica 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Atelier",
-    "docente": "Monaco",
-    "start": "2027-06-10T09:30:00+01:00",
-    "end": "2027-06-10T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Fashion Design 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -5845,6 +5832,19 @@
     "aula": "Sala Gialla",
     "docente": "Restivo / Frigerio",
     "start": "2027-06-10T09:30:00+01:00",
+    "end": "2027-06-10T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-06-10T10:30:00+01:00",
     "end": "2027-06-10T13:30:00+01:00",
     "note": null,
     "corsoStudio": "FASHION"
@@ -6136,19 +6136,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Modellistica 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Atelier",
-    "docente": "Monaco",
-    "start": "2027-06-17T09:30:00+01:00",
-    "end": "2027-06-17T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Fashion Design 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -6157,6 +6144,19 @@
     "aula": "Sala Gialla",
     "docente": "Restivo / Frigerio",
     "start": "2027-06-17T09:30:00+01:00",
+    "end": "2027-06-17T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-06-17T10:30:00+01:00",
     "end": "2027-06-17T13:30:00+01:00",
     "note": null,
     "corsoStudio": "FASHION"
@@ -6448,19 +6448,6 @@
     "corsoStudio": "FASHION"
   },
   {
-    "corso": "Modellistica 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Atelier",
-    "docente": "Monaco",
-    "start": "2027-06-24T09:30:00+01:00",
-    "end": "2027-06-24T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "FASHION"
-  },
-  {
     "corso": "Fashion Design 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -6469,6 +6456,19 @@
     "aula": "Sala Gialla",
     "docente": "Restivo / Frigerio",
     "start": "2027-06-24T09:30:00+01:00",
+    "end": "2027-06-24T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-06-24T10:30:00+01:00",
     "end": "2027-06-24T13:30:00+01:00",
     "note": null,
     "corsoStudio": "FASHION"

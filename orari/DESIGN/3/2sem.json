@@ -65,19 +65,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-02-02T11:30:00+01:00",
-    "end": "2027-02-02T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -136,19 +123,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-02-03T16:30:00+01:00",
-    "end": "2027-02-03T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-02-03T16:30:00+01:00",
     "end": "2027-02-03T18:30:00+01:00",
@@ -234,19 +208,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Architettura degli Interni 3",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Follesa",
-    "start": "2027-02-04T14:30:00+01:00",
-    "end": "2027-02-04T17:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Italiano per Stranieri",
     "oidCorso": null,
     "oidCorsi": null,
@@ -325,19 +286,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-02-09T11:30:00+01:00",
-    "end": "2027-02-09T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -396,19 +344,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-02-10T16:30:00+01:00",
-    "end": "2027-02-10T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-02-10T16:30:00+01:00",
     "end": "2027-02-10T18:30:00+01:00",
@@ -494,19 +429,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Architettura degli Interni 3",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Follesa",
-    "start": "2027-02-11T14:30:00+01:00",
-    "end": "2027-02-11T17:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Italiano per Stranieri",
     "oidCorso": null,
     "oidCorsi": null,
@@ -585,19 +507,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-02-16T11:30:00+01:00",
-    "end": "2027-02-16T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -656,19 +565,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-02-17T16:30:00+01:00",
-    "end": "2027-02-17T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-02-17T16:30:00+01:00",
     "end": "2027-02-17T18:30:00+01:00",
@@ -754,19 +650,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Architettura degli Interni 3",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Follesa",
-    "start": "2027-02-18T14:30:00+01:00",
-    "end": "2027-02-18T17:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Italiano per Stranieri",
     "oidCorso": null,
     "oidCorsi": null,
@@ -845,19 +728,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-02-23T11:30:00+01:00",
-    "end": "2027-02-23T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -916,19 +786,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-02-24T16:30:00+01:00",
-    "end": "2027-02-24T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-02-24T16:30:00+01:00",
     "end": "2027-02-24T18:30:00+01:00",
@@ -1014,19 +871,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Architettura degli Interni 3",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Follesa",
-    "start": "2027-02-25T14:30:00+01:00",
-    "end": "2027-02-25T17:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Italiano per Stranieri",
     "oidCorso": null,
     "oidCorsi": null,
@@ -1105,19 +949,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-03-02T11:30:00+01:00",
-    "end": "2027-03-02T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -1176,19 +1007,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-03-03T16:30:00+01:00",
-    "end": "2027-03-03T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-03-03T16:30:00+01:00",
     "end": "2027-03-03T18:30:00+01:00",
@@ -1274,19 +1092,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Architettura degli Interni 3",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Follesa",
-    "start": "2027-03-04T14:30:00+01:00",
-    "end": "2027-03-04T17:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Italiano per Stranieri",
     "oidCorso": null,
     "oidCorsi": null,
@@ -1365,19 +1170,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-03-09T11:30:00+01:00",
-    "end": "2027-03-09T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -1436,19 +1228,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-03-10T16:30:00+01:00",
-    "end": "2027-03-10T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-03-10T16:30:00+01:00",
     "end": "2027-03-10T18:30:00+01:00",
@@ -1534,19 +1313,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Architettura degli Interni 3",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Follesa",
-    "start": "2027-03-11T14:30:00+01:00",
-    "end": "2027-03-11T17:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Italiano per Stranieri",
     "oidCorso": null,
     "oidCorsi": null,
@@ -1625,19 +1391,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-03-16T11:30:00+01:00",
-    "end": "2027-03-16T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -1696,19 +1449,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-03-17T16:30:00+01:00",
-    "end": "2027-03-17T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-03-17T16:30:00+01:00",
     "end": "2027-03-17T18:30:00+01:00",
@@ -1794,19 +1534,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Architettura degli Interni 3",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Follesa",
-    "start": "2027-03-18T14:30:00+01:00",
-    "end": "2027-03-18T17:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Italiano per Stranieri",
     "oidCorso": null,
     "oidCorsi": null,
@@ -1885,19 +1612,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-03-23T11:30:00+01:00",
-    "end": "2027-03-23T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -1956,19 +1670,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-03-24T16:30:00+01:00",
-    "end": "2027-03-24T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-03-24T16:30:00+01:00",
     "end": "2027-03-24T18:30:00+01:00",
@@ -2054,19 +1755,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Architettura degli Interni 3",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Follesa",
-    "start": "2027-03-25T14:30:00+01:00",
-    "end": "2027-03-25T17:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Italiano per Stranieri",
     "oidCorso": null,
     "oidCorsi": null,
@@ -2145,19 +1833,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-03-30T11:30:00+01:00",
-    "end": "2027-03-30T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -2216,19 +1891,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-03-31T16:30:00+01:00",
-    "end": "2027-03-31T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-03-31T16:30:00+01:00",
     "end": "2027-03-31T18:30:00+01:00",
@@ -2314,19 +1976,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Architettura degli Interni 3",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Follesa",
-    "start": "2027-04-01T14:30:00+01:00",
-    "end": "2027-04-01T17:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Italiano per Stranieri",
     "oidCorso": null,
     "oidCorsi": null,
@@ -2405,19 +2054,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-04-06T11:30:00+01:00",
-    "end": "2027-04-06T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -2476,19 +2112,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-04-07T16:30:00+01:00",
-    "end": "2027-04-07T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-04-07T16:30:00+01:00",
     "end": "2027-04-07T18:30:00+01:00",
@@ -2574,19 +2197,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Architettura degli Interni 3",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Follesa",
-    "start": "2027-04-08T14:30:00+01:00",
-    "end": "2027-04-08T17:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Italiano per Stranieri",
     "oidCorso": null,
     "oidCorsi": null,
@@ -2665,19 +2275,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-04-13T11:30:00+01:00",
-    "end": "2027-04-13T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -2736,19 +2333,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-04-14T16:30:00+01:00",
-    "end": "2027-04-14T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-04-14T16:30:00+01:00",
     "end": "2027-04-14T18:30:00+01:00",
@@ -2834,19 +2418,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Architettura degli Interni 3",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Follesa",
-    "start": "2027-04-15T14:30:00+01:00",
-    "end": "2027-04-15T17:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Italiano per Stranieri",
     "oidCorso": null,
     "oidCorsi": null,
@@ -2925,19 +2496,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-04-20T11:30:00+01:00",
-    "end": "2027-04-20T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -2996,19 +2554,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-04-21T16:30:00+01:00",
-    "end": "2027-04-21T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-04-21T16:30:00+01:00",
     "end": "2027-04-21T18:30:00+01:00",
@@ -3094,19 +2639,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Architettura degli Interni 3",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Follesa",
-    "start": "2027-04-22T14:30:00+01:00",
-    "end": "2027-04-22T17:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Italiano per Stranieri",
     "oidCorso": null,
     "oidCorsi": null,
@@ -3185,19 +2717,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-04-27T11:30:00+01:00",
-    "end": "2027-04-27T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -3256,19 +2775,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-04-28T16:30:00+01:00",
-    "end": "2027-04-28T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-04-28T16:30:00+01:00",
     "end": "2027-04-28T18:30:00+01:00",
@@ -3354,19 +2860,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Architettura degli Interni 3",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Follesa",
-    "start": "2027-04-29T14:30:00+01:00",
-    "end": "2027-04-29T17:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Italiano per Stranieri",
     "oidCorso": null,
     "oidCorsi": null,
@@ -3445,19 +2938,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-05-04T11:30:00+01:00",
-    "end": "2027-05-04T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -3516,19 +2996,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-05-05T16:30:00+01:00",
-    "end": "2027-05-05T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-05-05T16:30:00+01:00",
     "end": "2027-05-05T18:30:00+01:00",
@@ -3614,19 +3081,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Architettura degli Interni 3",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Follesa",
-    "start": "2027-05-06T14:30:00+01:00",
-    "end": "2027-05-06T17:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Italiano per Stranieri",
     "oidCorso": null,
     "oidCorsi": null,
@@ -3705,19 +3159,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-05-11T11:30:00+01:00",
-    "end": "2027-05-11T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -3776,19 +3217,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-05-12T16:30:00+01:00",
-    "end": "2027-05-12T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-05-12T16:30:00+01:00",
     "end": "2027-05-12T18:30:00+01:00",
@@ -3874,19 +3302,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Architettura degli Interni 3",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Follesa",
-    "start": "2027-05-13T14:30:00+01:00",
-    "end": "2027-05-13T17:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Italiano per Stranieri",
     "oidCorso": null,
     "oidCorsi": null,
@@ -3965,19 +3380,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-05-18T11:30:00+01:00",
-    "end": "2027-05-18T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -4036,19 +3438,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-05-19T16:30:00+01:00",
-    "end": "2027-05-19T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-05-19T16:30:00+01:00",
     "end": "2027-05-19T18:30:00+01:00",
@@ -4134,19 +3523,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Architettura degli Interni 3",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Follesa",
-    "start": "2027-05-20T14:30:00+01:00",
-    "end": "2027-05-20T17:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Italiano per Stranieri",
     "oidCorso": null,
     "oidCorsi": null,
@@ -4225,19 +3601,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-05-25T11:30:00+01:00",
-    "end": "2027-05-25T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -4296,19 +3659,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-05-26T16:30:00+01:00",
-    "end": "2027-05-26T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-05-26T16:30:00+01:00",
     "end": "2027-05-26T18:30:00+01:00",
@@ -4394,19 +3744,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Architettura degli Interni 3",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Follesa",
-    "start": "2027-05-27T14:30:00+01:00",
-    "end": "2027-05-27T17:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Italiano per Stranieri",
     "oidCorso": null,
     "oidCorsi": null,
@@ -4485,19 +3822,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-06-01T11:30:00+01:00",
-    "end": "2027-06-01T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -4556,19 +3880,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-06-02T16:30:00+01:00",
-    "end": "2027-06-02T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-06-02T16:30:00+01:00",
     "end": "2027-06-02T18:30:00+01:00",
@@ -4654,19 +3965,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Architettura degli Interni 3",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Follesa",
-    "start": "2027-06-03T14:30:00+01:00",
-    "end": "2027-06-03T17:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Italiano per Stranieri",
     "oidCorso": null,
     "oidCorsi": null,
@@ -4745,19 +4043,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-06-08T11:30:00+01:00",
-    "end": "2027-06-08T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -4816,19 +4101,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-06-09T16:30:00+01:00",
-    "end": "2027-06-09T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-06-09T16:30:00+01:00",
     "end": "2027-06-09T18:30:00+01:00",
@@ -4914,19 +4186,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Architettura degli Interni 3",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Follesa",
-    "start": "2027-06-10T14:30:00+01:00",
-    "end": "2027-06-10T17:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Italiano per Stranieri",
     "oidCorso": null,
     "oidCorsi": null,
@@ -5005,19 +4264,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-06-15T11:30:00+01:00",
-    "end": "2027-06-15T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -5076,19 +4322,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-06-16T16:30:00+01:00",
-    "end": "2027-06-16T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-06-16T16:30:00+01:00",
     "end": "2027-06-16T18:30:00+01:00",
@@ -5174,19 +4407,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Architettura degli Interni 3",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Follesa",
-    "start": "2027-06-17T14:30:00+01:00",
-    "end": "2027-06-17T17:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Italiano per Stranieri",
     "oidCorso": null,
     "oidCorsi": null,
@@ -5265,19 +4485,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-06-22T11:30:00+01:00",
-    "end": "2027-06-22T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -5336,19 +4543,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-06-23T16:30:00+01:00",
-    "end": "2027-06-23T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-06-23T16:30:00+01:00",
     "end": "2027-06-23T18:30:00+01:00",
@@ -5434,19 +4628,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Architettura degli Interni 3",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Follesa",
-    "start": "2027-06-24T14:30:00+01:00",
-    "end": "2027-06-24T17:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Italiano per Stranieri",
     "oidCorso": null,
     "oidCorsi": null,
@@ -5525,19 +4706,6 @@
     "corsoStudio": "DESIGN"
   },
   {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Connell",
-    "start": "2027-06-29T11:30:00+01:00",
-    "end": "2027-06-29T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
     "corso": "Design 3",
     "oidCorso": null,
     "oidCorsi": null,
@@ -5596,19 +4764,6 @@
     "anno": 3,
     "gruppo": null,
     "aula": "Magna",
-    "docente": "Fiaschi",
-    "start": "2027-06-30T16:30:00+01:00",
-    "end": "2027-06-30T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Storia dell'Arte Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
     "docente": "Fiaschi",
     "start": "2027-06-30T16:30:00+01:00",
     "end": "2027-06-30T18:30:00+01:00",
