@@ -131,25 +131,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-02-03T10:30:00+01:00",
-    "end": "2027-02-03T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2027-02-03T11:30:00+01:00",
@@ -425,25 +406,6 @@
     "docente": "Fiaschi",
     "start": "2027-02-10T09:30:00+01:00",
     "end": "2027-02-10T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-02-10T10:30:00+01:00",
-    "end": "2027-02-10T12:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA",
     "altriCorsi": [
@@ -749,25 +711,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-02-17T10:30:00+01:00",
-    "end": "2027-02-17T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2027-02-17T11:30:00+01:00",
@@ -1043,25 +986,6 @@
     "docente": "Fiaschi",
     "start": "2027-02-24T09:30:00+01:00",
     "end": "2027-02-24T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-02-24T10:30:00+01:00",
-    "end": "2027-02-24T12:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA",
     "altriCorsi": [
@@ -1367,25 +1291,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-03-03T10:30:00+01:00",
-    "end": "2027-03-03T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2027-03-03T11:30:00+01:00",
@@ -1661,25 +1566,6 @@
     "docente": "Fiaschi",
     "start": "2027-03-10T09:30:00+01:00",
     "end": "2027-03-10T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-03-10T10:30:00+01:00",
-    "end": "2027-03-10T12:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA",
     "altriCorsi": [
@@ -1985,25 +1871,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-03-17T10:30:00+01:00",
-    "end": "2027-03-17T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2027-03-17T11:30:00+01:00",
@@ -2279,25 +2146,6 @@
     "docente": "Fiaschi",
     "start": "2027-03-24T09:30:00+01:00",
     "end": "2027-03-24T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-03-24T10:30:00+01:00",
-    "end": "2027-03-24T12:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA",
     "altriCorsi": [
@@ -2603,25 +2451,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-03-31T10:30:00+01:00",
-    "end": "2027-03-31T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2027-03-31T11:30:00+01:00",
@@ -2897,25 +2726,6 @@
     "docente": "Fiaschi",
     "start": "2027-04-07T09:30:00+01:00",
     "end": "2027-04-07T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-04-07T10:30:00+01:00",
-    "end": "2027-04-07T12:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA",
     "altriCorsi": [
@@ -3221,25 +3031,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-04-14T10:30:00+01:00",
-    "end": "2027-04-14T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2027-04-14T11:30:00+01:00",
@@ -3515,25 +3306,6 @@
     "docente": "Fiaschi",
     "start": "2027-04-21T09:30:00+01:00",
     "end": "2027-04-21T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-04-21T10:30:00+01:00",
-    "end": "2027-04-21T12:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA",
     "altriCorsi": [
@@ -3839,25 +3611,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-04-28T10:30:00+01:00",
-    "end": "2027-04-28T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2027-04-28T11:30:00+01:00",
@@ -4133,25 +3886,6 @@
     "docente": "Fiaschi",
     "start": "2027-05-05T09:30:00+01:00",
     "end": "2027-05-05T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-05-05T10:30:00+01:00",
-    "end": "2027-05-05T12:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA",
     "altriCorsi": [
@@ -4457,25 +4191,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-05-12T10:30:00+01:00",
-    "end": "2027-05-12T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2027-05-12T11:30:00+01:00",
@@ -4751,25 +4466,6 @@
     "docente": "Fiaschi",
     "start": "2027-05-19T09:30:00+01:00",
     "end": "2027-05-19T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-05-19T10:30:00+01:00",
-    "end": "2027-05-19T12:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA",
     "altriCorsi": [
@@ -5075,25 +4771,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-05-26T10:30:00+01:00",
-    "end": "2027-05-26T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2027-05-26T11:30:00+01:00",
@@ -5369,25 +5046,6 @@
     "docente": "Fiaschi",
     "start": "2027-06-02T09:30:00+01:00",
     "end": "2027-06-02T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-06-02T10:30:00+01:00",
-    "end": "2027-06-02T12:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA",
     "altriCorsi": [
@@ -5693,25 +5351,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-06-09T10:30:00+01:00",
-    "end": "2027-06-09T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2027-06-09T11:30:00+01:00",
@@ -5987,25 +5626,6 @@
     "docente": "Fiaschi",
     "start": "2027-06-16T09:30:00+01:00",
     "end": "2027-06-16T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-06-16T10:30:00+01:00",
-    "end": "2027-06-16T12:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA",
     "altriCorsi": [
@@ -6311,25 +5931,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-06-23T10:30:00+01:00",
-    "end": "2027-06-23T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2027-06-23T11:30:00+01:00",
@@ -6605,25 +6206,6 @@
     "docente": "Fiaschi",
     "start": "2027-06-30T09:30:00+01:00",
     "end": "2027-06-30T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-06-30T10:30:00+01:00",
-    "end": "2027-06-30T12:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA",
     "altriCorsi": [

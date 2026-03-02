@@ -121,25 +121,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2026-09-02T10:30:00+01:00",
-    "end": "2026-09-02T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2026-09-02T11:30:00+01:00",
@@ -509,25 +490,6 @@
     "docente": "Fiaschi",
     "start": "2026-09-09T09:30:00+01:00",
     "end": "2026-09-09T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2026-09-09T10:30:00+01:00",
-    "end": "2026-09-09T12:30:00+01:00",
     "note": null,
     "corsoStudio": "GD",
     "altriCorsi": [
@@ -927,25 +889,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2026-09-16T10:30:00+01:00",
-    "end": "2026-09-16T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2026-09-16T11:30:00+01:00",
@@ -1315,25 +1258,6 @@
     "docente": "Fiaschi",
     "start": "2026-09-23T09:30:00+01:00",
     "end": "2026-09-23T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2026-09-23T10:30:00+01:00",
-    "end": "2026-09-23T12:30:00+01:00",
     "note": null,
     "corsoStudio": "GD",
     "altriCorsi": [
@@ -1733,25 +1657,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2026-09-30T10:30:00+01:00",
-    "end": "2026-09-30T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2026-09-30T11:30:00+01:00",
@@ -2121,25 +2026,6 @@
     "docente": "Fiaschi",
     "start": "2026-10-07T09:30:00+01:00",
     "end": "2026-10-07T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2026-10-07T10:30:00+01:00",
-    "end": "2026-10-07T12:30:00+01:00",
     "note": null,
     "corsoStudio": "GD",
     "altriCorsi": [
@@ -2539,25 +2425,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2026-10-14T10:30:00+01:00",
-    "end": "2026-10-14T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2026-10-14T11:30:00+01:00",
@@ -2927,25 +2794,6 @@
     "docente": "Fiaschi",
     "start": "2026-10-21T09:30:00+01:00",
     "end": "2026-10-21T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2026-10-21T10:30:00+01:00",
-    "end": "2026-10-21T12:30:00+01:00",
     "note": null,
     "corsoStudio": "GD",
     "altriCorsi": [
@@ -3345,25 +3193,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2026-10-28T10:30:00+01:00",
-    "end": "2026-10-28T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2026-10-28T11:30:00+01:00",
@@ -3733,25 +3562,6 @@
     "docente": "Fiaschi",
     "start": "2026-11-04T09:30:00+01:00",
     "end": "2026-11-04T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2026-11-04T10:30:00+01:00",
-    "end": "2026-11-04T12:30:00+01:00",
     "note": null,
     "corsoStudio": "GD",
     "altriCorsi": [
@@ -4151,25 +3961,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2026-11-11T10:30:00+01:00",
-    "end": "2026-11-11T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2026-11-11T11:30:00+01:00",
@@ -4539,25 +4330,6 @@
     "docente": "Fiaschi",
     "start": "2026-11-18T09:30:00+01:00",
     "end": "2026-11-18T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2026-11-18T10:30:00+01:00",
-    "end": "2026-11-18T12:30:00+01:00",
     "note": null,
     "corsoStudio": "GD",
     "altriCorsi": [
@@ -4957,25 +4729,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2026-11-25T10:30:00+01:00",
-    "end": "2026-11-25T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2026-11-25T11:30:00+01:00",
@@ -5345,25 +5098,6 @@
     "docente": "Fiaschi",
     "start": "2026-12-02T09:30:00+01:00",
     "end": "2026-12-02T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2026-12-02T10:30:00+01:00",
-    "end": "2026-12-02T12:30:00+01:00",
     "note": null,
     "corsoStudio": "GD",
     "altriCorsi": [
@@ -5763,25 +5497,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2026-12-09T10:30:00+01:00",
-    "end": "2026-12-09T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2026-12-09T11:30:00+01:00",
@@ -6151,25 +5866,6 @@
     "docente": "Fiaschi",
     "start": "2026-12-16T09:30:00+01:00",
     "end": "2026-12-16T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2026-12-16T10:30:00+01:00",
-    "end": "2026-12-16T12:30:00+01:00",
     "note": null,
     "corsoStudio": "GD",
     "altriCorsi": [
@@ -6569,25 +6265,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2026-12-23T10:30:00+01:00",
-    "end": "2026-12-23T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2026-12-23T11:30:00+01:00",
@@ -6957,25 +6634,6 @@
     "docente": "Fiaschi",
     "start": "2026-12-30T09:30:00+01:00",
     "end": "2026-12-30T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2026-12-30T10:30:00+01:00",
-    "end": "2026-12-30T12:30:00+01:00",
     "note": null,
     "corsoStudio": "GD",
     "altriCorsi": [
@@ -7375,25 +7033,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-01-06T10:30:00+01:00",
-    "end": "2027-01-06T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2027-01-06T11:30:00+01:00",
@@ -7763,25 +7402,6 @@
     "docente": "Fiaschi",
     "start": "2027-01-13T09:30:00+01:00",
     "end": "2027-01-13T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-01-13T10:30:00+01:00",
-    "end": "2027-01-13T12:30:00+01:00",
     "note": null,
     "corsoStudio": "GD",
     "altriCorsi": [
@@ -8181,25 +7801,6 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-01-20T10:30:00+01:00",
-    "end": "2027-01-20T12:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
     "aula": "Conference 1+2",
     "docente": "Connell",
     "start": "2027-01-20T11:30:00+01:00",
@@ -8569,25 +8170,6 @@
     "docente": "Fiaschi",
     "start": "2027-01-27T09:30:00+01:00",
     "end": "2027-01-27T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "GD",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Magna 1+2",
-    "docente": "Connell",
-    "start": "2027-01-27T10:30:00+01:00",
-    "end": "2027-01-27T12:30:00+01:00",
     "note": null,
     "corsoStudio": "GD",
     "altriCorsi": [

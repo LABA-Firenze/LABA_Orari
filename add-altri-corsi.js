@@ -33,7 +33,7 @@ const SHARED = {
   'Filosofia dell\'Arte|13:00|15:00|Magna 1+2|Guaita|': [['FOTOGRAFIA', 2], ['GD', 3]],
   'Fondamenti di Marketing Culturale|10:30|12:30|Magna 1+2|Imparati|': [['FOTOGRAFIA', 3], ['PITTURA', 3]],
   'Inglese|13:00|15:00|Magna 2|Green|': [['GD', 1], ['PITTURA', 1]],
-  'Inglese per la Comunicazione Artistica|10:30|12:30|Magna 1+2|Connell|': [['GD', 3], ['PITTURA', 3]],
+  // Solo Conference 1+2 11:30-13:30 (Magna 1+2 10:30-12:30 NON esiste per GD3/Pittura3)
   'Inglese per la Comunicazione Artistica|11:30|13:30|Conference 1+2|Connell|': [['GD', 3], ['PITTURA', 3]],
   'Storia del Cinema e del Video|14:00|16:30|Magna 2|Borrelli / Galeassi|': [['FOTOGRAFIA', 1], ['PITTURA', 3], ['REGIA', 1]],
   'Storia dell\'Arte Contemporanea|08:30|10:30|Magna 1+2|Fiaschi|': [['GD', 3], ['PITTURA', 3]],
