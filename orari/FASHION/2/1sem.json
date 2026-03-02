@@ -267,7 +267,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-09-04T10:30:00+01:00",
+    "start": "2026-09-04T09:30:00+01:00",
     "end": "2026-09-04T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -306,8 +306,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-09-04T13:30:00+01:00",
-    "end": "2026-09-04T15:30:00+01:00",
+    "start": "2026-09-04T13:00:00+01:00",
+    "end": "2026-09-04T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
@@ -709,7 +709,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-09-11T10:30:00+01:00",
+    "start": "2026-09-11T09:30:00+01:00",
     "end": "2026-09-11T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -748,8 +748,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-09-11T13:30:00+01:00",
-    "end": "2026-09-11T15:30:00+01:00",
+    "start": "2026-09-11T13:00:00+01:00",
+    "end": "2026-09-11T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
@@ -1151,7 +1151,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-09-18T10:30:00+01:00",
+    "start": "2026-09-18T09:30:00+01:00",
     "end": "2026-09-18T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -1190,8 +1190,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-09-18T13:30:00+01:00",
-    "end": "2026-09-18T15:30:00+01:00",
+    "start": "2026-09-18T13:00:00+01:00",
+    "end": "2026-09-18T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
@@ -1593,7 +1593,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-09-25T10:30:00+01:00",
+    "start": "2026-09-25T09:30:00+01:00",
     "end": "2026-09-25T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -1632,8 +1632,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-09-25T13:30:00+01:00",
-    "end": "2026-09-25T15:30:00+01:00",
+    "start": "2026-09-25T13:00:00+01:00",
+    "end": "2026-09-25T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
@@ -2035,7 +2035,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-10-02T10:30:00+01:00",
+    "start": "2026-10-02T09:30:00+01:00",
     "end": "2026-10-02T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -2074,8 +2074,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-10-02T13:30:00+01:00",
-    "end": "2026-10-02T15:30:00+01:00",
+    "start": "2026-10-02T13:00:00+01:00",
+    "end": "2026-10-02T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
@@ -2477,7 +2477,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-10-09T10:30:00+01:00",
+    "start": "2026-10-09T09:30:00+01:00",
     "end": "2026-10-09T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -2516,8 +2516,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-10-09T13:30:00+01:00",
-    "end": "2026-10-09T15:30:00+01:00",
+    "start": "2026-10-09T13:00:00+01:00",
+    "end": "2026-10-09T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
@@ -2919,7 +2919,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-10-16T10:30:00+01:00",
+    "start": "2026-10-16T09:30:00+01:00",
     "end": "2026-10-16T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -2958,8 +2958,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-10-16T13:30:00+01:00",
-    "end": "2026-10-16T15:30:00+01:00",
+    "start": "2026-10-16T13:00:00+01:00",
+    "end": "2026-10-16T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
@@ -3361,7 +3361,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-10-23T10:30:00+01:00",
+    "start": "2026-10-23T09:30:00+01:00",
     "end": "2026-10-23T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -3400,8 +3400,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-10-23T13:30:00+01:00",
-    "end": "2026-10-23T15:30:00+01:00",
+    "start": "2026-10-23T13:00:00+01:00",
+    "end": "2026-10-23T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
@@ -3803,7 +3803,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-10-30T10:30:00+01:00",
+    "start": "2026-10-30T09:30:00+01:00",
     "end": "2026-10-30T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -3842,8 +3842,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-10-30T13:30:00+01:00",
-    "end": "2026-10-30T15:30:00+01:00",
+    "start": "2026-10-30T13:00:00+01:00",
+    "end": "2026-10-30T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
@@ -4245,7 +4245,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-11-06T10:30:00+01:00",
+    "start": "2026-11-06T09:30:00+01:00",
     "end": "2026-11-06T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -4284,8 +4284,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-11-06T13:30:00+01:00",
-    "end": "2026-11-06T15:30:00+01:00",
+    "start": "2026-11-06T13:00:00+01:00",
+    "end": "2026-11-06T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
@@ -4687,7 +4687,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-11-13T10:30:00+01:00",
+    "start": "2026-11-13T09:30:00+01:00",
     "end": "2026-11-13T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -4726,8 +4726,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-11-13T13:30:00+01:00",
-    "end": "2026-11-13T15:30:00+01:00",
+    "start": "2026-11-13T13:00:00+01:00",
+    "end": "2026-11-13T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
@@ -5129,7 +5129,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-11-20T10:30:00+01:00",
+    "start": "2026-11-20T09:30:00+01:00",
     "end": "2026-11-20T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -5168,8 +5168,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-11-20T13:30:00+01:00",
-    "end": "2026-11-20T15:30:00+01:00",
+    "start": "2026-11-20T13:00:00+01:00",
+    "end": "2026-11-20T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
@@ -5571,7 +5571,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-11-27T10:30:00+01:00",
+    "start": "2026-11-27T09:30:00+01:00",
     "end": "2026-11-27T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -5610,8 +5610,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-11-27T13:30:00+01:00",
-    "end": "2026-11-27T15:30:00+01:00",
+    "start": "2026-11-27T13:00:00+01:00",
+    "end": "2026-11-27T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
@@ -6013,7 +6013,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-12-04T10:30:00+01:00",
+    "start": "2026-12-04T09:30:00+01:00",
     "end": "2026-12-04T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -6052,8 +6052,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-12-04T13:30:00+01:00",
-    "end": "2026-12-04T15:30:00+01:00",
+    "start": "2026-12-04T13:00:00+01:00",
+    "end": "2026-12-04T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
@@ -6455,7 +6455,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-12-11T10:30:00+01:00",
+    "start": "2026-12-11T09:30:00+01:00",
     "end": "2026-12-11T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -6494,8 +6494,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-12-11T13:30:00+01:00",
-    "end": "2026-12-11T15:30:00+01:00",
+    "start": "2026-12-11T13:00:00+01:00",
+    "end": "2026-12-11T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
@@ -6897,7 +6897,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-12-18T10:30:00+01:00",
+    "start": "2026-12-18T09:30:00+01:00",
     "end": "2026-12-18T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -6936,8 +6936,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-12-18T13:30:00+01:00",
-    "end": "2026-12-18T15:30:00+01:00",
+    "start": "2026-12-18T13:00:00+01:00",
+    "end": "2026-12-18T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
@@ -7339,7 +7339,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-12-25T10:30:00+01:00",
+    "start": "2026-12-25T09:30:00+01:00",
     "end": "2026-12-25T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -7378,8 +7378,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2026-12-25T13:30:00+01:00",
-    "end": "2026-12-25T15:30:00+01:00",
+    "start": "2026-12-25T13:00:00+01:00",
+    "end": "2026-12-25T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
@@ -7781,7 +7781,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2027-01-01T10:30:00+01:00",
+    "start": "2027-01-01T09:30:00+01:00",
     "end": "2027-01-01T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -7820,8 +7820,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2027-01-01T13:30:00+01:00",
-    "end": "2027-01-01T15:30:00+01:00",
+    "start": "2027-01-01T13:00:00+01:00",
+    "end": "2027-01-01T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
@@ -8223,7 +8223,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2027-01-08T10:30:00+01:00",
+    "start": "2027-01-08T09:30:00+01:00",
     "end": "2027-01-08T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -8262,8 +8262,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2027-01-08T13:30:00+01:00",
-    "end": "2027-01-08T15:30:00+01:00",
+    "start": "2027-01-08T13:00:00+01:00",
+    "end": "2027-01-08T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
@@ -8665,7 +8665,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2027-01-15T10:30:00+01:00",
+    "start": "2027-01-15T09:30:00+01:00",
     "end": "2027-01-15T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -8704,8 +8704,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2027-01-15T13:30:00+01:00",
-    "end": "2027-01-15T15:30:00+01:00",
+    "start": "2027-01-15T13:00:00+01:00",
+    "end": "2027-01-15T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
@@ -9107,7 +9107,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2027-01-22T10:30:00+01:00",
+    "start": "2027-01-22T09:30:00+01:00",
     "end": "2027-01-22T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -9146,8 +9146,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2027-01-22T13:30:00+01:00",
-    "end": "2027-01-22T15:30:00+01:00",
+    "start": "2027-01-22T13:00:00+01:00",
+    "end": "2027-01-22T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
@@ -9549,7 +9549,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2027-01-29T10:30:00+01:00",
+    "start": "2027-01-29T09:30:00+01:00",
     "end": "2027-01-29T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
@@ -9588,8 +9588,8 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "start": "2027-01-29T13:30:00+01:00",
-    "end": "2027-01-29T15:30:00+01:00",
+    "start": "2027-01-29T13:00:00+01:00",
+    "end": "2027-01-29T16:00:00+01:00",
     "note": "portatili",
     "corsoStudio": "FASHION"
   },
