@@ -62,13 +62,7 @@
     "start": "2026-09-02T08:30:00+01:00",
     "end": "2026-09-02T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -81,13 +75,7 @@
     "start": "2026-09-02T09:30:00+01:00",
     "end": "2026-09-02T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -100,13 +88,7 @@
     "start": "2026-09-02T11:30:00+01:00",
     "end": "2026-09-02T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -180,43 +162,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -230,14 +180,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -246,10 +188,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -352,13 +330,7 @@
     "start": "2026-09-09T08:30:00+01:00",
     "end": "2026-09-09T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -371,13 +343,7 @@
     "start": "2026-09-09T09:30:00+01:00",
     "end": "2026-09-09T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -390,13 +356,7 @@
     "start": "2026-09-09T11:30:00+01:00",
     "end": "2026-09-09T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -470,43 +430,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -520,14 +448,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -536,10 +456,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -642,13 +598,7 @@
     "start": "2026-09-16T08:30:00+01:00",
     "end": "2026-09-16T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -661,13 +611,7 @@
     "start": "2026-09-16T09:30:00+01:00",
     "end": "2026-09-16T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -680,13 +624,7 @@
     "start": "2026-09-16T11:30:00+01:00",
     "end": "2026-09-16T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -760,43 +698,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -810,14 +716,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -826,10 +724,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -932,13 +866,7 @@
     "start": "2026-09-23T08:30:00+01:00",
     "end": "2026-09-23T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -951,13 +879,7 @@
     "start": "2026-09-23T09:30:00+01:00",
     "end": "2026-09-23T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -970,13 +892,7 @@
     "start": "2026-09-23T11:30:00+01:00",
     "end": "2026-09-23T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -1050,43 +966,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -1100,14 +984,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -1116,10 +992,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1222,13 +1134,7 @@
     "start": "2026-09-30T08:30:00+01:00",
     "end": "2026-09-30T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -1241,13 +1147,7 @@
     "start": "2026-09-30T09:30:00+01:00",
     "end": "2026-09-30T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1260,13 +1160,7 @@
     "start": "2026-09-30T11:30:00+01:00",
     "end": "2026-09-30T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -1340,43 +1234,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -1390,14 +1252,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -1406,10 +1260,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1512,13 +1402,7 @@
     "start": "2026-10-07T08:30:00+01:00",
     "end": "2026-10-07T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -1531,13 +1415,7 @@
     "start": "2026-10-07T09:30:00+01:00",
     "end": "2026-10-07T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1550,13 +1428,7 @@
     "start": "2026-10-07T11:30:00+01:00",
     "end": "2026-10-07T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -1630,43 +1502,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -1680,14 +1520,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -1696,10 +1528,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1802,13 +1670,7 @@
     "start": "2026-10-14T08:30:00+01:00",
     "end": "2026-10-14T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -1821,13 +1683,7 @@
     "start": "2026-10-14T09:30:00+01:00",
     "end": "2026-10-14T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -1840,13 +1696,7 @@
     "start": "2026-10-14T11:30:00+01:00",
     "end": "2026-10-14T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -1920,43 +1770,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -1970,14 +1788,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -1986,10 +1796,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2092,13 +1938,7 @@
     "start": "2026-10-21T08:30:00+01:00",
     "end": "2026-10-21T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -2111,13 +1951,7 @@
     "start": "2026-10-21T09:30:00+01:00",
     "end": "2026-10-21T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2130,13 +1964,7 @@
     "start": "2026-10-21T11:30:00+01:00",
     "end": "2026-10-21T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -2210,43 +2038,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -2260,14 +2056,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -2276,10 +2064,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2382,13 +2206,7 @@
     "start": "2026-10-28T08:30:00+01:00",
     "end": "2026-10-28T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -2401,13 +2219,7 @@
     "start": "2026-10-28T09:30:00+01:00",
     "end": "2026-10-28T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2420,13 +2232,7 @@
     "start": "2026-10-28T11:30:00+01:00",
     "end": "2026-10-28T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -2500,43 +2306,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -2550,14 +2324,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -2566,10 +2332,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2672,13 +2474,7 @@
     "start": "2026-11-04T08:30:00+01:00",
     "end": "2026-11-04T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -2691,13 +2487,7 @@
     "start": "2026-11-04T09:30:00+01:00",
     "end": "2026-11-04T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -2710,13 +2500,7 @@
     "start": "2026-11-04T11:30:00+01:00",
     "end": "2026-11-04T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -2790,43 +2574,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -2840,14 +2592,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -2856,10 +2600,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2962,13 +2742,7 @@
     "start": "2026-11-11T08:30:00+01:00",
     "end": "2026-11-11T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -2981,13 +2755,7 @@
     "start": "2026-11-11T09:30:00+01:00",
     "end": "2026-11-11T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3000,13 +2768,7 @@
     "start": "2026-11-11T11:30:00+01:00",
     "end": "2026-11-11T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -3080,43 +2842,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -3130,14 +2860,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -3146,10 +2868,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3252,13 +3010,7 @@
     "start": "2026-11-18T08:30:00+01:00",
     "end": "2026-11-18T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -3271,13 +3023,7 @@
     "start": "2026-11-18T09:30:00+01:00",
     "end": "2026-11-18T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3290,13 +3036,7 @@
     "start": "2026-11-18T11:30:00+01:00",
     "end": "2026-11-18T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -3370,43 +3110,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -3420,14 +3128,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -3436,10 +3136,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3542,13 +3278,7 @@
     "start": "2026-11-25T08:30:00+01:00",
     "end": "2026-11-25T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -3561,13 +3291,7 @@
     "start": "2026-11-25T09:30:00+01:00",
     "end": "2026-11-25T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3580,13 +3304,7 @@
     "start": "2026-11-25T11:30:00+01:00",
     "end": "2026-11-25T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -3660,43 +3378,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -3710,14 +3396,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -3726,10 +3404,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3832,13 +3546,7 @@
     "start": "2026-12-02T08:30:00+01:00",
     "end": "2026-12-02T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -3851,13 +3559,7 @@
     "start": "2026-12-02T09:30:00+01:00",
     "end": "2026-12-02T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -3870,13 +3572,7 @@
     "start": "2026-12-02T11:30:00+01:00",
     "end": "2026-12-02T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -3950,43 +3646,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -4000,14 +3664,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -4016,10 +3672,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4122,13 +3814,7 @@
     "start": "2026-12-09T08:30:00+01:00",
     "end": "2026-12-09T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -4141,13 +3827,7 @@
     "start": "2026-12-09T09:30:00+01:00",
     "end": "2026-12-09T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -4160,13 +3840,7 @@
     "start": "2026-12-09T11:30:00+01:00",
     "end": "2026-12-09T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -4240,43 +3914,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -4290,14 +3932,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -4306,10 +3940,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4412,13 +4082,7 @@
     "start": "2026-12-16T08:30:00+01:00",
     "end": "2026-12-16T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -4431,13 +4095,7 @@
     "start": "2026-12-16T09:30:00+01:00",
     "end": "2026-12-16T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -4450,13 +4108,7 @@
     "start": "2026-12-16T11:30:00+01:00",
     "end": "2026-12-16T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -4530,43 +4182,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -4580,14 +4200,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -4596,10 +4208,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4702,13 +4350,7 @@
     "start": "2026-12-23T08:30:00+01:00",
     "end": "2026-12-23T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -4721,13 +4363,7 @@
     "start": "2026-12-23T09:30:00+01:00",
     "end": "2026-12-23T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -4740,13 +4376,7 @@
     "start": "2026-12-23T11:30:00+01:00",
     "end": "2026-12-23T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -4820,43 +4450,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -4870,14 +4468,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -4886,10 +4476,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4992,13 +4618,7 @@
     "start": "2026-12-30T08:30:00+01:00",
     "end": "2026-12-30T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -5011,13 +4631,7 @@
     "start": "2026-12-30T09:30:00+01:00",
     "end": "2026-12-30T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -5030,13 +4644,7 @@
     "start": "2026-12-30T11:30:00+01:00",
     "end": "2026-12-30T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -5110,43 +4718,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -5160,14 +4736,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -5176,10 +4744,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -5282,13 +4886,7 @@
     "start": "2027-01-06T08:30:00+01:00",
     "end": "2027-01-06T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -5301,13 +4899,7 @@
     "start": "2027-01-06T09:30:00+01:00",
     "end": "2027-01-06T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -5320,13 +4912,7 @@
     "start": "2027-01-06T11:30:00+01:00",
     "end": "2027-01-06T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -5400,43 +4986,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -5450,14 +5004,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -5466,10 +5012,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -5572,13 +5154,7 @@
     "start": "2027-01-13T08:30:00+01:00",
     "end": "2027-01-13T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -5591,13 +5167,7 @@
     "start": "2027-01-13T09:30:00+01:00",
     "end": "2027-01-13T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -5610,13 +5180,7 @@
     "start": "2027-01-13T11:30:00+01:00",
     "end": "2027-01-13T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -5690,43 +5254,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -5740,14 +5272,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -5756,10 +5280,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -5862,13 +5422,7 @@
     "start": "2027-01-20T08:30:00+01:00",
     "end": "2027-01-20T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -5881,13 +5435,7 @@
     "start": "2027-01-20T09:30:00+01:00",
     "end": "2027-01-20T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -5900,13 +5448,7 @@
     "start": "2027-01-20T11:30:00+01:00",
     "end": "2027-01-20T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -5980,43 +5522,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -6030,14 +5540,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -6046,10 +5548,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -6152,13 +5690,7 @@
     "start": "2027-01-27T08:30:00+01:00",
     "end": "2027-01-27T10:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Storia dell'Arte Contemporanea",
@@ -6171,13 +5703,7 @@
     "start": "2027-01-27T09:30:00+01:00",
     "end": "2027-01-27T11:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Inglese per la Comunicazione Artistica",
@@ -6190,13 +5716,7 @@
     "start": "2027-01-27T11:30:00+01:00",
     "end": "2027-01-27T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pedagogia e Didattica dell'Arte",
@@ -6270,43 +5790,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -6320,14 +5808,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -6336,10 +5816,46 @@
       [
         "PITTURA",
         2
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   }

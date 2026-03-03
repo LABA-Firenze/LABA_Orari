@@ -88,13 +88,7 @@
     "start": "2026-09-02T13:00:00+01:00",
     "end": "2026-09-02T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -133,13 +127,7 @@
     "start": "2026-09-02T16:30:00+01:00",
     "end": "2026-09-02T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -160,7 +148,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-09-03T08:30:00+01:00",
     "end": "2026-09-03T12:30:00+01:00",
@@ -212,7 +200,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-09-03T13:00:00+01:00",
     "end": "2026-09-03T17:00:00+01:00",
@@ -259,19 +247,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -292,43 +296,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -473,13 +457,7 @@
     "start": "2026-09-09T13:00:00+01:00",
     "end": "2026-09-09T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -518,13 +496,7 @@
     "start": "2026-09-09T16:30:00+01:00",
     "end": "2026-09-09T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -545,7 +517,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-09-10T08:30:00+01:00",
     "end": "2026-09-10T12:30:00+01:00",
@@ -597,7 +569,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-09-10T13:00:00+01:00",
     "end": "2026-09-10T17:00:00+01:00",
@@ -644,19 +616,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -677,43 +665,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -858,13 +826,7 @@
     "start": "2026-09-16T13:00:00+01:00",
     "end": "2026-09-16T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -903,13 +865,7 @@
     "start": "2026-09-16T16:30:00+01:00",
     "end": "2026-09-16T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -930,7 +886,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-09-17T08:30:00+01:00",
     "end": "2026-09-17T12:30:00+01:00",
@@ -982,7 +938,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-09-17T13:00:00+01:00",
     "end": "2026-09-17T17:00:00+01:00",
@@ -1029,19 +985,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -1062,43 +1034,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1243,13 +1195,7 @@
     "start": "2026-09-23T13:00:00+01:00",
     "end": "2026-09-23T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -1288,13 +1234,7 @@
     "start": "2026-09-23T16:30:00+01:00",
     "end": "2026-09-23T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -1315,7 +1255,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-09-24T08:30:00+01:00",
     "end": "2026-09-24T12:30:00+01:00",
@@ -1367,7 +1307,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-09-24T13:00:00+01:00",
     "end": "2026-09-24T17:00:00+01:00",
@@ -1414,19 +1354,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -1447,43 +1403,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1628,13 +1564,7 @@
     "start": "2026-09-30T13:00:00+01:00",
     "end": "2026-09-30T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -1673,13 +1603,7 @@
     "start": "2026-09-30T16:30:00+01:00",
     "end": "2026-09-30T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -1700,7 +1624,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-10-01T08:30:00+01:00",
     "end": "2026-10-01T12:30:00+01:00",
@@ -1752,7 +1676,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-10-01T13:00:00+01:00",
     "end": "2026-10-01T17:00:00+01:00",
@@ -1799,19 +1723,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -1832,43 +1772,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2013,13 +1933,7 @@
     "start": "2026-10-07T13:00:00+01:00",
     "end": "2026-10-07T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -2058,13 +1972,7 @@
     "start": "2026-10-07T16:30:00+01:00",
     "end": "2026-10-07T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -2085,7 +1993,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-10-08T08:30:00+01:00",
     "end": "2026-10-08T12:30:00+01:00",
@@ -2137,7 +2045,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-10-08T13:00:00+01:00",
     "end": "2026-10-08T17:00:00+01:00",
@@ -2184,19 +2092,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -2217,43 +2141,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2398,13 +2302,7 @@
     "start": "2026-10-14T13:00:00+01:00",
     "end": "2026-10-14T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -2443,13 +2341,7 @@
     "start": "2026-10-14T16:30:00+01:00",
     "end": "2026-10-14T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -2470,7 +2362,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-10-15T08:30:00+01:00",
     "end": "2026-10-15T12:30:00+01:00",
@@ -2522,7 +2414,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-10-15T13:00:00+01:00",
     "end": "2026-10-15T17:00:00+01:00",
@@ -2569,19 +2461,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -2602,43 +2510,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2783,13 +2671,7 @@
     "start": "2026-10-21T13:00:00+01:00",
     "end": "2026-10-21T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -2828,13 +2710,7 @@
     "start": "2026-10-21T16:30:00+01:00",
     "end": "2026-10-21T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -2855,7 +2731,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-10-22T08:30:00+01:00",
     "end": "2026-10-22T12:30:00+01:00",
@@ -2907,7 +2783,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-10-22T13:00:00+01:00",
     "end": "2026-10-22T17:00:00+01:00",
@@ -2954,19 +2830,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -2987,43 +2879,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3168,13 +3040,7 @@
     "start": "2026-10-28T13:00:00+01:00",
     "end": "2026-10-28T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -3213,13 +3079,7 @@
     "start": "2026-10-28T16:30:00+01:00",
     "end": "2026-10-28T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -3240,7 +3100,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-10-29T08:30:00+01:00",
     "end": "2026-10-29T12:30:00+01:00",
@@ -3292,7 +3152,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-10-29T13:00:00+01:00",
     "end": "2026-10-29T17:00:00+01:00",
@@ -3339,19 +3199,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -3372,43 +3248,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3553,13 +3409,7 @@
     "start": "2026-11-04T13:00:00+01:00",
     "end": "2026-11-04T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -3598,13 +3448,7 @@
     "start": "2026-11-04T16:30:00+01:00",
     "end": "2026-11-04T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -3625,7 +3469,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-11-05T08:30:00+01:00",
     "end": "2026-11-05T12:30:00+01:00",
@@ -3677,7 +3521,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-11-05T13:00:00+01:00",
     "end": "2026-11-05T17:00:00+01:00",
@@ -3724,19 +3568,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -3757,43 +3617,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3938,13 +3778,7 @@
     "start": "2026-11-11T13:00:00+01:00",
     "end": "2026-11-11T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -3983,13 +3817,7 @@
     "start": "2026-11-11T16:30:00+01:00",
     "end": "2026-11-11T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -4010,7 +3838,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-11-12T08:30:00+01:00",
     "end": "2026-11-12T12:30:00+01:00",
@@ -4062,7 +3890,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-11-12T13:00:00+01:00",
     "end": "2026-11-12T17:00:00+01:00",
@@ -4109,19 +3937,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -4142,43 +3986,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4323,13 +4147,7 @@
     "start": "2026-11-18T13:00:00+01:00",
     "end": "2026-11-18T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -4368,13 +4186,7 @@
     "start": "2026-11-18T16:30:00+01:00",
     "end": "2026-11-18T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -4395,7 +4207,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-11-19T08:30:00+01:00",
     "end": "2026-11-19T12:30:00+01:00",
@@ -4447,7 +4259,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-11-19T13:00:00+01:00",
     "end": "2026-11-19T17:00:00+01:00",
@@ -4494,19 +4306,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -4527,43 +4355,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4708,13 +4516,7 @@
     "start": "2026-11-25T13:00:00+01:00",
     "end": "2026-11-25T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -4753,13 +4555,7 @@
     "start": "2026-11-25T16:30:00+01:00",
     "end": "2026-11-25T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -4780,7 +4576,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-11-26T08:30:00+01:00",
     "end": "2026-11-26T12:30:00+01:00",
@@ -4832,7 +4628,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-11-26T13:00:00+01:00",
     "end": "2026-11-26T17:00:00+01:00",
@@ -4879,19 +4675,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -4912,43 +4724,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -5093,13 +4885,7 @@
     "start": "2026-12-02T13:00:00+01:00",
     "end": "2026-12-02T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -5138,13 +4924,7 @@
     "start": "2026-12-02T16:30:00+01:00",
     "end": "2026-12-02T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -5165,7 +4945,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-12-03T08:30:00+01:00",
     "end": "2026-12-03T12:30:00+01:00",
@@ -5217,7 +4997,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-12-03T13:00:00+01:00",
     "end": "2026-12-03T17:00:00+01:00",
@@ -5264,19 +5044,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -5297,43 +5093,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -5478,13 +5254,7 @@
     "start": "2026-12-09T13:00:00+01:00",
     "end": "2026-12-09T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -5523,13 +5293,7 @@
     "start": "2026-12-09T16:30:00+01:00",
     "end": "2026-12-09T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -5550,7 +5314,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-12-10T08:30:00+01:00",
     "end": "2026-12-10T12:30:00+01:00",
@@ -5602,7 +5366,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-12-10T13:00:00+01:00",
     "end": "2026-12-10T17:00:00+01:00",
@@ -5649,19 +5413,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -5682,43 +5462,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -5863,13 +5623,7 @@
     "start": "2026-12-16T13:00:00+01:00",
     "end": "2026-12-16T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -5908,13 +5662,7 @@
     "start": "2026-12-16T16:30:00+01:00",
     "end": "2026-12-16T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -5935,7 +5683,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-12-17T08:30:00+01:00",
     "end": "2026-12-17T12:30:00+01:00",
@@ -5987,7 +5735,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-12-17T13:00:00+01:00",
     "end": "2026-12-17T17:00:00+01:00",
@@ -6034,19 +5782,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -6067,43 +5831,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -6248,13 +5992,7 @@
     "start": "2026-12-23T13:00:00+01:00",
     "end": "2026-12-23T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -6293,13 +6031,7 @@
     "start": "2026-12-23T16:30:00+01:00",
     "end": "2026-12-23T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -6320,7 +6052,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-12-24T08:30:00+01:00",
     "end": "2026-12-24T12:30:00+01:00",
@@ -6372,7 +6104,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-12-24T13:00:00+01:00",
     "end": "2026-12-24T17:00:00+01:00",
@@ -6419,19 +6151,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -6452,43 +6200,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -6633,13 +6361,7 @@
     "start": "2026-12-30T13:00:00+01:00",
     "end": "2026-12-30T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -6678,13 +6400,7 @@
     "start": "2026-12-30T16:30:00+01:00",
     "end": "2026-12-30T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -6705,7 +6421,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-12-31T08:30:00+01:00",
     "end": "2026-12-31T12:30:00+01:00",
@@ -6757,7 +6473,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2026-12-31T13:00:00+01:00",
     "end": "2026-12-31T17:00:00+01:00",
@@ -6804,19 +6520,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -6837,43 +6569,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -7018,13 +6730,7 @@
     "start": "2027-01-06T13:00:00+01:00",
     "end": "2027-01-06T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -7063,13 +6769,7 @@
     "start": "2027-01-06T16:30:00+01:00",
     "end": "2027-01-06T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -7090,7 +6790,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2027-01-07T08:30:00+01:00",
     "end": "2027-01-07T12:30:00+01:00",
@@ -7142,7 +6842,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2027-01-07T13:00:00+01:00",
     "end": "2027-01-07T17:00:00+01:00",
@@ -7189,19 +6889,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -7222,43 +6938,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -7403,13 +7099,7 @@
     "start": "2027-01-13T13:00:00+01:00",
     "end": "2027-01-13T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -7448,13 +7138,7 @@
     "start": "2027-01-13T16:30:00+01:00",
     "end": "2027-01-13T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -7475,7 +7159,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2027-01-14T08:30:00+01:00",
     "end": "2027-01-14T12:30:00+01:00",
@@ -7527,7 +7211,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2027-01-14T13:00:00+01:00",
     "end": "2027-01-14T17:00:00+01:00",
@@ -7574,19 +7258,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -7607,43 +7307,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -7788,13 +7468,7 @@
     "start": "2027-01-20T13:00:00+01:00",
     "end": "2027-01-20T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -7833,13 +7507,7 @@
     "start": "2027-01-20T16:30:00+01:00",
     "end": "2027-01-20T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -7860,7 +7528,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2027-01-21T08:30:00+01:00",
     "end": "2027-01-21T12:30:00+01:00",
@@ -7912,7 +7580,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2027-01-21T13:00:00+01:00",
     "end": "2027-01-21T17:00:00+01:00",
@@ -7959,19 +7627,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -7992,43 +7676,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -8173,13 +7837,7 @@
     "start": "2027-01-27T13:00:00+01:00",
     "end": "2027-01-27T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "GD",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Inglese",
@@ -8218,13 +7876,7 @@
     "start": "2027-01-27T16:30:00+01:00",
     "end": "2027-01-27T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Digital Video",
@@ -8245,7 +7897,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2027-01-28T08:30:00+01:00",
     "end": "2027-01-28T12:30:00+01:00",
@@ -8297,7 +7949,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bernacchi / Svelto",
     "start": "2027-01-28T13:00:00+01:00",
     "end": "2027-01-28T17:00:00+01:00",
@@ -8344,19 +7996,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -8377,43 +8045,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   }

@@ -169,43 +169,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -219,14 +187,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -234,11 +194,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -253,13 +249,7 @@
     "start": "2026-09-07T11:30:00+01:00",
     "end": "2026-09-07T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        2
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -457,43 +447,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -507,14 +465,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -522,11 +472,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -541,13 +527,7 @@
     "start": "2026-09-14T11:30:00+01:00",
     "end": "2026-09-14T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        2
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -745,43 +725,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -795,14 +743,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -810,11 +750,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -829,13 +805,7 @@
     "start": "2026-09-21T11:30:00+01:00",
     "end": "2026-09-21T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        2
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -1033,43 +1003,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -1083,14 +1021,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -1098,11 +1028,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1117,13 +1083,7 @@
     "start": "2026-09-28T11:30:00+01:00",
     "end": "2026-09-28T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        2
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -1321,43 +1281,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -1371,14 +1299,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -1386,11 +1306,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1405,13 +1361,7 @@
     "start": "2026-10-05T11:30:00+01:00",
     "end": "2026-10-05T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        2
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -1609,43 +1559,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -1659,14 +1577,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -1674,11 +1584,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1693,13 +1639,7 @@
     "start": "2026-10-12T11:30:00+01:00",
     "end": "2026-10-12T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        2
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -1897,43 +1837,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -1947,14 +1855,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -1962,11 +1862,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1981,13 +1917,7 @@
     "start": "2026-10-19T11:30:00+01:00",
     "end": "2026-10-19T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        2
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -2185,43 +2115,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -2235,14 +2133,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -2250,11 +2140,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2269,13 +2195,7 @@
     "start": "2026-10-26T11:30:00+01:00",
     "end": "2026-10-26T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        2
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -2473,43 +2393,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -2523,14 +2411,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -2538,11 +2418,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2557,13 +2473,7 @@
     "start": "2026-11-02T11:30:00+01:00",
     "end": "2026-11-02T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        2
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -2761,43 +2671,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -2811,14 +2689,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -2826,11 +2696,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2845,13 +2751,7 @@
     "start": "2026-11-09T11:30:00+01:00",
     "end": "2026-11-09T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        2
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -3049,43 +2949,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -3099,14 +2967,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -3114,11 +2974,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3133,13 +3029,7 @@
     "start": "2026-11-16T11:30:00+01:00",
     "end": "2026-11-16T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        2
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -3337,43 +3227,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -3387,14 +3245,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -3402,11 +3252,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3421,13 +3307,7 @@
     "start": "2026-11-23T11:30:00+01:00",
     "end": "2026-11-23T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        2
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -3625,43 +3505,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -3675,14 +3523,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -3690,11 +3530,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3709,13 +3585,7 @@
     "start": "2026-11-30T11:30:00+01:00",
     "end": "2026-11-30T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        2
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -3913,43 +3783,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -3963,14 +3801,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -3978,11 +3808,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3997,13 +3863,7 @@
     "start": "2026-12-07T11:30:00+01:00",
     "end": "2026-12-07T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        2
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -4201,43 +4061,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -4251,14 +4079,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -4266,11 +4086,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4285,13 +4141,7 @@
     "start": "2026-12-14T11:30:00+01:00",
     "end": "2026-12-14T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        2
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -4489,43 +4339,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -4539,14 +4357,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -4554,11 +4364,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4573,13 +4419,7 @@
     "start": "2026-12-21T11:30:00+01:00",
     "end": "2026-12-21T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        2
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -4777,43 +4617,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -4827,14 +4635,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -4842,11 +4642,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4861,13 +4697,7 @@
     "start": "2026-12-28T11:30:00+01:00",
     "end": "2026-12-28T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        2
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -5065,43 +4895,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -5115,14 +4913,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -5130,11 +4920,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -5149,13 +4975,7 @@
     "start": "2027-01-04T11:30:00+01:00",
     "end": "2027-01-04T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        2
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -5353,43 +5173,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -5403,14 +5191,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -5418,11 +5198,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -5437,13 +5253,7 @@
     "start": "2027-01-11T11:30:00+01:00",
     "end": "2027-01-11T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        2
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -5641,43 +5451,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -5691,14 +5469,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -5706,11 +5476,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -5725,13 +5531,7 @@
     "start": "2027-01-18T11:30:00+01:00",
     "end": "2027-01-18T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        2
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -5929,43 +5729,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -5979,14 +5747,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -5994,11 +5754,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -6013,13 +5809,7 @@
     "start": "2027-01-25T11:30:00+01:00",
     "end": "2027-01-25T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        2
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Pittura 2",
@@ -6217,43 +6007,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -6267,14 +6025,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -6282,11 +6032,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   }

@@ -174,7 +174,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Macchi",
     "start": "2027-02-05T09:00:00+01:00",
     "end": "2027-02-05T11:30:00+01:00",
@@ -205,13 +205,7 @@
     "start": "2027-02-05T13:00:00+01:00",
     "end": "2027-02-05T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        1
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -227,43 +221,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -277,14 +239,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -292,11 +246,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -475,7 +465,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Macchi",
     "start": "2027-02-12T09:00:00+01:00",
     "end": "2027-02-12T11:30:00+01:00",
@@ -506,13 +496,7 @@
     "start": "2027-02-12T13:00:00+01:00",
     "end": "2027-02-12T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        1
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -528,43 +512,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -578,14 +530,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -593,11 +537,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -776,7 +756,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Macchi",
     "start": "2027-02-19T09:00:00+01:00",
     "end": "2027-02-19T11:30:00+01:00",
@@ -807,13 +787,7 @@
     "start": "2027-02-19T13:00:00+01:00",
     "end": "2027-02-19T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        1
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -829,43 +803,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -879,14 +821,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -894,11 +828,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1077,7 +1047,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Macchi",
     "start": "2027-02-26T09:00:00+01:00",
     "end": "2027-02-26T11:30:00+01:00",
@@ -1108,13 +1078,7 @@
     "start": "2027-02-26T13:00:00+01:00",
     "end": "2027-02-26T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        1
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1130,43 +1094,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -1180,14 +1112,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -1195,11 +1119,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1378,7 +1338,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Macchi",
     "start": "2027-03-05T09:00:00+01:00",
     "end": "2027-03-05T11:30:00+01:00",
@@ -1409,13 +1369,7 @@
     "start": "2027-03-05T13:00:00+01:00",
     "end": "2027-03-05T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        1
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1431,43 +1385,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -1481,14 +1403,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -1496,11 +1410,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1679,7 +1629,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Macchi",
     "start": "2027-03-12T09:00:00+01:00",
     "end": "2027-03-12T11:30:00+01:00",
@@ -1710,13 +1660,7 @@
     "start": "2027-03-12T13:00:00+01:00",
     "end": "2027-03-12T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        1
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1732,43 +1676,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -1782,14 +1694,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -1797,11 +1701,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1980,7 +1920,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Macchi",
     "start": "2027-03-19T09:00:00+01:00",
     "end": "2027-03-19T11:30:00+01:00",
@@ -2011,13 +1951,7 @@
     "start": "2027-03-19T13:00:00+01:00",
     "end": "2027-03-19T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        1
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2033,43 +1967,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -2083,14 +1985,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -2098,11 +1992,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2281,7 +2211,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Macchi",
     "start": "2027-03-26T09:00:00+01:00",
     "end": "2027-03-26T11:30:00+01:00",
@@ -2312,13 +2242,7 @@
     "start": "2027-03-26T13:00:00+01:00",
     "end": "2027-03-26T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        1
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2334,43 +2258,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -2384,14 +2276,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -2399,11 +2283,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2582,7 +2502,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Macchi",
     "start": "2027-04-02T09:00:00+01:00",
     "end": "2027-04-02T11:30:00+01:00",
@@ -2613,13 +2533,7 @@
     "start": "2027-04-02T13:00:00+01:00",
     "end": "2027-04-02T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        1
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2635,43 +2549,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -2685,14 +2567,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -2700,11 +2574,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2883,7 +2793,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Macchi",
     "start": "2027-04-09T09:00:00+01:00",
     "end": "2027-04-09T11:30:00+01:00",
@@ -2914,13 +2824,7 @@
     "start": "2027-04-09T13:00:00+01:00",
     "end": "2027-04-09T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        1
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2936,43 +2840,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -2986,14 +2858,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -3001,11 +2865,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3184,7 +3084,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Macchi",
     "start": "2027-04-16T09:00:00+01:00",
     "end": "2027-04-16T11:30:00+01:00",
@@ -3215,13 +3115,7 @@
     "start": "2027-04-16T13:00:00+01:00",
     "end": "2027-04-16T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        1
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -3237,43 +3131,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -3287,14 +3149,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -3302,11 +3156,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3485,7 +3375,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Macchi",
     "start": "2027-04-23T09:00:00+01:00",
     "end": "2027-04-23T11:30:00+01:00",
@@ -3516,13 +3406,7 @@
     "start": "2027-04-23T13:00:00+01:00",
     "end": "2027-04-23T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        1
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -3538,43 +3422,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -3588,14 +3440,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -3603,11 +3447,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3786,7 +3666,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Macchi",
     "start": "2027-04-30T09:00:00+01:00",
     "end": "2027-04-30T11:30:00+01:00",
@@ -3817,13 +3697,7 @@
     "start": "2027-04-30T13:00:00+01:00",
     "end": "2027-04-30T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        1
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -3839,43 +3713,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -3889,14 +3731,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -3904,11 +3738,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4087,7 +3957,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Macchi",
     "start": "2027-05-07T09:00:00+01:00",
     "end": "2027-05-07T11:30:00+01:00",
@@ -4118,13 +3988,7 @@
     "start": "2027-05-07T13:00:00+01:00",
     "end": "2027-05-07T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        1
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -4140,43 +4004,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -4190,14 +4022,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -4205,11 +4029,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4388,7 +4248,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Macchi",
     "start": "2027-05-14T09:00:00+01:00",
     "end": "2027-05-14T11:30:00+01:00",
@@ -4419,13 +4279,7 @@
     "start": "2027-05-14T13:00:00+01:00",
     "end": "2027-05-14T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        1
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -4441,43 +4295,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -4491,14 +4313,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -4506,11 +4320,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4689,7 +4539,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Macchi",
     "start": "2027-05-21T09:00:00+01:00",
     "end": "2027-05-21T11:30:00+01:00",
@@ -4720,13 +4570,7 @@
     "start": "2027-05-21T13:00:00+01:00",
     "end": "2027-05-21T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        1
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -4742,43 +4586,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -4792,14 +4604,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -4807,11 +4611,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4990,7 +4830,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Macchi",
     "start": "2027-05-28T09:00:00+01:00",
     "end": "2027-05-28T11:30:00+01:00",
@@ -5021,13 +4861,7 @@
     "start": "2027-05-28T13:00:00+01:00",
     "end": "2027-05-28T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        1
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -5043,43 +4877,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -5093,14 +4895,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -5108,11 +4902,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -5291,7 +5121,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Macchi",
     "start": "2027-06-04T09:00:00+01:00",
     "end": "2027-06-04T11:30:00+01:00",
@@ -5322,13 +5152,7 @@
     "start": "2027-06-04T13:00:00+01:00",
     "end": "2027-06-04T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        1
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -5344,43 +5168,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -5394,14 +5186,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -5409,11 +5193,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -5592,7 +5412,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Macchi",
     "start": "2027-06-11T09:00:00+01:00",
     "end": "2027-06-11T11:30:00+01:00",
@@ -5623,13 +5443,7 @@
     "start": "2027-06-11T13:00:00+01:00",
     "end": "2027-06-11T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        1
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -5645,43 +5459,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -5695,14 +5477,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -5710,11 +5484,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -5893,7 +5703,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Macchi",
     "start": "2027-06-18T09:00:00+01:00",
     "end": "2027-06-18T11:30:00+01:00",
@@ -5924,13 +5734,7 @@
     "start": "2027-06-18T13:00:00+01:00",
     "end": "2027-06-18T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        1
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -5946,43 +5750,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -5996,14 +5768,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -6011,11 +5775,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -6194,7 +5994,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Macchi",
     "start": "2027-06-25T09:00:00+01:00",
     "end": "2027-06-25T11:30:00+01:00",
@@ -6225,13 +6025,7 @@
     "start": "2027-06-25T13:00:00+01:00",
     "end": "2027-06-25T15:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "altriCorsi": [
-      [
-        "GD",
-        1
-      ]
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -6247,43 +6041,11 @@
     "corsoStudio": "PITTURA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -6297,14 +6059,6 @@
       [
         "GD",
         3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
       ],
       [
         "PITTURA",
@@ -6312,11 +6066,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },

@@ -83,7 +83,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-02-03T17:00:00+01:00",
     "end": "2027-02-03T19:00:00+01:00",
@@ -169,19 +169,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -206,38 +222,18 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
         1
       ]
     ]
@@ -326,7 +322,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-02-10T17:00:00+01:00",
     "end": "2027-02-10T19:00:00+01:00",
@@ -412,19 +408,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -449,38 +461,18 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
         1
       ]
     ]
@@ -569,7 +561,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-02-17T17:00:00+01:00",
     "end": "2027-02-17T19:00:00+01:00",
@@ -655,19 +647,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -692,38 +700,18 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
         1
       ]
     ]
@@ -812,7 +800,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-02-24T17:00:00+01:00",
     "end": "2027-02-24T19:00:00+01:00",
@@ -898,19 +886,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -935,38 +939,18 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
         1
       ]
     ]
@@ -1055,7 +1039,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-03-03T17:00:00+01:00",
     "end": "2027-03-03T19:00:00+01:00",
@@ -1141,19 +1125,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -1178,38 +1178,18 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
         1
       ]
     ]
@@ -1298,7 +1278,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-03-10T17:00:00+01:00",
     "end": "2027-03-10T19:00:00+01:00",
@@ -1384,19 +1364,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -1421,38 +1417,18 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
         1
       ]
     ]
@@ -1541,7 +1517,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-03-17T17:00:00+01:00",
     "end": "2027-03-17T19:00:00+01:00",
@@ -1627,19 +1603,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -1664,38 +1656,18 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
         1
       ]
     ]
@@ -1784,7 +1756,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-03-24T17:00:00+01:00",
     "end": "2027-03-24T19:00:00+01:00",
@@ -1870,19 +1842,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -1907,38 +1895,18 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
         1
       ]
     ]
@@ -2027,7 +1995,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-03-31T17:00:00+01:00",
     "end": "2027-03-31T19:00:00+01:00",
@@ -2113,19 +2081,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -2150,38 +2134,18 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
         1
       ]
     ]
@@ -2270,7 +2234,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-04-07T17:00:00+01:00",
     "end": "2027-04-07T19:00:00+01:00",
@@ -2356,19 +2320,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -2393,38 +2373,18 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
         1
       ]
     ]
@@ -2513,7 +2473,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-04-14T17:00:00+01:00",
     "end": "2027-04-14T19:00:00+01:00",
@@ -2599,19 +2559,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -2636,38 +2612,18 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
         1
       ]
     ]
@@ -2756,7 +2712,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-04-21T17:00:00+01:00",
     "end": "2027-04-21T19:00:00+01:00",
@@ -2842,19 +2798,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -2879,38 +2851,18 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
         1
       ]
     ]
@@ -2999,7 +2951,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-04-28T17:00:00+01:00",
     "end": "2027-04-28T19:00:00+01:00",
@@ -3085,19 +3037,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -3122,38 +3090,18 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
         1
       ]
     ]
@@ -3242,7 +3190,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-05-05T17:00:00+01:00",
     "end": "2027-05-05T19:00:00+01:00",
@@ -3328,19 +3276,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -3365,38 +3329,18 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
         1
       ]
     ]
@@ -3485,7 +3429,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-05-12T17:00:00+01:00",
     "end": "2027-05-12T19:00:00+01:00",
@@ -3571,19 +3515,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -3608,38 +3568,18 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
         1
       ]
     ]
@@ -3728,7 +3668,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-05-19T17:00:00+01:00",
     "end": "2027-05-19T19:00:00+01:00",
@@ -3814,19 +3754,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -3851,38 +3807,18 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
         1
       ]
     ]
@@ -3971,7 +3907,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-05-26T17:00:00+01:00",
     "end": "2027-05-26T19:00:00+01:00",
@@ -4057,19 +3993,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -4094,38 +4046,18 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
         1
       ]
     ]
@@ -4214,7 +4146,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-06-02T17:00:00+01:00",
     "end": "2027-06-02T19:00:00+01:00",
@@ -4300,19 +4232,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -4337,38 +4285,18 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
         1
       ]
     ]
@@ -4457,7 +4385,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-06-09T17:00:00+01:00",
     "end": "2027-06-09T19:00:00+01:00",
@@ -4543,19 +4471,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -4580,38 +4524,18 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
         1
       ]
     ]
@@ -4700,7 +4624,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-06-16T17:00:00+01:00",
     "end": "2027-06-16T19:00:00+01:00",
@@ -4786,19 +4710,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -4823,38 +4763,18 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
         1
       ]
     ]
@@ -4943,7 +4863,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-06-23T17:00:00+01:00",
     "end": "2027-06-23T19:00:00+01:00",
@@ -5029,19 +4949,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -5066,38 +5002,18 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
         1
       ]
     ]
@@ -5186,7 +5102,7 @@
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Billeri",
     "start": "2027-06-30T17:00:00+01:00",
     "end": "2027-06-30T19:00:00+01:00",

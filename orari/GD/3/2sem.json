@@ -310,43 +310,11 @@
     "corsoStudio": "GD",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -358,14 +326,6 @@
         2
       ],
       [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
         "PITTURA",
         1
       ],
@@ -375,11 +335,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -694,43 +690,11 @@
     "corsoStudio": "GD",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -742,14 +706,6 @@
         2
       ],
       [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
         "PITTURA",
         1
       ],
@@ -759,11 +715,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1078,43 +1070,11 @@
     "corsoStudio": "GD",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -1126,14 +1086,6 @@
         2
       ],
       [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
         "PITTURA",
         1
       ],
@@ -1143,11 +1095,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1462,43 +1450,11 @@
     "corsoStudio": "GD",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -1510,14 +1466,6 @@
         2
       ],
       [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
         "PITTURA",
         1
       ],
@@ -1527,11 +1475,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1846,43 +1830,11 @@
     "corsoStudio": "GD",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -1894,14 +1846,6 @@
         2
       ],
       [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
         "PITTURA",
         1
       ],
@@ -1911,11 +1855,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2230,43 +2210,11 @@
     "corsoStudio": "GD",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -2278,14 +2226,6 @@
         2
       ],
       [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
         "PITTURA",
         1
       ],
@@ -2295,11 +2235,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2614,43 +2590,11 @@
     "corsoStudio": "GD",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -2662,14 +2606,6 @@
         2
       ],
       [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
         "PITTURA",
         1
       ],
@@ -2679,11 +2615,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2998,43 +2970,11 @@
     "corsoStudio": "GD",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -3046,14 +2986,6 @@
         2
       ],
       [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
         "PITTURA",
         1
       ],
@@ -3063,11 +2995,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3382,43 +3350,11 @@
     "corsoStudio": "GD",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -3430,14 +3366,6 @@
         2
       ],
       [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
         "PITTURA",
         1
       ],
@@ -3447,11 +3375,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3766,43 +3730,11 @@
     "corsoStudio": "GD",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -3814,14 +3746,6 @@
         2
       ],
       [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
         "PITTURA",
         1
       ],
@@ -3831,11 +3755,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4150,43 +4110,11 @@
     "corsoStudio": "GD",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -4198,14 +4126,6 @@
         2
       ],
       [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
         "PITTURA",
         1
       ],
@@ -4215,11 +4135,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4534,43 +4490,11 @@
     "corsoStudio": "GD",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -4582,14 +4506,6 @@
         2
       ],
       [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
         "PITTURA",
         1
       ],
@@ -4599,11 +4515,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4918,43 +4870,11 @@
     "corsoStudio": "GD",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -4966,14 +4886,6 @@
         2
       ],
       [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
         "PITTURA",
         1
       ],
@@ -4983,11 +4895,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -5302,43 +5250,11 @@
     "corsoStudio": "GD",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -5350,14 +5266,6 @@
         2
       ],
       [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
         "PITTURA",
         1
       ],
@@ -5367,11 +5275,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -5686,43 +5630,11 @@
     "corsoStudio": "GD",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -5734,14 +5646,6 @@
         2
       ],
       [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
         "PITTURA",
         1
       ],
@@ -5751,11 +5655,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -6070,43 +6010,11 @@
     "corsoStudio": "GD",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -6118,14 +6026,6 @@
         2
       ],
       [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
         "PITTURA",
         1
       ],
@@ -6135,11 +6035,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -6454,43 +6390,11 @@
     "corsoStudio": "GD",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -6502,14 +6406,6 @@
         2
       ],
       [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
         "PITTURA",
         1
       ],
@@ -6519,11 +6415,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -6838,43 +6770,11 @@
     "corsoStudio": "GD",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -6886,14 +6786,6 @@
         2
       ],
       [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
         "PITTURA",
         1
       ],
@@ -6903,11 +6795,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -7222,43 +7150,11 @@
     "corsoStudio": "GD",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -7270,14 +7166,6 @@
         2
       ],
       [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
         "PITTURA",
         1
       ],
@@ -7287,11 +7175,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -7606,43 +7530,11 @@
     "corsoStudio": "GD",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -7654,14 +7546,6 @@
         2
       ],
       [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
         "PITTURA",
         1
       ],
@@ -7671,11 +7555,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -7990,43 +7910,11 @@
     "corsoStudio": "GD",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
         3
       ],
       [
@@ -8038,14 +7926,6 @@
         2
       ],
       [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
         "PITTURA",
         1
       ],
@@ -8055,11 +7935,47 @@
       ],
       [
         "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },

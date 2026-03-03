@@ -101,13 +101,7 @@
     "start": "2026-09-03T10:30:00+01:00",
     "end": "2026-09-03T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -188,19 +182,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -222,42 +232,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -280,7 +270,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-09-07T09:30:00+01:00",
     "end": "2026-09-07T12:30:00+01:00",
@@ -306,7 +296,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-09-07T13:00:00+01:00",
     "end": "2026-09-07T16:00:00+01:00",
@@ -441,13 +431,7 @@
     "start": "2026-09-10T10:30:00+01:00",
     "end": "2026-09-10T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -528,19 +512,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -562,42 +562,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -620,7 +600,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-09-14T09:30:00+01:00",
     "end": "2026-09-14T12:30:00+01:00",
@@ -646,7 +626,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-09-14T13:00:00+01:00",
     "end": "2026-09-14T16:00:00+01:00",
@@ -781,13 +761,7 @@
     "start": "2026-09-17T10:30:00+01:00",
     "end": "2026-09-17T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -868,19 +842,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -902,42 +892,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -960,7 +930,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-09-21T09:30:00+01:00",
     "end": "2026-09-21T12:30:00+01:00",
@@ -986,7 +956,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-09-21T13:00:00+01:00",
     "end": "2026-09-21T16:00:00+01:00",
@@ -1121,13 +1091,7 @@
     "start": "2026-09-24T10:30:00+01:00",
     "end": "2026-09-24T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -1208,19 +1172,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -1242,42 +1222,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1300,7 +1260,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-09-28T09:30:00+01:00",
     "end": "2026-09-28T12:30:00+01:00",
@@ -1326,7 +1286,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-09-28T13:00:00+01:00",
     "end": "2026-09-28T16:00:00+01:00",
@@ -1461,13 +1421,7 @@
     "start": "2026-10-01T10:30:00+01:00",
     "end": "2026-10-01T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -1548,19 +1502,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -1582,42 +1552,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1640,7 +1590,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-10-05T09:30:00+01:00",
     "end": "2026-10-05T12:30:00+01:00",
@@ -1666,7 +1616,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-10-05T13:00:00+01:00",
     "end": "2026-10-05T16:00:00+01:00",
@@ -1801,13 +1751,7 @@
     "start": "2026-10-08T10:30:00+01:00",
     "end": "2026-10-08T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -1888,19 +1832,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -1922,42 +1882,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1980,7 +1920,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-10-12T09:30:00+01:00",
     "end": "2026-10-12T12:30:00+01:00",
@@ -2006,7 +1946,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-10-12T13:00:00+01:00",
     "end": "2026-10-12T16:00:00+01:00",
@@ -2141,13 +2081,7 @@
     "start": "2026-10-15T10:30:00+01:00",
     "end": "2026-10-15T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -2228,19 +2162,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -2262,42 +2212,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2320,7 +2250,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-10-19T09:30:00+01:00",
     "end": "2026-10-19T12:30:00+01:00",
@@ -2346,7 +2276,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-10-19T13:00:00+01:00",
     "end": "2026-10-19T16:00:00+01:00",
@@ -2481,13 +2411,7 @@
     "start": "2026-10-22T10:30:00+01:00",
     "end": "2026-10-22T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -2568,19 +2492,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -2602,42 +2542,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2660,7 +2580,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-10-26T09:30:00+01:00",
     "end": "2026-10-26T12:30:00+01:00",
@@ -2686,7 +2606,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-10-26T13:00:00+01:00",
     "end": "2026-10-26T16:00:00+01:00",
@@ -2821,13 +2741,7 @@
     "start": "2026-10-29T10:30:00+01:00",
     "end": "2026-10-29T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -2908,19 +2822,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -2942,42 +2872,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3000,7 +2910,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-11-02T09:30:00+01:00",
     "end": "2026-11-02T12:30:00+01:00",
@@ -3026,7 +2936,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-11-02T13:00:00+01:00",
     "end": "2026-11-02T16:00:00+01:00",
@@ -3161,13 +3071,7 @@
     "start": "2026-11-05T10:30:00+01:00",
     "end": "2026-11-05T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -3248,19 +3152,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -3282,42 +3202,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3340,7 +3240,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-11-09T09:30:00+01:00",
     "end": "2026-11-09T12:30:00+01:00",
@@ -3366,7 +3266,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-11-09T13:00:00+01:00",
     "end": "2026-11-09T16:00:00+01:00",
@@ -3501,13 +3401,7 @@
     "start": "2026-11-12T10:30:00+01:00",
     "end": "2026-11-12T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -3588,19 +3482,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -3622,42 +3532,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3680,7 +3570,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-11-16T09:30:00+01:00",
     "end": "2026-11-16T12:30:00+01:00",
@@ -3706,7 +3596,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-11-16T13:00:00+01:00",
     "end": "2026-11-16T16:00:00+01:00",
@@ -3841,13 +3731,7 @@
     "start": "2026-11-19T10:30:00+01:00",
     "end": "2026-11-19T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -3928,19 +3812,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -3962,42 +3862,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4020,7 +3900,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-11-23T09:30:00+01:00",
     "end": "2026-11-23T12:30:00+01:00",
@@ -4046,7 +3926,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-11-23T13:00:00+01:00",
     "end": "2026-11-23T16:00:00+01:00",
@@ -4181,13 +4061,7 @@
     "start": "2026-11-26T10:30:00+01:00",
     "end": "2026-11-26T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -4268,19 +4142,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -4302,42 +4192,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4360,7 +4230,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-11-30T09:30:00+01:00",
     "end": "2026-11-30T12:30:00+01:00",
@@ -4386,7 +4256,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-11-30T13:00:00+01:00",
     "end": "2026-11-30T16:00:00+01:00",
@@ -4521,13 +4391,7 @@
     "start": "2026-12-03T10:30:00+01:00",
     "end": "2026-12-03T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -4608,19 +4472,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -4642,42 +4522,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4700,7 +4560,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-12-07T09:30:00+01:00",
     "end": "2026-12-07T12:30:00+01:00",
@@ -4726,7 +4586,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-12-07T13:00:00+01:00",
     "end": "2026-12-07T16:00:00+01:00",
@@ -4861,13 +4721,7 @@
     "start": "2026-12-10T10:30:00+01:00",
     "end": "2026-12-10T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -4948,19 +4802,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -4982,42 +4852,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -5040,7 +4890,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-12-14T09:30:00+01:00",
     "end": "2026-12-14T12:30:00+01:00",
@@ -5066,7 +4916,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-12-14T13:00:00+01:00",
     "end": "2026-12-14T16:00:00+01:00",
@@ -5201,13 +5051,7 @@
     "start": "2026-12-17T10:30:00+01:00",
     "end": "2026-12-17T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -5288,19 +5132,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -5322,42 +5182,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -5380,7 +5220,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-12-21T09:30:00+01:00",
     "end": "2026-12-21T12:30:00+01:00",
@@ -5406,7 +5246,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-12-21T13:00:00+01:00",
     "end": "2026-12-21T16:00:00+01:00",
@@ -5541,13 +5381,7 @@
     "start": "2026-12-24T10:30:00+01:00",
     "end": "2026-12-24T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -5628,19 +5462,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -5662,42 +5512,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -5720,7 +5550,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-12-28T09:30:00+01:00",
     "end": "2026-12-28T12:30:00+01:00",
@@ -5746,7 +5576,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2026-12-28T13:00:00+01:00",
     "end": "2026-12-28T16:00:00+01:00",
@@ -5881,13 +5711,7 @@
     "start": "2026-12-31T10:30:00+01:00",
     "end": "2026-12-31T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -5968,19 +5792,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -6002,42 +5842,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -6060,7 +5880,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-01-04T09:30:00+01:00",
     "end": "2027-01-04T12:30:00+01:00",
@@ -6086,7 +5906,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-01-04T13:00:00+01:00",
     "end": "2027-01-04T16:00:00+01:00",
@@ -6221,13 +6041,7 @@
     "start": "2027-01-07T10:30:00+01:00",
     "end": "2027-01-07T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -6308,19 +6122,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -6342,42 +6172,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -6400,7 +6210,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-01-11T09:30:00+01:00",
     "end": "2027-01-11T12:30:00+01:00",
@@ -6426,7 +6236,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-01-11T13:00:00+01:00",
     "end": "2027-01-11T16:00:00+01:00",
@@ -6561,13 +6371,7 @@
     "start": "2027-01-14T10:30:00+01:00",
     "end": "2027-01-14T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -6648,19 +6452,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -6682,42 +6502,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -6740,7 +6540,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-01-18T09:30:00+01:00",
     "end": "2027-01-18T12:30:00+01:00",
@@ -6766,7 +6566,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-01-18T13:00:00+01:00",
     "end": "2027-01-18T16:00:00+01:00",
@@ -6901,13 +6701,7 @@
     "start": "2027-01-21T10:30:00+01:00",
     "end": "2027-01-21T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -6988,19 +6782,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -7022,42 +6832,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -7080,7 +6870,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "A",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-01-25T09:30:00+01:00",
     "end": "2027-01-25T12:30:00+01:00",
@@ -7106,7 +6896,7 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": "B",
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-01-25T13:00:00+01:00",
     "end": "2027-01-25T16:00:00+01:00",
@@ -7241,13 +7031,7 @@
     "start": "2027-01-28T10:30:00+01:00",
     "end": "2027-01-28T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "PITTURA",
-        3
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Direzione della Fotografia",
@@ -7328,19 +7112,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -7362,42 +7162,22 @@
       [
         "FOTOGRAFIA",
         2
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   }

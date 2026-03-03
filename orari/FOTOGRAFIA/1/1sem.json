@@ -18,7 +18,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-09-01T13:00:00+01:00",
     "end": "2026-09-01T17:00:00+01:00",
@@ -31,7 +31,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-09-01T14:00:00+01:00",
     "end": "2026-09-01T18:00:00+01:00",
@@ -140,13 +140,7 @@
     "start": "2026-09-03T14:00:00+01:00",
     "end": "2026-09-03T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -162,19 +156,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -195,43 +205,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -241,7 +231,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Andreoni",
     "start": "2026-09-07T10:30:00+01:00",
     "end": "2026-09-07T13:30:00+01:00",
@@ -275,10 +265,6 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "PITTURA",
-        3
-      ],
-      [
         "REGIA",
         1
       ]
@@ -303,7 +289,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-09-08T13:00:00+01:00",
     "end": "2026-09-08T17:00:00+01:00",
@@ -316,7 +302,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-09-08T14:00:00+01:00",
     "end": "2026-09-08T18:00:00+01:00",
@@ -425,13 +411,7 @@
     "start": "2026-09-10T14:00:00+01:00",
     "end": "2026-09-10T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -447,19 +427,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -480,43 +476,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -526,7 +502,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Andreoni",
     "start": "2026-09-14T10:30:00+01:00",
     "end": "2026-09-14T13:30:00+01:00",
@@ -560,10 +536,6 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "PITTURA",
-        3
-      ],
-      [
         "REGIA",
         1
       ]
@@ -588,7 +560,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-09-15T13:00:00+01:00",
     "end": "2026-09-15T17:00:00+01:00",
@@ -601,7 +573,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-09-15T14:00:00+01:00",
     "end": "2026-09-15T18:00:00+01:00",
@@ -710,13 +682,7 @@
     "start": "2026-09-17T14:00:00+01:00",
     "end": "2026-09-17T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -732,19 +698,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -765,43 +747,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -811,7 +773,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Andreoni",
     "start": "2026-09-21T10:30:00+01:00",
     "end": "2026-09-21T13:30:00+01:00",
@@ -845,10 +807,6 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "PITTURA",
-        3
-      ],
-      [
         "REGIA",
         1
       ]
@@ -873,7 +831,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-09-22T13:00:00+01:00",
     "end": "2026-09-22T17:00:00+01:00",
@@ -886,7 +844,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-09-22T14:00:00+01:00",
     "end": "2026-09-22T18:00:00+01:00",
@@ -995,13 +953,7 @@
     "start": "2026-09-24T14:00:00+01:00",
     "end": "2026-09-24T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1017,19 +969,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -1050,43 +1018,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1096,7 +1044,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Andreoni",
     "start": "2026-09-28T10:30:00+01:00",
     "end": "2026-09-28T13:30:00+01:00",
@@ -1130,10 +1078,6 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "PITTURA",
-        3
-      ],
-      [
         "REGIA",
         1
       ]
@@ -1158,7 +1102,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-09-29T13:00:00+01:00",
     "end": "2026-09-29T17:00:00+01:00",
@@ -1171,7 +1115,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-09-29T14:00:00+01:00",
     "end": "2026-09-29T18:00:00+01:00",
@@ -1280,13 +1224,7 @@
     "start": "2026-10-01T14:00:00+01:00",
     "end": "2026-10-01T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1302,19 +1240,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -1335,43 +1289,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1381,7 +1315,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Andreoni",
     "start": "2026-10-05T10:30:00+01:00",
     "end": "2026-10-05T13:30:00+01:00",
@@ -1415,10 +1349,6 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "PITTURA",
-        3
-      ],
-      [
         "REGIA",
         1
       ]
@@ -1443,7 +1373,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-10-06T13:00:00+01:00",
     "end": "2026-10-06T17:00:00+01:00",
@@ -1456,7 +1386,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-10-06T14:00:00+01:00",
     "end": "2026-10-06T18:00:00+01:00",
@@ -1565,13 +1495,7 @@
     "start": "2026-10-08T14:00:00+01:00",
     "end": "2026-10-08T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1587,19 +1511,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -1620,43 +1560,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1666,7 +1586,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Andreoni",
     "start": "2026-10-12T10:30:00+01:00",
     "end": "2026-10-12T13:30:00+01:00",
@@ -1700,10 +1620,6 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "PITTURA",
-        3
-      ],
-      [
         "REGIA",
         1
       ]
@@ -1728,7 +1644,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-10-13T13:00:00+01:00",
     "end": "2026-10-13T17:00:00+01:00",
@@ -1741,7 +1657,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-10-13T14:00:00+01:00",
     "end": "2026-10-13T18:00:00+01:00",
@@ -1850,13 +1766,7 @@
     "start": "2026-10-15T14:00:00+01:00",
     "end": "2026-10-15T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -1872,19 +1782,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -1905,43 +1831,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1951,7 +1857,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Andreoni",
     "start": "2026-10-19T10:30:00+01:00",
     "end": "2026-10-19T13:30:00+01:00",
@@ -1985,10 +1891,6 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "PITTURA",
-        3
-      ],
-      [
         "REGIA",
         1
       ]
@@ -2013,7 +1915,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-10-20T13:00:00+01:00",
     "end": "2026-10-20T17:00:00+01:00",
@@ -2026,7 +1928,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-10-20T14:00:00+01:00",
     "end": "2026-10-20T18:00:00+01:00",
@@ -2135,13 +2037,7 @@
     "start": "2026-10-22T14:00:00+01:00",
     "end": "2026-10-22T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2157,19 +2053,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -2190,43 +2102,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2236,7 +2128,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Andreoni",
     "start": "2026-10-26T10:30:00+01:00",
     "end": "2026-10-26T13:30:00+01:00",
@@ -2270,10 +2162,6 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "PITTURA",
-        3
-      ],
-      [
         "REGIA",
         1
       ]
@@ -2298,7 +2186,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-10-27T13:00:00+01:00",
     "end": "2026-10-27T17:00:00+01:00",
@@ -2311,7 +2199,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-10-27T14:00:00+01:00",
     "end": "2026-10-27T18:00:00+01:00",
@@ -2420,13 +2308,7 @@
     "start": "2026-10-29T14:00:00+01:00",
     "end": "2026-10-29T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2442,19 +2324,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -2475,43 +2373,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2521,7 +2399,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Andreoni",
     "start": "2026-11-02T10:30:00+01:00",
     "end": "2026-11-02T13:30:00+01:00",
@@ -2555,10 +2433,6 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "PITTURA",
-        3
-      ],
-      [
         "REGIA",
         1
       ]
@@ -2583,7 +2457,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-11-03T13:00:00+01:00",
     "end": "2026-11-03T17:00:00+01:00",
@@ -2596,7 +2470,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-11-03T14:00:00+01:00",
     "end": "2026-11-03T18:00:00+01:00",
@@ -2705,13 +2579,7 @@
     "start": "2026-11-05T14:00:00+01:00",
     "end": "2026-11-05T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -2727,19 +2595,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -2760,43 +2644,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2806,7 +2670,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Andreoni",
     "start": "2026-11-09T10:30:00+01:00",
     "end": "2026-11-09T13:30:00+01:00",
@@ -2840,10 +2704,6 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "PITTURA",
-        3
-      ],
-      [
         "REGIA",
         1
       ]
@@ -2868,7 +2728,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-11-10T13:00:00+01:00",
     "end": "2026-11-10T17:00:00+01:00",
@@ -2881,7 +2741,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-11-10T14:00:00+01:00",
     "end": "2026-11-10T18:00:00+01:00",
@@ -2990,13 +2850,7 @@
     "start": "2026-11-12T14:00:00+01:00",
     "end": "2026-11-12T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -3012,19 +2866,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -3045,43 +2915,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3091,7 +2941,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Andreoni",
     "start": "2026-11-16T10:30:00+01:00",
     "end": "2026-11-16T13:30:00+01:00",
@@ -3125,10 +2975,6 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "PITTURA",
-        3
-      ],
-      [
         "REGIA",
         1
       ]
@@ -3153,7 +2999,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-11-17T13:00:00+01:00",
     "end": "2026-11-17T17:00:00+01:00",
@@ -3166,7 +3012,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-11-17T14:00:00+01:00",
     "end": "2026-11-17T18:00:00+01:00",
@@ -3275,13 +3121,7 @@
     "start": "2026-11-19T14:00:00+01:00",
     "end": "2026-11-19T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -3297,19 +3137,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -3330,43 +3186,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3376,7 +3212,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Andreoni",
     "start": "2026-11-23T10:30:00+01:00",
     "end": "2026-11-23T13:30:00+01:00",
@@ -3410,10 +3246,6 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "PITTURA",
-        3
-      ],
-      [
         "REGIA",
         1
       ]
@@ -3438,7 +3270,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-11-24T13:00:00+01:00",
     "end": "2026-11-24T17:00:00+01:00",
@@ -3451,7 +3283,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-11-24T14:00:00+01:00",
     "end": "2026-11-24T18:00:00+01:00",
@@ -3560,13 +3392,7 @@
     "start": "2026-11-26T14:00:00+01:00",
     "end": "2026-11-26T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -3582,19 +3408,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -3615,43 +3457,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3661,7 +3483,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Andreoni",
     "start": "2026-11-30T10:30:00+01:00",
     "end": "2026-11-30T13:30:00+01:00",
@@ -3695,10 +3517,6 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "PITTURA",
-        3
-      ],
-      [
         "REGIA",
         1
       ]
@@ -3723,7 +3541,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-12-01T13:00:00+01:00",
     "end": "2026-12-01T17:00:00+01:00",
@@ -3736,7 +3554,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-12-01T14:00:00+01:00",
     "end": "2026-12-01T18:00:00+01:00",
@@ -3845,13 +3663,7 @@
     "start": "2026-12-03T14:00:00+01:00",
     "end": "2026-12-03T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -3867,19 +3679,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -3900,43 +3728,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3946,7 +3754,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Andreoni",
     "start": "2026-12-07T10:30:00+01:00",
     "end": "2026-12-07T13:30:00+01:00",
@@ -3980,10 +3788,6 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "PITTURA",
-        3
-      ],
-      [
         "REGIA",
         1
       ]
@@ -4008,7 +3812,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-12-08T13:00:00+01:00",
     "end": "2026-12-08T17:00:00+01:00",
@@ -4021,7 +3825,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-12-08T14:00:00+01:00",
     "end": "2026-12-08T18:00:00+01:00",
@@ -4130,13 +3934,7 @@
     "start": "2026-12-10T14:00:00+01:00",
     "end": "2026-12-10T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -4152,19 +3950,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -4185,43 +3999,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4231,7 +4025,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Andreoni",
     "start": "2026-12-14T10:30:00+01:00",
     "end": "2026-12-14T13:30:00+01:00",
@@ -4265,10 +4059,6 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "PITTURA",
-        3
-      ],
-      [
         "REGIA",
         1
       ]
@@ -4293,7 +4083,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-12-15T13:00:00+01:00",
     "end": "2026-12-15T17:00:00+01:00",
@@ -4306,7 +4096,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-12-15T14:00:00+01:00",
     "end": "2026-12-15T18:00:00+01:00",
@@ -4415,13 +4205,7 @@
     "start": "2026-12-17T14:00:00+01:00",
     "end": "2026-12-17T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -4437,19 +4221,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -4470,43 +4270,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4516,7 +4296,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Andreoni",
     "start": "2026-12-21T10:30:00+01:00",
     "end": "2026-12-21T13:30:00+01:00",
@@ -4550,10 +4330,6 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "PITTURA",
-        3
-      ],
-      [
         "REGIA",
         1
       ]
@@ -4578,7 +4354,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-12-22T13:00:00+01:00",
     "end": "2026-12-22T17:00:00+01:00",
@@ -4591,7 +4367,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-12-22T14:00:00+01:00",
     "end": "2026-12-22T18:00:00+01:00",
@@ -4700,13 +4476,7 @@
     "start": "2026-12-24T14:00:00+01:00",
     "end": "2026-12-24T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -4722,19 +4492,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -4755,43 +4541,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4801,7 +4567,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Andreoni",
     "start": "2026-12-28T10:30:00+01:00",
     "end": "2026-12-28T13:30:00+01:00",
@@ -4835,10 +4601,6 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "PITTURA",
-        3
-      ],
-      [
         "REGIA",
         1
       ]
@@ -4863,7 +4625,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-12-29T13:00:00+01:00",
     "end": "2026-12-29T17:00:00+01:00",
@@ -4876,7 +4638,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2026-12-29T14:00:00+01:00",
     "end": "2026-12-29T18:00:00+01:00",
@@ -4985,13 +4747,7 @@
     "start": "2026-12-31T14:00:00+01:00",
     "end": "2026-12-31T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -5007,19 +4763,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -5040,43 +4812,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -5086,7 +4838,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Andreoni",
     "start": "2027-01-04T10:30:00+01:00",
     "end": "2027-01-04T13:30:00+01:00",
@@ -5120,10 +4872,6 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "PITTURA",
-        3
-      ],
-      [
         "REGIA",
         1
       ]
@@ -5148,7 +4896,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2027-01-05T13:00:00+01:00",
     "end": "2027-01-05T17:00:00+01:00",
@@ -5161,7 +4909,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2027-01-05T14:00:00+01:00",
     "end": "2027-01-05T18:00:00+01:00",
@@ -5270,13 +5018,7 @@
     "start": "2027-01-07T14:00:00+01:00",
     "end": "2027-01-07T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -5292,19 +5034,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -5325,43 +5083,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -5371,7 +5109,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Andreoni",
     "start": "2027-01-11T10:30:00+01:00",
     "end": "2027-01-11T13:30:00+01:00",
@@ -5405,10 +5143,6 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "PITTURA",
-        3
-      ],
-      [
         "REGIA",
         1
       ]
@@ -5433,7 +5167,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2027-01-12T13:00:00+01:00",
     "end": "2027-01-12T17:00:00+01:00",
@@ -5446,7 +5180,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2027-01-12T14:00:00+01:00",
     "end": "2027-01-12T18:00:00+01:00",
@@ -5555,13 +5289,7 @@
     "start": "2027-01-14T14:00:00+01:00",
     "end": "2027-01-14T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -5577,19 +5305,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -5610,43 +5354,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -5656,7 +5380,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Andreoni",
     "start": "2027-01-18T10:30:00+01:00",
     "end": "2027-01-18T13:30:00+01:00",
@@ -5690,10 +5414,6 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "PITTURA",
-        3
-      ],
-      [
         "REGIA",
         1
       ]
@@ -5718,7 +5438,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2027-01-19T13:00:00+01:00",
     "end": "2027-01-19T17:00:00+01:00",
@@ -5731,7 +5451,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2027-01-19T14:00:00+01:00",
     "end": "2027-01-19T18:00:00+01:00",
@@ -5840,13 +5560,7 @@
     "start": "2027-01-21T14:00:00+01:00",
     "end": "2027-01-21T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -5862,19 +5576,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -5895,43 +5625,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -5941,7 +5651,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Andreoni",
     "start": "2027-01-25T10:30:00+01:00",
     "end": "2027-01-25T13:30:00+01:00",
@@ -5975,10 +5685,6 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "PITTURA",
-        3
-      ],
-      [
         "REGIA",
         1
       ]
@@ -6003,7 +5709,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2027-01-26T13:00:00+01:00",
     "end": "2027-01-26T17:00:00+01:00",
@@ -6016,7 +5722,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Verdiani / Bernacchi",
     "start": "2027-01-26T14:00:00+01:00",
     "end": "2027-01-26T18:00:00+01:00",
@@ -6125,13 +5831,7 @@
     "start": "2027-01-28T14:00:00+01:00",
     "end": "2027-01-28T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FOTOGRAFIA",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        1
-      ]
-    ]
+    "corsoStudio": "FOTOGRAFIA"
   },
   {
     "corso": "Italiano per Stranieri",
@@ -6147,19 +5847,35 @@
     "corsoStudio": "FOTOGRAFIA",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -6180,43 +5896,23 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   }

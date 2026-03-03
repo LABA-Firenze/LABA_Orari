@@ -18,7 +18,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-02-01T17:00:00+01:00",
     "end": "2027-02-01T21:00:00+01:00",
@@ -122,7 +122,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-02-05T14:00:00+01:00",
     "end": "2027-02-05T16:00:00+01:00",
@@ -156,19 +156,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -193,39 +209,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -248,7 +244,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-02-08T17:00:00+01:00",
     "end": "2027-02-08T21:00:00+01:00",
@@ -352,7 +348,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-02-12T14:00:00+01:00",
     "end": "2027-02-12T16:00:00+01:00",
@@ -386,19 +382,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -423,39 +435,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -478,7 +470,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-02-15T17:00:00+01:00",
     "end": "2027-02-15T21:00:00+01:00",
@@ -582,7 +574,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-02-19T14:00:00+01:00",
     "end": "2027-02-19T16:00:00+01:00",
@@ -616,19 +608,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -653,39 +661,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -708,7 +696,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-02-22T17:00:00+01:00",
     "end": "2027-02-22T21:00:00+01:00",
@@ -812,7 +800,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-02-26T14:00:00+01:00",
     "end": "2027-02-26T16:00:00+01:00",
@@ -846,19 +834,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -883,39 +887,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -938,7 +922,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-03-01T17:00:00+01:00",
     "end": "2027-03-01T21:00:00+01:00",
@@ -1042,7 +1026,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-03-05T14:00:00+01:00",
     "end": "2027-03-05T16:00:00+01:00",
@@ -1076,19 +1060,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -1113,39 +1113,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1168,7 +1148,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-03-08T17:00:00+01:00",
     "end": "2027-03-08T21:00:00+01:00",
@@ -1272,7 +1252,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-03-12T14:00:00+01:00",
     "end": "2027-03-12T16:00:00+01:00",
@@ -1306,19 +1286,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -1343,39 +1339,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1398,7 +1374,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-03-15T17:00:00+01:00",
     "end": "2027-03-15T21:00:00+01:00",
@@ -1502,7 +1478,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-03-19T14:00:00+01:00",
     "end": "2027-03-19T16:00:00+01:00",
@@ -1536,19 +1512,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -1573,39 +1565,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1628,7 +1600,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-03-22T17:00:00+01:00",
     "end": "2027-03-22T21:00:00+01:00",
@@ -1732,7 +1704,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-03-26T14:00:00+01:00",
     "end": "2027-03-26T16:00:00+01:00",
@@ -1766,19 +1738,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -1803,39 +1791,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1858,7 +1826,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-03-29T17:00:00+01:00",
     "end": "2027-03-29T21:00:00+01:00",
@@ -1962,7 +1930,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-04-02T14:00:00+01:00",
     "end": "2027-04-02T16:00:00+01:00",
@@ -1996,19 +1964,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -2033,39 +2017,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2088,7 +2052,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-04-05T17:00:00+01:00",
     "end": "2027-04-05T21:00:00+01:00",
@@ -2192,7 +2156,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-04-09T14:00:00+01:00",
     "end": "2027-04-09T16:00:00+01:00",
@@ -2226,19 +2190,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -2263,39 +2243,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2318,7 +2278,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-04-12T17:00:00+01:00",
     "end": "2027-04-12T21:00:00+01:00",
@@ -2422,7 +2382,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-04-16T14:00:00+01:00",
     "end": "2027-04-16T16:00:00+01:00",
@@ -2456,19 +2416,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -2493,39 +2469,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2548,7 +2504,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-04-19T17:00:00+01:00",
     "end": "2027-04-19T21:00:00+01:00",
@@ -2652,7 +2608,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-04-23T14:00:00+01:00",
     "end": "2027-04-23T16:00:00+01:00",
@@ -2686,19 +2642,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -2723,39 +2695,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2778,7 +2730,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-04-26T17:00:00+01:00",
     "end": "2027-04-26T21:00:00+01:00",
@@ -2882,7 +2834,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-04-30T14:00:00+01:00",
     "end": "2027-04-30T16:00:00+01:00",
@@ -2916,19 +2868,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -2953,39 +2921,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3008,7 +2956,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-05-03T17:00:00+01:00",
     "end": "2027-05-03T21:00:00+01:00",
@@ -3112,7 +3060,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-05-07T14:00:00+01:00",
     "end": "2027-05-07T16:00:00+01:00",
@@ -3146,19 +3094,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -3183,39 +3147,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3238,7 +3182,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-05-10T17:00:00+01:00",
     "end": "2027-05-10T21:00:00+01:00",
@@ -3342,7 +3286,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-05-14T14:00:00+01:00",
     "end": "2027-05-14T16:00:00+01:00",
@@ -3376,19 +3320,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -3413,39 +3373,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3468,7 +3408,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-05-17T17:00:00+01:00",
     "end": "2027-05-17T21:00:00+01:00",
@@ -3572,7 +3512,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-05-21T14:00:00+01:00",
     "end": "2027-05-21T16:00:00+01:00",
@@ -3606,19 +3546,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -3643,39 +3599,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3698,7 +3634,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-05-24T17:00:00+01:00",
     "end": "2027-05-24T21:00:00+01:00",
@@ -3802,7 +3738,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-05-28T14:00:00+01:00",
     "end": "2027-05-28T16:00:00+01:00",
@@ -3836,19 +3772,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -3873,39 +3825,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3928,7 +3860,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-05-31T17:00:00+01:00",
     "end": "2027-05-31T21:00:00+01:00",
@@ -4032,7 +3964,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-06-04T14:00:00+01:00",
     "end": "2027-06-04T16:00:00+01:00",
@@ -4066,19 +3998,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -4103,39 +4051,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4158,7 +4086,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-06-07T17:00:00+01:00",
     "end": "2027-06-07T21:00:00+01:00",
@@ -4262,7 +4190,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-06-11T14:00:00+01:00",
     "end": "2027-06-11T16:00:00+01:00",
@@ -4296,19 +4224,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -4333,39 +4277,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4388,7 +4312,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-06-14T17:00:00+01:00",
     "end": "2027-06-14T21:00:00+01:00",
@@ -4492,7 +4416,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-06-18T14:00:00+01:00",
     "end": "2027-06-18T16:00:00+01:00",
@@ -4526,19 +4450,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -4563,39 +4503,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4618,7 +4538,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-06-21T17:00:00+01:00",
     "end": "2027-06-21T21:00:00+01:00",
@@ -4722,7 +4642,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-06-25T14:00:00+01:00",
     "end": "2027-06-25T16:00:00+01:00",
@@ -4756,19 +4676,35 @@
     "corsoStudio": "INTERIOR",
     "altriCorsi": [
       [
-        "CINEMA",
-        1
-      ],
-      [
-        "DESIGN",
-        1
-      ],
-      [
         "DESIGN",
         2
       ],
       [
         "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
         3
       ],
       [
@@ -4793,39 +4729,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4848,7 +4764,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bua",
     "start": "2027-06-28T17:00:00+01:00",
     "end": "2027-06-28T21:00:00+01:00",

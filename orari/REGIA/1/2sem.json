@@ -41,10 +41,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -54,7 +50,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-02-02T11:00:00+01:00",
     "end": "2027-02-02T13:00:00+01:00",
@@ -119,7 +115,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-02-03T14:00:00+01:00",
     "end": "2027-02-03T17:00:00+01:00",
@@ -179,76 +175,72 @@
     "corsoStudio": "REGIA",
     "altriCorsi": [
       [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
         "CINEMA",
         1
       ],
       [
-        "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
         "INTERIOR",
         1
       ],
       [
         "INTERIOR",
         2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -294,10 +286,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -307,7 +295,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-02-09T11:00:00+01:00",
     "end": "2027-02-09T13:00:00+01:00",
@@ -372,7 +360,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-02-10T14:00:00+01:00",
     "end": "2027-02-10T17:00:00+01:00",
@@ -432,76 +420,72 @@
     "corsoStudio": "REGIA",
     "altriCorsi": [
       [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
         "CINEMA",
         1
       ],
       [
-        "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
         "INTERIOR",
         1
       ],
       [
         "INTERIOR",
         2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -547,10 +531,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -560,7 +540,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-02-16T11:00:00+01:00",
     "end": "2027-02-16T13:00:00+01:00",
@@ -625,7 +605,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-02-17T14:00:00+01:00",
     "end": "2027-02-17T17:00:00+01:00",
@@ -685,76 +665,72 @@
     "corsoStudio": "REGIA",
     "altriCorsi": [
       [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
         "CINEMA",
         1
       ],
       [
-        "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
         "INTERIOR",
         1
       ],
       [
         "INTERIOR",
         2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -800,10 +776,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -813,7 +785,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-02-23T11:00:00+01:00",
     "end": "2027-02-23T13:00:00+01:00",
@@ -878,7 +850,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-02-24T14:00:00+01:00",
     "end": "2027-02-24T17:00:00+01:00",
@@ -938,76 +910,72 @@
     "corsoStudio": "REGIA",
     "altriCorsi": [
       [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
         "CINEMA",
         1
       ],
       [
-        "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
         "INTERIOR",
         1
       ],
       [
         "INTERIOR",
         2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -1053,10 +1021,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -1066,7 +1030,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-03-02T11:00:00+01:00",
     "end": "2027-03-02T13:00:00+01:00",
@@ -1131,7 +1095,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-03-03T14:00:00+01:00",
     "end": "2027-03-03T17:00:00+01:00",
@@ -1191,76 +1155,72 @@
     "corsoStudio": "REGIA",
     "altriCorsi": [
       [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
         "CINEMA",
         1
       ],
       [
-        "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
         "INTERIOR",
         1
       ],
       [
         "INTERIOR",
         2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -1306,10 +1266,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -1319,7 +1275,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-03-09T11:00:00+01:00",
     "end": "2027-03-09T13:00:00+01:00",
@@ -1384,7 +1340,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-03-10T14:00:00+01:00",
     "end": "2027-03-10T17:00:00+01:00",
@@ -1444,76 +1400,72 @@
     "corsoStudio": "REGIA",
     "altriCorsi": [
       [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
         "CINEMA",
         1
       ],
       [
-        "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
         "INTERIOR",
         1
       ],
       [
         "INTERIOR",
         2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -1559,10 +1511,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -1572,7 +1520,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-03-16T11:00:00+01:00",
     "end": "2027-03-16T13:00:00+01:00",
@@ -1637,7 +1585,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-03-17T14:00:00+01:00",
     "end": "2027-03-17T17:00:00+01:00",
@@ -1697,76 +1645,72 @@
     "corsoStudio": "REGIA",
     "altriCorsi": [
       [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
         "CINEMA",
         1
       ],
       [
-        "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
         "INTERIOR",
         1
       ],
       [
         "INTERIOR",
         2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -1812,10 +1756,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -1825,7 +1765,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-03-23T11:00:00+01:00",
     "end": "2027-03-23T13:00:00+01:00",
@@ -1890,7 +1830,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-03-24T14:00:00+01:00",
     "end": "2027-03-24T17:00:00+01:00",
@@ -1950,76 +1890,72 @@
     "corsoStudio": "REGIA",
     "altriCorsi": [
       [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
         "CINEMA",
         1
       ],
       [
-        "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
         "INTERIOR",
         1
       ],
       [
         "INTERIOR",
         2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -2065,10 +2001,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -2078,7 +2010,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-03-30T11:00:00+01:00",
     "end": "2027-03-30T13:00:00+01:00",
@@ -2143,7 +2075,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-03-31T14:00:00+01:00",
     "end": "2027-03-31T17:00:00+01:00",
@@ -2203,76 +2135,72 @@
     "corsoStudio": "REGIA",
     "altriCorsi": [
       [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
         "CINEMA",
         1
       ],
       [
-        "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
         "INTERIOR",
         1
       ],
       [
         "INTERIOR",
         2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -2318,10 +2246,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -2331,7 +2255,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-04-06T11:00:00+01:00",
     "end": "2027-04-06T13:00:00+01:00",
@@ -2396,7 +2320,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-04-07T14:00:00+01:00",
     "end": "2027-04-07T17:00:00+01:00",
@@ -2456,76 +2380,72 @@
     "corsoStudio": "REGIA",
     "altriCorsi": [
       [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
         "CINEMA",
         1
       ],
       [
-        "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
         "INTERIOR",
         1
       ],
       [
         "INTERIOR",
         2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -2571,10 +2491,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -2584,7 +2500,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-04-13T11:00:00+01:00",
     "end": "2027-04-13T13:00:00+01:00",
@@ -2649,7 +2565,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-04-14T14:00:00+01:00",
     "end": "2027-04-14T17:00:00+01:00",
@@ -2709,76 +2625,72 @@
     "corsoStudio": "REGIA",
     "altriCorsi": [
       [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
         "CINEMA",
         1
       ],
       [
-        "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
         "INTERIOR",
         1
       ],
       [
         "INTERIOR",
         2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -2824,10 +2736,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -2837,7 +2745,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-04-20T11:00:00+01:00",
     "end": "2027-04-20T13:00:00+01:00",
@@ -2902,7 +2810,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-04-21T14:00:00+01:00",
     "end": "2027-04-21T17:00:00+01:00",
@@ -2962,76 +2870,72 @@
     "corsoStudio": "REGIA",
     "altriCorsi": [
       [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
         "CINEMA",
         1
       ],
       [
-        "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
         "INTERIOR",
         1
       ],
       [
         "INTERIOR",
         2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -3077,10 +2981,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -3090,7 +2990,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-04-27T11:00:00+01:00",
     "end": "2027-04-27T13:00:00+01:00",
@@ -3155,7 +3055,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-04-28T14:00:00+01:00",
     "end": "2027-04-28T17:00:00+01:00",
@@ -3215,76 +3115,72 @@
     "corsoStudio": "REGIA",
     "altriCorsi": [
       [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
         "CINEMA",
         1
       ],
       [
-        "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
         "INTERIOR",
         1
       ],
       [
         "INTERIOR",
         2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -3330,10 +3226,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -3343,7 +3235,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-05-04T11:00:00+01:00",
     "end": "2027-05-04T13:00:00+01:00",
@@ -3408,7 +3300,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-05-05T14:00:00+01:00",
     "end": "2027-05-05T17:00:00+01:00",
@@ -3468,76 +3360,72 @@
     "corsoStudio": "REGIA",
     "altriCorsi": [
       [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
         "CINEMA",
         1
       ],
       [
-        "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
         "INTERIOR",
         1
       ],
       [
         "INTERIOR",
         2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -3583,10 +3471,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -3596,7 +3480,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-05-11T11:00:00+01:00",
     "end": "2027-05-11T13:00:00+01:00",
@@ -3661,7 +3545,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-05-12T14:00:00+01:00",
     "end": "2027-05-12T17:00:00+01:00",
@@ -3721,76 +3605,72 @@
     "corsoStudio": "REGIA",
     "altriCorsi": [
       [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
         "CINEMA",
         1
       ],
       [
-        "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
         "INTERIOR",
         1
       ],
       [
         "INTERIOR",
         2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -3836,10 +3716,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -3849,7 +3725,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-05-18T11:00:00+01:00",
     "end": "2027-05-18T13:00:00+01:00",
@@ -3914,7 +3790,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-05-19T14:00:00+01:00",
     "end": "2027-05-19T17:00:00+01:00",
@@ -3974,76 +3850,72 @@
     "corsoStudio": "REGIA",
     "altriCorsi": [
       [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
         "CINEMA",
         1
       ],
       [
-        "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
         "INTERIOR",
         1
       ],
       [
         "INTERIOR",
         2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -4089,10 +3961,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -4102,7 +3970,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-05-25T11:00:00+01:00",
     "end": "2027-05-25T13:00:00+01:00",
@@ -4167,7 +4035,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-05-26T14:00:00+01:00",
     "end": "2027-05-26T17:00:00+01:00",
@@ -4227,76 +4095,72 @@
     "corsoStudio": "REGIA",
     "altriCorsi": [
       [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
         "CINEMA",
         1
       ],
       [
-        "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
         "INTERIOR",
         1
       ],
       [
         "INTERIOR",
         2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -4342,10 +4206,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -4355,7 +4215,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-06-01T11:00:00+01:00",
     "end": "2027-06-01T13:00:00+01:00",
@@ -4420,7 +4280,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-06-02T14:00:00+01:00",
     "end": "2027-06-02T17:00:00+01:00",
@@ -4480,76 +4340,72 @@
     "corsoStudio": "REGIA",
     "altriCorsi": [
       [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
         "CINEMA",
         1
       ],
       [
-        "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
         "INTERIOR",
         1
       ],
       [
         "INTERIOR",
         2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -4595,10 +4451,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -4608,7 +4460,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-06-08T11:00:00+01:00",
     "end": "2027-06-08T13:00:00+01:00",
@@ -4673,7 +4525,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-06-09T14:00:00+01:00",
     "end": "2027-06-09T17:00:00+01:00",
@@ -4733,76 +4585,72 @@
     "corsoStudio": "REGIA",
     "altriCorsi": [
       [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
         "CINEMA",
         1
       ],
       [
-        "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
         "INTERIOR",
         1
       ],
       [
         "INTERIOR",
         2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -4848,10 +4696,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -4861,7 +4705,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-06-15T11:00:00+01:00",
     "end": "2027-06-15T13:00:00+01:00",
@@ -4926,7 +4770,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-06-16T14:00:00+01:00",
     "end": "2027-06-16T17:00:00+01:00",
@@ -4986,76 +4830,72 @@
     "corsoStudio": "REGIA",
     "altriCorsi": [
       [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
         "CINEMA",
         1
       ],
       [
-        "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
         "INTERIOR",
         1
       ],
       [
         "INTERIOR",
         2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -5101,10 +4941,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -5114,7 +4950,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-06-22T11:00:00+01:00",
     "end": "2027-06-22T13:00:00+01:00",
@@ -5179,7 +5015,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-06-23T14:00:00+01:00",
     "end": "2027-06-23T17:00:00+01:00",
@@ -5239,76 +5075,72 @@
     "corsoStudio": "REGIA",
     "altriCorsi": [
       [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
         "CINEMA",
         1
       ],
       [
-        "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
         "INTERIOR",
         1
       ],
       [
         "INTERIOR",
         2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -5354,10 +5186,6 @@
       [
         "FOTOGRAFIA",
         1
-      ],
-      [
-        "PITTURA",
-        3
       ]
     ]
   },
@@ -5367,7 +5195,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bracciale",
     "start": "2027-06-29T11:00:00+01:00",
     "end": "2027-06-29T13:00:00+01:00",
@@ -5432,7 +5260,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Bardazzi",
     "start": "2027-06-30T14:00:00+01:00",
     "end": "2027-06-30T17:00:00+01:00",

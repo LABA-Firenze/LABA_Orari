@@ -44,7 +44,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2026-09-02T09:30:00+01:00",
     "end": "2026-09-02T12:30:00+01:00",
@@ -118,10 +118,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -129,6 +125,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -150,43 +170,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -261,7 +257,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2026-09-09T09:30:00+01:00",
     "end": "2026-09-09T12:30:00+01:00",
@@ -335,10 +331,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -346,6 +338,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -367,43 +383,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -478,7 +470,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2026-09-16T09:30:00+01:00",
     "end": "2026-09-16T12:30:00+01:00",
@@ -552,10 +544,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -563,6 +551,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -584,43 +596,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -695,7 +683,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2026-09-23T09:30:00+01:00",
     "end": "2026-09-23T12:30:00+01:00",
@@ -769,10 +757,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -780,6 +764,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -801,43 +809,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -912,7 +896,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2026-09-30T09:30:00+01:00",
     "end": "2026-09-30T12:30:00+01:00",
@@ -986,10 +970,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -997,6 +977,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -1018,43 +1022,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1129,7 +1109,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2026-10-07T09:30:00+01:00",
     "end": "2026-10-07T12:30:00+01:00",
@@ -1203,10 +1183,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -1214,6 +1190,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -1235,43 +1235,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1346,7 +1322,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2026-10-14T09:30:00+01:00",
     "end": "2026-10-14T12:30:00+01:00",
@@ -1420,10 +1396,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -1431,6 +1403,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -1452,43 +1448,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1563,7 +1535,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2026-10-21T09:30:00+01:00",
     "end": "2026-10-21T12:30:00+01:00",
@@ -1637,10 +1609,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -1648,6 +1616,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -1669,43 +1661,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1780,7 +1748,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2026-10-28T09:30:00+01:00",
     "end": "2026-10-28T12:30:00+01:00",
@@ -1854,10 +1822,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -1865,6 +1829,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -1886,43 +1874,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -1997,7 +1961,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2026-11-04T09:30:00+01:00",
     "end": "2026-11-04T12:30:00+01:00",
@@ -2071,10 +2035,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -2082,6 +2042,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -2103,43 +2087,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2214,7 +2174,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2026-11-11T09:30:00+01:00",
     "end": "2026-11-11T12:30:00+01:00",
@@ -2288,10 +2248,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -2299,6 +2255,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -2320,43 +2300,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2431,7 +2387,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2026-11-18T09:30:00+01:00",
     "end": "2026-11-18T12:30:00+01:00",
@@ -2505,10 +2461,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -2516,6 +2468,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -2537,43 +2513,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2648,7 +2600,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2026-11-25T09:30:00+01:00",
     "end": "2026-11-25T12:30:00+01:00",
@@ -2722,10 +2674,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -2733,6 +2681,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -2754,43 +2726,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -2865,7 +2813,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2026-12-02T09:30:00+01:00",
     "end": "2026-12-02T12:30:00+01:00",
@@ -2939,10 +2887,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -2950,6 +2894,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -2971,43 +2939,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3082,7 +3026,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2026-12-09T09:30:00+01:00",
     "end": "2026-12-09T12:30:00+01:00",
@@ -3156,10 +3100,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -3167,6 +3107,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -3188,43 +3152,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3299,7 +3239,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2026-12-16T09:30:00+01:00",
     "end": "2026-12-16T12:30:00+01:00",
@@ -3373,10 +3313,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -3384,6 +3320,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -3405,43 +3365,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3516,7 +3452,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2026-12-23T09:30:00+01:00",
     "end": "2026-12-23T12:30:00+01:00",
@@ -3590,10 +3526,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -3601,6 +3533,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -3622,43 +3578,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3733,7 +3665,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2026-12-30T09:30:00+01:00",
     "end": "2026-12-30T12:30:00+01:00",
@@ -3807,10 +3739,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -3818,6 +3746,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -3839,43 +3791,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -3950,7 +3878,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2027-01-06T09:30:00+01:00",
     "end": "2027-01-06T12:30:00+01:00",
@@ -4024,10 +3952,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -4035,6 +3959,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -4056,43 +4004,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4167,7 +4091,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2027-01-13T09:30:00+01:00",
     "end": "2027-01-13T12:30:00+01:00",
@@ -4241,10 +4165,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -4252,6 +4172,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -4273,43 +4217,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4384,7 +4304,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2027-01-20T09:30:00+01:00",
     "end": "2027-01-20T12:30:00+01:00",
@@ -4458,10 +4378,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -4469,6 +4385,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -4490,43 +4430,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   },
@@ -4601,7 +4517,7 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
     "start": "2027-01-27T09:30:00+01:00",
     "end": "2027-01-27T12:30:00+01:00",
@@ -4675,10 +4591,6 @@
     "altriCorsi": [
       [
         "DESIGN",
-        1
-      ],
-      [
-        "DESIGN",
         2
       ],
       [
@@ -4686,6 +4598,30 @@
         3
       ],
       [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
         "FASHION",
         1
       ],
@@ -4707,43 +4643,19 @@
       ],
       [
         "FOTOGRAFIA",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "INTERIOR",
-        1
-      ],
-      [
-        "INTERIOR",
-        2
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
         3
       ],
       [
         "REGIA",
         1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
       ]
     ]
   }
