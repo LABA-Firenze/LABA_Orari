@@ -1,40 +1,14 @@
 [
   {
-    "corso": "Fenomenologia degli Stili",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Minisci",
-    "start": "2025-11-03T09:30:00+01:00",
-    "end": "2025-11-03T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Tecnologia dei Nuovi Materiali",
+    "corso": "Modellistica 1",
     "oidCorso": null,
     "oidCorsi": null,
     "anno": 1,
     "gruppo": "B",
-    "aula": "Conference 2",
-    "docente": "Barboni",
-    "start": "2025-11-03T11:30:00+01:00",
-    "end": "2025-11-03T13:30:00+01:00",
-    "note": null,
-    "corsoStudio": "DESIGN"
-  },
-  {
-    "corso": "Informatica di Base Design",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": "B",
-    "aula": "Conference 2",
-    "docente": "Onorato",
-    "start": "2025-11-03T15:00:00+01:00",
-    "end": "2025-11-03T18:00:00+01:00",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-09-01T09:30:00+01:00",
+    "end": "2026-09-01T12:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -46,8 +20,8 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2025-11-04T10:00:00+01:00",
-    "end": "2025-11-04T13:00:00+01:00",
+    "start": "2026-09-01T10:00:00+01:00",
+    "end": "2026-09-01T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -59,8 +33,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-11-04T13:00:00+01:00",
-    "end": "2025-11-04T15:00:00+01:00",
+    "start": "2026-09-01T13:00:00+01:00",
+    "end": "2026-09-01T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-09-01T13:00:00+01:00",
+    "end": "2026-09-01T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -72,8 +59,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2025-11-05T09:30:00+01:00",
-    "end": "2025-11-05T13:30:00+01:00",
+    "start": "2026-09-02T09:30:00+01:00",
+    "end": "2026-09-02T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -85,8 +72,8 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2025-11-05T14:00:00+01:00",
-    "end": "2025-11-05T18:00:00+01:00",
+    "start": "2026-09-02T14:00:00+01:00",
+    "end": "2026-09-02T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -98,8 +85,8 @@
     "gruppo": "A",
     "aula": "Multimedia LAB",
     "docente": "Onorato",
-    "start": "2025-11-05T14:30:00+01:00",
-    "end": "2025-11-05T17:30:00+01:00",
+    "start": "2026-09-02T14:30:00+01:00",
+    "end": "2026-09-02T17:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -111,8 +98,8 @@
     "gruppo": "B",
     "aula": "Studio 2",
     "docente": "Barboni",
-    "start": "2025-11-06T10:00:00+01:00",
-    "end": "2025-11-06T13:00:00+01:00",
+    "start": "2026-09-03T10:00:00+01:00",
+    "end": "2026-09-03T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -124,8 +111,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2025-11-06T10:00:00+01:00",
-    "end": "2025-11-06T13:00:00+01:00",
+    "start": "2026-09-03T10:00:00+01:00",
+    "end": "2026-09-03T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -137,8 +124,8 @@
     "gruppo": null,
     "aula": "Magna",
     "docente": "Sughi",
-    "start": "2025-11-06T14:00:00+01:00",
-    "end": "2025-11-06T16:30:00+01:00",
+    "start": "2026-09-03T14:00:00+01:00",
+    "end": "2026-09-03T16:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -150,8 +137,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-11-07T09:30:00+01:00",
-    "end": "2025-11-07T12:30:00+01:00",
+    "start": "2026-09-04T09:30:00+01:00",
+    "end": "2026-09-04T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-09-04T13:00:00+01:00",
+    "end": "2026-09-04T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -161,12 +161,86 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Carbone",
-    "start": "2025-11-08T14:00:00+01:00",
-    "end": "2025-11-08T18:00:00+01:00",
+    "start": "2026-09-05T14:00:00+01:00",
+    "end": "2026-09-05T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "DESIGN"
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
   },
   {
     "corso": "Fenomenologia degli Stili",
@@ -176,8 +250,21 @@
     "gruppo": null,
     "aula": "Aula Magna 2",
     "docente": "Minisci",
-    "start": "2025-11-10T09:30:00+01:00",
-    "end": "2025-11-10T11:30:00+01:00",
+    "start": "2026-09-07T09:30:00+01:00",
+    "end": "2026-09-07T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia del Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "start": "2026-09-07T09:30:00+01:00",
+    "end": "2026-09-07T11:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -189,8 +276,21 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-11-10T11:30:00+01:00",
-    "end": "2025-11-10T13:30:00+01:00",
+    "start": "2026-09-07T11:30:00+01:00",
+    "end": "2026-09-07T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "start": "2026-09-07T11:30:00+01:00",
+    "end": "2026-09-07T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -202,8 +302,8 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Onorato",
-    "start": "2025-11-10T15:00:00+01:00",
-    "end": "2025-11-10T18:00:00+01:00",
+    "start": "2026-09-07T15:00:00+01:00",
+    "end": "2026-09-07T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -215,8 +315,21 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2025-11-11T10:00:00+01:00",
-    "end": "2025-11-11T13:00:00+01:00",
+    "start": "2026-09-08T09:30:00+01:00",
+    "end": "2026-09-08T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-09-08T10:00:00+01:00",
+    "end": "2026-09-08T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -228,8 +341,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-11-11T13:00:00+01:00",
-    "end": "2025-11-11T15:00:00+01:00",
+    "start": "2026-09-08T13:00:00+01:00",
+    "end": "2026-09-08T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-09-08T13:00:00+01:00",
+    "end": "2026-09-08T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -241,8 +367,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2025-11-12T09:30:00+01:00",
-    "end": "2025-11-12T13:30:00+01:00",
+    "start": "2026-09-09T09:30:00+01:00",
+    "end": "2026-09-09T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -254,8 +380,8 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2025-11-12T14:00:00+01:00",
-    "end": "2025-11-12T18:00:00+01:00",
+    "start": "2026-09-09T14:00:00+01:00",
+    "end": "2026-09-09T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -267,8 +393,8 @@
     "gruppo": "A",
     "aula": "Multimedia LAB",
     "docente": "Onorato",
-    "start": "2025-11-12T14:30:00+01:00",
-    "end": "2025-11-12T17:30:00+01:00",
+    "start": "2026-09-09T14:30:00+01:00",
+    "end": "2026-09-09T17:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -280,8 +406,8 @@
     "gruppo": "B",
     "aula": "Studio 2",
     "docente": "Barboni",
-    "start": "2025-11-13T10:00:00+01:00",
-    "end": "2025-11-13T13:00:00+01:00",
+    "start": "2026-09-10T10:00:00+01:00",
+    "end": "2026-09-10T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -293,8 +419,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2025-11-13T10:00:00+01:00",
-    "end": "2025-11-13T13:00:00+01:00",
+    "start": "2026-09-10T10:00:00+01:00",
+    "end": "2026-09-10T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -306,8 +432,8 @@
     "gruppo": null,
     "aula": "Magna",
     "docente": "Sughi",
-    "start": "2025-11-13T14:00:00+01:00",
-    "end": "2025-11-13T16:30:00+01:00",
+    "start": "2026-09-10T14:00:00+01:00",
+    "end": "2026-09-10T16:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -319,8 +445,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-11-14T09:30:00+01:00",
-    "end": "2025-11-14T12:30:00+01:00",
+    "start": "2026-09-11T09:30:00+01:00",
+    "end": "2026-09-11T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-09-11T13:00:00+01:00",
+    "end": "2026-09-11T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -330,12 +469,86 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Carbone",
-    "start": "2025-11-15T14:00:00+01:00",
-    "end": "2025-11-15T18:00:00+01:00",
+    "start": "2026-09-12T14:00:00+01:00",
+    "end": "2026-09-12T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "DESIGN"
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
   },
   {
     "corso": "Fenomenologia degli Stili",
@@ -345,8 +558,21 @@
     "gruppo": null,
     "aula": "Aula Magna 2",
     "docente": "Minisci",
-    "start": "2025-11-17T09:30:00+01:00",
-    "end": "2025-11-17T11:30:00+01:00",
+    "start": "2026-09-14T09:30:00+01:00",
+    "end": "2026-09-14T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia del Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "start": "2026-09-14T09:30:00+01:00",
+    "end": "2026-09-14T11:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -358,8 +584,21 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-11-17T11:30:00+01:00",
-    "end": "2025-11-17T13:30:00+01:00",
+    "start": "2026-09-14T11:30:00+01:00",
+    "end": "2026-09-14T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "start": "2026-09-14T11:30:00+01:00",
+    "end": "2026-09-14T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -371,8 +610,8 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Onorato",
-    "start": "2025-11-17T15:00:00+01:00",
-    "end": "2025-11-17T18:00:00+01:00",
+    "start": "2026-09-14T15:00:00+01:00",
+    "end": "2026-09-14T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -384,8 +623,21 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2025-11-18T10:00:00+01:00",
-    "end": "2025-11-18T13:00:00+01:00",
+    "start": "2026-09-15T09:30:00+01:00",
+    "end": "2026-09-15T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-09-15T10:00:00+01:00",
+    "end": "2026-09-15T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -397,8 +649,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-11-18T13:00:00+01:00",
-    "end": "2025-11-18T15:00:00+01:00",
+    "start": "2026-09-15T13:00:00+01:00",
+    "end": "2026-09-15T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-09-15T13:00:00+01:00",
+    "end": "2026-09-15T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -410,8 +675,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2025-11-19T09:30:00+01:00",
-    "end": "2025-11-19T13:30:00+01:00",
+    "start": "2026-09-16T09:30:00+01:00",
+    "end": "2026-09-16T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -423,8 +688,8 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2025-11-19T14:00:00+01:00",
-    "end": "2025-11-19T18:00:00+01:00",
+    "start": "2026-09-16T14:00:00+01:00",
+    "end": "2026-09-16T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -436,8 +701,8 @@
     "gruppo": "A",
     "aula": "Multimedia LAB",
     "docente": "Onorato",
-    "start": "2025-11-19T14:30:00+01:00",
-    "end": "2025-11-19T17:30:00+01:00",
+    "start": "2026-09-16T14:30:00+01:00",
+    "end": "2026-09-16T17:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -449,8 +714,8 @@
     "gruppo": "B",
     "aula": "Studio 2",
     "docente": "Barboni",
-    "start": "2025-11-20T10:00:00+01:00",
-    "end": "2025-11-20T13:00:00+01:00",
+    "start": "2026-09-17T10:00:00+01:00",
+    "end": "2026-09-17T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -462,8 +727,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2025-11-20T10:00:00+01:00",
-    "end": "2025-11-20T13:00:00+01:00",
+    "start": "2026-09-17T10:00:00+01:00",
+    "end": "2026-09-17T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -475,8 +740,8 @@
     "gruppo": null,
     "aula": "Magna",
     "docente": "Sughi",
-    "start": "2025-11-20T14:00:00+01:00",
-    "end": "2025-11-20T16:30:00+01:00",
+    "start": "2026-09-17T14:00:00+01:00",
+    "end": "2026-09-17T16:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -488,8 +753,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-11-21T09:30:00+01:00",
-    "end": "2025-11-21T12:30:00+01:00",
+    "start": "2026-09-18T09:30:00+01:00",
+    "end": "2026-09-18T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-09-18T13:00:00+01:00",
+    "end": "2026-09-18T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -499,12 +777,86 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Carbone",
-    "start": "2025-11-22T14:00:00+01:00",
-    "end": "2025-11-22T18:00:00+01:00",
+    "start": "2026-09-19T14:00:00+01:00",
+    "end": "2026-09-19T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "DESIGN"
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
   },
   {
     "corso": "Fenomenologia degli Stili",
@@ -514,8 +866,21 @@
     "gruppo": null,
     "aula": "Aula Magna 2",
     "docente": "Minisci",
-    "start": "2025-11-24T09:30:00+01:00",
-    "end": "2025-11-24T11:30:00+01:00",
+    "start": "2026-09-21T09:30:00+01:00",
+    "end": "2026-09-21T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia del Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "start": "2026-09-21T09:30:00+01:00",
+    "end": "2026-09-21T11:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -527,8 +892,21 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-11-24T11:30:00+01:00",
-    "end": "2025-11-24T13:30:00+01:00",
+    "start": "2026-09-21T11:30:00+01:00",
+    "end": "2026-09-21T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "start": "2026-09-21T11:30:00+01:00",
+    "end": "2026-09-21T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -540,8 +918,8 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Onorato",
-    "start": "2025-11-24T15:00:00+01:00",
-    "end": "2025-11-24T18:00:00+01:00",
+    "start": "2026-09-21T15:00:00+01:00",
+    "end": "2026-09-21T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -553,8 +931,21 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2025-11-25T10:00:00+01:00",
-    "end": "2025-11-25T13:00:00+01:00",
+    "start": "2026-09-22T09:30:00+01:00",
+    "end": "2026-09-22T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-09-22T10:00:00+01:00",
+    "end": "2026-09-22T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -566,8 +957,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-11-25T13:00:00+01:00",
-    "end": "2025-11-25T15:00:00+01:00",
+    "start": "2026-09-22T13:00:00+01:00",
+    "end": "2026-09-22T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-09-22T13:00:00+01:00",
+    "end": "2026-09-22T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -579,8 +983,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2025-11-26T09:30:00+01:00",
-    "end": "2025-11-26T13:30:00+01:00",
+    "start": "2026-09-23T09:30:00+01:00",
+    "end": "2026-09-23T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -592,8 +996,8 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2025-11-26T14:00:00+01:00",
-    "end": "2025-11-26T18:00:00+01:00",
+    "start": "2026-09-23T14:00:00+01:00",
+    "end": "2026-09-23T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -605,8 +1009,8 @@
     "gruppo": "A",
     "aula": "Multimedia LAB",
     "docente": "Onorato",
-    "start": "2025-11-26T14:30:00+01:00",
-    "end": "2025-11-26T17:30:00+01:00",
+    "start": "2026-09-23T14:30:00+01:00",
+    "end": "2026-09-23T17:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -618,8 +1022,8 @@
     "gruppo": "B",
     "aula": "Studio 2",
     "docente": "Barboni",
-    "start": "2025-11-27T10:00:00+01:00",
-    "end": "2025-11-27T13:00:00+01:00",
+    "start": "2026-09-24T10:00:00+01:00",
+    "end": "2026-09-24T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -631,8 +1035,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2025-11-27T10:00:00+01:00",
-    "end": "2025-11-27T13:00:00+01:00",
+    "start": "2026-09-24T10:00:00+01:00",
+    "end": "2026-09-24T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -644,8 +1048,8 @@
     "gruppo": null,
     "aula": "Magna",
     "docente": "Sughi",
-    "start": "2025-11-27T14:00:00+01:00",
-    "end": "2025-11-27T16:30:00+01:00",
+    "start": "2026-09-24T14:00:00+01:00",
+    "end": "2026-09-24T16:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -657,8 +1061,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-11-28T09:30:00+01:00",
-    "end": "2025-11-28T12:30:00+01:00",
+    "start": "2026-09-25T09:30:00+01:00",
+    "end": "2026-09-25T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-09-25T13:00:00+01:00",
+    "end": "2026-09-25T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -668,12 +1085,86 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Carbone",
-    "start": "2025-11-29T14:00:00+01:00",
-    "end": "2025-11-29T18:00:00+01:00",
+    "start": "2026-09-26T14:00:00+01:00",
+    "end": "2026-09-26T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "DESIGN"
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
   },
   {
     "corso": "Fenomenologia degli Stili",
@@ -683,8 +1174,21 @@
     "gruppo": null,
     "aula": "Aula Magna 2",
     "docente": "Minisci",
-    "start": "2025-12-01T09:30:00+01:00",
-    "end": "2025-12-01T11:30:00+01:00",
+    "start": "2026-09-28T09:30:00+01:00",
+    "end": "2026-09-28T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia del Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "start": "2026-09-28T09:30:00+01:00",
+    "end": "2026-09-28T11:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -696,8 +1200,21 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-12-01T11:30:00+01:00",
-    "end": "2025-12-01T13:30:00+01:00",
+    "start": "2026-09-28T11:30:00+01:00",
+    "end": "2026-09-28T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "start": "2026-09-28T11:30:00+01:00",
+    "end": "2026-09-28T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -709,8 +1226,8 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Onorato",
-    "start": "2025-12-01T15:00:00+01:00",
-    "end": "2025-12-01T18:00:00+01:00",
+    "start": "2026-09-28T15:00:00+01:00",
+    "end": "2026-09-28T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -722,8 +1239,21 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2025-12-02T10:00:00+01:00",
-    "end": "2025-12-02T13:00:00+01:00",
+    "start": "2026-09-29T09:30:00+01:00",
+    "end": "2026-09-29T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-09-29T10:00:00+01:00",
+    "end": "2026-09-29T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -735,8 +1265,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-12-02T13:00:00+01:00",
-    "end": "2025-12-02T15:00:00+01:00",
+    "start": "2026-09-29T13:00:00+01:00",
+    "end": "2026-09-29T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-09-29T13:00:00+01:00",
+    "end": "2026-09-29T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -748,8 +1291,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2025-12-03T09:30:00+01:00",
-    "end": "2025-12-03T13:30:00+01:00",
+    "start": "2026-09-30T09:30:00+01:00",
+    "end": "2026-09-30T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -761,8 +1304,8 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2025-12-03T14:00:00+01:00",
-    "end": "2025-12-03T18:00:00+01:00",
+    "start": "2026-09-30T14:00:00+01:00",
+    "end": "2026-09-30T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -774,8 +1317,8 @@
     "gruppo": "A",
     "aula": "Multimedia LAB",
     "docente": "Onorato",
-    "start": "2025-12-03T14:30:00+01:00",
-    "end": "2025-12-03T17:30:00+01:00",
+    "start": "2026-09-30T14:30:00+01:00",
+    "end": "2026-09-30T17:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -787,8 +1330,8 @@
     "gruppo": "B",
     "aula": "Studio 2",
     "docente": "Barboni",
-    "start": "2025-12-04T10:00:00+01:00",
-    "end": "2025-12-04T13:00:00+01:00",
+    "start": "2026-10-01T10:00:00+01:00",
+    "end": "2026-10-01T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -800,8 +1343,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2025-12-04T10:00:00+01:00",
-    "end": "2025-12-04T13:00:00+01:00",
+    "start": "2026-10-01T10:00:00+01:00",
+    "end": "2026-10-01T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -813,8 +1356,8 @@
     "gruppo": null,
     "aula": "Magna",
     "docente": "Sughi",
-    "start": "2025-12-04T14:00:00+01:00",
-    "end": "2025-12-04T16:30:00+01:00",
+    "start": "2026-10-01T14:00:00+01:00",
+    "end": "2026-10-01T16:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -826,8 +1369,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-12-05T09:30:00+01:00",
-    "end": "2025-12-05T12:30:00+01:00",
+    "start": "2026-10-02T09:30:00+01:00",
+    "end": "2026-10-02T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-10-02T13:00:00+01:00",
+    "end": "2026-10-02T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -837,12 +1393,86 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Carbone",
-    "start": "2025-12-06T14:00:00+01:00",
-    "end": "2025-12-06T18:00:00+01:00",
+    "start": "2026-10-03T14:00:00+01:00",
+    "end": "2026-10-03T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "DESIGN"
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
   },
   {
     "corso": "Fenomenologia degli Stili",
@@ -852,8 +1482,21 @@
     "gruppo": null,
     "aula": "Aula Magna 2",
     "docente": "Minisci",
-    "start": "2025-12-08T09:30:00+01:00",
-    "end": "2025-12-08T11:30:00+01:00",
+    "start": "2026-10-05T09:30:00+01:00",
+    "end": "2026-10-05T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia del Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "start": "2026-10-05T09:30:00+01:00",
+    "end": "2026-10-05T11:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -865,8 +1508,21 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-12-08T11:30:00+01:00",
-    "end": "2025-12-08T13:30:00+01:00",
+    "start": "2026-10-05T11:30:00+01:00",
+    "end": "2026-10-05T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "start": "2026-10-05T11:30:00+01:00",
+    "end": "2026-10-05T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -878,8 +1534,8 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Onorato",
-    "start": "2025-12-08T15:00:00+01:00",
-    "end": "2025-12-08T18:00:00+01:00",
+    "start": "2026-10-05T15:00:00+01:00",
+    "end": "2026-10-05T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -891,8 +1547,21 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2025-12-09T10:00:00+01:00",
-    "end": "2025-12-09T13:00:00+01:00",
+    "start": "2026-10-06T09:30:00+01:00",
+    "end": "2026-10-06T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-10-06T10:00:00+01:00",
+    "end": "2026-10-06T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -904,8 +1573,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-12-09T13:00:00+01:00",
-    "end": "2025-12-09T15:00:00+01:00",
+    "start": "2026-10-06T13:00:00+01:00",
+    "end": "2026-10-06T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-10-06T13:00:00+01:00",
+    "end": "2026-10-06T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -917,8 +1599,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2025-12-10T09:30:00+01:00",
-    "end": "2025-12-10T13:30:00+01:00",
+    "start": "2026-10-07T09:30:00+01:00",
+    "end": "2026-10-07T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -930,8 +1612,8 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2025-12-10T14:00:00+01:00",
-    "end": "2025-12-10T18:00:00+01:00",
+    "start": "2026-10-07T14:00:00+01:00",
+    "end": "2026-10-07T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -943,8 +1625,8 @@
     "gruppo": "A",
     "aula": "Multimedia LAB",
     "docente": "Onorato",
-    "start": "2025-12-10T14:30:00+01:00",
-    "end": "2025-12-10T17:30:00+01:00",
+    "start": "2026-10-07T14:30:00+01:00",
+    "end": "2026-10-07T17:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -956,8 +1638,8 @@
     "gruppo": "B",
     "aula": "Studio 2",
     "docente": "Barboni",
-    "start": "2025-12-11T10:00:00+01:00",
-    "end": "2025-12-11T13:00:00+01:00",
+    "start": "2026-10-08T10:00:00+01:00",
+    "end": "2026-10-08T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -969,8 +1651,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2025-12-11T10:00:00+01:00",
-    "end": "2025-12-11T13:00:00+01:00",
+    "start": "2026-10-08T10:00:00+01:00",
+    "end": "2026-10-08T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -982,8 +1664,8 @@
     "gruppo": null,
     "aula": "Magna",
     "docente": "Sughi",
-    "start": "2025-12-11T14:00:00+01:00",
-    "end": "2025-12-11T16:30:00+01:00",
+    "start": "2026-10-08T14:00:00+01:00",
+    "end": "2026-10-08T16:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -995,8 +1677,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-12-12T09:30:00+01:00",
-    "end": "2025-12-12T12:30:00+01:00",
+    "start": "2026-10-09T09:30:00+01:00",
+    "end": "2026-10-09T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-10-09T13:00:00+01:00",
+    "end": "2026-10-09T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1006,12 +1701,86 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Carbone",
-    "start": "2025-12-13T14:00:00+01:00",
-    "end": "2025-12-13T18:00:00+01:00",
+    "start": "2026-10-10T14:00:00+01:00",
+    "end": "2026-10-10T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "DESIGN"
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
   },
   {
     "corso": "Fenomenologia degli Stili",
@@ -1021,8 +1790,21 @@
     "gruppo": null,
     "aula": "Aula Magna 2",
     "docente": "Minisci",
-    "start": "2025-12-15T09:30:00+01:00",
-    "end": "2025-12-15T11:30:00+01:00",
+    "start": "2026-10-12T09:30:00+01:00",
+    "end": "2026-10-12T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia del Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "start": "2026-10-12T09:30:00+01:00",
+    "end": "2026-10-12T11:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1034,8 +1816,21 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-12-15T11:30:00+01:00",
-    "end": "2025-12-15T13:30:00+01:00",
+    "start": "2026-10-12T11:30:00+01:00",
+    "end": "2026-10-12T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "start": "2026-10-12T11:30:00+01:00",
+    "end": "2026-10-12T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1047,8 +1842,8 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Onorato",
-    "start": "2025-12-15T15:00:00+01:00",
-    "end": "2025-12-15T18:00:00+01:00",
+    "start": "2026-10-12T15:00:00+01:00",
+    "end": "2026-10-12T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1060,8 +1855,21 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2025-12-16T10:00:00+01:00",
-    "end": "2025-12-16T13:00:00+01:00",
+    "start": "2026-10-13T09:30:00+01:00",
+    "end": "2026-10-13T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-10-13T10:00:00+01:00",
+    "end": "2026-10-13T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1073,8 +1881,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-12-16T13:00:00+01:00",
-    "end": "2025-12-16T15:00:00+01:00",
+    "start": "2026-10-13T13:00:00+01:00",
+    "end": "2026-10-13T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-10-13T13:00:00+01:00",
+    "end": "2026-10-13T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1086,8 +1907,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2025-12-17T09:30:00+01:00",
-    "end": "2025-12-17T13:30:00+01:00",
+    "start": "2026-10-14T09:30:00+01:00",
+    "end": "2026-10-14T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1099,8 +1920,8 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2025-12-17T14:00:00+01:00",
-    "end": "2025-12-17T18:00:00+01:00",
+    "start": "2026-10-14T14:00:00+01:00",
+    "end": "2026-10-14T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1112,8 +1933,8 @@
     "gruppo": "A",
     "aula": "Multimedia LAB",
     "docente": "Onorato",
-    "start": "2025-12-17T14:30:00+01:00",
-    "end": "2025-12-17T17:30:00+01:00",
+    "start": "2026-10-14T14:30:00+01:00",
+    "end": "2026-10-14T17:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1125,8 +1946,8 @@
     "gruppo": "B",
     "aula": "Studio 2",
     "docente": "Barboni",
-    "start": "2025-12-18T10:00:00+01:00",
-    "end": "2025-12-18T13:00:00+01:00",
+    "start": "2026-10-15T10:00:00+01:00",
+    "end": "2026-10-15T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1138,8 +1959,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2025-12-18T10:00:00+01:00",
-    "end": "2025-12-18T13:00:00+01:00",
+    "start": "2026-10-15T10:00:00+01:00",
+    "end": "2026-10-15T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1151,8 +1972,8 @@
     "gruppo": null,
     "aula": "Magna",
     "docente": "Sughi",
-    "start": "2025-12-18T14:00:00+01:00",
-    "end": "2025-12-18T16:30:00+01:00",
+    "start": "2026-10-15T14:00:00+01:00",
+    "end": "2026-10-15T16:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1164,8 +1985,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-12-19T09:30:00+01:00",
-    "end": "2025-12-19T12:30:00+01:00",
+    "start": "2026-10-16T09:30:00+01:00",
+    "end": "2026-10-16T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-10-16T13:00:00+01:00",
+    "end": "2026-10-16T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1175,12 +2009,86 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Carbone",
-    "start": "2025-12-20T14:00:00+01:00",
-    "end": "2025-12-20T18:00:00+01:00",
+    "start": "2026-10-17T14:00:00+01:00",
+    "end": "2026-10-17T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "DESIGN"
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
   },
   {
     "corso": "Fenomenologia degli Stili",
@@ -1190,8 +2098,21 @@
     "gruppo": null,
     "aula": "Aula Magna 2",
     "docente": "Minisci",
-    "start": "2025-12-22T09:30:00+01:00",
-    "end": "2025-12-22T11:30:00+01:00",
+    "start": "2026-10-19T09:30:00+01:00",
+    "end": "2026-10-19T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia del Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "start": "2026-10-19T09:30:00+01:00",
+    "end": "2026-10-19T11:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1203,8 +2124,21 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-12-22T11:30:00+01:00",
-    "end": "2025-12-22T13:30:00+01:00",
+    "start": "2026-10-19T11:30:00+01:00",
+    "end": "2026-10-19T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "start": "2026-10-19T11:30:00+01:00",
+    "end": "2026-10-19T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1216,8 +2150,8 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Onorato",
-    "start": "2025-12-22T15:00:00+01:00",
-    "end": "2025-12-22T18:00:00+01:00",
+    "start": "2026-10-19T15:00:00+01:00",
+    "end": "2026-10-19T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1229,8 +2163,21 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2025-12-23T10:00:00+01:00",
-    "end": "2025-12-23T13:00:00+01:00",
+    "start": "2026-10-20T09:30:00+01:00",
+    "end": "2026-10-20T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-10-20T10:00:00+01:00",
+    "end": "2026-10-20T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1242,8 +2189,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-12-23T13:00:00+01:00",
-    "end": "2025-12-23T15:00:00+01:00",
+    "start": "2026-10-20T13:00:00+01:00",
+    "end": "2026-10-20T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-10-20T13:00:00+01:00",
+    "end": "2026-10-20T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1255,8 +2215,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2025-12-24T09:30:00+01:00",
-    "end": "2025-12-24T13:30:00+01:00",
+    "start": "2026-10-21T09:30:00+01:00",
+    "end": "2026-10-21T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1268,8 +2228,8 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2025-12-24T14:00:00+01:00",
-    "end": "2025-12-24T18:00:00+01:00",
+    "start": "2026-10-21T14:00:00+01:00",
+    "end": "2026-10-21T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1281,8 +2241,8 @@
     "gruppo": "A",
     "aula": "Multimedia LAB",
     "docente": "Onorato",
-    "start": "2025-12-24T14:30:00+01:00",
-    "end": "2025-12-24T17:30:00+01:00",
+    "start": "2026-10-21T14:30:00+01:00",
+    "end": "2026-10-21T17:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1294,8 +2254,8 @@
     "gruppo": "B",
     "aula": "Studio 2",
     "docente": "Barboni",
-    "start": "2025-12-25T10:00:00+01:00",
-    "end": "2025-12-25T13:00:00+01:00",
+    "start": "2026-10-22T10:00:00+01:00",
+    "end": "2026-10-22T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1307,8 +2267,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2025-12-25T10:00:00+01:00",
-    "end": "2025-12-25T13:00:00+01:00",
+    "start": "2026-10-22T10:00:00+01:00",
+    "end": "2026-10-22T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1320,8 +2280,8 @@
     "gruppo": null,
     "aula": "Magna",
     "docente": "Sughi",
-    "start": "2025-12-25T14:00:00+01:00",
-    "end": "2025-12-25T16:30:00+01:00",
+    "start": "2026-10-22T14:00:00+01:00",
+    "end": "2026-10-22T16:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1333,8 +2293,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-12-26T09:30:00+01:00",
-    "end": "2025-12-26T12:30:00+01:00",
+    "start": "2026-10-23T09:30:00+01:00",
+    "end": "2026-10-23T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-10-23T13:00:00+01:00",
+    "end": "2026-10-23T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1344,12 +2317,86 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Carbone",
-    "start": "2025-12-27T14:00:00+01:00",
-    "end": "2025-12-27T18:00:00+01:00",
+    "start": "2026-10-24T14:00:00+01:00",
+    "end": "2026-10-24T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "DESIGN"
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
   },
   {
     "corso": "Fenomenologia degli Stili",
@@ -1359,8 +2406,21 @@
     "gruppo": null,
     "aula": "Aula Magna 2",
     "docente": "Minisci",
-    "start": "2025-12-29T09:30:00+01:00",
-    "end": "2025-12-29T11:30:00+01:00",
+    "start": "2026-10-26T09:30:00+01:00",
+    "end": "2026-10-26T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia del Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "start": "2026-10-26T09:30:00+01:00",
+    "end": "2026-10-26T11:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1372,8 +2432,21 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-12-29T11:30:00+01:00",
-    "end": "2025-12-29T13:30:00+01:00",
+    "start": "2026-10-26T11:30:00+01:00",
+    "end": "2026-10-26T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "start": "2026-10-26T11:30:00+01:00",
+    "end": "2026-10-26T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1385,8 +2458,8 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Onorato",
-    "start": "2025-12-29T15:00:00+01:00",
-    "end": "2025-12-29T18:00:00+01:00",
+    "start": "2026-10-26T15:00:00+01:00",
+    "end": "2026-10-26T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1398,8 +2471,21 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2025-12-30T10:00:00+01:00",
-    "end": "2025-12-30T13:00:00+01:00",
+    "start": "2026-10-27T09:30:00+01:00",
+    "end": "2026-10-27T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-10-27T10:00:00+01:00",
+    "end": "2026-10-27T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1411,8 +2497,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2025-12-30T13:00:00+01:00",
-    "end": "2025-12-30T15:00:00+01:00",
+    "start": "2026-10-27T13:00:00+01:00",
+    "end": "2026-10-27T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-10-27T13:00:00+01:00",
+    "end": "2026-10-27T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1424,8 +2523,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2025-12-31T09:30:00+01:00",
-    "end": "2025-12-31T13:30:00+01:00",
+    "start": "2026-10-28T09:30:00+01:00",
+    "end": "2026-10-28T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1437,8 +2536,8 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2025-12-31T14:00:00+01:00",
-    "end": "2025-12-31T18:00:00+01:00",
+    "start": "2026-10-28T14:00:00+01:00",
+    "end": "2026-10-28T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1450,8 +2549,8 @@
     "gruppo": "A",
     "aula": "Multimedia LAB",
     "docente": "Onorato",
-    "start": "2025-12-31T14:30:00+01:00",
-    "end": "2025-12-31T17:30:00+01:00",
+    "start": "2026-10-28T14:30:00+01:00",
+    "end": "2026-10-28T17:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1463,8 +2562,8 @@
     "gruppo": "B",
     "aula": "Studio 2",
     "docente": "Barboni",
-    "start": "2026-01-01T10:00:00+01:00",
-    "end": "2026-01-01T13:00:00+01:00",
+    "start": "2026-10-29T10:00:00+01:00",
+    "end": "2026-10-29T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1476,8 +2575,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2026-01-01T10:00:00+01:00",
-    "end": "2026-01-01T13:00:00+01:00",
+    "start": "2026-10-29T10:00:00+01:00",
+    "end": "2026-10-29T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1489,8 +2588,8 @@
     "gruppo": null,
     "aula": "Magna",
     "docente": "Sughi",
-    "start": "2026-01-01T14:00:00+01:00",
-    "end": "2026-01-01T16:30:00+01:00",
+    "start": "2026-10-29T14:00:00+01:00",
+    "end": "2026-10-29T16:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1502,8 +2601,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2026-01-02T09:30:00+01:00",
-    "end": "2026-01-02T12:30:00+01:00",
+    "start": "2026-10-30T09:30:00+01:00",
+    "end": "2026-10-30T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-10-30T13:00:00+01:00",
+    "end": "2026-10-30T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1513,12 +2625,86 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Carbone",
-    "start": "2026-01-03T14:00:00+01:00",
-    "end": "2026-01-03T18:00:00+01:00",
+    "start": "2026-10-31T14:00:00+01:00",
+    "end": "2026-10-31T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "DESIGN"
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
   },
   {
     "corso": "Fenomenologia degli Stili",
@@ -1528,8 +2714,21 @@
     "gruppo": null,
     "aula": "Aula Magna 2",
     "docente": "Minisci",
-    "start": "2026-01-05T09:30:00+01:00",
-    "end": "2026-01-05T11:30:00+01:00",
+    "start": "2026-11-02T09:30:00+01:00",
+    "end": "2026-11-02T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia del Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "start": "2026-11-02T09:30:00+01:00",
+    "end": "2026-11-02T11:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1541,8 +2740,21 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2026-01-05T11:30:00+01:00",
-    "end": "2026-01-05T13:30:00+01:00",
+    "start": "2026-11-02T11:30:00+01:00",
+    "end": "2026-11-02T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "start": "2026-11-02T11:30:00+01:00",
+    "end": "2026-11-02T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1554,8 +2766,8 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Onorato",
-    "start": "2026-01-05T15:00:00+01:00",
-    "end": "2026-01-05T18:00:00+01:00",
+    "start": "2026-11-02T15:00:00+01:00",
+    "end": "2026-11-02T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1567,8 +2779,21 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2026-01-06T10:00:00+01:00",
-    "end": "2026-01-06T13:00:00+01:00",
+    "start": "2026-11-03T09:30:00+01:00",
+    "end": "2026-11-03T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-11-03T10:00:00+01:00",
+    "end": "2026-11-03T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1580,8 +2805,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2026-01-06T13:00:00+01:00",
-    "end": "2026-01-06T15:00:00+01:00",
+    "start": "2026-11-03T13:00:00+01:00",
+    "end": "2026-11-03T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-11-03T13:00:00+01:00",
+    "end": "2026-11-03T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1593,8 +2831,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2026-01-07T09:30:00+01:00",
-    "end": "2026-01-07T13:30:00+01:00",
+    "start": "2026-11-04T09:30:00+01:00",
+    "end": "2026-11-04T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1606,8 +2844,8 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2026-01-07T14:00:00+01:00",
-    "end": "2026-01-07T18:00:00+01:00",
+    "start": "2026-11-04T14:00:00+01:00",
+    "end": "2026-11-04T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1619,8 +2857,8 @@
     "gruppo": "A",
     "aula": "Multimedia LAB",
     "docente": "Onorato",
-    "start": "2026-01-07T14:30:00+01:00",
-    "end": "2026-01-07T17:30:00+01:00",
+    "start": "2026-11-04T14:30:00+01:00",
+    "end": "2026-11-04T17:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1632,8 +2870,8 @@
     "gruppo": "B",
     "aula": "Studio 2",
     "docente": "Barboni",
-    "start": "2026-01-08T10:00:00+01:00",
-    "end": "2026-01-08T13:00:00+01:00",
+    "start": "2026-11-05T10:00:00+01:00",
+    "end": "2026-11-05T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1645,8 +2883,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2026-01-08T10:00:00+01:00",
-    "end": "2026-01-08T13:00:00+01:00",
+    "start": "2026-11-05T10:00:00+01:00",
+    "end": "2026-11-05T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1658,8 +2896,8 @@
     "gruppo": null,
     "aula": "Magna",
     "docente": "Sughi",
-    "start": "2026-01-08T14:00:00+01:00",
-    "end": "2026-01-08T16:30:00+01:00",
+    "start": "2026-11-05T14:00:00+01:00",
+    "end": "2026-11-05T16:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1671,8 +2909,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2026-01-09T09:30:00+01:00",
-    "end": "2026-01-09T12:30:00+01:00",
+    "start": "2026-11-06T09:30:00+01:00",
+    "end": "2026-11-06T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-11-06T13:00:00+01:00",
+    "end": "2026-11-06T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1682,12 +2933,86 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Carbone",
-    "start": "2026-01-10T14:00:00+01:00",
-    "end": "2026-01-10T18:00:00+01:00",
+    "start": "2026-11-07T14:00:00+01:00",
+    "end": "2026-11-07T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "DESIGN"
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
   },
   {
     "corso": "Fenomenologia degli Stili",
@@ -1697,8 +3022,21 @@
     "gruppo": null,
     "aula": "Aula Magna 2",
     "docente": "Minisci",
-    "start": "2026-01-12T09:30:00+01:00",
-    "end": "2026-01-12T11:30:00+01:00",
+    "start": "2026-11-09T09:30:00+01:00",
+    "end": "2026-11-09T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia del Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "start": "2026-11-09T09:30:00+01:00",
+    "end": "2026-11-09T11:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1710,8 +3048,21 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2026-01-12T11:30:00+01:00",
-    "end": "2026-01-12T13:30:00+01:00",
+    "start": "2026-11-09T11:30:00+01:00",
+    "end": "2026-11-09T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "start": "2026-11-09T11:30:00+01:00",
+    "end": "2026-11-09T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1723,8 +3074,8 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Onorato",
-    "start": "2026-01-12T15:00:00+01:00",
-    "end": "2026-01-12T18:00:00+01:00",
+    "start": "2026-11-09T15:00:00+01:00",
+    "end": "2026-11-09T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1736,8 +3087,21 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2026-01-13T10:00:00+01:00",
-    "end": "2026-01-13T13:00:00+01:00",
+    "start": "2026-11-10T09:30:00+01:00",
+    "end": "2026-11-10T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-11-10T10:00:00+01:00",
+    "end": "2026-11-10T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1749,8 +3113,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2026-01-13T13:00:00+01:00",
-    "end": "2026-01-13T15:00:00+01:00",
+    "start": "2026-11-10T13:00:00+01:00",
+    "end": "2026-11-10T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-11-10T13:00:00+01:00",
+    "end": "2026-11-10T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1762,8 +3139,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2026-01-14T09:30:00+01:00",
-    "end": "2026-01-14T13:30:00+01:00",
+    "start": "2026-11-11T09:30:00+01:00",
+    "end": "2026-11-11T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1775,8 +3152,8 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2026-01-14T14:00:00+01:00",
-    "end": "2026-01-14T18:00:00+01:00",
+    "start": "2026-11-11T14:00:00+01:00",
+    "end": "2026-11-11T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1788,8 +3165,8 @@
     "gruppo": "A",
     "aula": "Multimedia LAB",
     "docente": "Onorato",
-    "start": "2026-01-14T14:30:00+01:00",
-    "end": "2026-01-14T17:30:00+01:00",
+    "start": "2026-11-11T14:30:00+01:00",
+    "end": "2026-11-11T17:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1801,8 +3178,8 @@
     "gruppo": "B",
     "aula": "Studio 2",
     "docente": "Barboni",
-    "start": "2026-01-15T10:00:00+01:00",
-    "end": "2026-01-15T13:00:00+01:00",
+    "start": "2026-11-12T10:00:00+01:00",
+    "end": "2026-11-12T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1814,8 +3191,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2026-01-15T10:00:00+01:00",
-    "end": "2026-01-15T13:00:00+01:00",
+    "start": "2026-11-12T10:00:00+01:00",
+    "end": "2026-11-12T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1827,8 +3204,8 @@
     "gruppo": null,
     "aula": "Magna",
     "docente": "Sughi",
-    "start": "2026-01-15T14:00:00+01:00",
-    "end": "2026-01-15T16:30:00+01:00",
+    "start": "2026-11-12T14:00:00+01:00",
+    "end": "2026-11-12T16:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1840,8 +3217,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2026-01-16T09:30:00+01:00",
-    "end": "2026-01-16T12:30:00+01:00",
+    "start": "2026-11-13T09:30:00+01:00",
+    "end": "2026-11-13T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-11-13T13:00:00+01:00",
+    "end": "2026-11-13T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1851,12 +3241,86 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Carbone",
-    "start": "2026-01-17T14:00:00+01:00",
-    "end": "2026-01-17T18:00:00+01:00",
+    "start": "2026-11-14T14:00:00+01:00",
+    "end": "2026-11-14T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "DESIGN"
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
   },
   {
     "corso": "Fenomenologia degli Stili",
@@ -1866,8 +3330,21 @@
     "gruppo": null,
     "aula": "Aula Magna 2",
     "docente": "Minisci",
-    "start": "2026-01-19T09:30:00+01:00",
-    "end": "2026-01-19T11:30:00+01:00",
+    "start": "2026-11-16T09:30:00+01:00",
+    "end": "2026-11-16T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia del Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "start": "2026-11-16T09:30:00+01:00",
+    "end": "2026-11-16T11:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1879,8 +3356,21 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2026-01-19T11:30:00+01:00",
-    "end": "2026-01-19T13:30:00+01:00",
+    "start": "2026-11-16T11:30:00+01:00",
+    "end": "2026-11-16T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "start": "2026-11-16T11:30:00+01:00",
+    "end": "2026-11-16T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1892,8 +3382,8 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Onorato",
-    "start": "2026-01-19T15:00:00+01:00",
-    "end": "2026-01-19T18:00:00+01:00",
+    "start": "2026-11-16T15:00:00+01:00",
+    "end": "2026-11-16T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1905,8 +3395,21 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2026-01-20T10:00:00+01:00",
-    "end": "2026-01-20T13:00:00+01:00",
+    "start": "2026-11-17T09:30:00+01:00",
+    "end": "2026-11-17T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-11-17T10:00:00+01:00",
+    "end": "2026-11-17T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1918,8 +3421,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2026-01-20T13:00:00+01:00",
-    "end": "2026-01-20T15:00:00+01:00",
+    "start": "2026-11-17T13:00:00+01:00",
+    "end": "2026-11-17T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-11-17T13:00:00+01:00",
+    "end": "2026-11-17T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1931,8 +3447,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2026-01-21T09:30:00+01:00",
-    "end": "2026-01-21T13:30:00+01:00",
+    "start": "2026-11-18T09:30:00+01:00",
+    "end": "2026-11-18T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1944,8 +3460,8 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2026-01-21T14:00:00+01:00",
-    "end": "2026-01-21T18:00:00+01:00",
+    "start": "2026-11-18T14:00:00+01:00",
+    "end": "2026-11-18T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1957,8 +3473,8 @@
     "gruppo": "A",
     "aula": "Multimedia LAB",
     "docente": "Onorato",
-    "start": "2026-01-21T14:30:00+01:00",
-    "end": "2026-01-21T17:30:00+01:00",
+    "start": "2026-11-18T14:30:00+01:00",
+    "end": "2026-11-18T17:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1970,8 +3486,8 @@
     "gruppo": "B",
     "aula": "Studio 2",
     "docente": "Barboni",
-    "start": "2026-01-22T10:00:00+01:00",
-    "end": "2026-01-22T13:00:00+01:00",
+    "start": "2026-11-19T10:00:00+01:00",
+    "end": "2026-11-19T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1983,8 +3499,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2026-01-22T10:00:00+01:00",
-    "end": "2026-01-22T13:00:00+01:00",
+    "start": "2026-11-19T10:00:00+01:00",
+    "end": "2026-11-19T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -1996,8 +3512,8 @@
     "gruppo": null,
     "aula": "Magna",
     "docente": "Sughi",
-    "start": "2026-01-22T14:00:00+01:00",
-    "end": "2026-01-22T16:30:00+01:00",
+    "start": "2026-11-19T14:00:00+01:00",
+    "end": "2026-11-19T16:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2009,8 +3525,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2026-01-23T09:30:00+01:00",
-    "end": "2026-01-23T12:30:00+01:00",
+    "start": "2026-11-20T09:30:00+01:00",
+    "end": "2026-11-20T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-11-20T13:00:00+01:00",
+    "end": "2026-11-20T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2020,12 +3549,86 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Carbone",
-    "start": "2026-01-24T14:00:00+01:00",
-    "end": "2026-01-24T18:00:00+01:00",
+    "start": "2026-11-21T14:00:00+01:00",
+    "end": "2026-11-21T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "DESIGN"
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
   },
   {
     "corso": "Fenomenologia degli Stili",
@@ -2035,8 +3638,21 @@
     "gruppo": null,
     "aula": "Aula Magna 2",
     "docente": "Minisci",
-    "start": "2026-01-26T09:30:00+01:00",
-    "end": "2026-01-26T11:30:00+01:00",
+    "start": "2026-11-23T09:30:00+01:00",
+    "end": "2026-11-23T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia del Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "start": "2026-11-23T09:30:00+01:00",
+    "end": "2026-11-23T11:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2048,8 +3664,21 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2026-01-26T11:30:00+01:00",
-    "end": "2026-01-26T13:30:00+01:00",
+    "start": "2026-11-23T11:30:00+01:00",
+    "end": "2026-11-23T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "start": "2026-11-23T11:30:00+01:00",
+    "end": "2026-11-23T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2061,8 +3690,8 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Onorato",
-    "start": "2026-01-26T15:00:00+01:00",
-    "end": "2026-01-26T18:00:00+01:00",
+    "start": "2026-11-23T15:00:00+01:00",
+    "end": "2026-11-23T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2074,8 +3703,21 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2026-01-27T10:00:00+01:00",
-    "end": "2026-01-27T13:00:00+01:00",
+    "start": "2026-11-24T09:30:00+01:00",
+    "end": "2026-11-24T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-11-24T10:00:00+01:00",
+    "end": "2026-11-24T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2087,8 +3729,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2026-01-27T13:00:00+01:00",
-    "end": "2026-01-27T15:00:00+01:00",
+    "start": "2026-11-24T13:00:00+01:00",
+    "end": "2026-11-24T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-11-24T13:00:00+01:00",
+    "end": "2026-11-24T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2100,8 +3755,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2026-01-28T09:30:00+01:00",
-    "end": "2026-01-28T13:30:00+01:00",
+    "start": "2026-11-25T09:30:00+01:00",
+    "end": "2026-11-25T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2113,8 +3768,8 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2026-01-28T14:00:00+01:00",
-    "end": "2026-01-28T18:00:00+01:00",
+    "start": "2026-11-25T14:00:00+01:00",
+    "end": "2026-11-25T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2126,8 +3781,8 @@
     "gruppo": "A",
     "aula": "Multimedia LAB",
     "docente": "Onorato",
-    "start": "2026-01-28T14:30:00+01:00",
-    "end": "2026-01-28T17:30:00+01:00",
+    "start": "2026-11-25T14:30:00+01:00",
+    "end": "2026-11-25T17:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2139,8 +3794,8 @@
     "gruppo": "B",
     "aula": "Studio 2",
     "docente": "Barboni",
-    "start": "2026-01-29T10:00:00+01:00",
-    "end": "2026-01-29T13:00:00+01:00",
+    "start": "2026-11-26T10:00:00+01:00",
+    "end": "2026-11-26T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2152,8 +3807,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2026-01-29T10:00:00+01:00",
-    "end": "2026-01-29T13:00:00+01:00",
+    "start": "2026-11-26T10:00:00+01:00",
+    "end": "2026-11-26T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2165,8 +3820,8 @@
     "gruppo": null,
     "aula": "Magna",
     "docente": "Sughi",
-    "start": "2026-01-29T14:00:00+01:00",
-    "end": "2026-01-29T16:30:00+01:00",
+    "start": "2026-11-26T14:00:00+01:00",
+    "end": "2026-11-26T16:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2178,8 +3833,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2026-01-30T09:30:00+01:00",
-    "end": "2026-01-30T12:30:00+01:00",
+    "start": "2026-11-27T09:30:00+01:00",
+    "end": "2026-11-27T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-11-27T13:00:00+01:00",
+    "end": "2026-11-27T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2189,12 +3857,86 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Carbone",
-    "start": "2026-01-31T14:00:00+01:00",
-    "end": "2026-01-31T18:00:00+01:00",
+    "start": "2026-11-28T14:00:00+01:00",
+    "end": "2026-11-28T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "DESIGN"
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
   },
   {
     "corso": "Fenomenologia degli Stili",
@@ -2204,8 +3946,21 @@
     "gruppo": null,
     "aula": "Aula Magna 2",
     "docente": "Minisci",
-    "start": "2026-02-02T09:30:00+01:00",
-    "end": "2026-02-02T11:30:00+01:00",
+    "start": "2026-11-30T09:30:00+01:00",
+    "end": "2026-11-30T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia del Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "start": "2026-11-30T09:30:00+01:00",
+    "end": "2026-11-30T11:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2217,8 +3972,21 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2026-02-02T11:30:00+01:00",
-    "end": "2026-02-02T13:30:00+01:00",
+    "start": "2026-11-30T11:30:00+01:00",
+    "end": "2026-11-30T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "start": "2026-11-30T11:30:00+01:00",
+    "end": "2026-11-30T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2230,8 +3998,8 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Onorato",
-    "start": "2026-02-02T15:00:00+01:00",
-    "end": "2026-02-02T18:00:00+01:00",
+    "start": "2026-11-30T15:00:00+01:00",
+    "end": "2026-11-30T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2243,8 +4011,21 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2026-02-03T10:00:00+01:00",
-    "end": "2026-02-03T13:00:00+01:00",
+    "start": "2026-12-01T09:30:00+01:00",
+    "end": "2026-12-01T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-12-01T10:00:00+01:00",
+    "end": "2026-12-01T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2256,8 +4037,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2026-02-03T13:00:00+01:00",
-    "end": "2026-02-03T15:00:00+01:00",
+    "start": "2026-12-01T13:00:00+01:00",
+    "end": "2026-12-01T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-12-01T13:00:00+01:00",
+    "end": "2026-12-01T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2269,8 +4063,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2026-02-04T09:30:00+01:00",
-    "end": "2026-02-04T13:30:00+01:00",
+    "start": "2026-12-02T09:30:00+01:00",
+    "end": "2026-12-02T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2282,8 +4076,8 @@
     "gruppo": "B",
     "aula": "Design LAB",
     "docente": "Minisci",
-    "start": "2026-02-04T14:00:00+01:00",
-    "end": "2026-02-04T18:00:00+01:00",
+    "start": "2026-12-02T14:00:00+01:00",
+    "end": "2026-12-02T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2295,8 +4089,8 @@
     "gruppo": "A",
     "aula": "Multimedia LAB",
     "docente": "Onorato",
-    "start": "2026-02-04T14:30:00+01:00",
-    "end": "2026-02-04T17:30:00+01:00",
+    "start": "2026-12-02T14:30:00+01:00",
+    "end": "2026-12-02T17:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2308,8 +4102,8 @@
     "gruppo": "B",
     "aula": "Studio 2",
     "docente": "Barboni",
-    "start": "2026-02-05T10:00:00+01:00",
-    "end": "2026-02-05T13:00:00+01:00",
+    "start": "2026-12-03T10:00:00+01:00",
+    "end": "2026-12-03T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2321,8 +4115,8 @@
     "gruppo": "A",
     "aula": "Design LAB",
     "docente": "Danti",
-    "start": "2026-02-05T10:00:00+01:00",
-    "end": "2026-02-05T13:00:00+01:00",
+    "start": "2026-12-03T10:00:00+01:00",
+    "end": "2026-12-03T13:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2334,8 +4128,8 @@
     "gruppo": null,
     "aula": "Magna",
     "docente": "Sughi",
-    "start": "2026-02-05T14:00:00+01:00",
-    "end": "2026-02-05T16:30:00+01:00",
+    "start": "2026-12-03T14:00:00+01:00",
+    "end": "2026-12-03T16:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2347,8 +4141,21 @@
     "gruppo": "A",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2026-02-06T09:30:00+01:00",
-    "end": "2026-02-06T12:30:00+01:00",
+    "start": "2026-12-04T09:30:00+01:00",
+    "end": "2026-12-04T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-12-04T13:00:00+01:00",
+    "end": "2026-12-04T15:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2358,12 +4165,86 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Carbone",
-    "start": "2026-02-07T14:00:00+01:00",
-    "end": "2026-02-07T18:00:00+01:00",
+    "start": "2026-12-05T14:00:00+01:00",
+    "end": "2026-12-05T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "DESIGN"
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
   },
   {
     "corso": "Fenomenologia degli Stili",
@@ -2373,8 +4254,21 @@
     "gruppo": null,
     "aula": "Aula Magna 2",
     "docente": "Minisci",
-    "start": "2026-02-09T09:30:00+01:00",
-    "end": "2026-02-09T11:30:00+01:00",
+    "start": "2026-12-07T09:30:00+01:00",
+    "end": "2026-12-07T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia del Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "start": "2026-12-07T09:30:00+01:00",
+    "end": "2026-12-07T11:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2386,8 +4280,21 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Barboni",
-    "start": "2026-02-09T11:30:00+01:00",
-    "end": "2026-02-09T13:30:00+01:00",
+    "start": "2026-12-07T11:30:00+01:00",
+    "end": "2026-12-07T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "start": "2026-12-07T11:30:00+01:00",
+    "end": "2026-12-07T13:30:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
   },
@@ -2399,9 +4306,2408 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Onorato",
-    "start": "2026-02-09T15:00:00+01:00",
-    "end": "2026-02-09T18:00:00+01:00",
+    "start": "2026-12-07T15:00:00+01:00",
+    "end": "2026-12-07T18:00:00+01:00",
     "note": null,
     "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-12-08T09:30:00+01:00",
+    "end": "2026-12-08T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-12-08T10:00:00+01:00",
+    "end": "2026-12-08T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologie dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2026-12-08T13:00:00+01:00",
+    "end": "2026-12-08T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-12-08T13:00:00+01:00",
+    "end": "2026-12-08T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Design LAB",
+    "docente": "Minisci",
+    "start": "2026-12-09T09:30:00+01:00",
+    "end": "2026-12-09T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Minisci",
+    "start": "2026-12-09T14:00:00+01:00",
+    "end": "2026-12-09T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Informatica di Base Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Multimedia LAB",
+    "docente": "Onorato",
+    "start": "2026-12-09T14:30:00+01:00",
+    "end": "2026-12-09T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Architettura degli Interni 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-12-10T10:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-12-10T10:00:00+01:00",
+    "end": "2026-12-10T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia dell'Arte Moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna",
+    "docente": "Sughi",
+    "start": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Architettura degli Interni 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2026-12-11T09:30:00+01:00",
+    "end": "2026-12-11T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-12-11T13:00:00+01:00",
+    "end": "2026-12-11T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-12-12T14:00:00+01:00",
+    "end": "2026-12-12T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Fenomenologia degli Stili",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Minisci",
+    "start": "2026-12-14T09:30:00+01:00",
+    "end": "2026-12-14T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia del Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "start": "2026-12-14T09:30:00+01:00",
+    "end": "2026-12-14T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2026-12-14T11:30:00+01:00",
+    "end": "2026-12-14T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "start": "2026-12-14T11:30:00+01:00",
+    "end": "2026-12-14T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Informatica di Base Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Conference 2",
+    "docente": "Onorato",
+    "start": "2026-12-14T15:00:00+01:00",
+    "end": "2026-12-14T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-12-15T09:30:00+01:00",
+    "end": "2026-12-15T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-12-15T10:00:00+01:00",
+    "end": "2026-12-15T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologie dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2026-12-15T13:00:00+01:00",
+    "end": "2026-12-15T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-12-15T13:00:00+01:00",
+    "end": "2026-12-15T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Design LAB",
+    "docente": "Minisci",
+    "start": "2026-12-16T09:30:00+01:00",
+    "end": "2026-12-16T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Minisci",
+    "start": "2026-12-16T14:00:00+01:00",
+    "end": "2026-12-16T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Informatica di Base Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Multimedia LAB",
+    "docente": "Onorato",
+    "start": "2026-12-16T14:30:00+01:00",
+    "end": "2026-12-16T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Architettura degli Interni 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-12-17T10:00:00+01:00",
+    "end": "2026-12-17T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-12-17T10:00:00+01:00",
+    "end": "2026-12-17T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia dell'Arte Moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna",
+    "docente": "Sughi",
+    "start": "2026-12-17T14:00:00+01:00",
+    "end": "2026-12-17T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Architettura degli Interni 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2026-12-18T09:30:00+01:00",
+    "end": "2026-12-18T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-12-18T13:00:00+01:00",
+    "end": "2026-12-18T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-12-19T14:00:00+01:00",
+    "end": "2026-12-19T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Fenomenologia degli Stili",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Minisci",
+    "start": "2026-12-21T09:30:00+01:00",
+    "end": "2026-12-21T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia del Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "start": "2026-12-21T09:30:00+01:00",
+    "end": "2026-12-21T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2026-12-21T11:30:00+01:00",
+    "end": "2026-12-21T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "start": "2026-12-21T11:30:00+01:00",
+    "end": "2026-12-21T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Informatica di Base Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Conference 2",
+    "docente": "Onorato",
+    "start": "2026-12-21T15:00:00+01:00",
+    "end": "2026-12-21T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-12-22T09:30:00+01:00",
+    "end": "2026-12-22T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-12-22T10:00:00+01:00",
+    "end": "2026-12-22T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologie dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2026-12-22T13:00:00+01:00",
+    "end": "2026-12-22T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-12-22T13:00:00+01:00",
+    "end": "2026-12-22T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Design LAB",
+    "docente": "Minisci",
+    "start": "2026-12-23T09:30:00+01:00",
+    "end": "2026-12-23T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Minisci",
+    "start": "2026-12-23T14:00:00+01:00",
+    "end": "2026-12-23T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Informatica di Base Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Multimedia LAB",
+    "docente": "Onorato",
+    "start": "2026-12-23T14:30:00+01:00",
+    "end": "2026-12-23T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Architettura degli Interni 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-12-24T10:00:00+01:00",
+    "end": "2026-12-24T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-12-24T10:00:00+01:00",
+    "end": "2026-12-24T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia dell'Arte Moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna",
+    "docente": "Sughi",
+    "start": "2026-12-24T14:00:00+01:00",
+    "end": "2026-12-24T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Architettura degli Interni 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2026-12-25T09:30:00+01:00",
+    "end": "2026-12-25T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-12-25T13:00:00+01:00",
+    "end": "2026-12-25T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-12-26T14:00:00+01:00",
+    "end": "2026-12-26T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Fenomenologia degli Stili",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Minisci",
+    "start": "2026-12-28T09:30:00+01:00",
+    "end": "2026-12-28T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia del Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "start": "2026-12-28T09:30:00+01:00",
+    "end": "2026-12-28T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2026-12-28T11:30:00+01:00",
+    "end": "2026-12-28T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "start": "2026-12-28T11:30:00+01:00",
+    "end": "2026-12-28T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Informatica di Base Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Conference 2",
+    "docente": "Onorato",
+    "start": "2026-12-28T15:00:00+01:00",
+    "end": "2026-12-28T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-12-29T09:30:00+01:00",
+    "end": "2026-12-29T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-12-29T10:00:00+01:00",
+    "end": "2026-12-29T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologie dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2026-12-29T13:00:00+01:00",
+    "end": "2026-12-29T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-12-29T13:00:00+01:00",
+    "end": "2026-12-29T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Design LAB",
+    "docente": "Minisci",
+    "start": "2026-12-30T09:30:00+01:00",
+    "end": "2026-12-30T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Minisci",
+    "start": "2026-12-30T14:00:00+01:00",
+    "end": "2026-12-30T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Informatica di Base Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Multimedia LAB",
+    "docente": "Onorato",
+    "start": "2026-12-30T14:30:00+01:00",
+    "end": "2026-12-30T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Architettura degli Interni 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2026-12-31T10:00:00+01:00",
+    "end": "2026-12-31T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2026-12-31T10:00:00+01:00",
+    "end": "2026-12-31T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia dell'Arte Moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna",
+    "docente": "Sughi",
+    "start": "2026-12-31T14:00:00+01:00",
+    "end": "2026-12-31T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Architettura degli Interni 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2027-01-01T09:30:00+01:00",
+    "end": "2027-01-01T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2027-01-01T13:00:00+01:00",
+    "end": "2027-01-01T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2027-01-02T14:00:00+01:00",
+    "end": "2027-01-02T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Fenomenologia degli Stili",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Minisci",
+    "start": "2027-01-04T09:30:00+01:00",
+    "end": "2027-01-04T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia del Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "start": "2027-01-04T09:30:00+01:00",
+    "end": "2027-01-04T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2027-01-04T11:30:00+01:00",
+    "end": "2027-01-04T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "start": "2027-01-04T11:30:00+01:00",
+    "end": "2027-01-04T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Informatica di Base Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Conference 2",
+    "docente": "Onorato",
+    "start": "2027-01-04T15:00:00+01:00",
+    "end": "2027-01-04T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2027-01-05T09:30:00+01:00",
+    "end": "2027-01-05T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2027-01-05T10:00:00+01:00",
+    "end": "2027-01-05T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologie dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2027-01-05T13:00:00+01:00",
+    "end": "2027-01-05T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2027-01-05T13:00:00+01:00",
+    "end": "2027-01-05T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Design LAB",
+    "docente": "Minisci",
+    "start": "2027-01-06T09:30:00+01:00",
+    "end": "2027-01-06T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Minisci",
+    "start": "2027-01-06T14:00:00+01:00",
+    "end": "2027-01-06T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Informatica di Base Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Multimedia LAB",
+    "docente": "Onorato",
+    "start": "2027-01-06T14:30:00+01:00",
+    "end": "2027-01-06T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Architettura degli Interni 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2027-01-07T10:00:00+01:00",
+    "end": "2027-01-07T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2027-01-07T10:00:00+01:00",
+    "end": "2027-01-07T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia dell'Arte Moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna",
+    "docente": "Sughi",
+    "start": "2027-01-07T14:00:00+01:00",
+    "end": "2027-01-07T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Architettura degli Interni 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2027-01-08T09:30:00+01:00",
+    "end": "2027-01-08T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2027-01-08T13:00:00+01:00",
+    "end": "2027-01-08T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2027-01-09T14:00:00+01:00",
+    "end": "2027-01-09T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Fenomenologia degli Stili",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Minisci",
+    "start": "2027-01-11T09:30:00+01:00",
+    "end": "2027-01-11T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia del Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "start": "2027-01-11T09:30:00+01:00",
+    "end": "2027-01-11T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2027-01-11T11:30:00+01:00",
+    "end": "2027-01-11T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "start": "2027-01-11T11:30:00+01:00",
+    "end": "2027-01-11T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Informatica di Base Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Conference 2",
+    "docente": "Onorato",
+    "start": "2027-01-11T15:00:00+01:00",
+    "end": "2027-01-11T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2027-01-12T09:30:00+01:00",
+    "end": "2027-01-12T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2027-01-12T10:00:00+01:00",
+    "end": "2027-01-12T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologie dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2027-01-12T13:00:00+01:00",
+    "end": "2027-01-12T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2027-01-12T13:00:00+01:00",
+    "end": "2027-01-12T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Design LAB",
+    "docente": "Minisci",
+    "start": "2027-01-13T09:30:00+01:00",
+    "end": "2027-01-13T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Minisci",
+    "start": "2027-01-13T14:00:00+01:00",
+    "end": "2027-01-13T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Informatica di Base Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Multimedia LAB",
+    "docente": "Onorato",
+    "start": "2027-01-13T14:30:00+01:00",
+    "end": "2027-01-13T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Architettura degli Interni 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2027-01-14T10:00:00+01:00",
+    "end": "2027-01-14T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2027-01-14T10:00:00+01:00",
+    "end": "2027-01-14T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia dell'Arte Moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna",
+    "docente": "Sughi",
+    "start": "2027-01-14T14:00:00+01:00",
+    "end": "2027-01-14T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Architettura degli Interni 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2027-01-15T09:30:00+01:00",
+    "end": "2027-01-15T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2027-01-15T13:00:00+01:00",
+    "end": "2027-01-15T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2027-01-16T14:00:00+01:00",
+    "end": "2027-01-16T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Fenomenologia degli Stili",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Minisci",
+    "start": "2027-01-18T09:30:00+01:00",
+    "end": "2027-01-18T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia del Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "start": "2027-01-18T09:30:00+01:00",
+    "end": "2027-01-18T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2027-01-18T11:30:00+01:00",
+    "end": "2027-01-18T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "start": "2027-01-18T11:30:00+01:00",
+    "end": "2027-01-18T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Informatica di Base Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Conference 2",
+    "docente": "Onorato",
+    "start": "2027-01-18T15:00:00+01:00",
+    "end": "2027-01-18T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2027-01-19T09:30:00+01:00",
+    "end": "2027-01-19T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2027-01-19T10:00:00+01:00",
+    "end": "2027-01-19T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologie dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2027-01-19T13:00:00+01:00",
+    "end": "2027-01-19T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2027-01-19T13:00:00+01:00",
+    "end": "2027-01-19T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Design LAB",
+    "docente": "Minisci",
+    "start": "2027-01-20T09:30:00+01:00",
+    "end": "2027-01-20T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Minisci",
+    "start": "2027-01-20T14:00:00+01:00",
+    "end": "2027-01-20T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Informatica di Base Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Multimedia LAB",
+    "docente": "Onorato",
+    "start": "2027-01-20T14:30:00+01:00",
+    "end": "2027-01-20T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Architettura degli Interni 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2027-01-21T10:00:00+01:00",
+    "end": "2027-01-21T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2027-01-21T10:00:00+01:00",
+    "end": "2027-01-21T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia dell'Arte Moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna",
+    "docente": "Sughi",
+    "start": "2027-01-21T14:00:00+01:00",
+    "end": "2027-01-21T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Architettura degli Interni 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2027-01-22T09:30:00+01:00",
+    "end": "2027-01-22T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2027-01-22T13:00:00+01:00",
+    "end": "2027-01-22T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2027-01-23T14:00:00+01:00",
+    "end": "2027-01-23T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Fenomenologia degli Stili",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Minisci",
+    "start": "2027-01-25T09:30:00+01:00",
+    "end": "2027-01-25T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia del Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "start": "2027-01-25T09:30:00+01:00",
+    "end": "2027-01-25T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2027-01-25T11:30:00+01:00",
+    "end": "2027-01-25T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "start": "2027-01-25T11:30:00+01:00",
+    "end": "2027-01-25T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Informatica di Base Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Conference 2",
+    "docente": "Onorato",
+    "start": "2027-01-25T15:00:00+01:00",
+    "end": "2027-01-25T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2027-01-26T09:30:00+01:00",
+    "end": "2027-01-26T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2027-01-26T10:00:00+01:00",
+    "end": "2027-01-26T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologie dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2027-01-26T13:00:00+01:00",
+    "end": "2027-01-26T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2027-01-26T13:00:00+01:00",
+    "end": "2027-01-26T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Design LAB",
+    "docente": "Minisci",
+    "start": "2027-01-27T09:30:00+01:00",
+    "end": "2027-01-27T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Minisci",
+    "start": "2027-01-27T14:00:00+01:00",
+    "end": "2027-01-27T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Informatica di Base Design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Multimedia LAB",
+    "docente": "Onorato",
+    "start": "2027-01-27T14:30:00+01:00",
+    "end": "2027-01-27T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Architettura degli Interni 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2027-01-28T10:00:00+01:00",
+    "end": "2027-01-28T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "start": "2027-01-28T10:00:00+01:00",
+    "end": "2027-01-28T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Storia dell'Arte Moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna",
+    "docente": "Sughi",
+    "start": "2027-01-28T14:00:00+01:00",
+    "end": "2027-01-28T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Architettura degli Interni 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Conference 2",
+    "docente": "Barboni",
+    "start": "2027-01-29T09:30:00+01:00",
+    "end": "2027-01-29T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Tecnologia dei Nuovi Materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "start": "2027-01-29T13:00:00+01:00",
+    "end": "2027-01-29T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2027-01-30T14:00:00+01:00",
+    "end": "2027-01-30T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
   }
 ]

@@ -1,14 +1,14 @@
 [
   {
-    "corso": "Tecniche di Documentazione Audiovisiva",
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
     "oidCorso": null,
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Movie Hall",
-    "docente": "Citi",
-    "start": "2025-11-03T10:00:00+01:00",
-    "end": "2025-11-03T13:00:00+01:00",
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2026-09-01T10:00:00+01:00",
+    "end": "2026-09-01T13:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -18,10 +18,23 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Aula Magna",
+    "aula": "Magna",
     "docente": "Iannello",
-    "start": "2025-11-04T11:30:00+01:00",
-    "end": "2025-11-04T13:30:00+01:00",
+    "start": "2026-09-01T11:30:00+01:00",
+    "end": "2026-09-01T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2026-09-01T14:00:00+01:00",
+    "end": "2026-09-01T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -31,10 +44,10 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
-    "start": "2025-11-05T09:30:00+01:00",
-    "end": "2025-11-05T12:30:00+01:00",
+    "start": "2026-09-02T09:30:00+01:00",
+    "end": "2026-09-02T12:30:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -46,8 +59,8 @@
     "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Corvino",
-    "start": "2025-11-05T13:00:00+01:00",
-    "end": "2025-11-05T17:00:00+01:00",
+    "start": "2026-09-02T13:00:00+01:00",
+    "end": "2026-09-02T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -59,21 +72,8 @@
     "gruppo": null,
     "aula": "3D LAB",
     "docente": "Massini",
-    "start": "2025-11-06T14:00:00+01:00",
-    "end": "2025-11-06T16:00:00+01:00",
-    "note": null,
-    "corsoStudio": "CINEMA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital Hub",
-    "docente": "Carbone",
-    "start": "2025-11-08T14:00:00+01:00",
-    "end": "2025-11-08T18:00:00+01:00",
+    "start": "2026-09-03T14:00:00+01:00",
+    "end": "2026-09-03T16:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -83,10 +83,145 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2026-09-04T10:30:00+01:00",
+    "end": "2026-09-04T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2026-09-04T14:00:00+01:00",
+    "end": "2026-09-04T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-09-05T14:00:00+01:00",
+    "end": "2026-09-05T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Citi",
-    "start": "2025-11-10T10:00:00+01:00",
-    "end": "2025-11-10T13:00:00+01:00",
+    "start": "2026-09-07T10:00:00+01:00",
+    "end": "2026-09-07T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2026-09-07T14:00:00+01:00",
+    "end": "2026-09-07T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2026-09-08T10:00:00+01:00",
+    "end": "2026-09-08T13:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -96,10 +231,23 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Aula Magna",
+    "aula": "Magna",
     "docente": "Iannello",
-    "start": "2025-11-11T11:30:00+01:00",
-    "end": "2025-11-11T13:30:00+01:00",
+    "start": "2026-09-08T11:30:00+01:00",
+    "end": "2026-09-08T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2026-09-08T14:00:00+01:00",
+    "end": "2026-09-08T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -109,10 +257,10 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
-    "start": "2025-11-12T09:30:00+01:00",
-    "end": "2025-11-12T12:30:00+01:00",
+    "start": "2026-09-09T09:30:00+01:00",
+    "end": "2026-09-09T12:30:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -124,8 +272,8 @@
     "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Corvino",
-    "start": "2025-11-12T13:00:00+01:00",
-    "end": "2025-11-12T17:00:00+01:00",
+    "start": "2026-09-09T13:00:00+01:00",
+    "end": "2026-09-09T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -137,21 +285,8 @@
     "gruppo": null,
     "aula": "3D LAB",
     "docente": "Massini",
-    "start": "2025-11-13T14:00:00+01:00",
-    "end": "2025-11-13T16:00:00+01:00",
-    "note": null,
-    "corsoStudio": "CINEMA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital Hub",
-    "docente": "Carbone",
-    "start": "2025-11-15T14:00:00+01:00",
-    "end": "2025-11-15T18:00:00+01:00",
+    "start": "2026-09-10T14:00:00+01:00",
+    "end": "2026-09-10T16:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -161,10 +296,145 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2026-09-11T10:30:00+01:00",
+    "end": "2026-09-11T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2026-09-11T14:00:00+01:00",
+    "end": "2026-09-11T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-09-12T14:00:00+01:00",
+    "end": "2026-09-12T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Citi",
-    "start": "2025-11-17T10:00:00+01:00",
-    "end": "2025-11-17T13:00:00+01:00",
+    "start": "2026-09-14T10:00:00+01:00",
+    "end": "2026-09-14T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2026-09-14T14:00:00+01:00",
+    "end": "2026-09-14T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2026-09-15T10:00:00+01:00",
+    "end": "2026-09-15T13:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -174,10 +444,23 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Aula Magna",
+    "aula": "Magna",
     "docente": "Iannello",
-    "start": "2025-11-18T11:30:00+01:00",
-    "end": "2025-11-18T13:30:00+01:00",
+    "start": "2026-09-15T11:30:00+01:00",
+    "end": "2026-09-15T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2026-09-15T14:00:00+01:00",
+    "end": "2026-09-15T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -187,10 +470,10 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
-    "start": "2025-11-19T09:30:00+01:00",
-    "end": "2025-11-19T12:30:00+01:00",
+    "start": "2026-09-16T09:30:00+01:00",
+    "end": "2026-09-16T12:30:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -202,8 +485,8 @@
     "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Corvino",
-    "start": "2025-11-19T13:00:00+01:00",
-    "end": "2025-11-19T17:00:00+01:00",
+    "start": "2026-09-16T13:00:00+01:00",
+    "end": "2026-09-16T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -215,21 +498,8 @@
     "gruppo": null,
     "aula": "3D LAB",
     "docente": "Massini",
-    "start": "2025-11-20T14:00:00+01:00",
-    "end": "2025-11-20T16:00:00+01:00",
-    "note": null,
-    "corsoStudio": "CINEMA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital Hub",
-    "docente": "Carbone",
-    "start": "2025-11-22T14:00:00+01:00",
-    "end": "2025-11-22T18:00:00+01:00",
+    "start": "2026-09-17T14:00:00+01:00",
+    "end": "2026-09-17T16:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -239,10 +509,145 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2026-09-18T10:30:00+01:00",
+    "end": "2026-09-18T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2026-09-18T14:00:00+01:00",
+    "end": "2026-09-18T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-09-19T14:00:00+01:00",
+    "end": "2026-09-19T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Citi",
-    "start": "2025-11-24T10:00:00+01:00",
-    "end": "2025-11-24T13:00:00+01:00",
+    "start": "2026-09-21T10:00:00+01:00",
+    "end": "2026-09-21T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2026-09-21T14:00:00+01:00",
+    "end": "2026-09-21T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2026-09-22T10:00:00+01:00",
+    "end": "2026-09-22T13:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -252,10 +657,23 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Aula Magna",
+    "aula": "Magna",
     "docente": "Iannello",
-    "start": "2025-11-25T11:30:00+01:00",
-    "end": "2025-11-25T13:30:00+01:00",
+    "start": "2026-09-22T11:30:00+01:00",
+    "end": "2026-09-22T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2026-09-22T14:00:00+01:00",
+    "end": "2026-09-22T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -265,10 +683,10 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
-    "start": "2025-11-26T09:30:00+01:00",
-    "end": "2025-11-26T12:30:00+01:00",
+    "start": "2026-09-23T09:30:00+01:00",
+    "end": "2026-09-23T12:30:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -280,8 +698,8 @@
     "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Corvino",
-    "start": "2025-11-26T13:00:00+01:00",
-    "end": "2025-11-26T17:00:00+01:00",
+    "start": "2026-09-23T13:00:00+01:00",
+    "end": "2026-09-23T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -293,21 +711,8 @@
     "gruppo": null,
     "aula": "3D LAB",
     "docente": "Massini",
-    "start": "2025-11-27T14:00:00+01:00",
-    "end": "2025-11-27T16:00:00+01:00",
-    "note": null,
-    "corsoStudio": "CINEMA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital Hub",
-    "docente": "Carbone",
-    "start": "2025-11-29T14:00:00+01:00",
-    "end": "2025-11-29T18:00:00+01:00",
+    "start": "2026-09-24T14:00:00+01:00",
+    "end": "2026-09-24T16:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -317,10 +722,145 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2026-09-25T10:30:00+01:00",
+    "end": "2026-09-25T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2026-09-25T14:00:00+01:00",
+    "end": "2026-09-25T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-09-26T14:00:00+01:00",
+    "end": "2026-09-26T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Citi",
-    "start": "2025-12-01T10:00:00+01:00",
-    "end": "2025-12-01T13:00:00+01:00",
+    "start": "2026-09-28T10:00:00+01:00",
+    "end": "2026-09-28T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2026-09-28T14:00:00+01:00",
+    "end": "2026-09-28T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2026-09-29T10:00:00+01:00",
+    "end": "2026-09-29T13:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -330,10 +870,23 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Aula Magna",
+    "aula": "Magna",
     "docente": "Iannello",
-    "start": "2025-12-02T11:30:00+01:00",
-    "end": "2025-12-02T13:30:00+01:00",
+    "start": "2026-09-29T11:30:00+01:00",
+    "end": "2026-09-29T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2026-09-29T14:00:00+01:00",
+    "end": "2026-09-29T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -343,10 +896,10 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
-    "start": "2025-12-03T09:30:00+01:00",
-    "end": "2025-12-03T12:30:00+01:00",
+    "start": "2026-09-30T09:30:00+01:00",
+    "end": "2026-09-30T12:30:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -358,8 +911,8 @@
     "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Corvino",
-    "start": "2025-12-03T13:00:00+01:00",
-    "end": "2025-12-03T17:00:00+01:00",
+    "start": "2026-09-30T13:00:00+01:00",
+    "end": "2026-09-30T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -371,21 +924,8 @@
     "gruppo": null,
     "aula": "3D LAB",
     "docente": "Massini",
-    "start": "2025-12-04T14:00:00+01:00",
-    "end": "2025-12-04T16:00:00+01:00",
-    "note": null,
-    "corsoStudio": "CINEMA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital Hub",
-    "docente": "Carbone",
-    "start": "2025-12-06T14:00:00+01:00",
-    "end": "2025-12-06T18:00:00+01:00",
+    "start": "2026-10-01T14:00:00+01:00",
+    "end": "2026-10-01T16:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -395,10 +935,145 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2026-10-02T10:30:00+01:00",
+    "end": "2026-10-02T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2026-10-02T14:00:00+01:00",
+    "end": "2026-10-02T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-10-03T14:00:00+01:00",
+    "end": "2026-10-03T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Citi",
-    "start": "2025-12-08T10:00:00+01:00",
-    "end": "2025-12-08T13:00:00+01:00",
+    "start": "2026-10-05T10:00:00+01:00",
+    "end": "2026-10-05T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2026-10-05T14:00:00+01:00",
+    "end": "2026-10-05T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2026-10-06T10:00:00+01:00",
+    "end": "2026-10-06T13:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -408,10 +1083,23 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Aula Magna",
+    "aula": "Magna",
     "docente": "Iannello",
-    "start": "2025-12-09T11:30:00+01:00",
-    "end": "2025-12-09T13:30:00+01:00",
+    "start": "2026-10-06T11:30:00+01:00",
+    "end": "2026-10-06T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2026-10-06T14:00:00+01:00",
+    "end": "2026-10-06T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -421,10 +1109,10 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
-    "start": "2025-12-10T09:30:00+01:00",
-    "end": "2025-12-10T12:30:00+01:00",
+    "start": "2026-10-07T09:30:00+01:00",
+    "end": "2026-10-07T12:30:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -436,8 +1124,8 @@
     "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Corvino",
-    "start": "2025-12-10T13:00:00+01:00",
-    "end": "2025-12-10T17:00:00+01:00",
+    "start": "2026-10-07T13:00:00+01:00",
+    "end": "2026-10-07T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -449,21 +1137,8 @@
     "gruppo": null,
     "aula": "3D LAB",
     "docente": "Massini",
-    "start": "2025-12-11T14:00:00+01:00",
-    "end": "2025-12-11T16:00:00+01:00",
-    "note": null,
-    "corsoStudio": "CINEMA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital Hub",
-    "docente": "Carbone",
-    "start": "2025-12-13T14:00:00+01:00",
-    "end": "2025-12-13T18:00:00+01:00",
+    "start": "2026-10-08T14:00:00+01:00",
+    "end": "2026-10-08T16:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -473,10 +1148,145 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2026-10-09T10:30:00+01:00",
+    "end": "2026-10-09T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2026-10-09T14:00:00+01:00",
+    "end": "2026-10-09T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-10-10T14:00:00+01:00",
+    "end": "2026-10-10T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Citi",
-    "start": "2025-12-15T10:00:00+01:00",
-    "end": "2025-12-15T13:00:00+01:00",
+    "start": "2026-10-12T10:00:00+01:00",
+    "end": "2026-10-12T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2026-10-12T14:00:00+01:00",
+    "end": "2026-10-12T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2026-10-13T10:00:00+01:00",
+    "end": "2026-10-13T13:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -486,10 +1296,23 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Aula Magna",
+    "aula": "Magna",
     "docente": "Iannello",
-    "start": "2025-12-16T11:30:00+01:00",
-    "end": "2025-12-16T13:30:00+01:00",
+    "start": "2026-10-13T11:30:00+01:00",
+    "end": "2026-10-13T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2026-10-13T14:00:00+01:00",
+    "end": "2026-10-13T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -499,10 +1322,10 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
-    "start": "2025-12-17T09:30:00+01:00",
-    "end": "2025-12-17T12:30:00+01:00",
+    "start": "2026-10-14T09:30:00+01:00",
+    "end": "2026-10-14T12:30:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -514,8 +1337,8 @@
     "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Corvino",
-    "start": "2025-12-17T13:00:00+01:00",
-    "end": "2025-12-17T17:00:00+01:00",
+    "start": "2026-10-14T13:00:00+01:00",
+    "end": "2026-10-14T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -527,21 +1350,8 @@
     "gruppo": null,
     "aula": "3D LAB",
     "docente": "Massini",
-    "start": "2025-12-18T14:00:00+01:00",
-    "end": "2025-12-18T16:00:00+01:00",
-    "note": null,
-    "corsoStudio": "CINEMA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital Hub",
-    "docente": "Carbone",
-    "start": "2025-12-20T14:00:00+01:00",
-    "end": "2025-12-20T18:00:00+01:00",
+    "start": "2026-10-15T14:00:00+01:00",
+    "end": "2026-10-15T16:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -551,10 +1361,145 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2026-10-16T10:30:00+01:00",
+    "end": "2026-10-16T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2026-10-16T14:00:00+01:00",
+    "end": "2026-10-16T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-10-17T14:00:00+01:00",
+    "end": "2026-10-17T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Citi",
-    "start": "2025-12-22T10:00:00+01:00",
-    "end": "2025-12-22T13:00:00+01:00",
+    "start": "2026-10-19T10:00:00+01:00",
+    "end": "2026-10-19T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2026-10-19T14:00:00+01:00",
+    "end": "2026-10-19T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2026-10-20T10:00:00+01:00",
+    "end": "2026-10-20T13:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -564,10 +1509,23 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Aula Magna",
+    "aula": "Magna",
     "docente": "Iannello",
-    "start": "2025-12-23T11:30:00+01:00",
-    "end": "2025-12-23T13:30:00+01:00",
+    "start": "2026-10-20T11:30:00+01:00",
+    "end": "2026-10-20T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2026-10-20T14:00:00+01:00",
+    "end": "2026-10-20T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -577,10 +1535,10 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
-    "start": "2025-12-24T09:30:00+01:00",
-    "end": "2025-12-24T12:30:00+01:00",
+    "start": "2026-10-21T09:30:00+01:00",
+    "end": "2026-10-21T12:30:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -592,8 +1550,8 @@
     "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Corvino",
-    "start": "2025-12-24T13:00:00+01:00",
-    "end": "2025-12-24T17:00:00+01:00",
+    "start": "2026-10-21T13:00:00+01:00",
+    "end": "2026-10-21T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -605,21 +1563,8 @@
     "gruppo": null,
     "aula": "3D LAB",
     "docente": "Massini",
-    "start": "2025-12-25T14:00:00+01:00",
-    "end": "2025-12-25T16:00:00+01:00",
-    "note": null,
-    "corsoStudio": "CINEMA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital Hub",
-    "docente": "Carbone",
-    "start": "2025-12-27T14:00:00+01:00",
-    "end": "2025-12-27T18:00:00+01:00",
+    "start": "2026-10-22T14:00:00+01:00",
+    "end": "2026-10-22T16:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -629,10 +1574,145 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2026-10-23T10:30:00+01:00",
+    "end": "2026-10-23T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2026-10-23T14:00:00+01:00",
+    "end": "2026-10-23T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-10-24T14:00:00+01:00",
+    "end": "2026-10-24T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Citi",
-    "start": "2025-12-29T10:00:00+01:00",
-    "end": "2025-12-29T13:00:00+01:00",
+    "start": "2026-10-26T10:00:00+01:00",
+    "end": "2026-10-26T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2026-10-26T14:00:00+01:00",
+    "end": "2026-10-26T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2026-10-27T10:00:00+01:00",
+    "end": "2026-10-27T13:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -642,10 +1722,23 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Aula Magna",
+    "aula": "Magna",
     "docente": "Iannello",
-    "start": "2025-12-30T11:30:00+01:00",
-    "end": "2025-12-30T13:30:00+01:00",
+    "start": "2026-10-27T11:30:00+01:00",
+    "end": "2026-10-27T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2026-10-27T14:00:00+01:00",
+    "end": "2026-10-27T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -655,10 +1748,10 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
-    "start": "2025-12-31T09:30:00+01:00",
-    "end": "2025-12-31T12:30:00+01:00",
+    "start": "2026-10-28T09:30:00+01:00",
+    "end": "2026-10-28T12:30:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -670,8 +1763,8 @@
     "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Corvino",
-    "start": "2025-12-31T13:00:00+01:00",
-    "end": "2025-12-31T17:00:00+01:00",
+    "start": "2026-10-28T13:00:00+01:00",
+    "end": "2026-10-28T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -683,21 +1776,8 @@
     "gruppo": null,
     "aula": "3D LAB",
     "docente": "Massini",
-    "start": "2026-01-01T14:00:00+01:00",
-    "end": "2026-01-01T16:00:00+01:00",
-    "note": null,
-    "corsoStudio": "CINEMA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital Hub",
-    "docente": "Carbone",
-    "start": "2026-01-03T14:00:00+01:00",
-    "end": "2026-01-03T18:00:00+01:00",
+    "start": "2026-10-29T14:00:00+01:00",
+    "end": "2026-10-29T16:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -707,10 +1787,145 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2026-10-30T10:30:00+01:00",
+    "end": "2026-10-30T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2026-10-30T14:00:00+01:00",
+    "end": "2026-10-30T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-10-31T14:00:00+01:00",
+    "end": "2026-10-31T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Citi",
-    "start": "2026-01-05T10:00:00+01:00",
-    "end": "2026-01-05T13:00:00+01:00",
+    "start": "2026-11-02T10:00:00+01:00",
+    "end": "2026-11-02T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2026-11-02T14:00:00+01:00",
+    "end": "2026-11-02T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2026-11-03T10:00:00+01:00",
+    "end": "2026-11-03T13:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -720,10 +1935,23 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Aula Magna",
+    "aula": "Magna",
     "docente": "Iannello",
-    "start": "2026-01-06T11:30:00+01:00",
-    "end": "2026-01-06T13:30:00+01:00",
+    "start": "2026-11-03T11:30:00+01:00",
+    "end": "2026-11-03T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2026-11-03T14:00:00+01:00",
+    "end": "2026-11-03T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -733,10 +1961,10 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
-    "start": "2026-01-07T09:30:00+01:00",
-    "end": "2026-01-07T12:30:00+01:00",
+    "start": "2026-11-04T09:30:00+01:00",
+    "end": "2026-11-04T12:30:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -748,8 +1976,8 @@
     "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Corvino",
-    "start": "2026-01-07T13:00:00+01:00",
-    "end": "2026-01-07T17:00:00+01:00",
+    "start": "2026-11-04T13:00:00+01:00",
+    "end": "2026-11-04T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -761,21 +1989,8 @@
     "gruppo": null,
     "aula": "3D LAB",
     "docente": "Massini",
-    "start": "2026-01-08T14:00:00+01:00",
-    "end": "2026-01-08T16:00:00+01:00",
-    "note": null,
-    "corsoStudio": "CINEMA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital Hub",
-    "docente": "Carbone",
-    "start": "2026-01-10T14:00:00+01:00",
-    "end": "2026-01-10T18:00:00+01:00",
+    "start": "2026-11-05T14:00:00+01:00",
+    "end": "2026-11-05T16:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -785,10 +2000,145 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2026-11-06T10:30:00+01:00",
+    "end": "2026-11-06T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2026-11-06T14:00:00+01:00",
+    "end": "2026-11-06T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-11-07T14:00:00+01:00",
+    "end": "2026-11-07T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Citi",
-    "start": "2026-01-12T10:00:00+01:00",
-    "end": "2026-01-12T13:00:00+01:00",
+    "start": "2026-11-09T10:00:00+01:00",
+    "end": "2026-11-09T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2026-11-09T14:00:00+01:00",
+    "end": "2026-11-09T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2026-11-10T10:00:00+01:00",
+    "end": "2026-11-10T13:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -798,10 +2148,23 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Aula Magna",
+    "aula": "Magna",
     "docente": "Iannello",
-    "start": "2026-01-13T11:30:00+01:00",
-    "end": "2026-01-13T13:30:00+01:00",
+    "start": "2026-11-10T11:30:00+01:00",
+    "end": "2026-11-10T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2026-11-10T14:00:00+01:00",
+    "end": "2026-11-10T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -811,10 +2174,10 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
-    "start": "2026-01-14T09:30:00+01:00",
-    "end": "2026-01-14T12:30:00+01:00",
+    "start": "2026-11-11T09:30:00+01:00",
+    "end": "2026-11-11T12:30:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -826,8 +2189,8 @@
     "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Corvino",
-    "start": "2026-01-14T13:00:00+01:00",
-    "end": "2026-01-14T17:00:00+01:00",
+    "start": "2026-11-11T13:00:00+01:00",
+    "end": "2026-11-11T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -839,21 +2202,8 @@
     "gruppo": null,
     "aula": "3D LAB",
     "docente": "Massini",
-    "start": "2026-01-15T14:00:00+01:00",
-    "end": "2026-01-15T16:00:00+01:00",
-    "note": null,
-    "corsoStudio": "CINEMA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital Hub",
-    "docente": "Carbone",
-    "start": "2026-01-17T14:00:00+01:00",
-    "end": "2026-01-17T18:00:00+01:00",
+    "start": "2026-11-12T14:00:00+01:00",
+    "end": "2026-11-12T16:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -863,10 +2213,145 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2026-11-13T10:30:00+01:00",
+    "end": "2026-11-13T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2026-11-13T14:00:00+01:00",
+    "end": "2026-11-13T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-11-14T14:00:00+01:00",
+    "end": "2026-11-14T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Citi",
-    "start": "2026-01-19T10:00:00+01:00",
-    "end": "2026-01-19T13:00:00+01:00",
+    "start": "2026-11-16T10:00:00+01:00",
+    "end": "2026-11-16T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2026-11-16T14:00:00+01:00",
+    "end": "2026-11-16T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2026-11-17T10:00:00+01:00",
+    "end": "2026-11-17T13:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -876,10 +2361,23 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Aula Magna",
+    "aula": "Magna",
     "docente": "Iannello",
-    "start": "2026-01-20T11:30:00+01:00",
-    "end": "2026-01-20T13:30:00+01:00",
+    "start": "2026-11-17T11:30:00+01:00",
+    "end": "2026-11-17T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2026-11-17T14:00:00+01:00",
+    "end": "2026-11-17T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -889,10 +2387,10 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
-    "start": "2026-01-21T09:30:00+01:00",
-    "end": "2026-01-21T12:30:00+01:00",
+    "start": "2026-11-18T09:30:00+01:00",
+    "end": "2026-11-18T12:30:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -904,8 +2402,8 @@
     "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Corvino",
-    "start": "2026-01-21T13:00:00+01:00",
-    "end": "2026-01-21T17:00:00+01:00",
+    "start": "2026-11-18T13:00:00+01:00",
+    "end": "2026-11-18T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -917,21 +2415,8 @@
     "gruppo": null,
     "aula": "3D LAB",
     "docente": "Massini",
-    "start": "2026-01-22T14:00:00+01:00",
-    "end": "2026-01-22T16:00:00+01:00",
-    "note": null,
-    "corsoStudio": "CINEMA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital Hub",
-    "docente": "Carbone",
-    "start": "2026-01-24T14:00:00+01:00",
-    "end": "2026-01-24T18:00:00+01:00",
+    "start": "2026-11-19T14:00:00+01:00",
+    "end": "2026-11-19T16:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -941,10 +2426,145 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2026-11-20T10:30:00+01:00",
+    "end": "2026-11-20T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2026-11-20T14:00:00+01:00",
+    "end": "2026-11-20T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-11-21T14:00:00+01:00",
+    "end": "2026-11-21T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Citi",
-    "start": "2026-01-26T10:00:00+01:00",
-    "end": "2026-01-26T13:00:00+01:00",
+    "start": "2026-11-23T10:00:00+01:00",
+    "end": "2026-11-23T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2026-11-23T14:00:00+01:00",
+    "end": "2026-11-23T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2026-11-24T10:00:00+01:00",
+    "end": "2026-11-24T13:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -954,10 +2574,23 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Aula Magna",
+    "aula": "Magna",
     "docente": "Iannello",
-    "start": "2026-01-27T11:30:00+01:00",
-    "end": "2026-01-27T13:30:00+01:00",
+    "start": "2026-11-24T11:30:00+01:00",
+    "end": "2026-11-24T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2026-11-24T14:00:00+01:00",
+    "end": "2026-11-24T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -967,10 +2600,10 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
-    "start": "2026-01-28T09:30:00+01:00",
-    "end": "2026-01-28T12:30:00+01:00",
+    "start": "2026-11-25T09:30:00+01:00",
+    "end": "2026-11-25T12:30:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -982,8 +2615,8 @@
     "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Corvino",
-    "start": "2026-01-28T13:00:00+01:00",
-    "end": "2026-01-28T17:00:00+01:00",
+    "start": "2026-11-25T13:00:00+01:00",
+    "end": "2026-11-25T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -995,21 +2628,8 @@
     "gruppo": null,
     "aula": "3D LAB",
     "docente": "Massini",
-    "start": "2026-01-29T14:00:00+01:00",
-    "end": "2026-01-29T16:00:00+01:00",
-    "note": null,
-    "corsoStudio": "CINEMA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital Hub",
-    "docente": "Carbone",
-    "start": "2026-01-31T14:00:00+01:00",
-    "end": "2026-01-31T18:00:00+01:00",
+    "start": "2026-11-26T14:00:00+01:00",
+    "end": "2026-11-26T16:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -1019,10 +2639,145 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2026-11-27T10:30:00+01:00",
+    "end": "2026-11-27T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2026-11-27T14:00:00+01:00",
+    "end": "2026-11-27T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-11-28T14:00:00+01:00",
+    "end": "2026-11-28T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Citi",
-    "start": "2026-02-02T10:00:00+01:00",
-    "end": "2026-02-02T13:00:00+01:00",
+    "start": "2026-11-30T10:00:00+01:00",
+    "end": "2026-11-30T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2026-11-30T14:00:00+01:00",
+    "end": "2026-11-30T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2026-12-01T10:00:00+01:00",
+    "end": "2026-12-01T13:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -1032,10 +2787,23 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Aula Magna",
+    "aula": "Magna",
     "docente": "Iannello",
-    "start": "2026-02-03T11:30:00+01:00",
-    "end": "2026-02-03T13:30:00+01:00",
+    "start": "2026-12-01T11:30:00+01:00",
+    "end": "2026-12-01T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2026-12-01T14:00:00+01:00",
+    "end": "2026-12-01T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -1045,10 +2813,10 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital Hub",
+    "aula": "Digital HUB",
     "docente": "Corvino",
-    "start": "2026-02-04T09:30:00+01:00",
-    "end": "2026-02-04T12:30:00+01:00",
+    "start": "2026-12-02T09:30:00+01:00",
+    "end": "2026-12-02T12:30:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -1060,8 +2828,8 @@
     "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Corvino",
-    "start": "2026-02-04T13:00:00+01:00",
-    "end": "2026-02-04T17:00:00+01:00",
+    "start": "2026-12-02T13:00:00+01:00",
+    "end": "2026-12-02T17:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -1073,21 +2841,8 @@
     "gruppo": null,
     "aula": "3D LAB",
     "docente": "Massini",
-    "start": "2026-02-05T14:00:00+01:00",
-    "end": "2026-02-05T16:00:00+01:00",
-    "note": null,
-    "corsoStudio": "CINEMA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital Hub",
-    "docente": "Carbone",
-    "start": "2026-02-07T14:00:00+01:00",
-    "end": "2026-02-07T18:00:00+01:00",
+    "start": "2026-12-03T14:00:00+01:00",
+    "end": "2026-12-03T16:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
   },
@@ -1097,11 +2852,1811 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Movie Hall",
+    "aula": "Conference 2",
     "docente": "Citi",
-    "start": "2026-02-09T10:00:00+01:00",
-    "end": "2026-02-09T13:00:00+01:00",
+    "start": "2026-12-04T10:30:00+01:00",
+    "end": "2026-12-04T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2026-12-04T14:00:00+01:00",
+    "end": "2026-12-04T16:00:00+01:00",
     "note": null,
     "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-12-05T14:00:00+01:00",
+    "end": "2026-12-05T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2026-12-07T10:00:00+01:00",
+    "end": "2026-12-07T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2026-12-07T14:00:00+01:00",
+    "end": "2026-12-07T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2026-12-08T10:00:00+01:00",
+    "end": "2026-12-08T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Scrittura Creativa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna",
+    "docente": "Iannello",
+    "start": "2026-12-08T11:30:00+01:00",
+    "end": "2026-12-08T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2026-12-08T14:00:00+01:00",
+    "end": "2026-12-08T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2026-12-09T09:30:00+01:00",
+    "end": "2026-12-09T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2026-12-09T13:00:00+01:00",
+    "end": "2026-12-09T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Informatica per la Grafica",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "3D LAB",
+    "docente": "Massini",
+    "start": "2026-12-10T14:00:00+01:00",
+    "end": "2026-12-10T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2026-12-11T10:30:00+01:00",
+    "end": "2026-12-11T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2026-12-11T14:00:00+01:00",
+    "end": "2026-12-11T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-12-12T14:00:00+01:00",
+    "end": "2026-12-12T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2026-12-14T10:00:00+01:00",
+    "end": "2026-12-14T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2026-12-14T14:00:00+01:00",
+    "end": "2026-12-14T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2026-12-15T10:00:00+01:00",
+    "end": "2026-12-15T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Scrittura Creativa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna",
+    "docente": "Iannello",
+    "start": "2026-12-15T11:30:00+01:00",
+    "end": "2026-12-15T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2026-12-15T14:00:00+01:00",
+    "end": "2026-12-15T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2026-12-16T09:30:00+01:00",
+    "end": "2026-12-16T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2026-12-16T13:00:00+01:00",
+    "end": "2026-12-16T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Informatica per la Grafica",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "3D LAB",
+    "docente": "Massini",
+    "start": "2026-12-17T14:00:00+01:00",
+    "end": "2026-12-17T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2026-12-18T10:30:00+01:00",
+    "end": "2026-12-18T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2026-12-18T14:00:00+01:00",
+    "end": "2026-12-18T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-12-19T14:00:00+01:00",
+    "end": "2026-12-19T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2026-12-21T10:00:00+01:00",
+    "end": "2026-12-21T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2026-12-21T14:00:00+01:00",
+    "end": "2026-12-21T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2026-12-22T10:00:00+01:00",
+    "end": "2026-12-22T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Scrittura Creativa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna",
+    "docente": "Iannello",
+    "start": "2026-12-22T11:30:00+01:00",
+    "end": "2026-12-22T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2026-12-22T14:00:00+01:00",
+    "end": "2026-12-22T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2026-12-23T09:30:00+01:00",
+    "end": "2026-12-23T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2026-12-23T13:00:00+01:00",
+    "end": "2026-12-23T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Informatica per la Grafica",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "3D LAB",
+    "docente": "Massini",
+    "start": "2026-12-24T14:00:00+01:00",
+    "end": "2026-12-24T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2026-12-25T10:30:00+01:00",
+    "end": "2026-12-25T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2026-12-25T14:00:00+01:00",
+    "end": "2026-12-25T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-12-26T14:00:00+01:00",
+    "end": "2026-12-26T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2026-12-28T10:00:00+01:00",
+    "end": "2026-12-28T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2026-12-28T14:00:00+01:00",
+    "end": "2026-12-28T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2026-12-29T10:00:00+01:00",
+    "end": "2026-12-29T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Scrittura Creativa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna",
+    "docente": "Iannello",
+    "start": "2026-12-29T11:30:00+01:00",
+    "end": "2026-12-29T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2026-12-29T14:00:00+01:00",
+    "end": "2026-12-29T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2026-12-30T09:30:00+01:00",
+    "end": "2026-12-30T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2026-12-30T13:00:00+01:00",
+    "end": "2026-12-30T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Informatica per la Grafica",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "3D LAB",
+    "docente": "Massini",
+    "start": "2026-12-31T14:00:00+01:00",
+    "end": "2026-12-31T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-01-01T10:30:00+01:00",
+    "end": "2027-01-01T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-01-01T14:00:00+01:00",
+    "end": "2027-01-01T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2027-01-02T14:00:00+01:00",
+    "end": "2027-01-02T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-01-04T10:00:00+01:00",
+    "end": "2027-01-04T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-01-04T14:00:00+01:00",
+    "end": "2027-01-04T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-01-05T10:00:00+01:00",
+    "end": "2027-01-05T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Scrittura Creativa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna",
+    "docente": "Iannello",
+    "start": "2027-01-05T11:30:00+01:00",
+    "end": "2027-01-05T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-01-05T14:00:00+01:00",
+    "end": "2027-01-05T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-01-06T09:30:00+01:00",
+    "end": "2027-01-06T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-01-06T13:00:00+01:00",
+    "end": "2027-01-06T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Informatica per la Grafica",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "3D LAB",
+    "docente": "Massini",
+    "start": "2027-01-07T14:00:00+01:00",
+    "end": "2027-01-07T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-01-08T10:30:00+01:00",
+    "end": "2027-01-08T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-01-08T14:00:00+01:00",
+    "end": "2027-01-08T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2027-01-09T14:00:00+01:00",
+    "end": "2027-01-09T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-01-11T10:00:00+01:00",
+    "end": "2027-01-11T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-01-11T14:00:00+01:00",
+    "end": "2027-01-11T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-01-12T10:00:00+01:00",
+    "end": "2027-01-12T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Scrittura Creativa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna",
+    "docente": "Iannello",
+    "start": "2027-01-12T11:30:00+01:00",
+    "end": "2027-01-12T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-01-12T14:00:00+01:00",
+    "end": "2027-01-12T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-01-13T09:30:00+01:00",
+    "end": "2027-01-13T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-01-13T13:00:00+01:00",
+    "end": "2027-01-13T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Informatica per la Grafica",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "3D LAB",
+    "docente": "Massini",
+    "start": "2027-01-14T14:00:00+01:00",
+    "end": "2027-01-14T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-01-15T10:30:00+01:00",
+    "end": "2027-01-15T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-01-15T14:00:00+01:00",
+    "end": "2027-01-15T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2027-01-16T14:00:00+01:00",
+    "end": "2027-01-16T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-01-18T10:00:00+01:00",
+    "end": "2027-01-18T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-01-18T14:00:00+01:00",
+    "end": "2027-01-18T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-01-19T10:00:00+01:00",
+    "end": "2027-01-19T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Scrittura Creativa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna",
+    "docente": "Iannello",
+    "start": "2027-01-19T11:30:00+01:00",
+    "end": "2027-01-19T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-01-19T14:00:00+01:00",
+    "end": "2027-01-19T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-01-20T09:30:00+01:00",
+    "end": "2027-01-20T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-01-20T13:00:00+01:00",
+    "end": "2027-01-20T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Informatica per la Grafica",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "3D LAB",
+    "docente": "Massini",
+    "start": "2027-01-21T14:00:00+01:00",
+    "end": "2027-01-21T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-01-22T10:30:00+01:00",
+    "end": "2027-01-22T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-01-22T14:00:00+01:00",
+    "end": "2027-01-22T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2027-01-23T14:00:00+01:00",
+    "end": "2027-01-23T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-01-25T10:00:00+01:00",
+    "end": "2027-01-25T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-01-25T14:00:00+01:00",
+    "end": "2027-01-25T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e Analisi del Cinema e dell'Audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-01-26T10:00:00+01:00",
+    "end": "2027-01-26T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Scrittura Creativa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna",
+    "docente": "Iannello",
+    "start": "2027-01-26T11:30:00+01:00",
+    "end": "2027-01-26T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video Editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-01-26T14:00:00+01:00",
+    "end": "2027-01-26T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-01-27T09:30:00+01:00",
+    "end": "2027-01-27T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-01-27T13:00:00+01:00",
+    "end": "2027-01-27T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Informatica per la Grafica",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "3D LAB",
+    "docente": "Massini",
+    "start": "2027-01-28T14:00:00+01:00",
+    "end": "2027-01-28T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di Documentazione Audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-01-29T10:30:00+01:00",
+    "end": "2027-01-29T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, Storia dell'Arte e del Costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-01-29T14:00:00+01:00",
+    "end": "2027-01-29T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2027-01-30T14:00:00+01:00",
+    "end": "2027-01-30T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        1
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
   }
 ]

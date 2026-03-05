@@ -1,395 +1,5 @@
 [
   {
-    "corso": "Decorazione",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Carone",
-    "start": "2025-11-03T09:00:00+01:00",
-    "end": "2025-11-03T12:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Pittura",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Lahiji / Osadcii",
-    "start": "2025-11-03T12:30:00+01:00",
-    "end": "2025-11-03T16:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Decorazione",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Carone",
-    "start": "2025-11-10T09:00:00+01:00",
-    "end": "2025-11-10T12:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Pittura",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Lahiji / Osadcii",
-    "start": "2025-11-10T12:30:00+01:00",
-    "end": "2025-11-10T16:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Decorazione",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Carone",
-    "start": "2025-11-17T09:00:00+01:00",
-    "end": "2025-11-17T12:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Pittura",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Lahiji / Osadcii",
-    "start": "2025-11-17T12:30:00+01:00",
-    "end": "2025-11-17T16:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Decorazione",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Carone",
-    "start": "2025-11-24T09:00:00+01:00",
-    "end": "2025-11-24T12:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Pittura",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Lahiji / Osadcii",
-    "start": "2025-11-24T12:30:00+01:00",
-    "end": "2025-11-24T16:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Decorazione",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Carone",
-    "start": "2025-12-01T09:00:00+01:00",
-    "end": "2025-12-01T12:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Pittura",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Lahiji / Osadcii",
-    "start": "2025-12-01T12:30:00+01:00",
-    "end": "2025-12-01T16:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Decorazione",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Carone",
-    "start": "2025-12-08T09:00:00+01:00",
-    "end": "2025-12-08T12:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Pittura",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Lahiji / Osadcii",
-    "start": "2025-12-08T12:30:00+01:00",
-    "end": "2025-12-08T16:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Decorazione",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Carone",
-    "start": "2025-12-15T09:00:00+01:00",
-    "end": "2025-12-15T12:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Pittura",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Lahiji / Osadcii",
-    "start": "2025-12-15T12:30:00+01:00",
-    "end": "2025-12-15T16:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Decorazione",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Carone",
-    "start": "2025-12-22T09:00:00+01:00",
-    "end": "2025-12-22T12:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Pittura",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Lahiji / Osadcii",
-    "start": "2025-12-22T12:30:00+01:00",
-    "end": "2025-12-22T16:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Decorazione",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Carone",
-    "start": "2025-12-29T09:00:00+01:00",
-    "end": "2025-12-29T12:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Pittura",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Lahiji / Osadcii",
-    "start": "2025-12-29T12:30:00+01:00",
-    "end": "2025-12-29T16:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Decorazione",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Carone",
-    "start": "2026-01-05T09:00:00+01:00",
-    "end": "2026-01-05T12:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Pittura",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Lahiji / Osadcii",
-    "start": "2026-01-05T12:30:00+01:00",
-    "end": "2026-01-05T16:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Decorazione",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Carone",
-    "start": "2026-01-12T09:00:00+01:00",
-    "end": "2026-01-12T12:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Pittura",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Lahiji / Osadcii",
-    "start": "2026-01-12T12:30:00+01:00",
-    "end": "2026-01-12T16:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Decorazione",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Carone",
-    "start": "2026-01-19T09:00:00+01:00",
-    "end": "2026-01-19T12:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Pittura",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Lahiji / Osadcii",
-    "start": "2026-01-19T12:30:00+01:00",
-    "end": "2026-01-19T16:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Decorazione",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Carone",
-    "start": "2026-01-26T09:00:00+01:00",
-    "end": "2026-01-26T12:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Pittura",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Lahiji / Osadcii",
-    "start": "2026-01-26T12:30:00+01:00",
-    "end": "2026-01-26T16:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Decorazione",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Carone",
-    "start": "2026-02-02T09:00:00+01:00",
-    "end": "2026-02-02T12:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Pittura",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Lahiji / Osadcii",
-    "start": "2026-02-02T12:30:00+01:00",
-    "end": "2026-02-02T16:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Decorazione",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Carone",
-    "start": "2026-02-09T09:00:00+01:00",
-    "end": "2026-02-09T12:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Pittura",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Lahiji / Osadcii",
-    "start": "2026-02-09T12:30:00+01:00",
-    "end": "2026-02-09T16:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
     "corso": "Tecniche e Tecnologie per le Arti Visive 1",
     "oidCorso": null,
     "oidCorsi": null,
@@ -397,8 +7,8 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Macchi",
-    "start": "2025-11-05T08:30:00+01:00",
-    "end": "2025-11-05T11:30:00+01:00",
+    "start": "2026-09-02T08:30:00+01:00",
+    "end": "2026-09-02T11:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -410,8 +20,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Lahiji / Osadcii",
-    "start": "2025-11-05T12:30:00+01:00",
-    "end": "2025-11-05T14:30:00+01:00",
+    "start": "2026-09-02T12:30:00+01:00",
+    "end": "2026-09-02T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-09-02T13:30:00+01:00",
+    "end": "2026-09-02T15:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -423,8 +46,247 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Osadcii / Lahiji",
-    "start": "2025-11-05T14:30:00+01:00",
-    "end": "2025-11-05T16:30:00+01:00",
+    "start": "2026-09-02T14:30:00+01:00",
+    "end": "2026-09-02T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-09-02T15:30:00+01:00",
+    "end": "2026-09-02T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Iannella",
+    "start": "2026-09-03T08:30:00+01:00",
+    "end": "2026-09-03T10:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2026-09-03T09:30:00+01:00",
+    "end": "2026-09-03T11:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Onorato",
+    "start": "2026-09-03T10:30:00+01:00",
+    "end": "2026-09-03T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Onorato",
+    "start": "2026-09-03T11:30:00+01:00",
+    "end": "2026-09-03T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Macchi",
+    "start": "2026-09-04T09:00:00+01:00",
+    "end": "2026-09-04T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Tecniche Grafiche",
+    "docente": "Macchi",
+    "start": "2026-09-04T10:00:00+01:00",
+    "end": "2026-09-04T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2026-09-04T13:00:00+01:00",
+    "end": "2026-09-04T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-09-05T14:00:00+01:00",
+    "end": "2026-09-05T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Carone",
+    "start": "2026-09-07T09:00:00+01:00",
+    "end": "2026-09-07T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Carone",
+    "start": "2026-09-07T10:00:00+01:00",
+    "end": "2026-09-07T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-09-07T12:30:00+01:00",
+    "end": "2026-09-07T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-09-07T13:30:00+01:00",
+    "end": "2026-09-07T17:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -436,8 +298,8 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Macchi",
-    "start": "2025-11-12T08:30:00+01:00",
-    "end": "2025-11-12T11:30:00+01:00",
+    "start": "2026-09-09T08:30:00+01:00",
+    "end": "2026-09-09T11:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -449,8 +311,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Lahiji / Osadcii",
-    "start": "2025-11-12T12:30:00+01:00",
-    "end": "2025-11-12T14:30:00+01:00",
+    "start": "2026-09-09T12:30:00+01:00",
+    "end": "2026-09-09T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-09-09T13:30:00+01:00",
+    "end": "2026-09-09T15:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -462,8 +337,247 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Osadcii / Lahiji",
-    "start": "2025-11-12T14:30:00+01:00",
-    "end": "2025-11-12T16:30:00+01:00",
+    "start": "2026-09-09T14:30:00+01:00",
+    "end": "2026-09-09T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-09-09T15:30:00+01:00",
+    "end": "2026-09-09T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Iannella",
+    "start": "2026-09-10T08:30:00+01:00",
+    "end": "2026-09-10T10:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2026-09-10T09:30:00+01:00",
+    "end": "2026-09-10T11:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Onorato",
+    "start": "2026-09-10T10:30:00+01:00",
+    "end": "2026-09-10T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Onorato",
+    "start": "2026-09-10T11:30:00+01:00",
+    "end": "2026-09-10T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Macchi",
+    "start": "2026-09-11T09:00:00+01:00",
+    "end": "2026-09-11T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Tecniche Grafiche",
+    "docente": "Macchi",
+    "start": "2026-09-11T10:00:00+01:00",
+    "end": "2026-09-11T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2026-09-11T13:00:00+01:00",
+    "end": "2026-09-11T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-09-12T14:00:00+01:00",
+    "end": "2026-09-12T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Carone",
+    "start": "2026-09-14T09:00:00+01:00",
+    "end": "2026-09-14T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Carone",
+    "start": "2026-09-14T10:00:00+01:00",
+    "end": "2026-09-14T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-09-14T12:30:00+01:00",
+    "end": "2026-09-14T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-09-14T13:30:00+01:00",
+    "end": "2026-09-14T17:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -475,8 +589,8 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Macchi",
-    "start": "2025-11-19T08:30:00+01:00",
-    "end": "2025-11-19T11:30:00+01:00",
+    "start": "2026-09-16T08:30:00+01:00",
+    "end": "2026-09-16T11:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -488,8 +602,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Lahiji / Osadcii",
-    "start": "2025-11-19T12:30:00+01:00",
-    "end": "2025-11-19T14:30:00+01:00",
+    "start": "2026-09-16T12:30:00+01:00",
+    "end": "2026-09-16T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-09-16T13:30:00+01:00",
+    "end": "2026-09-16T15:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -501,8 +628,247 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Osadcii / Lahiji",
-    "start": "2025-11-19T14:30:00+01:00",
-    "end": "2025-11-19T16:30:00+01:00",
+    "start": "2026-09-16T14:30:00+01:00",
+    "end": "2026-09-16T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-09-16T15:30:00+01:00",
+    "end": "2026-09-16T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Iannella",
+    "start": "2026-09-17T08:30:00+01:00",
+    "end": "2026-09-17T10:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2026-09-17T09:30:00+01:00",
+    "end": "2026-09-17T11:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Onorato",
+    "start": "2026-09-17T10:30:00+01:00",
+    "end": "2026-09-17T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Onorato",
+    "start": "2026-09-17T11:30:00+01:00",
+    "end": "2026-09-17T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Macchi",
+    "start": "2026-09-18T09:00:00+01:00",
+    "end": "2026-09-18T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Tecniche Grafiche",
+    "docente": "Macchi",
+    "start": "2026-09-18T10:00:00+01:00",
+    "end": "2026-09-18T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2026-09-18T13:00:00+01:00",
+    "end": "2026-09-18T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-09-19T14:00:00+01:00",
+    "end": "2026-09-19T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Carone",
+    "start": "2026-09-21T09:00:00+01:00",
+    "end": "2026-09-21T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Carone",
+    "start": "2026-09-21T10:00:00+01:00",
+    "end": "2026-09-21T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-09-21T12:30:00+01:00",
+    "end": "2026-09-21T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-09-21T13:30:00+01:00",
+    "end": "2026-09-21T17:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -514,8 +880,8 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Macchi",
-    "start": "2025-11-26T08:30:00+01:00",
-    "end": "2025-11-26T11:30:00+01:00",
+    "start": "2026-09-23T08:30:00+01:00",
+    "end": "2026-09-23T11:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -527,8 +893,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Lahiji / Osadcii",
-    "start": "2025-11-26T12:30:00+01:00",
-    "end": "2025-11-26T14:30:00+01:00",
+    "start": "2026-09-23T12:30:00+01:00",
+    "end": "2026-09-23T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-09-23T13:30:00+01:00",
+    "end": "2026-09-23T15:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -540,8 +919,247 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Osadcii / Lahiji",
-    "start": "2025-11-26T14:30:00+01:00",
-    "end": "2025-11-26T16:30:00+01:00",
+    "start": "2026-09-23T14:30:00+01:00",
+    "end": "2026-09-23T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-09-23T15:30:00+01:00",
+    "end": "2026-09-23T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Iannella",
+    "start": "2026-09-24T08:30:00+01:00",
+    "end": "2026-09-24T10:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2026-09-24T09:30:00+01:00",
+    "end": "2026-09-24T11:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Onorato",
+    "start": "2026-09-24T10:30:00+01:00",
+    "end": "2026-09-24T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Onorato",
+    "start": "2026-09-24T11:30:00+01:00",
+    "end": "2026-09-24T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Macchi",
+    "start": "2026-09-25T09:00:00+01:00",
+    "end": "2026-09-25T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Tecniche Grafiche",
+    "docente": "Macchi",
+    "start": "2026-09-25T10:00:00+01:00",
+    "end": "2026-09-25T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2026-09-25T13:00:00+01:00",
+    "end": "2026-09-25T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-09-26T14:00:00+01:00",
+    "end": "2026-09-26T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Carone",
+    "start": "2026-09-28T09:00:00+01:00",
+    "end": "2026-09-28T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Carone",
+    "start": "2026-09-28T10:00:00+01:00",
+    "end": "2026-09-28T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-09-28T12:30:00+01:00",
+    "end": "2026-09-28T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-09-28T13:30:00+01:00",
+    "end": "2026-09-28T17:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -553,8 +1171,8 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Macchi",
-    "start": "2025-12-03T08:30:00+01:00",
-    "end": "2025-12-03T11:30:00+01:00",
+    "start": "2026-09-30T08:30:00+01:00",
+    "end": "2026-09-30T11:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -566,8 +1184,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Lahiji / Osadcii",
-    "start": "2025-12-03T12:30:00+01:00",
-    "end": "2025-12-03T14:30:00+01:00",
+    "start": "2026-09-30T12:30:00+01:00",
+    "end": "2026-09-30T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-09-30T13:30:00+01:00",
+    "end": "2026-09-30T15:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -579,8 +1210,247 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Osadcii / Lahiji",
-    "start": "2025-12-03T14:30:00+01:00",
-    "end": "2025-12-03T16:30:00+01:00",
+    "start": "2026-09-30T14:30:00+01:00",
+    "end": "2026-09-30T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-09-30T15:30:00+01:00",
+    "end": "2026-09-30T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Iannella",
+    "start": "2026-10-01T08:30:00+01:00",
+    "end": "2026-10-01T10:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2026-10-01T09:30:00+01:00",
+    "end": "2026-10-01T11:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Onorato",
+    "start": "2026-10-01T10:30:00+01:00",
+    "end": "2026-10-01T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Onorato",
+    "start": "2026-10-01T11:30:00+01:00",
+    "end": "2026-10-01T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Macchi",
+    "start": "2026-10-02T09:00:00+01:00",
+    "end": "2026-10-02T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Tecniche Grafiche",
+    "docente": "Macchi",
+    "start": "2026-10-02T10:00:00+01:00",
+    "end": "2026-10-02T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2026-10-02T13:00:00+01:00",
+    "end": "2026-10-02T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-10-03T14:00:00+01:00",
+    "end": "2026-10-03T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Carone",
+    "start": "2026-10-05T09:00:00+01:00",
+    "end": "2026-10-05T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Carone",
+    "start": "2026-10-05T10:00:00+01:00",
+    "end": "2026-10-05T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-10-05T12:30:00+01:00",
+    "end": "2026-10-05T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-10-05T13:30:00+01:00",
+    "end": "2026-10-05T17:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -592,8 +1462,8 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Macchi",
-    "start": "2025-12-10T08:30:00+01:00",
-    "end": "2025-12-10T11:30:00+01:00",
+    "start": "2026-10-07T08:30:00+01:00",
+    "end": "2026-10-07T11:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -605,8 +1475,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Lahiji / Osadcii",
-    "start": "2025-12-10T12:30:00+01:00",
-    "end": "2025-12-10T14:30:00+01:00",
+    "start": "2026-10-07T12:30:00+01:00",
+    "end": "2026-10-07T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-10-07T13:30:00+01:00",
+    "end": "2026-10-07T15:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -618,8 +1501,247 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Osadcii / Lahiji",
-    "start": "2025-12-10T14:30:00+01:00",
-    "end": "2025-12-10T16:30:00+01:00",
+    "start": "2026-10-07T14:30:00+01:00",
+    "end": "2026-10-07T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-10-07T15:30:00+01:00",
+    "end": "2026-10-07T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Iannella",
+    "start": "2026-10-08T08:30:00+01:00",
+    "end": "2026-10-08T10:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2026-10-08T09:30:00+01:00",
+    "end": "2026-10-08T11:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Onorato",
+    "start": "2026-10-08T10:30:00+01:00",
+    "end": "2026-10-08T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Onorato",
+    "start": "2026-10-08T11:30:00+01:00",
+    "end": "2026-10-08T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Macchi",
+    "start": "2026-10-09T09:00:00+01:00",
+    "end": "2026-10-09T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Tecniche Grafiche",
+    "docente": "Macchi",
+    "start": "2026-10-09T10:00:00+01:00",
+    "end": "2026-10-09T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2026-10-09T13:00:00+01:00",
+    "end": "2026-10-09T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-10-10T14:00:00+01:00",
+    "end": "2026-10-10T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Carone",
+    "start": "2026-10-12T09:00:00+01:00",
+    "end": "2026-10-12T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Carone",
+    "start": "2026-10-12T10:00:00+01:00",
+    "end": "2026-10-12T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-10-12T12:30:00+01:00",
+    "end": "2026-10-12T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-10-12T13:30:00+01:00",
+    "end": "2026-10-12T17:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -631,8 +1753,8 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Macchi",
-    "start": "2025-12-17T08:30:00+01:00",
-    "end": "2025-12-17T11:30:00+01:00",
+    "start": "2026-10-14T08:30:00+01:00",
+    "end": "2026-10-14T11:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -644,8 +1766,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Lahiji / Osadcii",
-    "start": "2025-12-17T12:30:00+01:00",
-    "end": "2025-12-17T14:30:00+01:00",
+    "start": "2026-10-14T12:30:00+01:00",
+    "end": "2026-10-14T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-10-14T13:30:00+01:00",
+    "end": "2026-10-14T15:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -657,8 +1792,247 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Osadcii / Lahiji",
-    "start": "2025-12-17T14:30:00+01:00",
-    "end": "2025-12-17T16:30:00+01:00",
+    "start": "2026-10-14T14:30:00+01:00",
+    "end": "2026-10-14T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-10-14T15:30:00+01:00",
+    "end": "2026-10-14T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Iannella",
+    "start": "2026-10-15T08:30:00+01:00",
+    "end": "2026-10-15T10:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2026-10-15T09:30:00+01:00",
+    "end": "2026-10-15T11:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Onorato",
+    "start": "2026-10-15T10:30:00+01:00",
+    "end": "2026-10-15T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Onorato",
+    "start": "2026-10-15T11:30:00+01:00",
+    "end": "2026-10-15T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Macchi",
+    "start": "2026-10-16T09:00:00+01:00",
+    "end": "2026-10-16T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Tecniche Grafiche",
+    "docente": "Macchi",
+    "start": "2026-10-16T10:00:00+01:00",
+    "end": "2026-10-16T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2026-10-16T13:00:00+01:00",
+    "end": "2026-10-16T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-10-17T14:00:00+01:00",
+    "end": "2026-10-17T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Carone",
+    "start": "2026-10-19T09:00:00+01:00",
+    "end": "2026-10-19T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Carone",
+    "start": "2026-10-19T10:00:00+01:00",
+    "end": "2026-10-19T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-10-19T12:30:00+01:00",
+    "end": "2026-10-19T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-10-19T13:30:00+01:00",
+    "end": "2026-10-19T17:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -670,8 +2044,8 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Macchi",
-    "start": "2025-12-24T08:30:00+01:00",
-    "end": "2025-12-24T11:30:00+01:00",
+    "start": "2026-10-21T08:30:00+01:00",
+    "end": "2026-10-21T11:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -683,8 +2057,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Lahiji / Osadcii",
-    "start": "2025-12-24T12:30:00+01:00",
-    "end": "2025-12-24T14:30:00+01:00",
+    "start": "2026-10-21T12:30:00+01:00",
+    "end": "2026-10-21T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-10-21T13:30:00+01:00",
+    "end": "2026-10-21T15:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -696,8 +2083,247 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Osadcii / Lahiji",
-    "start": "2025-12-24T14:30:00+01:00",
-    "end": "2025-12-24T16:30:00+01:00",
+    "start": "2026-10-21T14:30:00+01:00",
+    "end": "2026-10-21T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-10-21T15:30:00+01:00",
+    "end": "2026-10-21T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Iannella",
+    "start": "2026-10-22T08:30:00+01:00",
+    "end": "2026-10-22T10:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2026-10-22T09:30:00+01:00",
+    "end": "2026-10-22T11:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Onorato",
+    "start": "2026-10-22T10:30:00+01:00",
+    "end": "2026-10-22T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Onorato",
+    "start": "2026-10-22T11:30:00+01:00",
+    "end": "2026-10-22T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Macchi",
+    "start": "2026-10-23T09:00:00+01:00",
+    "end": "2026-10-23T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Tecniche Grafiche",
+    "docente": "Macchi",
+    "start": "2026-10-23T10:00:00+01:00",
+    "end": "2026-10-23T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2026-10-23T13:00:00+01:00",
+    "end": "2026-10-23T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-10-24T14:00:00+01:00",
+    "end": "2026-10-24T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Carone",
+    "start": "2026-10-26T09:00:00+01:00",
+    "end": "2026-10-26T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Carone",
+    "start": "2026-10-26T10:00:00+01:00",
+    "end": "2026-10-26T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-10-26T12:30:00+01:00",
+    "end": "2026-10-26T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-10-26T13:30:00+01:00",
+    "end": "2026-10-26T17:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -709,8 +2335,8 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Macchi",
-    "start": "2025-12-31T08:30:00+01:00",
-    "end": "2025-12-31T11:30:00+01:00",
+    "start": "2026-10-28T08:30:00+01:00",
+    "end": "2026-10-28T11:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -722,8 +2348,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Lahiji / Osadcii",
-    "start": "2025-12-31T12:30:00+01:00",
-    "end": "2025-12-31T14:30:00+01:00",
+    "start": "2026-10-28T12:30:00+01:00",
+    "end": "2026-10-28T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-10-28T13:30:00+01:00",
+    "end": "2026-10-28T15:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -735,8 +2374,247 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Osadcii / Lahiji",
-    "start": "2025-12-31T14:30:00+01:00",
-    "end": "2025-12-31T16:30:00+01:00",
+    "start": "2026-10-28T14:30:00+01:00",
+    "end": "2026-10-28T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-10-28T15:30:00+01:00",
+    "end": "2026-10-28T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Iannella",
+    "start": "2026-10-29T08:30:00+01:00",
+    "end": "2026-10-29T10:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2026-10-29T09:30:00+01:00",
+    "end": "2026-10-29T11:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Onorato",
+    "start": "2026-10-29T10:30:00+01:00",
+    "end": "2026-10-29T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Onorato",
+    "start": "2026-10-29T11:30:00+01:00",
+    "end": "2026-10-29T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Macchi",
+    "start": "2026-10-30T09:00:00+01:00",
+    "end": "2026-10-30T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Tecniche Grafiche",
+    "docente": "Macchi",
+    "start": "2026-10-30T10:00:00+01:00",
+    "end": "2026-10-30T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2026-10-30T13:00:00+01:00",
+    "end": "2026-10-30T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-10-31T14:00:00+01:00",
+    "end": "2026-10-31T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Carone",
+    "start": "2026-11-02T09:00:00+01:00",
+    "end": "2026-11-02T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Carone",
+    "start": "2026-11-02T10:00:00+01:00",
+    "end": "2026-11-02T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-11-02T12:30:00+01:00",
+    "end": "2026-11-02T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-11-02T13:30:00+01:00",
+    "end": "2026-11-02T17:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -748,8 +2626,8 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Macchi",
-    "start": "2026-01-07T08:30:00+01:00",
-    "end": "2026-01-07T11:30:00+01:00",
+    "start": "2026-11-04T08:30:00+01:00",
+    "end": "2026-11-04T11:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -761,8 +2639,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Lahiji / Osadcii",
-    "start": "2026-01-07T12:30:00+01:00",
-    "end": "2026-01-07T14:30:00+01:00",
+    "start": "2026-11-04T12:30:00+01:00",
+    "end": "2026-11-04T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-11-04T13:30:00+01:00",
+    "end": "2026-11-04T15:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -774,8 +2665,247 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Osadcii / Lahiji",
-    "start": "2026-01-07T14:30:00+01:00",
-    "end": "2026-01-07T16:30:00+01:00",
+    "start": "2026-11-04T14:30:00+01:00",
+    "end": "2026-11-04T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-11-04T15:30:00+01:00",
+    "end": "2026-11-04T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Iannella",
+    "start": "2026-11-05T08:30:00+01:00",
+    "end": "2026-11-05T10:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2026-11-05T09:30:00+01:00",
+    "end": "2026-11-05T11:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Onorato",
+    "start": "2026-11-05T10:30:00+01:00",
+    "end": "2026-11-05T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Onorato",
+    "start": "2026-11-05T11:30:00+01:00",
+    "end": "2026-11-05T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Macchi",
+    "start": "2026-11-06T09:00:00+01:00",
+    "end": "2026-11-06T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Tecniche Grafiche",
+    "docente": "Macchi",
+    "start": "2026-11-06T10:00:00+01:00",
+    "end": "2026-11-06T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2026-11-06T13:00:00+01:00",
+    "end": "2026-11-06T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-11-07T14:00:00+01:00",
+    "end": "2026-11-07T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Carone",
+    "start": "2026-11-09T09:00:00+01:00",
+    "end": "2026-11-09T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Carone",
+    "start": "2026-11-09T10:00:00+01:00",
+    "end": "2026-11-09T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-11-09T12:30:00+01:00",
+    "end": "2026-11-09T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-11-09T13:30:00+01:00",
+    "end": "2026-11-09T17:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -787,8 +2917,8 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Macchi",
-    "start": "2026-01-14T08:30:00+01:00",
-    "end": "2026-01-14T11:30:00+01:00",
+    "start": "2026-11-11T08:30:00+01:00",
+    "end": "2026-11-11T11:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -800,8 +2930,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Lahiji / Osadcii",
-    "start": "2026-01-14T12:30:00+01:00",
-    "end": "2026-01-14T14:30:00+01:00",
+    "start": "2026-11-11T12:30:00+01:00",
+    "end": "2026-11-11T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-11-11T13:30:00+01:00",
+    "end": "2026-11-11T15:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -813,8 +2956,247 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Osadcii / Lahiji",
-    "start": "2026-01-14T14:30:00+01:00",
-    "end": "2026-01-14T16:30:00+01:00",
+    "start": "2026-11-11T14:30:00+01:00",
+    "end": "2026-11-11T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-11-11T15:30:00+01:00",
+    "end": "2026-11-11T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Iannella",
+    "start": "2026-11-12T08:30:00+01:00",
+    "end": "2026-11-12T10:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2026-11-12T09:30:00+01:00",
+    "end": "2026-11-12T11:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Onorato",
+    "start": "2026-11-12T10:30:00+01:00",
+    "end": "2026-11-12T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Onorato",
+    "start": "2026-11-12T11:30:00+01:00",
+    "end": "2026-11-12T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Macchi",
+    "start": "2026-11-13T09:00:00+01:00",
+    "end": "2026-11-13T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Tecniche Grafiche",
+    "docente": "Macchi",
+    "start": "2026-11-13T10:00:00+01:00",
+    "end": "2026-11-13T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2026-11-13T13:00:00+01:00",
+    "end": "2026-11-13T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-11-14T14:00:00+01:00",
+    "end": "2026-11-14T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Carone",
+    "start": "2026-11-16T09:00:00+01:00",
+    "end": "2026-11-16T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Carone",
+    "start": "2026-11-16T10:00:00+01:00",
+    "end": "2026-11-16T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-11-16T12:30:00+01:00",
+    "end": "2026-11-16T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-11-16T13:30:00+01:00",
+    "end": "2026-11-16T17:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -826,8 +3208,8 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Macchi",
-    "start": "2026-01-21T08:30:00+01:00",
-    "end": "2026-01-21T11:30:00+01:00",
+    "start": "2026-11-18T08:30:00+01:00",
+    "end": "2026-11-18T11:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -839,8 +3221,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Lahiji / Osadcii",
-    "start": "2026-01-21T12:30:00+01:00",
-    "end": "2026-01-21T14:30:00+01:00",
+    "start": "2026-11-18T12:30:00+01:00",
+    "end": "2026-11-18T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-11-18T13:30:00+01:00",
+    "end": "2026-11-18T15:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -852,8 +3247,247 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Osadcii / Lahiji",
-    "start": "2026-01-21T14:30:00+01:00",
-    "end": "2026-01-21T16:30:00+01:00",
+    "start": "2026-11-18T14:30:00+01:00",
+    "end": "2026-11-18T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-11-18T15:30:00+01:00",
+    "end": "2026-11-18T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Iannella",
+    "start": "2026-11-19T08:30:00+01:00",
+    "end": "2026-11-19T10:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2026-11-19T09:30:00+01:00",
+    "end": "2026-11-19T11:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Onorato",
+    "start": "2026-11-19T10:30:00+01:00",
+    "end": "2026-11-19T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Onorato",
+    "start": "2026-11-19T11:30:00+01:00",
+    "end": "2026-11-19T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Macchi",
+    "start": "2026-11-20T09:00:00+01:00",
+    "end": "2026-11-20T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Tecniche Grafiche",
+    "docente": "Macchi",
+    "start": "2026-11-20T10:00:00+01:00",
+    "end": "2026-11-20T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2026-11-20T13:00:00+01:00",
+    "end": "2026-11-20T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-11-21T14:00:00+01:00",
+    "end": "2026-11-21T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Carone",
+    "start": "2026-11-23T09:00:00+01:00",
+    "end": "2026-11-23T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Carone",
+    "start": "2026-11-23T10:00:00+01:00",
+    "end": "2026-11-23T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-11-23T12:30:00+01:00",
+    "end": "2026-11-23T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-11-23T13:30:00+01:00",
+    "end": "2026-11-23T17:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -865,8 +3499,8 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Macchi",
-    "start": "2026-01-28T08:30:00+01:00",
-    "end": "2026-01-28T11:30:00+01:00",
+    "start": "2026-11-25T08:30:00+01:00",
+    "end": "2026-11-25T11:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -878,8 +3512,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Lahiji / Osadcii",
-    "start": "2026-01-28T12:30:00+01:00",
-    "end": "2026-01-28T14:30:00+01:00",
+    "start": "2026-11-25T12:30:00+01:00",
+    "end": "2026-11-25T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-11-25T13:30:00+01:00",
+    "end": "2026-11-25T15:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -891,8 +3538,247 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Osadcii / Lahiji",
-    "start": "2026-01-28T14:30:00+01:00",
-    "end": "2026-01-28T16:30:00+01:00",
+    "start": "2026-11-25T14:30:00+01:00",
+    "end": "2026-11-25T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-11-25T15:30:00+01:00",
+    "end": "2026-11-25T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Iannella",
+    "start": "2026-11-26T08:30:00+01:00",
+    "end": "2026-11-26T10:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2026-11-26T09:30:00+01:00",
+    "end": "2026-11-26T11:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Onorato",
+    "start": "2026-11-26T10:30:00+01:00",
+    "end": "2026-11-26T12:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Onorato",
+    "start": "2026-11-26T11:30:00+01:00",
+    "end": "2026-11-26T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Macchi",
+    "start": "2026-11-27T09:00:00+01:00",
+    "end": "2026-11-27T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Tecniche Grafiche",
+    "docente": "Macchi",
+    "start": "2026-11-27T10:00:00+01:00",
+    "end": "2026-11-27T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2026-11-27T13:00:00+01:00",
+    "end": "2026-11-27T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-11-28T14:00:00+01:00",
+    "end": "2026-11-28T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Carone",
+    "start": "2026-11-30T09:00:00+01:00",
+    "end": "2026-11-30T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Carone",
+    "start": "2026-11-30T10:00:00+01:00",
+    "end": "2026-11-30T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-11-30T12:30:00+01:00",
+    "end": "2026-11-30T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-11-30T13:30:00+01:00",
+    "end": "2026-11-30T17:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -904,8 +3790,8 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Macchi",
-    "start": "2026-02-04T08:30:00+01:00",
-    "end": "2026-02-04T11:30:00+01:00",
+    "start": "2026-12-02T08:30:00+01:00",
+    "end": "2026-12-02T11:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -917,8 +3803,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Lahiji / Osadcii",
-    "start": "2026-02-04T12:30:00+01:00",
-    "end": "2026-02-04T14:30:00+01:00",
+    "start": "2026-12-02T12:30:00+01:00",
+    "end": "2026-12-02T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-12-02T13:30:00+01:00",
+    "end": "2026-12-02T15:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -930,8 +3829,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Osadcii / Lahiji",
-    "start": "2026-02-04T14:30:00+01:00",
-    "end": "2026-02-04T16:30:00+01:00",
+    "start": "2026-12-02T14:30:00+01:00",
+    "end": "2026-12-02T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-12-02T15:30:00+01:00",
+    "end": "2026-12-02T17:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -943,8 +3855,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Iannella",
-    "start": "2025-11-06T08:30:00+01:00",
-    "end": "2025-11-06T10:30:00+01:00",
+    "start": "2026-12-03T08:30:00+01:00",
+    "end": "2026-12-03T10:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2026-12-03T09:30:00+01:00",
+    "end": "2026-12-03T11:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "PITTURA"
   },
@@ -956,9 +3881,261 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Onorato",
-    "start": "2025-11-06T10:30:00+01:00",
-    "end": "2025-11-06T12:30:00+01:00",
+    "start": "2026-12-03T10:30:00+01:00",
+    "end": "2026-12-03T12:30:00+01:00",
     "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Onorato",
+    "start": "2026-12-03T11:30:00+01:00",
+    "end": "2026-12-03T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Macchi",
+    "start": "2026-12-04T09:00:00+01:00",
+    "end": "2026-12-04T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Tecniche Grafiche",
+    "docente": "Macchi",
+    "start": "2026-12-04T10:00:00+01:00",
+    "end": "2026-12-04T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2026-12-04T13:00:00+01:00",
+    "end": "2026-12-04T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-12-05T14:00:00+01:00",
+    "end": "2026-12-05T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Carone",
+    "start": "2026-12-07T09:00:00+01:00",
+    "end": "2026-12-07T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Carone",
+    "start": "2026-12-07T10:00:00+01:00",
+    "end": "2026-12-07T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-12-07T12:30:00+01:00",
+    "end": "2026-12-07T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-12-07T13:30:00+01:00",
+    "end": "2026-12-07T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e Tecnologie per le Arti Visive 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Macchi",
+    "start": "2026-12-09T08:30:00+01:00",
+    "end": "2026-12-09T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-12-09T12:30:00+01:00",
+    "end": "2026-12-09T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-12-09T13:30:00+01:00",
+    "end": "2026-12-09T15:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-12-09T14:30:00+01:00",
+    "end": "2026-12-09T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-12-09T15:30:00+01:00",
+    "end": "2026-12-09T17:30:00+01:00",
+    "note": null,
     "corsoStudio": "PITTURA"
   },
   {
@@ -969,8 +4146,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Iannella",
-    "start": "2025-11-13T08:30:00+01:00",
-    "end": "2025-11-13T10:30:00+01:00",
+    "start": "2026-12-10T08:30:00+01:00",
+    "end": "2026-12-10T10:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2026-12-10T09:30:00+01:00",
+    "end": "2026-12-10T11:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "PITTURA"
   },
@@ -982,9 +4172,261 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Onorato",
-    "start": "2025-11-13T10:30:00+01:00",
-    "end": "2025-11-13T12:30:00+01:00",
+    "start": "2026-12-10T10:30:00+01:00",
+    "end": "2026-12-10T12:30:00+01:00",
     "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Onorato",
+    "start": "2026-12-10T11:30:00+01:00",
+    "end": "2026-12-10T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Macchi",
+    "start": "2026-12-11T09:00:00+01:00",
+    "end": "2026-12-11T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Tecniche Grafiche",
+    "docente": "Macchi",
+    "start": "2026-12-11T10:00:00+01:00",
+    "end": "2026-12-11T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2026-12-11T13:00:00+01:00",
+    "end": "2026-12-11T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-12-12T14:00:00+01:00",
+    "end": "2026-12-12T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Carone",
+    "start": "2026-12-14T09:00:00+01:00",
+    "end": "2026-12-14T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Carone",
+    "start": "2026-12-14T10:00:00+01:00",
+    "end": "2026-12-14T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-12-14T12:30:00+01:00",
+    "end": "2026-12-14T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-12-14T13:30:00+01:00",
+    "end": "2026-12-14T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e Tecnologie per le Arti Visive 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Macchi",
+    "start": "2026-12-16T08:30:00+01:00",
+    "end": "2026-12-16T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-12-16T12:30:00+01:00",
+    "end": "2026-12-16T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-12-16T13:30:00+01:00",
+    "end": "2026-12-16T15:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-12-16T14:30:00+01:00",
+    "end": "2026-12-16T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-12-16T15:30:00+01:00",
+    "end": "2026-12-16T17:30:00+01:00",
+    "note": null,
     "corsoStudio": "PITTURA"
   },
   {
@@ -995,8 +4437,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Iannella",
-    "start": "2025-11-20T08:30:00+01:00",
-    "end": "2025-11-20T10:30:00+01:00",
+    "start": "2026-12-17T08:30:00+01:00",
+    "end": "2026-12-17T10:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2026-12-17T09:30:00+01:00",
+    "end": "2026-12-17T11:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "PITTURA"
   },
@@ -1008,9 +4463,261 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Onorato",
-    "start": "2025-11-20T10:30:00+01:00",
-    "end": "2025-11-20T12:30:00+01:00",
+    "start": "2026-12-17T10:30:00+01:00",
+    "end": "2026-12-17T12:30:00+01:00",
     "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Onorato",
+    "start": "2026-12-17T11:30:00+01:00",
+    "end": "2026-12-17T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Macchi",
+    "start": "2026-12-18T09:00:00+01:00",
+    "end": "2026-12-18T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Tecniche Grafiche",
+    "docente": "Macchi",
+    "start": "2026-12-18T10:00:00+01:00",
+    "end": "2026-12-18T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2026-12-18T13:00:00+01:00",
+    "end": "2026-12-18T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-12-19T14:00:00+01:00",
+    "end": "2026-12-19T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Carone",
+    "start": "2026-12-21T09:00:00+01:00",
+    "end": "2026-12-21T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Carone",
+    "start": "2026-12-21T10:00:00+01:00",
+    "end": "2026-12-21T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-12-21T12:30:00+01:00",
+    "end": "2026-12-21T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-12-21T13:30:00+01:00",
+    "end": "2026-12-21T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e Tecnologie per le Arti Visive 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Macchi",
+    "start": "2026-12-23T08:30:00+01:00",
+    "end": "2026-12-23T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-12-23T12:30:00+01:00",
+    "end": "2026-12-23T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-12-23T13:30:00+01:00",
+    "end": "2026-12-23T15:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-12-23T14:30:00+01:00",
+    "end": "2026-12-23T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-12-23T15:30:00+01:00",
+    "end": "2026-12-23T17:30:00+01:00",
+    "note": null,
     "corsoStudio": "PITTURA"
   },
   {
@@ -1021,8 +4728,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Iannella",
-    "start": "2025-11-27T08:30:00+01:00",
-    "end": "2025-11-27T10:30:00+01:00",
+    "start": "2026-12-24T08:30:00+01:00",
+    "end": "2026-12-24T10:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2026-12-24T09:30:00+01:00",
+    "end": "2026-12-24T11:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "PITTURA"
   },
@@ -1034,9 +4754,261 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Onorato",
-    "start": "2025-11-27T10:30:00+01:00",
-    "end": "2025-11-27T12:30:00+01:00",
+    "start": "2026-12-24T10:30:00+01:00",
+    "end": "2026-12-24T12:30:00+01:00",
     "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Onorato",
+    "start": "2026-12-24T11:30:00+01:00",
+    "end": "2026-12-24T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Macchi",
+    "start": "2026-12-25T09:00:00+01:00",
+    "end": "2026-12-25T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Tecniche Grafiche",
+    "docente": "Macchi",
+    "start": "2026-12-25T10:00:00+01:00",
+    "end": "2026-12-25T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2026-12-25T13:00:00+01:00",
+    "end": "2026-12-25T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2026-12-26T14:00:00+01:00",
+    "end": "2026-12-26T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Carone",
+    "start": "2026-12-28T09:00:00+01:00",
+    "end": "2026-12-28T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Carone",
+    "start": "2026-12-28T10:00:00+01:00",
+    "end": "2026-12-28T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-12-28T12:30:00+01:00",
+    "end": "2026-12-28T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-12-28T13:30:00+01:00",
+    "end": "2026-12-28T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e Tecnologie per le Arti Visive 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Macchi",
+    "start": "2026-12-30T08:30:00+01:00",
+    "end": "2026-12-30T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-12-30T12:30:00+01:00",
+    "end": "2026-12-30T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2026-12-30T13:30:00+01:00",
+    "end": "2026-12-30T15:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-12-30T14:30:00+01:00",
+    "end": "2026-12-30T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2026-12-30T15:30:00+01:00",
+    "end": "2026-12-30T17:30:00+01:00",
+    "note": null,
     "corsoStudio": "PITTURA"
   },
   {
@@ -1047,8 +5019,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Iannella",
-    "start": "2025-12-04T08:30:00+01:00",
-    "end": "2025-12-04T10:30:00+01:00",
+    "start": "2026-12-31T08:30:00+01:00",
+    "end": "2026-12-31T10:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2026-12-31T09:30:00+01:00",
+    "end": "2026-12-31T11:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "PITTURA"
   },
@@ -1060,9 +5045,261 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Onorato",
-    "start": "2025-12-04T10:30:00+01:00",
-    "end": "2025-12-04T12:30:00+01:00",
+    "start": "2026-12-31T10:30:00+01:00",
+    "end": "2026-12-31T12:30:00+01:00",
     "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Onorato",
+    "start": "2026-12-31T11:30:00+01:00",
+    "end": "2026-12-31T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Macchi",
+    "start": "2027-01-01T09:00:00+01:00",
+    "end": "2027-01-01T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Tecniche Grafiche",
+    "docente": "Macchi",
+    "start": "2027-01-01T10:00:00+01:00",
+    "end": "2027-01-01T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2027-01-01T13:00:00+01:00",
+    "end": "2027-01-01T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2027-01-02T14:00:00+01:00",
+    "end": "2027-01-02T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Carone",
+    "start": "2027-01-04T09:00:00+01:00",
+    "end": "2027-01-04T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Carone",
+    "start": "2027-01-04T10:00:00+01:00",
+    "end": "2027-01-04T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2027-01-04T12:30:00+01:00",
+    "end": "2027-01-04T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2027-01-04T13:30:00+01:00",
+    "end": "2027-01-04T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e Tecnologie per le Arti Visive 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Macchi",
+    "start": "2027-01-06T08:30:00+01:00",
+    "end": "2027-01-06T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2027-01-06T12:30:00+01:00",
+    "end": "2027-01-06T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2027-01-06T13:30:00+01:00",
+    "end": "2027-01-06T15:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Osadcii / Lahiji",
+    "start": "2027-01-06T14:30:00+01:00",
+    "end": "2027-01-06T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2027-01-06T15:30:00+01:00",
+    "end": "2027-01-06T17:30:00+01:00",
+    "note": null,
     "corsoStudio": "PITTURA"
   },
   {
@@ -1073,8 +5310,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Iannella",
-    "start": "2025-12-11T08:30:00+01:00",
-    "end": "2025-12-11T10:30:00+01:00",
+    "start": "2027-01-07T08:30:00+01:00",
+    "end": "2027-01-07T10:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-01-07T09:30:00+01:00",
+    "end": "2027-01-07T11:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "PITTURA"
   },
@@ -1086,9 +5336,261 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Onorato",
-    "start": "2025-12-11T10:30:00+01:00",
-    "end": "2025-12-11T12:30:00+01:00",
+    "start": "2027-01-07T10:30:00+01:00",
+    "end": "2027-01-07T12:30:00+01:00",
     "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Onorato",
+    "start": "2027-01-07T11:30:00+01:00",
+    "end": "2027-01-07T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Macchi",
+    "start": "2027-01-08T09:00:00+01:00",
+    "end": "2027-01-08T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Tecniche Grafiche",
+    "docente": "Macchi",
+    "start": "2027-01-08T10:00:00+01:00",
+    "end": "2027-01-08T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2027-01-08T13:00:00+01:00",
+    "end": "2027-01-08T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2027-01-09T14:00:00+01:00",
+    "end": "2027-01-09T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Carone",
+    "start": "2027-01-11T09:00:00+01:00",
+    "end": "2027-01-11T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Carone",
+    "start": "2027-01-11T10:00:00+01:00",
+    "end": "2027-01-11T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2027-01-11T12:30:00+01:00",
+    "end": "2027-01-11T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2027-01-11T13:30:00+01:00",
+    "end": "2027-01-11T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e Tecnologie per le Arti Visive 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Macchi",
+    "start": "2027-01-13T08:30:00+01:00",
+    "end": "2027-01-13T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2027-01-13T12:30:00+01:00",
+    "end": "2027-01-13T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2027-01-13T13:30:00+01:00",
+    "end": "2027-01-13T15:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Osadcii / Lahiji",
+    "start": "2027-01-13T14:30:00+01:00",
+    "end": "2027-01-13T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2027-01-13T15:30:00+01:00",
+    "end": "2027-01-13T17:30:00+01:00",
+    "note": null,
     "corsoStudio": "PITTURA"
   },
   {
@@ -1099,8 +5601,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Iannella",
-    "start": "2025-12-18T08:30:00+01:00",
-    "end": "2025-12-18T10:30:00+01:00",
+    "start": "2027-01-14T08:30:00+01:00",
+    "end": "2027-01-14T10:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-01-14T09:30:00+01:00",
+    "end": "2027-01-14T11:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "PITTURA"
   },
@@ -1112,9 +5627,261 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Onorato",
-    "start": "2025-12-18T10:30:00+01:00",
-    "end": "2025-12-18T12:30:00+01:00",
+    "start": "2027-01-14T10:30:00+01:00",
+    "end": "2027-01-14T12:30:00+01:00",
     "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Onorato",
+    "start": "2027-01-14T11:30:00+01:00",
+    "end": "2027-01-14T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Macchi",
+    "start": "2027-01-15T09:00:00+01:00",
+    "end": "2027-01-15T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Tecniche Grafiche",
+    "docente": "Macchi",
+    "start": "2027-01-15T10:00:00+01:00",
+    "end": "2027-01-15T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2027-01-15T13:00:00+01:00",
+    "end": "2027-01-15T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2027-01-16T14:00:00+01:00",
+    "end": "2027-01-16T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Carone",
+    "start": "2027-01-18T09:00:00+01:00",
+    "end": "2027-01-18T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Carone",
+    "start": "2027-01-18T10:00:00+01:00",
+    "end": "2027-01-18T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2027-01-18T12:30:00+01:00",
+    "end": "2027-01-18T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2027-01-18T13:30:00+01:00",
+    "end": "2027-01-18T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e Tecnologie per le Arti Visive 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Macchi",
+    "start": "2027-01-20T08:30:00+01:00",
+    "end": "2027-01-20T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2027-01-20T12:30:00+01:00",
+    "end": "2027-01-20T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2027-01-20T13:30:00+01:00",
+    "end": "2027-01-20T15:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Osadcii / Lahiji",
+    "start": "2027-01-20T14:30:00+01:00",
+    "end": "2027-01-20T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2027-01-20T15:30:00+01:00",
+    "end": "2027-01-20T17:30:00+01:00",
+    "note": null,
     "corsoStudio": "PITTURA"
   },
   {
@@ -1125,8 +5892,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Iannella",
-    "start": "2025-12-25T08:30:00+01:00",
-    "end": "2025-12-25T10:30:00+01:00",
+    "start": "2027-01-21T08:30:00+01:00",
+    "end": "2027-01-21T10:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'Immagine 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-01-21T09:30:00+01:00",
+    "end": "2027-01-21T11:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "PITTURA"
   },
@@ -1138,9 +5918,261 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Onorato",
-    "start": "2025-12-25T10:30:00+01:00",
-    "end": "2025-12-25T12:30:00+01:00",
+    "start": "2027-01-21T10:30:00+01:00",
+    "end": "2027-01-21T12:30:00+01:00",
     "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Informatica di Base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Onorato",
+    "start": "2027-01-21T11:30:00+01:00",
+    "end": "2027-01-21T13:30:00+01:00",
+    "note": "portatili",
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Macchi",
+    "start": "2027-01-22T09:00:00+01:00",
+    "end": "2027-01-22T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Storia dell'Arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Tecniche Grafiche",
+    "docente": "Macchi",
+    "start": "2027-01-22T10:00:00+01:00",
+    "end": "2027-01-22T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2027-01-22T13:00:00+01:00",
+    "end": "2027-01-22T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Italiano per Stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "start": "2027-01-23T14:00:00+01:00",
+    "end": "2027-01-23T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Carone",
+    "start": "2027-01-25T09:00:00+01:00",
+    "end": "2027-01-25T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Decorazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Carone",
+    "start": "2027-01-25T10:00:00+01:00",
+    "end": "2027-01-25T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2027-01-25T12:30:00+01:00",
+    "end": "2027-01-25T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2027-01-25T13:30:00+01:00",
+    "end": "2027-01-25T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e Tecnologie per le Arti Visive 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Macchi",
+    "start": "2027-01-27T08:30:00+01:00",
+    "end": "2027-01-27T11:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Lahiji / Osadcii",
+    "start": "2027-01-27T12:30:00+01:00",
+    "end": "2027-01-27T14:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Disegno",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Lahiji / Osadcii",
+    "start": "2027-01-27T13:30:00+01:00",
+    "end": "2027-01-27T15:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura, Via Finlandia, 8",
+    "docente": "Osadcii / Lahiji",
+    "start": "2027-01-27T14:30:00+01:00",
+    "end": "2027-01-27T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Progettazione per la Pittura",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Osadcii / Lahiji",
+    "start": "2027-01-27T15:30:00+01:00",
+    "end": "2027-01-27T17:30:00+01:00",
+    "note": null,
     "corsoStudio": "PITTURA"
   },
   {
@@ -1151,21 +6183,8 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Iannella",
-    "start": "2026-01-01T08:30:00+01:00",
-    "end": "2026-01-01T10:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Informatica di Base Pittura",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Onorato",
-    "start": "2026-01-01T10:30:00+01:00",
-    "end": "2026-01-01T12:30:00+01:00",
+    "start": "2027-01-28T08:30:00+01:00",
+    "end": "2027-01-28T10:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "PITTURA"
   },
@@ -1175,10 +6194,10 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
+    "aula": "Pittura",
     "docente": "Iannella",
-    "start": "2026-01-08T08:30:00+01:00",
-    "end": "2026-01-08T10:30:00+01:00",
+    "start": "2027-01-28T09:30:00+01:00",
+    "end": "2027-01-28T11:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "PITTURA"
   },
@@ -1190,112 +6209,21 @@
     "gruppo": null,
     "aula": "Pittura, Via Finlandia, 8",
     "docente": "Onorato",
-    "start": "2026-01-08T10:30:00+01:00",
-    "end": "2026-01-08T12:30:00+01:00",
+    "start": "2027-01-28T10:30:00+01:00",
+    "end": "2027-01-28T12:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "PITTURA"
   },
   {
-    "corso": "Anatomia dell'Immagine 1",
+    "corso": "Informatica di Base",
     "oidCorso": null,
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Iannella",
-    "start": "2026-01-15T08:30:00+01:00",
-    "end": "2026-01-15T10:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Informatica di Base Pittura",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
+    "aula": "Pittura",
     "docente": "Onorato",
-    "start": "2026-01-15T10:30:00+01:00",
-    "end": "2026-01-15T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Anatomia dell'Immagine 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Iannella",
-    "start": "2026-01-22T08:30:00+01:00",
-    "end": "2026-01-22T10:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Informatica di Base Pittura",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Onorato",
-    "start": "2026-01-22T10:30:00+01:00",
-    "end": "2026-01-22T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Anatomia dell'Immagine 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Iannella",
-    "start": "2026-01-29T08:30:00+01:00",
-    "end": "2026-01-29T10:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Informatica di Base Pittura",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Onorato",
-    "start": "2026-01-29T10:30:00+01:00",
-    "end": "2026-01-29T12:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Anatomia dell'Immagine 1",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Iannella",
-    "start": "2026-02-05T08:30:00+01:00",
-    "end": "2026-02-05T10:30:00+01:00",
-    "note": "portatili",
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Informatica di Base Pittura",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Pittura, Via Finlandia, 8",
-    "docente": "Onorato",
-    "start": "2026-02-05T10:30:00+01:00",
-    "end": "2026-02-05T12:30:00+01:00",
+    "start": "2027-01-28T11:30:00+01:00",
+    "end": "2027-01-28T13:30:00+01:00",
     "note": "portatili",
     "corsoStudio": "PITTURA"
   },
@@ -1307,8 +6235,8 @@
     "gruppo": null,
     "aula": "Digital HUB",
     "docente": "Macchi",
-    "start": "2025-11-07T09:00:00+01:00",
-    "end": "2025-11-07T11:30:00+01:00",
+    "start": "2027-01-29T09:00:00+01:00",
+    "end": "2027-01-29T11:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -1318,166 +6246,23 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital HUB",
+    "aula": "Tecniche Grafiche",
     "docente": "Macchi",
-    "start": "2025-11-14T09:00:00+01:00",
-    "end": "2025-11-14T11:30:00+01:00",
+    "start": "2027-01-29T10:00:00+01:00",
+    "end": "2027-01-29T12:30:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
   {
-    "corso": "Storia dell'Arte",
+    "corso": "Inglese",
     "oidCorso": null,
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Macchi",
-    "start": "2025-11-21T09:00:00+01:00",
-    "end": "2025-11-21T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Storia dell'Arte",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Macchi",
-    "start": "2025-11-28T09:00:00+01:00",
-    "end": "2025-11-28T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Storia dell'Arte",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Macchi",
-    "start": "2025-12-05T09:00:00+01:00",
-    "end": "2025-12-05T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Storia dell'Arte",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Macchi",
-    "start": "2025-12-12T09:00:00+01:00",
-    "end": "2025-12-12T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Storia dell'Arte",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Macchi",
-    "start": "2025-12-19T09:00:00+01:00",
-    "end": "2025-12-19T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Storia dell'Arte",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Macchi",
-    "start": "2025-12-26T09:00:00+01:00",
-    "end": "2025-12-26T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Storia dell'Arte",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Macchi",
-    "start": "2026-01-02T09:00:00+01:00",
-    "end": "2026-01-02T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Storia dell'Arte",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Macchi",
-    "start": "2026-01-09T09:00:00+01:00",
-    "end": "2026-01-09T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Storia dell'Arte",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Macchi",
-    "start": "2026-01-16T09:00:00+01:00",
-    "end": "2026-01-16T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Storia dell'Arte",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Macchi",
-    "start": "2026-01-23T09:00:00+01:00",
-    "end": "2026-01-23T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Storia dell'Arte",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Macchi",
-    "start": "2026-01-30T09:00:00+01:00",
-    "end": "2026-01-30T11:30:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Storia dell'Arte",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Macchi",
-    "start": "2026-02-06T09:00:00+01:00",
-    "end": "2026-02-06T11:30:00+01:00",
+    "aula": "Aula Magna 2",
+    "docente": "Green",
+    "start": "2027-01-29T13:00:00+01:00",
+    "end": "2027-01-29T15:00:00+01:00",
     "note": null,
     "corsoStudio": "PITTURA"
   },
@@ -1489,178 +6274,79 @@
     "gruppo": null,
     "aula": "Digital HUB",
     "docente": "Carbone",
-    "start": "2025-11-08T13:00:00+01:00",
-    "end": "2025-11-08T17:00:00+01:00",
+    "start": "2027-01-30T14:00:00+01:00",
+    "end": "2027-01-30T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2025-11-15T13:00:00+01:00",
-    "end": "2025-11-15T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2025-11-22T13:00:00+01:00",
-    "end": "2025-11-22T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2025-11-29T13:00:00+01:00",
-    "end": "2025-11-29T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2025-12-06T13:00:00+01:00",
-    "end": "2025-12-06T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2025-12-13T13:00:00+01:00",
-    "end": "2025-12-13T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2025-12-20T13:00:00+01:00",
-    "end": "2025-12-20T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2025-12-27T13:00:00+01:00",
-    "end": "2025-12-27T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-01-03T13:00:00+01:00",
-    "end": "2026-01-03T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-01-10T13:00:00+01:00",
-    "end": "2026-01-10T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-01-17T13:00:00+01:00",
-    "end": "2026-01-17T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-01-24T13:00:00+01:00",
-    "end": "2026-01-24T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-01-31T13:00:00+01:00",
-    "end": "2026-01-31T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-02-07T13:00:00+01:00",
-    "end": "2026-02-07T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "PITTURA"
+    "corsoStudio": "PITTURA",
+    "altriCorsi": [
+      [
+        "DESIGN",
+        2
+      ],
+      [
+        "DESIGN",
+        3
+      ],
+      [
+        "GD",
+        1
+      ],
+      [
+        "GD",
+        2
+      ],
+      [
+        "GD",
+        3
+      ],
+      [
+        "PITTURA",
+        2
+      ],
+      [
+        "PITTURA",
+        3
+      ],
+      [
+        "FASHION",
+        1
+      ],
+      [
+        "FASHION",
+        2
+      ],
+      [
+        "FASHION",
+        3
+      ],
+      [
+        "FOTOGRAFIA",
+        1
+      ],
+      [
+        "FOTOGRAFIA",
+        2
+      ],
+      [
+        "FOTOGRAFIA",
+        3
+      ],
+      [
+        "REGIA",
+        1
+      ],
+      [
+        "CINEMA",
+        1
+      ],
+      [
+        "INTERIOR",
+        1
+      ],
+      [
+        "INTERIOR",
+        2
+      ]
+    ]
   }
 ]
