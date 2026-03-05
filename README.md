@@ -33,7 +33,7 @@ orari/
 ## GitHub Pages
 
 Questo repository è configurato per GitHub Pages. I file JSON sono accessibili tramite:
-`https://SAzzinelli.github.io/LABA_Orari/orari/{indirizzo}-{anno}.json`
+`https://laba-firenze.github.io/LABA_Orari/orari/{indirizzo}-{anno}.json`
 
 ## Come aggiornare gli orari
 
