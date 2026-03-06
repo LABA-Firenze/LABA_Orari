@@ -6,40 +6,43 @@ Repository per gli orari delle lezioni dell'Accademia LABA Firenze.
 
 ```
 orari/
-├── des-1.json      (Design - 1° anno)
-├── des-2.json      (Design - 2° anno)
-├── des-3.json      (Design - 3° anno)
-├── int-1.json      (Interior Design - 1° anno)
-├── int-2.json      (Interior Design - 2° anno)
-├── cinema-1.json   (Cinema - 1° anno)
-├── cinema-2.json    (Cinema - 2° anno)
-├── gd-1.json       (Graphic Design - 1° anno)
-├── gd-2.json       (Graphic Design - 2° anno)
-├── gd-3.json       (Graphic Design - 3° anno)
-├── foto-1.json     (Fotografia - 1° anno)
-├── foto-2.json     (Fotografia - 2° anno)
-├── foto-3.json     (Fotografia - 3° anno)
-├── fd-1.json       (Fashion Design - 1° anno)
-├── fd-2.json       (Fashion Design - 2° anno)
-├── fd-3.json       (Fashion Design - 3° anno)
-├── pit-1.json      (Pittura - 1° anno)
-├── pit-2.json      (Pittura - 2° anno)
-├── pit-3.json      (Pittura - 3° anno)
-├── regia-1.json    (Regia - 1° anno)
-├── regia-2.json    (Regia - 2° anno)
-└── regia-3.json    (Regia - 3° anno)
+├── CINEMA/
+│   └── 1/
+│       ├── 1sem.json
+│       └── 2sem.json
+├── DESIGN/
+│   ├── 1/  1sem.json, 2sem.json
+│   ├── 2/  1sem.json, 2sem.json
+│   └── 3/  1sem.json, 2sem.json
+├── FASHION/
+├── FOTOGRAFIA/
+├── GD/
+├── INTERIOR/
+├── PITTURA/
+└── REGIA/
 ```
+
+Codici corso: `CINEMA`, `DESIGN`, `FASHION`, `FOTOGRAFIA`, `GD`, `INTERIOR`, `PITTURA`, `REGIA`.
+
+## Formato JSON (formato “nuovi”)
+
+Ogni file è un array di **lezioni**. Ogni elemento ha un array `lezioni` con le date/orari (una riga per giorno):
+
+- `corso`, `oidCorso`, `oidCorsi`, `anno`, `gruppo`, `aula`, `docente`, `note`, `corsoStudio`
+- `lezioni`: `[{ "data": "GG-MM-AAAA", "oraInizio": "HH:MM", "oraFine": "HH:MM" }, ...]`
+
+I client (App iOS, PWA, Piattaforma Orario) riconoscono questo formato e lo espandono in memoria in eventi con `start`/`end` ISO.
 
 ## GitHub Pages
 
-Questo repository è configurato per GitHub Pages. I file JSON sono accessibili tramite:
-`https://laba-firenze.github.io/LABA_Orari/orari/{indirizzo}-{anno}.json`
+I file sono disponibili su:
+`https://laba-firenze.github.io/LABA_Orari/orari/{CODICE}/{anno}/{1|2}sem.json`
+
+Esempio: `.../orari/CINEMA/1/1sem.json`
 
 ## Come aggiornare gli orari
 
-1. Modifica il file JSON corrispondente all'indirizzo e anno
-2. Fai commit e push delle modifiche
-3. GitHub Pages aggiornerà automaticamente i file pubblici
+1. Modifica il file JSON in `orari/{CODICE}/{anno}/1sem.json` o `2sem.json`
+2. Commit e push: GitHub Pages aggiorna automaticamente i file pubblici
 
-
-
+La cartella `orari/nuovi/` è un backup del formato “nuovi”; i file in uso sono quelli in `orari/{CODICE}/{anno}/`.

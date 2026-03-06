@@ -7,10 +7,120 @@
     "gruppo": null,
     "aula": "Visual HUB",
     "docente": "Giusto",
-    "start": "2026-02-01T16:30:00+01:00",
-    "end": "2026-02-01T19:30:00+01:00",
     "note": null,
-    "corsoStudio": "INTERIOR"
+    "corsoStudio": "INTERIOR",
+    "lezioni": [
+      {
+        "data": "01-02-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      },
+      {
+        "data": "08-02-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      },
+      {
+        "data": "15-02-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      },
+      {
+        "data": "22-02-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      },
+      {
+        "data": "01-03-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      },
+      {
+        "data": "08-03-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      },
+      {
+        "data": "15-03-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      },
+      {
+        "data": "22-03-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      },
+      {
+        "data": "29-03-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      },
+      {
+        "data": "05-04-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      },
+      {
+        "data": "12-04-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      },
+      {
+        "data": "19-04-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      },
+      {
+        "data": "26-04-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      },
+      {
+        "data": "03-05-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      },
+      {
+        "data": "10-05-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      },
+      {
+        "data": "17-05-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      },
+      {
+        "data": "24-05-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      },
+      {
+        "data": "31-05-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      },
+      {
+        "data": "07-06-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      },
+      {
+        "data": "14-06-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      },
+      {
+        "data": "21-06-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      },
+      {
+        "data": "28-06-2026",
+        "oraInizio": "16:30",
+        "oraFine": "19:30"
+      }
+    ]
   },
   {
     "corso": "Architettura degli Interni 2",
@@ -20,10 +130,120 @@
     "gruppo": null,
     "aula": "Visual Hub",
     "docente": "Giusto",
-    "start": "2026-02-01T17:30:00+01:00",
-    "end": "2026-02-01T20:30:00+01:00",
     "note": null,
-    "corsoStudio": "INTERIOR"
+    "corsoStudio": "INTERIOR",
+    "lezioni": [
+      {
+        "data": "01-02-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "08-02-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "15-02-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "22-02-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "01-03-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "08-03-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "15-03-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "22-03-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "29-03-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "05-04-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "12-04-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "19-04-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "26-04-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "03-05-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "10-05-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "17-05-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "24-05-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "31-05-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "07-06-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "14-06-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "21-06-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "28-06-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
+      }
+    ]
   },
   {
     "corso": "Design 2",
@@ -33,62 +253,230 @@
     "gruppo": null,
     "aula": "Conference 1",
     "docente": "Gianni",
-    "start": "2026-02-02T16:00:00+01:00",
-    "end": "2026-02-02T19:00:00+01:00",
     "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-02-02T17:00:00+01:00",
-    "end": "2026-02-02T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Storia dell'Architettura Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Bua",
-    "start": "2026-02-03T15:00:00+01:00",
-    "end": "2026-02-03T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Progettazione di Allestimenti",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Follesa",
-    "start": "2026-02-03T16:30:00+01:00",
-    "end": "2026-02-03T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-02-03T17:00:00+01:00",
-    "end": "2026-02-03T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
+    "corsoStudio": "INTERIOR",
+    "lezioni": [
+      {
+        "data": "02-02-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "02-02-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "09-02-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "09-02-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "16-02-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "16-02-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "23-02-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "23-02-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "02-03-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "02-03-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "09-03-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "09-03-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "16-03-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "16-03-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "23-03-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "23-03-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "30-03-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "30-03-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "06-04-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "06-04-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "13-04-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "13-04-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "20-04-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "20-04-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "27-04-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "27-04-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "04-05-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "04-05-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "11-05-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "11-05-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "18-05-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "18-05-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "25-05-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "25-05-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "01-06-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "01-06-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "08-06-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "08-06-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "15-06-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "15-06-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "22-06-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "22-06-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "29-06-2026",
+        "oraInizio": "16:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "29-06-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      }
+    ]
   },
   {
     "corso": "Fenomenologia delle Arti Contemporanee",
@@ -98,62 +486,243 @@
     "gruppo": null,
     "aula": "Aula Magna 2",
     "docente": "Caciolli",
-    "start": "2026-02-03T18:30:00+01:00",
-    "end": "2026-02-03T20:30:00+01:00",
     "note": null,
-    "corsoStudio": "INTERIOR"
+    "corsoStudio": "INTERIOR",
+    "lezioni": [
+      {
+        "data": "03-02-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "10-02-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "17-02-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "24-02-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "03-03-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "10-03-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "17-03-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "24-03-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "31-03-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "07-04-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "14-04-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "21-04-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "28-04-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "05-05-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "12-05-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "19-05-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "26-05-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "02-06-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "09-06-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "16-06-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "23-06-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      },
+      {
+        "data": "30-06-2026",
+        "oraInizio": "18:30",
+        "oraFine": "20:30"
+      }
+    ]
   },
   {
-    "corso": "Packaging",
+    "corso": "Inglese per la Comunicazione Artistica",
     "oidCorso": null,
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Minisci",
-    "start": "2026-02-04T17:00:00+01:00",
-    "end": "2026-02-04T20:00:00+01:00",
+    "aula": "Digital HUB",
+    "docente": "Billeri",
     "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Urban Design",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Valtorta",
-    "start": "2026-02-04T17:00:00+01:00",
-    "end": "2026-02-04T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-02-05T15:00:00+01:00",
-    "end": "2026-02-05T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-02-05T16:00:00+01:00",
-    "end": "2026-02-05T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
+    "corsoStudio": "INTERIOR",
+    "lezioni": [
+      {
+        "data": "03-02-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "10-02-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "17-02-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "24-02-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "03-03-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "10-03-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "17-03-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "24-03-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "31-03-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "07-04-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "14-04-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "21-04-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "28-04-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "05-05-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "12-05-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "19-05-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "26-05-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "02-06-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "09-06-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "16-06-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "23-06-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "30-06-2026",
+        "oraInizio": "17:00",
+        "oraFine": "19:00"
+      }
+    ]
   },
   {
     "corso": "Italiano per Stranieri",
@@ -163,184 +732,115 @@
     "gruppo": null,
     "aula": "Digital HUB",
     "docente": "Carbone",
-    "start": "2026-02-06T14:00:00+01:00",
-    "end": "2026-02-06T18:00:00+01:00",
     "note": null,
     "corsoStudio": "INTERIOR",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "REGIA",
-        1
-      ],
-      [
-        "CINEMA",
-        1
-      ],
-      [
-        "INTERIOR",
-        1
-      ]
+    "lezioni": [
+      {
+        "data": "06-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "13-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "20-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "27-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "06-03-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "13-03-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "20-03-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "27-03-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "03-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "10-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "17-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "24-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "01-05-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "08-05-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "15-05-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "22-05-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "29-05-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "05-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "12-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "19-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "26-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      }
     ]
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Giusto",
-    "start": "2026-02-08T16:30:00+01:00",
-    "end": "2026-02-08T19:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual Hub",
-    "docente": "Giusto",
-    "start": "2026-02-08T17:30:00+01:00",
-    "end": "2026-02-08T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-02-09T16:00:00+01:00",
-    "end": "2026-02-09T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-02-09T17:00:00+01:00",
-    "end": "2026-02-09T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Storia dell'Architettura Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Bua",
-    "start": "2026-02-10T15:00:00+01:00",
-    "end": "2026-02-10T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Progettazione di Allestimenti",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Follesa",
-    "start": "2026-02-10T16:30:00+01:00",
-    "end": "2026-02-10T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-02-10T17:00:00+01:00",
-    "end": "2026-02-10T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Fenomenologia delle Arti Contemporanee",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Caciolli",
-    "start": "2026-02-10T18:30:00+01:00",
-    "end": "2026-02-10T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
   },
   {
     "corso": "Packaging",
@@ -350,197 +850,115 @@
     "gruppo": null,
     "aula": "Conference 2",
     "docente": "Minisci",
-    "start": "2026-02-11T17:00:00+01:00",
-    "end": "2026-02-11T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Urban Design",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Valtorta",
-    "start": "2026-02-11T17:00:00+01:00",
-    "end": "2026-02-11T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-02-12T15:00:00+01:00",
-    "end": "2026-02-12T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-02-12T16:00:00+01:00",
-    "end": "2026-02-12T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-02-13T14:00:00+01:00",
-    "end": "2026-02-13T18:00:00+01:00",
     "note": null,
     "corsoStudio": "INTERIOR",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "REGIA",
-        1
-      ],
-      [
-        "CINEMA",
-        1
-      ],
-      [
-        "INTERIOR",
-        1
-      ]
+    "lezioni": [
+      {
+        "data": "04-02-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "11-02-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "18-02-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "25-02-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "04-03-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "11-03-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "18-03-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "25-03-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "01-04-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "08-04-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "15-04-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "22-04-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "29-04-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "06-05-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "13-05-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "20-05-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "27-05-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "03-06-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "10-06-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "17-06-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "24-06-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      }
     ]
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Giusto",
-    "start": "2026-02-15T16:30:00+01:00",
-    "end": "2026-02-15T19:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual Hub",
-    "docente": "Giusto",
-    "start": "2026-02-15T17:30:00+01:00",
-    "end": "2026-02-15T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-02-16T16:00:00+01:00",
-    "end": "2026-02-16T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-02-16T17:00:00+01:00",
-    "end": "2026-02-16T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Storia dell'Architettura Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Bua",
-    "start": "2026-02-17T15:00:00+01:00",
-    "end": "2026-02-17T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
   },
   {
     "corso": "Progettazione di Allestimenti",
@@ -550,223 +968,343 @@
     "gruppo": null,
     "aula": "Aula Magna 2",
     "docente": "Follesa",
-    "start": "2026-02-17T16:30:00+01:00",
-    "end": "2026-02-17T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-02-17T17:00:00+01:00",
-    "end": "2026-02-17T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Fenomenologia delle Arti Contemporanee",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Caciolli",
-    "start": "2026-02-17T18:30:00+01:00",
-    "end": "2026-02-17T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Packaging",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Minisci",
-    "start": "2026-02-18T17:00:00+01:00",
-    "end": "2026-02-18T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Urban Design",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Valtorta",
-    "start": "2026-02-18T17:00:00+01:00",
-    "end": "2026-02-18T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-02-19T15:00:00+01:00",
-    "end": "2026-02-19T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-02-19T16:00:00+01:00",
-    "end": "2026-02-19T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-02-20T14:00:00+01:00",
-    "end": "2026-02-20T18:00:00+01:00",
     "note": null,
     "corsoStudio": "INTERIOR",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "REGIA",
-        1
-      ],
-      [
-        "CINEMA",
-        1
-      ],
-      [
-        "INTERIOR",
-        1
-      ]
+    "lezioni": [
+      {
+        "data": "03-02-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      },
+      {
+        "data": "10-02-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      },
+      {
+        "data": "17-02-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      },
+      {
+        "data": "24-02-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      },
+      {
+        "data": "03-03-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      },
+      {
+        "data": "10-03-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      },
+      {
+        "data": "17-03-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      },
+      {
+        "data": "24-03-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      },
+      {
+        "data": "31-03-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      },
+      {
+        "data": "07-04-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      },
+      {
+        "data": "14-04-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      },
+      {
+        "data": "21-04-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      },
+      {
+        "data": "28-04-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      },
+      {
+        "data": "05-05-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      },
+      {
+        "data": "12-05-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      },
+      {
+        "data": "19-05-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      },
+      {
+        "data": "26-05-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      },
+      {
+        "data": "02-06-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      },
+      {
+        "data": "09-06-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      },
+      {
+        "data": "16-06-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      },
+      {
+        "data": "23-06-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      },
+      {
+        "data": "30-06-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      }
     ]
   },
   {
-    "corso": "Architettura degli Interni 2",
+    "corso": "Rendering 3D",
     "oidCorso": null,
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Giusto",
-    "start": "2026-02-22T16:30:00+01:00",
-    "end": "2026-02-22T19:30:00+01:00",
+    "aula": "3D Lab",
+    "docente": "Massini",
     "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual Hub",
-    "docente": "Giusto",
-    "start": "2026-02-22T17:30:00+01:00",
-    "end": "2026-02-22T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-02-23T16:00:00+01:00",
-    "end": "2026-02-23T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-02-23T17:00:00+01:00",
-    "end": "2026-02-23T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
+    "corsoStudio": "INTERIOR",
+    "lezioni": [
+      {
+        "data": "05-02-2026",
+        "oraInizio": "15:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "05-02-2026",
+        "oraInizio": "16:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "12-02-2026",
+        "oraInizio": "15:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "12-02-2026",
+        "oraInizio": "16:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "19-02-2026",
+        "oraInizio": "15:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "19-02-2026",
+        "oraInizio": "16:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "26-02-2026",
+        "oraInizio": "15:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "26-02-2026",
+        "oraInizio": "16:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "05-03-2026",
+        "oraInizio": "15:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "05-03-2026",
+        "oraInizio": "16:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "12-03-2026",
+        "oraInizio": "15:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "12-03-2026",
+        "oraInizio": "16:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "19-03-2026",
+        "oraInizio": "15:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "19-03-2026",
+        "oraInizio": "16:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "26-03-2026",
+        "oraInizio": "15:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "26-03-2026",
+        "oraInizio": "16:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "02-04-2026",
+        "oraInizio": "15:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "02-04-2026",
+        "oraInizio": "16:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "09-04-2026",
+        "oraInizio": "15:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "09-04-2026",
+        "oraInizio": "16:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "16-04-2026",
+        "oraInizio": "15:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "16-04-2026",
+        "oraInizio": "16:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "23-04-2026",
+        "oraInizio": "15:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "23-04-2026",
+        "oraInizio": "16:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "30-04-2026",
+        "oraInizio": "15:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "30-04-2026",
+        "oraInizio": "16:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "07-05-2026",
+        "oraInizio": "15:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "07-05-2026",
+        "oraInizio": "16:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "14-05-2026",
+        "oraInizio": "15:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "14-05-2026",
+        "oraInizio": "16:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "21-05-2026",
+        "oraInizio": "15:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "21-05-2026",
+        "oraInizio": "16:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "28-05-2026",
+        "oraInizio": "15:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "28-05-2026",
+        "oraInizio": "16:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "04-06-2026",
+        "oraInizio": "15:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "04-06-2026",
+        "oraInizio": "16:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "11-06-2026",
+        "oraInizio": "15:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "11-06-2026",
+        "oraInizio": "16:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "18-06-2026",
+        "oraInizio": "15:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "18-06-2026",
+        "oraInizio": "16:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "25-06-2026",
+        "oraInizio": "15:00",
+        "oraFine": "19:00"
+      },
+      {
+        "data": "25-06-2026",
+        "oraInizio": "16:00",
+        "oraFine": "20:00"
+      }
+    ]
   },
   {
     "corso": "Storia dell'Architettura Contemporanea",
@@ -776,62 +1314,120 @@
     "gruppo": null,
     "aula": "Conference 1",
     "docente": "Bua",
-    "start": "2026-02-24T15:00:00+01:00",
-    "end": "2026-02-24T17:00:00+01:00",
     "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Progettazione di Allestimenti",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Follesa",
-    "start": "2026-02-24T16:30:00+01:00",
-    "end": "2026-02-24T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-02-24T17:00:00+01:00",
-    "end": "2026-02-24T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Fenomenologia delle Arti Contemporanee",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Caciolli",
-    "start": "2026-02-24T18:30:00+01:00",
-    "end": "2026-02-24T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Packaging",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Minisci",
-    "start": "2026-02-25T17:00:00+01:00",
-    "end": "2026-02-25T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
+    "corsoStudio": "INTERIOR",
+    "lezioni": [
+      {
+        "data": "03-02-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "10-02-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "17-02-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "24-02-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "03-03-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "10-03-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "17-03-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "24-03-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "31-03-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "07-04-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "14-04-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "21-04-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "28-04-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "05-05-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "12-05-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "19-05-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "26-05-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "02-06-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "09-06-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "16-06-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "23-06-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "30-06-2026",
+        "oraInizio": "15:00",
+        "oraFine": "17:00"
+      }
+    ]
   },
   {
     "corso": "Urban Design",
@@ -841,4285 +1437,114 @@
     "gruppo": null,
     "aula": "Conference 2",
     "docente": "Valtorta",
-    "start": "2026-02-25T17:00:00+01:00",
-    "end": "2026-02-25T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-02-26T15:00:00+01:00",
-    "end": "2026-02-26T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-02-26T16:00:00+01:00",
-    "end": "2026-02-26T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-02-27T14:00:00+01:00",
-    "end": "2026-02-27T18:00:00+01:00",
     "note": null,
     "corsoStudio": "INTERIOR",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "REGIA",
-        1
-      ],
-      [
-        "CINEMA",
-        1
-      ],
-      [
-        "INTERIOR",
-        1
-      ]
+    "lezioni": [
+      {
+        "data": "04-02-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "11-02-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "18-02-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "25-02-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "04-03-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "11-03-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "18-03-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "25-03-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "01-04-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "08-04-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "15-04-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "22-04-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "29-04-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "06-05-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "13-05-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "20-05-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "27-05-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "03-06-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "10-06-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "17-06-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      },
+      {
+        "data": "24-06-2026",
+        "oraInizio": "17:00",
+        "oraFine": "20:00"
+      }
     ]
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Giusto",
-    "start": "2026-03-01T16:30:00+01:00",
-    "end": "2026-03-01T19:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual Hub",
-    "docente": "Giusto",
-    "start": "2026-03-01T17:30:00+01:00",
-    "end": "2026-03-01T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-03-02T16:00:00+01:00",
-    "end": "2026-03-02T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-03-02T17:00:00+01:00",
-    "end": "2026-03-02T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Storia dell'Architettura Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Bua",
-    "start": "2026-03-03T15:00:00+01:00",
-    "end": "2026-03-03T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Progettazione di Allestimenti",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Follesa",
-    "start": "2026-03-03T16:30:00+01:00",
-    "end": "2026-03-03T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-03-03T17:00:00+01:00",
-    "end": "2026-03-03T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Fenomenologia delle Arti Contemporanee",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Caciolli",
-    "start": "2026-03-03T18:30:00+01:00",
-    "end": "2026-03-03T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Packaging",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Minisci",
-    "start": "2026-03-04T17:00:00+01:00",
-    "end": "2026-03-04T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Urban Design",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Valtorta",
-    "start": "2026-03-04T17:00:00+01:00",
-    "end": "2026-03-04T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-03-05T15:00:00+01:00",
-    "end": "2026-03-05T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-03-05T16:00:00+01:00",
-    "end": "2026-03-05T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-03-06T14:00:00+01:00",
-    "end": "2026-03-06T18:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "REGIA",
-        1
-      ],
-      [
-        "CINEMA",
-        1
-      ],
-      [
-        "INTERIOR",
-        1
-      ]
-    ]
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Giusto",
-    "start": "2026-03-08T16:30:00+01:00",
-    "end": "2026-03-08T19:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual Hub",
-    "docente": "Giusto",
-    "start": "2026-03-08T17:30:00+01:00",
-    "end": "2026-03-08T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-03-09T16:00:00+01:00",
-    "end": "2026-03-09T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-03-09T17:00:00+01:00",
-    "end": "2026-03-09T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Storia dell'Architettura Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Bua",
-    "start": "2026-03-10T15:00:00+01:00",
-    "end": "2026-03-10T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Progettazione di Allestimenti",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Follesa",
-    "start": "2026-03-10T16:30:00+01:00",
-    "end": "2026-03-10T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-03-10T17:00:00+01:00",
-    "end": "2026-03-10T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Fenomenologia delle Arti Contemporanee",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Caciolli",
-    "start": "2026-03-10T18:30:00+01:00",
-    "end": "2026-03-10T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Packaging",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Minisci",
-    "start": "2026-03-11T17:00:00+01:00",
-    "end": "2026-03-11T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Urban Design",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Valtorta",
-    "start": "2026-03-11T17:00:00+01:00",
-    "end": "2026-03-11T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-03-12T15:00:00+01:00",
-    "end": "2026-03-12T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-03-12T16:00:00+01:00",
-    "end": "2026-03-12T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-03-13T14:00:00+01:00",
-    "end": "2026-03-13T18:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "REGIA",
-        1
-      ],
-      [
-        "CINEMA",
-        1
-      ],
-      [
-        "INTERIOR",
-        1
-      ]
-    ]
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Giusto",
-    "start": "2026-03-15T16:30:00+01:00",
-    "end": "2026-03-15T19:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual Hub",
-    "docente": "Giusto",
-    "start": "2026-03-15T17:30:00+01:00",
-    "end": "2026-03-15T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-03-16T16:00:00+01:00",
-    "end": "2026-03-16T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-03-16T17:00:00+01:00",
-    "end": "2026-03-16T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Storia dell'Architettura Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Bua",
-    "start": "2026-03-17T15:00:00+01:00",
-    "end": "2026-03-17T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Progettazione di Allestimenti",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Follesa",
-    "start": "2026-03-17T16:30:00+01:00",
-    "end": "2026-03-17T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-03-17T17:00:00+01:00",
-    "end": "2026-03-17T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Fenomenologia delle Arti Contemporanee",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Caciolli",
-    "start": "2026-03-17T18:30:00+01:00",
-    "end": "2026-03-17T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Packaging",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Minisci",
-    "start": "2026-03-18T17:00:00+01:00",
-    "end": "2026-03-18T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Urban Design",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Valtorta",
-    "start": "2026-03-18T17:00:00+01:00",
-    "end": "2026-03-18T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-03-19T15:00:00+01:00",
-    "end": "2026-03-19T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-03-19T16:00:00+01:00",
-    "end": "2026-03-19T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-03-20T14:00:00+01:00",
-    "end": "2026-03-20T18:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "REGIA",
-        1
-      ],
-      [
-        "CINEMA",
-        1
-      ],
-      [
-        "INTERIOR",
-        1
-      ]
-    ]
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Giusto",
-    "start": "2026-03-22T16:30:00+01:00",
-    "end": "2026-03-22T19:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual Hub",
-    "docente": "Giusto",
-    "start": "2026-03-22T17:30:00+01:00",
-    "end": "2026-03-22T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-03-23T16:00:00+01:00",
-    "end": "2026-03-23T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-03-23T17:00:00+01:00",
-    "end": "2026-03-23T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Storia dell'Architettura Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Bua",
-    "start": "2026-03-24T15:00:00+01:00",
-    "end": "2026-03-24T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Progettazione di Allestimenti",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Follesa",
-    "start": "2026-03-24T16:30:00+01:00",
-    "end": "2026-03-24T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-03-24T17:00:00+01:00",
-    "end": "2026-03-24T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Fenomenologia delle Arti Contemporanee",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Caciolli",
-    "start": "2026-03-24T18:30:00+01:00",
-    "end": "2026-03-24T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Packaging",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Minisci",
-    "start": "2026-03-25T17:00:00+01:00",
-    "end": "2026-03-25T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Urban Design",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Valtorta",
-    "start": "2026-03-25T17:00:00+01:00",
-    "end": "2026-03-25T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-03-26T15:00:00+01:00",
-    "end": "2026-03-26T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-03-26T16:00:00+01:00",
-    "end": "2026-03-26T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-03-27T14:00:00+01:00",
-    "end": "2026-03-27T18:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "REGIA",
-        1
-      ],
-      [
-        "CINEMA",
-        1
-      ],
-      [
-        "INTERIOR",
-        1
-      ]
-    ]
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Giusto",
-    "start": "2026-03-29T16:30:00+01:00",
-    "end": "2026-03-29T19:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual Hub",
-    "docente": "Giusto",
-    "start": "2026-03-29T17:30:00+01:00",
-    "end": "2026-03-29T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-03-30T16:00:00+01:00",
-    "end": "2026-03-30T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-03-30T17:00:00+01:00",
-    "end": "2026-03-30T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Storia dell'Architettura Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Bua",
-    "start": "2026-03-31T15:00:00+01:00",
-    "end": "2026-03-31T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Progettazione di Allestimenti",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Follesa",
-    "start": "2026-03-31T16:30:00+01:00",
-    "end": "2026-03-31T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-03-31T17:00:00+01:00",
-    "end": "2026-03-31T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Fenomenologia delle Arti Contemporanee",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Caciolli",
-    "start": "2026-03-31T18:30:00+01:00",
-    "end": "2026-03-31T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Packaging",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Minisci",
-    "start": "2026-04-01T17:00:00+01:00",
-    "end": "2026-04-01T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Urban Design",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Valtorta",
-    "start": "2026-04-01T17:00:00+01:00",
-    "end": "2026-04-01T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-04-02T15:00:00+01:00",
-    "end": "2026-04-02T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-04-02T16:00:00+01:00",
-    "end": "2026-04-02T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-04-03T14:00:00+01:00",
-    "end": "2026-04-03T18:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "REGIA",
-        1
-      ],
-      [
-        "CINEMA",
-        1
-      ],
-      [
-        "INTERIOR",
-        1
-      ]
-    ]
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Giusto",
-    "start": "2026-04-05T16:30:00+01:00",
-    "end": "2026-04-05T19:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual Hub",
-    "docente": "Giusto",
-    "start": "2026-04-05T17:30:00+01:00",
-    "end": "2026-04-05T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-04-06T16:00:00+01:00",
-    "end": "2026-04-06T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-04-06T17:00:00+01:00",
-    "end": "2026-04-06T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Storia dell'Architettura Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Bua",
-    "start": "2026-04-07T15:00:00+01:00",
-    "end": "2026-04-07T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Progettazione di Allestimenti",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Follesa",
-    "start": "2026-04-07T16:30:00+01:00",
-    "end": "2026-04-07T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-04-07T17:00:00+01:00",
-    "end": "2026-04-07T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Fenomenologia delle Arti Contemporanee",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Caciolli",
-    "start": "2026-04-07T18:30:00+01:00",
-    "end": "2026-04-07T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Packaging",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Minisci",
-    "start": "2026-04-08T17:00:00+01:00",
-    "end": "2026-04-08T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Urban Design",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Valtorta",
-    "start": "2026-04-08T17:00:00+01:00",
-    "end": "2026-04-08T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-04-09T15:00:00+01:00",
-    "end": "2026-04-09T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-04-09T16:00:00+01:00",
-    "end": "2026-04-09T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-04-10T14:00:00+01:00",
-    "end": "2026-04-10T18:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "REGIA",
-        1
-      ],
-      [
-        "CINEMA",
-        1
-      ],
-      [
-        "INTERIOR",
-        1
-      ]
-    ]
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Giusto",
-    "start": "2026-04-12T16:30:00+01:00",
-    "end": "2026-04-12T19:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual Hub",
-    "docente": "Giusto",
-    "start": "2026-04-12T17:30:00+01:00",
-    "end": "2026-04-12T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-04-13T16:00:00+01:00",
-    "end": "2026-04-13T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-04-13T17:00:00+01:00",
-    "end": "2026-04-13T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Storia dell'Architettura Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Bua",
-    "start": "2026-04-14T15:00:00+01:00",
-    "end": "2026-04-14T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Progettazione di Allestimenti",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Follesa",
-    "start": "2026-04-14T16:30:00+01:00",
-    "end": "2026-04-14T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-04-14T17:00:00+01:00",
-    "end": "2026-04-14T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Fenomenologia delle Arti Contemporanee",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Caciolli",
-    "start": "2026-04-14T18:30:00+01:00",
-    "end": "2026-04-14T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Packaging",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Minisci",
-    "start": "2026-04-15T17:00:00+01:00",
-    "end": "2026-04-15T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Urban Design",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Valtorta",
-    "start": "2026-04-15T17:00:00+01:00",
-    "end": "2026-04-15T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-04-16T15:00:00+01:00",
-    "end": "2026-04-16T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-04-16T16:00:00+01:00",
-    "end": "2026-04-16T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-04-17T14:00:00+01:00",
-    "end": "2026-04-17T18:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "REGIA",
-        1
-      ],
-      [
-        "CINEMA",
-        1
-      ],
-      [
-        "INTERIOR",
-        1
-      ]
-    ]
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Giusto",
-    "start": "2026-04-19T16:30:00+01:00",
-    "end": "2026-04-19T19:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual Hub",
-    "docente": "Giusto",
-    "start": "2026-04-19T17:30:00+01:00",
-    "end": "2026-04-19T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-04-20T16:00:00+01:00",
-    "end": "2026-04-20T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-04-20T17:00:00+01:00",
-    "end": "2026-04-20T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Storia dell'Architettura Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Bua",
-    "start": "2026-04-21T15:00:00+01:00",
-    "end": "2026-04-21T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Progettazione di Allestimenti",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Follesa",
-    "start": "2026-04-21T16:30:00+01:00",
-    "end": "2026-04-21T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-04-21T17:00:00+01:00",
-    "end": "2026-04-21T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Fenomenologia delle Arti Contemporanee",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Caciolli",
-    "start": "2026-04-21T18:30:00+01:00",
-    "end": "2026-04-21T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Packaging",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Minisci",
-    "start": "2026-04-22T17:00:00+01:00",
-    "end": "2026-04-22T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Urban Design",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Valtorta",
-    "start": "2026-04-22T17:00:00+01:00",
-    "end": "2026-04-22T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-04-23T15:00:00+01:00",
-    "end": "2026-04-23T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-04-23T16:00:00+01:00",
-    "end": "2026-04-23T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-04-24T14:00:00+01:00",
-    "end": "2026-04-24T18:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "REGIA",
-        1
-      ],
-      [
-        "CINEMA",
-        1
-      ],
-      [
-        "INTERIOR",
-        1
-      ]
-    ]
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Giusto",
-    "start": "2026-04-26T16:30:00+01:00",
-    "end": "2026-04-26T19:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual Hub",
-    "docente": "Giusto",
-    "start": "2026-04-26T17:30:00+01:00",
-    "end": "2026-04-26T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-04-27T16:00:00+01:00",
-    "end": "2026-04-27T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-04-27T17:00:00+01:00",
-    "end": "2026-04-27T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Storia dell'Architettura Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Bua",
-    "start": "2026-04-28T15:00:00+01:00",
-    "end": "2026-04-28T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Progettazione di Allestimenti",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Follesa",
-    "start": "2026-04-28T16:30:00+01:00",
-    "end": "2026-04-28T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-04-28T17:00:00+01:00",
-    "end": "2026-04-28T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Fenomenologia delle Arti Contemporanee",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Caciolli",
-    "start": "2026-04-28T18:30:00+01:00",
-    "end": "2026-04-28T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Packaging",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Minisci",
-    "start": "2026-04-29T17:00:00+01:00",
-    "end": "2026-04-29T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Urban Design",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Valtorta",
-    "start": "2026-04-29T17:00:00+01:00",
-    "end": "2026-04-29T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-04-30T15:00:00+01:00",
-    "end": "2026-04-30T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-04-30T16:00:00+01:00",
-    "end": "2026-04-30T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-05-01T14:00:00+01:00",
-    "end": "2026-05-01T18:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "REGIA",
-        1
-      ],
-      [
-        "CINEMA",
-        1
-      ],
-      [
-        "INTERIOR",
-        1
-      ]
-    ]
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Giusto",
-    "start": "2026-05-03T16:30:00+01:00",
-    "end": "2026-05-03T19:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual Hub",
-    "docente": "Giusto",
-    "start": "2026-05-03T17:30:00+01:00",
-    "end": "2026-05-03T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-05-04T16:00:00+01:00",
-    "end": "2026-05-04T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-05-04T17:00:00+01:00",
-    "end": "2026-05-04T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Storia dell'Architettura Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Bua",
-    "start": "2026-05-05T15:00:00+01:00",
-    "end": "2026-05-05T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Progettazione di Allestimenti",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Follesa",
-    "start": "2026-05-05T16:30:00+01:00",
-    "end": "2026-05-05T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-05-05T17:00:00+01:00",
-    "end": "2026-05-05T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Fenomenologia delle Arti Contemporanee",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Caciolli",
-    "start": "2026-05-05T18:30:00+01:00",
-    "end": "2026-05-05T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Packaging",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Minisci",
-    "start": "2026-05-06T17:00:00+01:00",
-    "end": "2026-05-06T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Urban Design",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Valtorta",
-    "start": "2026-05-06T17:00:00+01:00",
-    "end": "2026-05-06T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-05-07T15:00:00+01:00",
-    "end": "2026-05-07T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-05-07T16:00:00+01:00",
-    "end": "2026-05-07T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-05-08T14:00:00+01:00",
-    "end": "2026-05-08T18:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "REGIA",
-        1
-      ],
-      [
-        "CINEMA",
-        1
-      ],
-      [
-        "INTERIOR",
-        1
-      ]
-    ]
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Giusto",
-    "start": "2026-05-10T16:30:00+01:00",
-    "end": "2026-05-10T19:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual Hub",
-    "docente": "Giusto",
-    "start": "2026-05-10T17:30:00+01:00",
-    "end": "2026-05-10T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-05-11T16:00:00+01:00",
-    "end": "2026-05-11T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-05-11T17:00:00+01:00",
-    "end": "2026-05-11T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Storia dell'Architettura Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Bua",
-    "start": "2026-05-12T15:00:00+01:00",
-    "end": "2026-05-12T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Progettazione di Allestimenti",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Follesa",
-    "start": "2026-05-12T16:30:00+01:00",
-    "end": "2026-05-12T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-05-12T17:00:00+01:00",
-    "end": "2026-05-12T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Fenomenologia delle Arti Contemporanee",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Caciolli",
-    "start": "2026-05-12T18:30:00+01:00",
-    "end": "2026-05-12T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Packaging",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Minisci",
-    "start": "2026-05-13T17:00:00+01:00",
-    "end": "2026-05-13T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Urban Design",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Valtorta",
-    "start": "2026-05-13T17:00:00+01:00",
-    "end": "2026-05-13T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-05-14T15:00:00+01:00",
-    "end": "2026-05-14T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-05-14T16:00:00+01:00",
-    "end": "2026-05-14T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-05-15T14:00:00+01:00",
-    "end": "2026-05-15T18:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "REGIA",
-        1
-      ],
-      [
-        "CINEMA",
-        1
-      ],
-      [
-        "INTERIOR",
-        1
-      ]
-    ]
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Giusto",
-    "start": "2026-05-17T16:30:00+01:00",
-    "end": "2026-05-17T19:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual Hub",
-    "docente": "Giusto",
-    "start": "2026-05-17T17:30:00+01:00",
-    "end": "2026-05-17T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-05-18T16:00:00+01:00",
-    "end": "2026-05-18T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-05-18T17:00:00+01:00",
-    "end": "2026-05-18T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Storia dell'Architettura Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Bua",
-    "start": "2026-05-19T15:00:00+01:00",
-    "end": "2026-05-19T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Progettazione di Allestimenti",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Follesa",
-    "start": "2026-05-19T16:30:00+01:00",
-    "end": "2026-05-19T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-05-19T17:00:00+01:00",
-    "end": "2026-05-19T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Fenomenologia delle Arti Contemporanee",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Caciolli",
-    "start": "2026-05-19T18:30:00+01:00",
-    "end": "2026-05-19T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Packaging",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Minisci",
-    "start": "2026-05-20T17:00:00+01:00",
-    "end": "2026-05-20T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Urban Design",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Valtorta",
-    "start": "2026-05-20T17:00:00+01:00",
-    "end": "2026-05-20T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-05-21T15:00:00+01:00",
-    "end": "2026-05-21T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-05-21T16:00:00+01:00",
-    "end": "2026-05-21T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-05-22T14:00:00+01:00",
-    "end": "2026-05-22T18:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "REGIA",
-        1
-      ],
-      [
-        "CINEMA",
-        1
-      ],
-      [
-        "INTERIOR",
-        1
-      ]
-    ]
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Giusto",
-    "start": "2026-05-24T16:30:00+01:00",
-    "end": "2026-05-24T19:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual Hub",
-    "docente": "Giusto",
-    "start": "2026-05-24T17:30:00+01:00",
-    "end": "2026-05-24T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-05-25T16:00:00+01:00",
-    "end": "2026-05-25T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-05-25T17:00:00+01:00",
-    "end": "2026-05-25T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Storia dell'Architettura Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Bua",
-    "start": "2026-05-26T15:00:00+01:00",
-    "end": "2026-05-26T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Progettazione di Allestimenti",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Follesa",
-    "start": "2026-05-26T16:30:00+01:00",
-    "end": "2026-05-26T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-05-26T17:00:00+01:00",
-    "end": "2026-05-26T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Fenomenologia delle Arti Contemporanee",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Caciolli",
-    "start": "2026-05-26T18:30:00+01:00",
-    "end": "2026-05-26T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Packaging",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Minisci",
-    "start": "2026-05-27T17:00:00+01:00",
-    "end": "2026-05-27T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Urban Design",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Valtorta",
-    "start": "2026-05-27T17:00:00+01:00",
-    "end": "2026-05-27T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-05-28T15:00:00+01:00",
-    "end": "2026-05-28T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-05-28T16:00:00+01:00",
-    "end": "2026-05-28T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-05-29T14:00:00+01:00",
-    "end": "2026-05-29T18:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "REGIA",
-        1
-      ],
-      [
-        "CINEMA",
-        1
-      ],
-      [
-        "INTERIOR",
-        1
-      ]
-    ]
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Giusto",
-    "start": "2026-05-31T16:30:00+01:00",
-    "end": "2026-05-31T19:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual Hub",
-    "docente": "Giusto",
-    "start": "2026-05-31T17:30:00+01:00",
-    "end": "2026-05-31T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-06-01T16:00:00+01:00",
-    "end": "2026-06-01T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-06-01T17:00:00+01:00",
-    "end": "2026-06-01T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Storia dell'Architettura Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Bua",
-    "start": "2026-06-02T15:00:00+01:00",
-    "end": "2026-06-02T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Progettazione di Allestimenti",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Follesa",
-    "start": "2026-06-02T16:30:00+01:00",
-    "end": "2026-06-02T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-06-02T17:00:00+01:00",
-    "end": "2026-06-02T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Fenomenologia delle Arti Contemporanee",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Caciolli",
-    "start": "2026-06-02T18:30:00+01:00",
-    "end": "2026-06-02T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Packaging",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Minisci",
-    "start": "2026-06-03T17:00:00+01:00",
-    "end": "2026-06-03T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Urban Design",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Valtorta",
-    "start": "2026-06-03T17:00:00+01:00",
-    "end": "2026-06-03T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-06-04T15:00:00+01:00",
-    "end": "2026-06-04T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-06-04T16:00:00+01:00",
-    "end": "2026-06-04T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-06-05T14:00:00+01:00",
-    "end": "2026-06-05T18:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "REGIA",
-        1
-      ],
-      [
-        "CINEMA",
-        1
-      ],
-      [
-        "INTERIOR",
-        1
-      ]
-    ]
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Giusto",
-    "start": "2026-06-07T16:30:00+01:00",
-    "end": "2026-06-07T19:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual Hub",
-    "docente": "Giusto",
-    "start": "2026-06-07T17:30:00+01:00",
-    "end": "2026-06-07T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-06-08T16:00:00+01:00",
-    "end": "2026-06-08T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-06-08T17:00:00+01:00",
-    "end": "2026-06-08T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Storia dell'Architettura Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Bua",
-    "start": "2026-06-09T15:00:00+01:00",
-    "end": "2026-06-09T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Progettazione di Allestimenti",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Follesa",
-    "start": "2026-06-09T16:30:00+01:00",
-    "end": "2026-06-09T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-06-09T17:00:00+01:00",
-    "end": "2026-06-09T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Fenomenologia delle Arti Contemporanee",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Caciolli",
-    "start": "2026-06-09T18:30:00+01:00",
-    "end": "2026-06-09T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Packaging",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Minisci",
-    "start": "2026-06-10T17:00:00+01:00",
-    "end": "2026-06-10T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Urban Design",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Valtorta",
-    "start": "2026-06-10T17:00:00+01:00",
-    "end": "2026-06-10T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-06-11T15:00:00+01:00",
-    "end": "2026-06-11T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-06-11T16:00:00+01:00",
-    "end": "2026-06-11T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-06-12T14:00:00+01:00",
-    "end": "2026-06-12T18:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "REGIA",
-        1
-      ],
-      [
-        "CINEMA",
-        1
-      ],
-      [
-        "INTERIOR",
-        1
-      ]
-    ]
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Giusto",
-    "start": "2026-06-14T16:30:00+01:00",
-    "end": "2026-06-14T19:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual Hub",
-    "docente": "Giusto",
-    "start": "2026-06-14T17:30:00+01:00",
-    "end": "2026-06-14T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-06-15T16:00:00+01:00",
-    "end": "2026-06-15T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-06-15T17:00:00+01:00",
-    "end": "2026-06-15T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Storia dell'Architettura Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Bua",
-    "start": "2026-06-16T15:00:00+01:00",
-    "end": "2026-06-16T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Progettazione di Allestimenti",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Follesa",
-    "start": "2026-06-16T16:30:00+01:00",
-    "end": "2026-06-16T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-06-16T17:00:00+01:00",
-    "end": "2026-06-16T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Fenomenologia delle Arti Contemporanee",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Caciolli",
-    "start": "2026-06-16T18:30:00+01:00",
-    "end": "2026-06-16T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Packaging",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Minisci",
-    "start": "2026-06-17T17:00:00+01:00",
-    "end": "2026-06-17T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Urban Design",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Valtorta",
-    "start": "2026-06-17T17:00:00+01:00",
-    "end": "2026-06-17T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-06-18T15:00:00+01:00",
-    "end": "2026-06-18T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-06-18T16:00:00+01:00",
-    "end": "2026-06-18T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-06-19T14:00:00+01:00",
-    "end": "2026-06-19T18:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "REGIA",
-        1
-      ],
-      [
-        "CINEMA",
-        1
-      ],
-      [
-        "INTERIOR",
-        1
-      ]
-    ]
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Giusto",
-    "start": "2026-06-21T16:30:00+01:00",
-    "end": "2026-06-21T19:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual Hub",
-    "docente": "Giusto",
-    "start": "2026-06-21T17:30:00+01:00",
-    "end": "2026-06-21T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-06-22T16:00:00+01:00",
-    "end": "2026-06-22T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-06-22T17:00:00+01:00",
-    "end": "2026-06-22T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Storia dell'Architettura Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Bua",
-    "start": "2026-06-23T15:00:00+01:00",
-    "end": "2026-06-23T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Progettazione di Allestimenti",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Follesa",
-    "start": "2026-06-23T16:30:00+01:00",
-    "end": "2026-06-23T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-06-23T17:00:00+01:00",
-    "end": "2026-06-23T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Fenomenologia delle Arti Contemporanee",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Caciolli",
-    "start": "2026-06-23T18:30:00+01:00",
-    "end": "2026-06-23T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Packaging",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Minisci",
-    "start": "2026-06-24T17:00:00+01:00",
-    "end": "2026-06-24T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Urban Design",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Valtorta",
-    "start": "2026-06-24T17:00:00+01:00",
-    "end": "2026-06-24T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-06-25T15:00:00+01:00",
-    "end": "2026-06-25T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Rendering 3D",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "3D Lab",
-    "docente": "Massini",
-    "start": "2026-06-25T16:00:00+01:00",
-    "end": "2026-06-25T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Italiano per Stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "start": "2026-06-26T14:00:00+01:00",
-    "end": "2026-06-26T18:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR",
-    "altriCorsi": [
-      [
-        "DESIGN",
-        2
-      ],
-      [
-        "DESIGN",
-        3
-      ],
-      [
-        "GD",
-        1
-      ],
-      [
-        "GD",
-        2
-      ],
-      [
-        "GD",
-        3
-      ],
-      [
-        "PITTURA",
-        1
-      ],
-      [
-        "PITTURA",
-        2
-      ],
-      [
-        "PITTURA",
-        3
-      ],
-      [
-        "FASHION",
-        1
-      ],
-      [
-        "FASHION",
-        2
-      ],
-      [
-        "FASHION",
-        3
-      ],
-      [
-        "FOTOGRAFIA",
-        1
-      ],
-      [
-        "FOTOGRAFIA",
-        2
-      ],
-      [
-        "FOTOGRAFIA",
-        3
-      ],
-      [
-        "REGIA",
-        1
-      ],
-      [
-        "CINEMA",
-        1
-      ],
-      [
-        "INTERIOR",
-        1
-      ]
-    ]
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual HUB",
-    "docente": "Giusto",
-    "start": "2026-06-28T16:30:00+01:00",
-    "end": "2026-06-28T19:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Architettura degli Interni 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Visual Hub",
-    "docente": "Giusto",
-    "start": "2026-06-28T17:30:00+01:00",
-    "end": "2026-06-28T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-06-29T16:00:00+01:00",
-    "end": "2026-06-29T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Gianni",
-    "start": "2026-06-29T17:00:00+01:00",
-    "end": "2026-06-29T20:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Storia dell'Architettura Contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Bua",
-    "start": "2026-06-30T15:00:00+01:00",
-    "end": "2026-06-30T17:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Progettazione di Allestimenti",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Follesa",
-    "start": "2026-06-30T16:30:00+01:00",
-    "end": "2026-06-30T18:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Inglese per la Comunicazione Artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Billeri",
-    "start": "2026-06-30T17:00:00+01:00",
-    "end": "2026-06-30T19:00:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
-  },
-  {
-    "corso": "Fenomenologia delle Arti Contemporanee",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Aula Magna 2",
-    "docente": "Caciolli",
-    "start": "2026-06-30T18:30:00+01:00",
-    "end": "2026-06-30T20:30:00+01:00",
-    "note": null,
-    "corsoStudio": "INTERIOR"
   }
 ]
