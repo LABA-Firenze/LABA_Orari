@@ -612,6 +612,11 @@
         "data": "04-06-2026",
         "oraInizio": "10:30",
         "oraFine": "13:30"
+      },
+      {
+        "data": "11-06-2026",
+        "oraInizio": "10:30",
+        "oraFine": "13:30"
       }
     ]
   },
@@ -698,6 +703,11 @@
       },
       {
         "data": "04-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "11-06-2026",
         "oraInizio": "14:00",
         "oraFine": "17:00"
       }
@@ -788,6 +798,11 @@
         "data": "05-06-2026",
         "oraInizio": "09:30",
         "oraFine": "12:30"
+      },
+      {
+        "data": "12-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
       }
     ]
   },
@@ -876,6 +891,65 @@
         "data": "05-06-2026",
         "oraInizio": "13:00",
         "oraFine": "16:00"
+      },
+      {
+        "data": "12-06-2026",
+        "oraInizio": "13:00",
+        "oraFine": "16:00"
+      }
+    ]
+  },
+  {
+    "corso": "Documentazione fotografica",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 3,
+    "gruppo": "A",
+    "aula": "Digital HUB",
+    "docente": "Bardazzi",
+    "note": null,
+    "corsoStudio": "FOTOGRAFIA",
+    "lezioni": [
+      {
+        "data": "08-06-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      }
+    ]
+  },
+  {
+    "corso": "Documentazione fotografica",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 3,
+    "gruppo": "B",
+    "aula": "Digital HUB",
+    "docente": "Bardazzi",
+    "note": null,
+    "corsoStudio": "FOTOGRAFIA",
+    "lezioni": [
+      {
+        "data": "08-06-2026",
+        "oraInizio": "13:30",
+        "oraFine": "16:30"
+      }
+    ]
+  },
+  {
+    "corso": "Shooting fashion design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 3,
+    "gruppo": null,
+    "aula": "Photo LAB 1+2",
+    "docente": "Lisi / Vettori",
+    "note": null,
+    "corsoStudio": "FOTOGRAFIA",
+    "lezioni": [
+      {
+        "data": "09-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "18:00"
       }
     ]
   }
