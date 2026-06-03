@@ -612,6 +612,11 @@
         "data": "04-06-2026",
         "oraInizio": "09:30",
         "oraFine": "11:30"
+      },
+      {
+        "data": "11-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
       }
     ]
   },
@@ -698,6 +703,11 @@
       },
       {
         "data": "04-06-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "11-06-2026",
         "oraInizio": "11:30",
         "oraFine": "13:30"
       }
@@ -1050,6 +1060,132 @@
       },
       {
         "data": "05-06-2026",
+        "oraInizio": "13:30",
+        "oraFine": "16:30"
+      }
+    ]
+  },
+  {
+    "corso": "Design 3",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 3,
+    "gruppo": "Z",
+    "aula": "Sala Verde",
+    "docente": "Vasile",
+    "note": null,
+    "corsoStudio": "FASHION",
+    "lezioni": [
+      {
+        "data": "08-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      }
+    ]
+  },
+  {
+    "corso": "Design 3",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 3,
+    "gruppo": "Y",
+    "aula": "Sala Verde",
+    "docente": "Vasile",
+    "note": null,
+    "corsoStudio": "FASHION",
+    "lezioni": [
+      {
+        "data": "08-06-2026",
+        "oraInizio": "13:30",
+        "oraFine": "16:30"
+      }
+    ]
+  },
+  {
+    "corso": "Shooting capo punta sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 3,
+    "gruppo": null,
+    "aula": "Piazza di Badia a Ripoli",
+    "docente": "Ventroni",
+    "note": null,
+    "corsoStudio": "FASHION",
+    "lezioni": [
+      {
+        "data": "09-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "18:00"
+      }
+    ]
+  },
+  {
+    "corso": "Design dell'accessorio",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 3,
+    "gruppo": "Z",
+    "aula": "Bottega",
+    "docente": "Atzori",
+    "note": null,
+    "corsoStudio": "FASHION",
+    "lezioni": [
+      {
+        "data": "11-06-2026",
+        "oraInizio": "14:30",
+        "oraFine": "16:30"
+      }
+    ]
+  },
+  {
+    "corso": "Design dell'accessorio",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 3,
+    "gruppo": "Y",
+    "aula": "Bottega",
+    "docente": "Atzori",
+    "note": null,
+    "corsoStudio": "FASHION",
+    "lezioni": [
+      {
+        "data": "11-06-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
+      }
+    ]
+  },
+  {
+    "corso": "Fashion design 3",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 3,
+    "gruppo": null,
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "note": null,
+    "corsoStudio": "FASHION",
+    "lezioni": [
+      {
+        "data": "12-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      }
+    ]
+  },
+  {
+    "corso": "Fashion design 3",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 3,
+    "gruppo": null,
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "note": null,
+    "corsoStudio": "FASHION",
+    "lezioni": [
+      {
+        "data": "12-06-2026",
         "oraInizio": "13:30",
         "oraFine": "16:30"
       }
