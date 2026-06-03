@@ -172,6 +172,11 @@
         "data": "01-06-2026",
         "oraInizio": "14:00",
         "oraFine": "18:00"
+      },
+      {
+        "data": "08-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
       }
     ]
   },
@@ -612,6 +617,24 @@
         "data": "05-06-2026",
         "oraInizio": "10:30",
         "oraFine": "13:30"
+      }
+    ]
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Digital HUB + Camera Oscura",
+    "docente": "Lisi",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "lezioni": [
+      {
+        "data": "10-06-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
       }
     ]
   }
