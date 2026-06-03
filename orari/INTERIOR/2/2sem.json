@@ -84,6 +84,11 @@
         "data": "01-06-2026",
         "oraInizio": "17:30",
         "oraFine": "20:30"
+      },
+      {
+        "data": "08-06-2026",
+        "oraInizio": "17:30",
+        "oraFine": "20:30"
       }
     ]
   },
@@ -524,6 +529,24 @@
         "data": "05-06-2026",
         "oraInizio": "16:00",
         "oraFine": "20:00"
+      }
+    ]
+  },
+  {
+    "corso": "Fenomenologia delle arti contemporanee",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Visual HUB",
+    "docente": "Caciolli",
+    "note": null,
+    "corsoStudio": "INTERIOR",
+    "lezioni": [
+      {
+        "data": "12-06-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
       }
     ]
   }
