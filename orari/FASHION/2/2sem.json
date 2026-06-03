@@ -348,6 +348,11 @@
         "data": "02-06-2026",
         "oraInizio": "09:30",
         "oraFine": "13:30"
+      },
+      {
+        "data": "09-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
       }
     ]
   },
@@ -786,6 +791,11 @@
       },
       {
         "data": "04-06-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "11-06-2026",
         "oraInizio": "10:00",
         "oraFine": "13:00"
       }
@@ -1228,6 +1238,60 @@
         "data": "05-06-2026",
         "oraInizio": "13:30",
         "oraFine": "16:30"
+      }
+    ]
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "note": null,
+    "corsoStudio": "FASHION",
+    "lezioni": [
+      {
+        "data": "09-06-2026",
+        "oraInizio": "14:30",
+        "oraFine": "16:30"
+      }
+    ]
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "note": null,
+    "corsoStudio": "FASHION",
+    "lezioni": [
+      {
+        "data": "12-06-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      }
+    ]
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "note": null,
+    "corsoStudio": "FASHION",
+    "lezioni": [
+      {
+        "data": "12-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "17:00"
       }
     ]
   }
