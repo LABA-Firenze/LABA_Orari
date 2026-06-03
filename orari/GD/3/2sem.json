@@ -11,6 +11,21 @@
     "corsoStudio": "GD",
     "lezioni": [
       {
+        "data": "02-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "09-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "16-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
         "data": "23-02-2026",
         "oraInizio": "09:30",
         "oraFine": "11:30"
@@ -82,6 +97,11 @@
       },
       {
         "data": "01-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "08-06-2026",
         "oraInizio": "09:30",
         "oraFine": "11:30"
       }
@@ -99,6 +119,21 @@
     "corsoStudio": "GD",
     "lezioni": [
       {
+        "data": "02-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "09-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "16-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
         "data": "23-02-2026",
         "oraInizio": "09:30",
         "oraFine": "11:30"
@@ -172,94 +207,11 @@
         "data": "01-06-2026",
         "oraInizio": "09:30",
         "oraFine": "11:30"
-      }
-    ]
-  },
-  {
-    "corso": "Video music",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": "B",
-    "aula": "Conference 1",
-    "docente": "Fragola",
-    "note": null,
-    "corsoStudio": "GD",
-    "lezioni": [
-      {
-        "data": "23-02-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
       },
       {
-        "data": "02-03-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "09-03-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "16-03-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "23-03-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "30-03-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "06-04-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "13-04-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "20-04-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "27-04-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "04-05-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "11-05-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "18-05-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "25-05-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "01-06-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
+        "data": "08-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
       }
     ]
   },
@@ -275,6 +227,21 @@
     "corsoStudio": "GD",
     "lezioni": [
       {
+        "data": "02-02-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "09-02-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "16-02-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
         "data": "23-02-2026",
         "oraInizio": "11:30",
         "oraFine": "13:30"
@@ -346,6 +313,119 @@
       },
       {
         "data": "01-06-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "08-06-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      }
+    ]
+  },
+  {
+    "corso": "Video music",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 3,
+    "gruppo": "B",
+    "aula": "Conference 1",
+    "docente": "Fragola",
+    "note": null,
+    "corsoStudio": "GD",
+    "lezioni": [
+      {
+        "data": "02-02-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "09-02-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "16-02-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "23-02-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "02-03-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "09-03-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "16-03-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "23-03-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "30-03-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "06-04-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "13-04-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "20-04-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "27-04-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "04-05-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "11-05-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "18-05-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "25-05-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "01-06-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "08-06-2026",
         "oraInizio": "11:30",
         "oraFine": "13:30"
       }
@@ -363,6 +443,21 @@
     "corsoStudio": "GD",
     "lezioni": [
       {
+        "data": "02-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "09-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "16-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:00"
+      },
+      {
         "data": "23-02-2026",
         "oraInizio": "14:00",
         "oraFine": "16:00"
@@ -434,6 +529,11 @@
       },
       {
         "data": "01-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "08-06-2026",
         "oraInizio": "14:00",
         "oraFine": "16:00"
       }
@@ -451,6 +551,21 @@
     "corsoStudio": "GD",
     "lezioni": [
       {
+        "data": "02-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "09-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "16-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:00"
+      },
+      {
         "data": "23-02-2026",
         "oraInizio": "14:00",
         "oraFine": "16:00"
@@ -524,6 +639,11 @@
         "data": "01-06-2026",
         "oraInizio": "14:00",
         "oraFine": "16:00"
+      },
+      {
+        "data": "08-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:00"
       }
     ]
   },
@@ -538,6 +658,21 @@
     "note": null,
     "corsoStudio": "GD",
     "lezioni": [
+      {
+        "data": "03-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "10-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "17-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
       {
         "data": "24-02-2026",
         "oraInizio": "09:30",
@@ -610,6 +745,11 @@
       },
       {
         "data": "02-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "09-06-2026",
         "oraInizio": "09:30",
         "oraFine": "13:30"
       }
@@ -627,6 +767,21 @@
     "corsoStudio": "GD",
     "lezioni": [
       {
+        "data": "03-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "10-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "17-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
         "data": "24-02-2026",
         "oraInizio": "09:30",
         "oraFine": "11:30"
@@ -698,6 +853,11 @@
       },
       {
         "data": "02-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "09-06-2026",
         "oraInizio": "09:30",
         "oraFine": "11:30"
       }
@@ -715,6 +875,21 @@
     "corsoStudio": "GD",
     "lezioni": [
       {
+        "data": "03-02-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "10-02-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "17-02-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
         "data": "24-02-2026",
         "oraInizio": "11:30",
         "oraFine": "13:30"
@@ -786,6 +961,11 @@
       },
       {
         "data": "02-06-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "09-06-2026",
         "oraInizio": "11:30",
         "oraFine": "13:30"
       }
@@ -803,6 +983,21 @@
     "corsoStudio": "GD",
     "lezioni": [
       {
+        "data": "03-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "10-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "17-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
         "data": "24-02-2026",
         "oraInizio": "14:00",
         "oraFine": "18:00"
@@ -874,6 +1069,11 @@
       },
       {
         "data": "02-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "09-06-2026",
         "oraInizio": "14:00",
         "oraFine": "18:00"
       }
@@ -890,6 +1090,21 @@
     "note": null,
     "corsoStudio": "GD",
     "lezioni": [
+      {
+        "data": "04-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "11-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "18-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
       {
         "data": "25-02-2026",
         "oraInizio": "09:30",
@@ -984,6 +1199,21 @@
     "corsoStudio": "GD",
     "lezioni": [
       {
+        "data": "04-02-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "11-02-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "18-02-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
         "data": "25-02-2026",
         "oraInizio": "11:30",
         "oraFine": "13:30"
@@ -1057,6 +1287,11 @@
         "data": "03-06-2026",
         "oraInizio": "11:30",
         "oraFine": "13:30"
+      },
+      {
+        "data": "10-06-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
       }
     ]
   },
@@ -1071,6 +1306,21 @@
     "note": null,
     "corsoStudio": "GD",
     "lezioni": [
+      {
+        "data": "05-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "12-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "19-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
       {
         "data": "26-02-2026",
         "oraInizio": "09:30",
@@ -1165,6 +1415,21 @@
     "corsoStudio": "GD",
     "lezioni": [
       {
+        "data": "05-02-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "12-02-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "19-02-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
         "data": "26-02-2026",
         "oraInizio": "11:30",
         "oraFine": "13:30"
@@ -1238,6 +1503,11 @@
         "data": "04-06-2026",
         "oraInizio": "11:30",
         "oraFine": "13:30"
+      },
+      {
+        "data": "11-06-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
       }
     ]
   },
@@ -1252,6 +1522,21 @@
     "note": null,
     "corsoStudio": "GD",
     "lezioni": [
+      {
+        "data": "06-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "13-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "20-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
       {
         "data": "27-02-2026",
         "oraInizio": "09:30",
@@ -1324,6 +1609,11 @@
       },
       {
         "data": "05-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "12-06-2026",
         "oraInizio": "09:30",
         "oraFine": "13:30"
       }
@@ -1341,6 +1631,21 @@
     "corsoStudio": "GD",
     "lezioni": [
       {
+        "data": "06-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "13-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "20-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:00"
+      },
+      {
         "data": "27-02-2026",
         "oraInizio": "14:00",
         "oraFine": "16:00"
@@ -1414,94 +1719,11 @@
         "data": "05-06-2026",
         "oraInizio": "14:00",
         "oraFine": "16:00"
-      }
-    ]
-  },
-  {
-    "corso": "Italiano per stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "note": null,
-    "corsoStudio": "GD",
-    "lezioni": [
-      {
-        "data": "02-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
       },
       {
-        "data": "04-04-2026",
+        "data": "12-06-2026",
         "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "06-06-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "07-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "09-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "11-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "14-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "16-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "18-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "21-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "23-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "25-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "28-02-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "28-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "30-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
+        "oraFine": "16:00"
       }
     ]
   }

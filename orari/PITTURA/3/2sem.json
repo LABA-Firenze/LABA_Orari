@@ -5,11 +5,26 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 2",
+    "aula": "Aula Magna 2",
     "docente": "Borrelli / Galeassi",
     "note": null,
     "corsoStudio": "PITTURA",
     "lezioni": [
+      {
+        "data": "02-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "09-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "16-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
       {
         "data": "23-02-2026",
         "oraInizio": "14:00",
@@ -84,6 +99,11 @@
         "data": "01-06-2026",
         "oraInizio": "14:00",
         "oraFine": "16:30"
+      },
+      {
+        "data": "08-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
       }
     ]
   },
@@ -98,6 +118,21 @@
     "note": null,
     "corsoStudio": "PITTURA",
     "lezioni": [
+      {
+        "data": "03-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "10-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "17-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
       {
         "data": "24-02-2026",
         "oraInizio": "09:30",
@@ -170,6 +205,11 @@
       },
       {
         "data": "02-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "09-06-2026",
         "oraInizio": "09:30",
         "oraFine": "13:30"
       }
@@ -187,6 +227,21 @@
     "corsoStudio": "PITTURA",
     "lezioni": [
       {
+        "data": "03-02-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "10-02-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "17-02-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:00"
+      },
+      {
         "data": "24-02-2026",
         "oraInizio": "14:30",
         "oraFine": "17:00"
@@ -260,187 +315,11 @@
         "data": "02-06-2026",
         "oraInizio": "14:30",
         "oraFine": "17:00"
-      }
-    ]
-  },
-  {
-    "corso": "Storia dell'arte contemporanea",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
-    "docente": "Fiaschi",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "lezioni": [
-      {
-        "data": "25-02-2026",
-        "oraInizio": "09:30",
-        "oraFine": "11:30"
       },
       {
-        "data": "04-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "11:30"
-      },
-      {
-        "data": "11-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "11:30"
-      },
-      {
-        "data": "18-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "11:30"
-      },
-      {
-        "data": "25-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "11:30"
-      },
-      {
-        "data": "01-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "11:30"
-      },
-      {
-        "data": "08-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "11:30"
-      },
-      {
-        "data": "15-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "11:30"
-      },
-      {
-        "data": "22-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "11:30"
-      },
-      {
-        "data": "29-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "11:30"
-      },
-      {
-        "data": "06-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "11:30"
-      },
-      {
-        "data": "13-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "11:30"
-      },
-      {
-        "data": "20-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "11:30"
-      },
-      {
-        "data": "27-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "11:30"
-      },
-      {
-        "data": "03-06-2026",
-        "oraInizio": "09:30",
-        "oraFine": "11:30"
-      },
-      {
-        "data": "10-06-2026",
-        "oraInizio": "09:30",
-        "oraFine": "11:30"
-      }
-    ]
-  },
-  {
-    "corso": "Inglese per la comunicazione artistica",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Conference 1+2",
-    "docente": "Connell",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "lezioni": [
-      {
-        "data": "25-02-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "04-03-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "11-03-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "18-03-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "25-03-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "01-04-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "08-04-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "15-04-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "22-04-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "29-04-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "06-05-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "13-05-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "20-05-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "27-05-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "03-06-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
+        "data": "09-06-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:00"
       }
     ]
   },
@@ -450,11 +329,26 @@
     "oidCorsi": null,
     "anno": 3,
     "gruppo": null,
-    "aula": "Magna 2",
+    "aula": "Aula Magna 2",
     "docente": "Caciolli",
     "note": null,
     "corsoStudio": "PITTURA",
     "lezioni": [
+      {
+        "data": "04-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "11-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "18-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:00"
+      },
       {
         "data": "25-02-2026",
         "oraInizio": "14:00",
@@ -527,6 +421,11 @@
       },
       {
         "data": "03-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "10-06-2026",
         "oraInizio": "14:00",
         "oraFine": "16:00"
       }
@@ -543,6 +442,21 @@
     "note": null,
     "corsoStudio": "PITTURA",
     "lezioni": [
+      {
+        "data": "05-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "12-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "19-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
       {
         "data": "26-02-2026",
         "oraInizio": "09:30",
@@ -617,6 +531,11 @@
         "data": "04-06-2026",
         "oraInizio": "09:30",
         "oraFine": "13:30"
+      },
+      {
+        "data": "11-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
       }
     ]
   },
@@ -632,97 +551,99 @@
     "corsoStudio": "PITTURA",
     "lezioni": [
       {
+        "data": "05-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "12-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "19-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "26-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "05-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "12-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "19-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "26-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "02-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "09-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "16-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "23-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "30-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "07-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "14-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "21-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "28-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "04-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
         "data": "11-06-2026",
         "oraInizio": "09:30",
         "oraFine": "12:30"
-      }
-    ]
-  },
-  {
-    "corso": "Italiano per stranieri",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 3,
-    "gruppo": null,
-    "aula": "Digital HUB",
-    "docente": "Carbone",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "lezioni": [
-      {
-        "data": "02-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "04-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "06-06-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "07-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "09-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "11-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "14-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "16-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "18-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "21-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "23-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "25-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "28-02-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "28-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "30-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
       }
     ]
   }

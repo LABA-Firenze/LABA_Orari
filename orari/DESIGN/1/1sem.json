@@ -1,1 +1,1847 @@
-[]
+[
+  {
+    "corso": "Storia del design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Bua",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "01-09-2025",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "08-09-2025",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "15-09-2025",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "22-09-2025",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "29-09-2025",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "06-10-2025",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "13-10-2025",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "20-10-2025",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "27-10-2025",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "03-11-2025",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "10-11-2025",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "17-11-2025",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "24-11-2025",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "01-12-2025",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "08-12-2025",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "15-12-2025",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "22-12-2025",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "29-12-2025",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "05-01-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "12-01-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "19-01-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "26-01-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      }
+    ]
+  },
+  {
+    "corso": "Inglese",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Green",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "01-09-2025",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "08-09-2025",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "15-09-2025",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "22-09-2025",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "29-09-2025",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "06-10-2025",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "13-10-2025",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "20-10-2025",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "27-10-2025",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "03-11-2025",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "10-11-2025",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "17-11-2025",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "24-11-2025",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "01-12-2025",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "08-12-2025",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "15-12-2025",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "22-12-2025",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "29-12-2025",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "05-01-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "12-01-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "19-01-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "26-01-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      }
+    ]
+  },
+  {
+    "corso": "Informatica di base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Conference 2",
+    "docente": "Onorato",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "01-09-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "08-09-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "15-09-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "22-09-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "29-09-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "06-10-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "13-10-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "20-10-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "27-10-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "03-11-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "10-11-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "17-11-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "24-11-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "01-12-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "08-12-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "15-12-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "22-12-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "29-12-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "05-01-2026",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "12-01-2026",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "19-01-2026",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "26-01-2026",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      }
+    ]
+  },
+  {
+    "corso": "Informatica di base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Conference 1",
+    "docente": "Onorato",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "01-09-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "08-09-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "15-09-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "22-09-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "29-09-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "06-10-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "13-10-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "20-10-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "27-10-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "03-11-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "10-11-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "17-11-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "24-11-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "01-12-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "08-12-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "15-12-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "22-12-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "29-12-2025",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "05-01-2026",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "12-01-2026",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "19-01-2026",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "26-01-2026",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
+      }
+    ]
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "02-09-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "09-09-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "16-09-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "23-09-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "30-09-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "07-10-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "14-10-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "21-10-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "28-10-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "04-11-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "11-11-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "18-11-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "25-11-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "02-12-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "09-12-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "16-12-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "23-12-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "30-12-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "06-01-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "13-01-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "20-01-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "27-01-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      }
+    ]
+  },
+  {
+    "corso": "Tecniche dei nuovi materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "02-09-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "09-09-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "16-09-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "23-09-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "30-09-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "07-10-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "14-10-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "21-10-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "28-10-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "04-11-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "11-11-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "18-11-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "25-11-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "02-12-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "09-12-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "16-12-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "23-12-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "30-12-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "06-01-2026",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "13-01-2026",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "20-01-2026",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "27-01-2026",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      }
+    ]
+  },
+  {
+    "corso": "Design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Minisci",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "03-09-2025",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "10-09-2025",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "17-09-2025",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "24-09-2025",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "01-10-2025",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "08-10-2025",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "15-10-2025",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "22-10-2025",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "29-10-2025",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "05-11-2025",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "12-11-2025",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "19-11-2025",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "26-11-2025",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "03-12-2025",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "10-12-2025",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "17-12-2025",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "24-12-2025",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "31-12-2025",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "07-01-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "14-01-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "21-01-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "28-01-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      }
+    ]
+  },
+  {
+    "corso": "Design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Minisci",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "03-09-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "10-09-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "17-09-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "24-09-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "01-10-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "08-10-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "15-10-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "22-10-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "29-10-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "05-11-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "12-11-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "19-11-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "26-11-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "03-12-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "10-12-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "17-12-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "24-12-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "31-12-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "07-01-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "14-01-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "21-01-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "28-01-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      }
+    ]
+  },
+  {
+    "corso": "Informatica di base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Visual HUB",
+    "docente": "Onorato",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "03-09-2025",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "10-09-2025",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "17-09-2025",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "24-09-2025",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "01-10-2025",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "08-10-2025",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "15-10-2025",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "22-10-2025",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "29-10-2025",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "05-11-2025",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "12-11-2025",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "19-11-2025",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "26-11-2025",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "03-12-2025",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "10-12-2025",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "17-12-2025",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "24-12-2025",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "31-12-2025",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "07-01-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "14-01-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "21-01-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "28-01-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      }
+    ]
+  },
+  {
+    "corso": "Architettura degli interni 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "04-09-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "11-09-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "18-09-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "25-09-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "02-10-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "09-10-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "16-10-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "23-10-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "30-10-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "06-11-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "13-11-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "20-11-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "27-11-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "04-12-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "11-12-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "18-12-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "25-12-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "01-01-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "08-01-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "15-01-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "22-01-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "29-01-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      }
+    ]
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "04-09-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "11-09-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "18-09-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "25-09-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "02-10-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "09-10-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "16-10-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "23-10-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "30-10-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "06-11-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "13-11-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "20-11-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "27-11-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "04-12-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "11-12-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "18-12-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "25-12-2025",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "01-01-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "08-01-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "15-01-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "22-01-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "29-01-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      }
+    ]
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna 2",
+    "docente": "Sughi",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "04-09-2025",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "11-09-2025",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "18-09-2025",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "25-09-2025",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "02-10-2025",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "09-10-2025",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "16-10-2025",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "23-10-2025",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "30-10-2025",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "06-11-2025",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "13-11-2025",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "20-11-2025",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "27-11-2025",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "04-12-2025",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "11-12-2025",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "18-12-2025",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "25-12-2025",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "01-01-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "08-01-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "15-01-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "22-01-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      },
+      {
+        "data": "29-01-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
+      }
+    ]
+  },
+  {
+    "corso": "Architettura degli interni 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "05-09-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "12-09-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "19-09-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "26-09-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "03-10-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "10-10-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "17-10-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "24-10-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "31-10-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "07-11-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "14-11-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "21-11-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "28-11-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "05-12-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "12-12-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "19-12-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "26-12-2025",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "02-01-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "09-01-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "16-01-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "23-01-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "30-01-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      }
+    ]
+  },
+  {
+    "corso": "Tecniche dei nuovi materiali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Studio 2",
+    "docente": "Barboni",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "05-09-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "12-09-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "19-09-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "26-09-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "03-10-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "10-10-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "17-10-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "24-10-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "31-10-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "07-11-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "14-11-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "21-11-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "28-11-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "05-12-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "12-12-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "19-12-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "26-12-2025",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "02-01-2026",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "09-01-2026",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "16-01-2026",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "23-01-2026",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      },
+      {
+        "data": "30-01-2026",
+        "oraInizio": "13:00",
+        "oraFine": "15:00"
+      }
+    ]
+  },
+  {
+    "corso": "Italiano per stranieri",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Carbone",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "06-09-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "13-09-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "20-09-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "27-09-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "04-10-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "11-10-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "18-10-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "25-10-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "01-11-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "08-11-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "15-11-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "22-11-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "29-11-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "06-12-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "13-12-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "20-12-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "27-12-2025",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "03-01-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "10-01-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "17-01-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "24-01-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "31-01-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      }
+    ]
+  }
+]
