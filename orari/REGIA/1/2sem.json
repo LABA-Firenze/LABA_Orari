@@ -526,5 +526,93 @@
         "oraFine": "17:00"
       }
     ]
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "note": null,
+    "corsoStudio": "REGIA",
+    "lezioni": [
+      {
+        "data": "27-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "06-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "13-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "20-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "27-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "03-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "10-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "17-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "24-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "01-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "08-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "15-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "22-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "29-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "05-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      }
+    ]
   }
 ]
