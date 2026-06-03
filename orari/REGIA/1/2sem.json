@@ -84,6 +84,11 @@
         "data": "01-06-2026",
         "oraInizio": "10:00",
         "oraFine": "13:00"
+      },
+      {
+        "data": "08-06-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
       }
     ]
   },
@@ -436,6 +441,11 @@
         "data": "03-06-2026",
         "oraInizio": "10:00",
         "oraFine": "13:00"
+      },
+      {
+        "data": "10-06-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
       }
     ]
   },
@@ -612,6 +622,42 @@
         "data": "05-06-2026",
         "oraInizio": "09:30",
         "oraFine": "13:30"
+      }
+    ]
+  },
+  {
+    "corso": "Fotografia digitale",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Bardazzi",
+    "note": null,
+    "corsoStudio": "REGIA",
+    "lezioni": [
+      {
+        "data": "09-06-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      }
+    ]
+  },
+  {
+    "corso": "Storia del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Bargelli",
+    "note": null,
+    "corsoStudio": "REGIA",
+    "lezioni": [
+      {
+        "data": "09-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "17:00"
       }
     ]
   }
