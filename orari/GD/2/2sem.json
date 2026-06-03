@@ -1316,6 +1316,11 @@
         "data": "05-06-2026",
         "oraInizio": "10:00",
         "oraFine": "12:30"
+      },
+      {
+        "data": "09-06-2026",
+        "oraInizio": "10:00",
+        "oraFine": "12:30"
       }
     ]
   },
@@ -1404,6 +1409,96 @@
         "data": "05-06-2026",
         "oraInizio": "13:30",
         "oraFine": "16:00"
+      }
+    ]
+  },
+  {
+    "corso": "Sound design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Conference 2",
+    "docente": "Siboni",
+    "note": null,
+    "corsoStudio": "GD",
+    "lezioni": [
+      {
+        "data": "08-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      }
+    ]
+  },
+  {
+    "corso": "Sound design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Conference 2",
+    "docente": "Siboni",
+    "note": null,
+    "corsoStudio": "GD",
+    "lezioni": [
+      {
+        "data": "08-06-2026",
+        "oraInizio": "13:00",
+        "oraFine": "16:00"
+      }
+    ]
+  },
+  {
+    "corso": "Graphic design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "3D LAB",
+    "docente": "Crescioli",
+    "note": null,
+    "corsoStudio": "GD",
+    "lezioni": [
+      {
+        "data": "08-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      }
+    ]
+  },
+  {
+    "corso": "Scrittura creativa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Conference 1",
+    "docente": "Bartoli",
+    "note": null,
+    "corsoStudio": "GD",
+    "lezioni": [
+      {
+        "data": "09-06-2026",
+        "oraInizio": "13:00",
+        "oraFine": "15:30"
+      }
+    ]
+  },
+  {
+    "corso": "Sound design",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Magna 2",
+    "docente": "Siboni",
+    "note": null,
+    "corsoStudio": "GD",
+    "lezioni": [
+      {
+        "data": "10-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
       }
     ]
   }
