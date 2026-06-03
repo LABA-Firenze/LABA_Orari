@@ -183,7 +183,7 @@
     "gruppo": null,
     "aula": "Conference 1",
     "docente": "Mearelli",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "CINEMA",
     "lezioni": [
       {
@@ -447,7 +447,7 @@
     "gruppo": null,
     "aula": "Conference 2",
     "docente": "Citi",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "CINEMA",
     "lezioni": [
       {

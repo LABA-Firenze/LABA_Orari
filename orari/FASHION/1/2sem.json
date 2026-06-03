@@ -183,7 +183,7 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Cacioli",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "FASHION",
     "lezioni": [
       {
@@ -535,7 +535,7 @@
     "gruppo": "B",
     "aula": "Sala Verde",
     "docente": "Cacioli",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "FASHION",
     "lezioni": [
       {

@@ -7,7 +7,7 @@
     "gruppo": "Y",
     "aula": "Bottega",
     "docente": "Vasile",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "FASHION",
     "lezioni": [
       {
@@ -95,7 +95,7 @@
     "gruppo": "Z",
     "aula": "Bottega",
     "docente": "Vasile",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "FASHION",
     "lezioni": [
       {

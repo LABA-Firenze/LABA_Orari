@@ -183,7 +183,7 @@
     "gruppo": "B",
     "aula": "Conference 2",
     "docente": "Onorato",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "DESIGN",
     "lezioni": [
       {
@@ -623,7 +623,7 @@
     "gruppo": "A",
     "aula": "Visual HUB",
     "docente": "Onorato",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "DESIGN",
     "lezioni": [
       {

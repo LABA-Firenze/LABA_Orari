@@ -711,7 +711,7 @@
     "gruppo": "C",
     "aula": "Sala Verde",
     "docente": "Bracciale",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "FASHION",
     "lezioni": [
       {
@@ -887,7 +887,7 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "FASHION",
     "lezioni": [
       {
@@ -975,7 +975,7 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "FASHION",
     "lezioni": [
       {
@@ -1063,7 +1063,7 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Pazzaglia",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "FASHION",
     "lezioni": [
       {
@@ -1151,7 +1151,7 @@
     "gruppo": "B",
     "aula": "Sala Verde",
     "docente": "Bracciale",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "FASHION",
     "lezioni": [
       {

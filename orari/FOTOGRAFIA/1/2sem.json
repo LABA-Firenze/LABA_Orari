@@ -359,7 +359,7 @@
     "gruppo": null,
     "aula": "Conference 2",
     "docente": "Lisi / Vettori",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "FOTOGRAFIA",
     "lezioni": [
       {
@@ -447,7 +447,7 @@
     "gruppo": null,
     "aula": "Studio 1",
     "docente": "Onorato",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "FOTOGRAFIA",
     "lezioni": [
       {

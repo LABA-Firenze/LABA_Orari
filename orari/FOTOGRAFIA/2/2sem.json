@@ -623,7 +623,7 @@
     "gruppo": "A",
     "aula": "Photo LAB 1",
     "docente": "Provvedi",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "FOTOGRAFIA",
     "lezioni": [
       {
@@ -799,7 +799,7 @@
     "gruppo": "B",
     "aula": "Photo LAB 1",
     "docente": "Provvedi",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "FOTOGRAFIA",
     "lezioni": [
       {

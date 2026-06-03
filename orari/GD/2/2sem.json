@@ -271,7 +271,7 @@
     "gruppo": "B",
     "aula": "Visual HUB",
     "docente": "Paiano",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "GD",
     "lezioni": [
       {
@@ -623,7 +623,7 @@
     "gruppo": "C",
     "aula": "3D LAB",
     "docente": "Massini / Mastronardi",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "GD",
     "lezioni": [
       {
@@ -799,7 +799,7 @@
     "gruppo": "B",
     "aula": "3D LAB",
     "docente": "Massini / Mastronardi",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "GD",
     "lezioni": [
       {
@@ -975,7 +975,7 @@
     "gruppo": "A",
     "aula": "3D LAB",
     "docente": "Massini / Mastronardi",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "GD",
     "lezioni": [
       {

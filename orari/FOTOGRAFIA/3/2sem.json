@@ -7,7 +7,7 @@
     "gruppo": "B",
     "aula": "Photo LAB 2",
     "docente": "Vettori / Lisi",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "FOTOGRAFIA",
     "lezioni": [
       {
@@ -95,7 +95,7 @@
     "gruppo": "A",
     "aula": "Photo LAB 2",
     "docente": "Vettori / Lisi",
-    "note": "portatili",
+    "note": null,
     "corsoStudio": "FOTOGRAFIA",
     "lezioni": [
       {
@@ -270,8 +270,8 @@
     "anno": 3,
     "gruppo": "B",
     "aula": "Photo LAB 1+2",
-    "docente": "D'Isa",
-    "note": "portatili",
+    "docente": "D'isa",
+    "note": null,
     "corsoStudio": "FOTOGRAFIA",
     "lezioni": [
       {
@@ -446,8 +446,8 @@
     "anno": 3,
     "gruppo": "A",
     "aula": "Photo LAB 1+2",
-    "docente": "D'Isa",
-    "note": "portatili",
+    "docente": "D'isa",
+    "note": null,
     "corsoStudio": "FOTOGRAFIA",
     "lezioni": [
       {
