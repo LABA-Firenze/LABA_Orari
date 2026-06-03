@@ -964,6 +964,11 @@
         "data": "04-06-2026",
         "oraInizio": "14:00",
         "oraFine": "16:30"
+      },
+      {
+        "data": "11-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:30"
       }
     ]
   },
@@ -1140,6 +1145,24 @@
         "data": "05-06-2026",
         "oraInizio": "13:00",
         "oraFine": "15:00"
+      }
+    ]
+  },
+  {
+    "corso": "Informatica di base",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Conference 1",
+    "docente": "Onorato",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "08-06-2026",
+        "oraInizio": "15:00",
+        "oraFine": "18:00"
       }
     ]
   }
