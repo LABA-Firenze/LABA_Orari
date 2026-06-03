@@ -1,1 +1,618 @@
-[]
+[
+  {
+    "corso": "Semiotica dell'arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 2",
+    "docente": "Caciolli",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "lezioni": [
+      {
+        "data": "23-02-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "02-03-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "09-03-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "16-03-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "23-03-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "30-03-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "06-04-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "13-04-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "20-04-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "27-04-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "04-05-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "11-05-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "18-05-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "25-05-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "01-06-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      }
+    ]
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "lezioni": [
+      {
+        "data": "23-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "02-03-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "09-03-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "16-03-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "23-03-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "30-03-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "06-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "13-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "20-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "27-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "04-05-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "11-05-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "18-05-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "25-05-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "01-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      }
+    ]
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "note": "portatili",
+    "corsoStudio": "PITTURA",
+    "lezioni": [
+      {
+        "data": "25-02-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "04-03-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "11-03-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "18-03-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "25-03-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "01-04-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "08-04-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "15-04-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "22-04-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "29-04-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "06-05-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "13-05-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "20-05-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "27-05-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "03-06-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      }
+    ]
+  },
+  {
+    "corso": "Tecn. e tecnol. arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "lezioni": [
+      {
+        "data": "25-02-2026",
+        "oraInizio": "13:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "04-03-2026",
+        "oraInizio": "13:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "11-03-2026",
+        "oraInizio": "13:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "18-03-2026",
+        "oraInizio": "13:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "25-03-2026",
+        "oraInizio": "13:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "01-04-2026",
+        "oraInizio": "13:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "08-04-2026",
+        "oraInizio": "13:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "15-04-2026",
+        "oraInizio": "13:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "22-04-2026",
+        "oraInizio": "13:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "29-04-2026",
+        "oraInizio": "13:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "06-05-2026",
+        "oraInizio": "13:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "13-05-2026",
+        "oraInizio": "13:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "20-05-2026",
+        "oraInizio": "13:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "27-05-2026",
+        "oraInizio": "13:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "03-06-2026",
+        "oraInizio": "13:30",
+        "oraFine": "17:30"
+      }
+    ]
+  },
+  {
+    "corso": "Storia dell'arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 2",
+    "docente": "Vivarelli",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "lezioni": [
+      {
+        "data": "26-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:00"
+      },
+      {
+        "data": "05-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:00"
+      },
+      {
+        "data": "12-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:00"
+      },
+      {
+        "data": "19-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:00"
+      },
+      {
+        "data": "26-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:00"
+      },
+      {
+        "data": "02-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:00"
+      },
+      {
+        "data": "09-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:00"
+      },
+      {
+        "data": "16-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:00"
+      },
+      {
+        "data": "23-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:00"
+      },
+      {
+        "data": "30-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:00"
+      },
+      {
+        "data": "07-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:00"
+      },
+      {
+        "data": "14-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:00"
+      },
+      {
+        "data": "21-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:00"
+      },
+      {
+        "data": "28-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:00"
+      },
+      {
+        "data": "04-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:00"
+      }
+    ]
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "lezioni": [
+      {
+        "data": "26-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "05-03-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "12-03-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "19-03-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "26-03-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "02-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "09-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "16-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "23-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "30-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "07-05-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "14-05-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "21-05-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "28-05-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "04-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      }
+    ]
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "lezioni": [
+      {
+        "data": "27-02-2026",
+        "oraInizio": "10:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "06-03-2026",
+        "oraInizio": "10:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "13-03-2026",
+        "oraInizio": "10:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "20-03-2026",
+        "oraInizio": "10:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "27-03-2026",
+        "oraInizio": "10:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "03-04-2026",
+        "oraInizio": "10:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "10-04-2026",
+        "oraInizio": "10:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "17-04-2026",
+        "oraInizio": "10:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "24-04-2026",
+        "oraInizio": "10:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "01-05-2026",
+        "oraInizio": "10:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "08-05-2026",
+        "oraInizio": "10:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "15-05-2026",
+        "oraInizio": "10:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "22-05-2026",
+        "oraInizio": "10:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "29-05-2026",
+        "oraInizio": "10:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "05-06-2026",
+        "oraInizio": "10:30",
+        "oraFine": "13:30"
+      }
+    ]
+  }
+]
