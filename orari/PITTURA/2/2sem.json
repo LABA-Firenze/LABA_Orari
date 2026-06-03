@@ -1,93 +1,5 @@
 [
   {
-    "corso": "Semiotica dell'arte",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Magna 2",
-    "docente": "Caciolli",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "lezioni": [
-      {
-        "data": "23-02-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "02-03-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "09-03-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "16-03-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "23-03-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "30-03-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "06-04-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "13-04-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "20-04-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "27-04-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "04-05-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "11-05-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "18-05-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "25-05-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "01-06-2026",
-        "oraInizio": "11:30",
-        "oraFine": "13:30"
-      }
-    ]
-  },
-  {
     "corso": "Pittura 2",
     "oidCorso": null,
     "oidCorsi": null,
@@ -95,90 +7,10 @@
     "gruppo": null,
     "aula": "Tecn. Grafiche",
     "docente": "Vanni",
+    "start": "2027-02-01T14:00:00+01:00",
+    "end": "2027-02-01T18:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "lezioni": [
-      {
-        "data": "23-02-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "02-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "09-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "16-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "23-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "30-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "06-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "13-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "20-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "27-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "04-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "11-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "18-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "25-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "01-06-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "08-06-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      }
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Fotografia",
@@ -188,437 +20,10 @@
     "gruppo": null,
     "aula": "Magna 1",
     "docente": "Lisi",
+    "start": "2027-02-03T10:00:00+01:00",
+    "end": "2027-02-03T13:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "lezioni": [
-      {
-        "data": "25-02-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "04-03-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "11-03-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "18-03-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "25-03-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "01-04-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "08-04-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "15-04-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "22-04-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "29-04-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "06-05-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "13-05-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "20-05-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "27-05-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "03-06-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      }
-    ]
-  },
-  {
-    "corso": "Tecniche e tecnologie delle arti visive 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Tecn. Grafiche",
-    "docente": "Macchi",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "lezioni": [
-      {
-        "data": "25-02-2026",
-        "oraInizio": "13:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "04-03-2026",
-        "oraInizio": "13:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "11-03-2026",
-        "oraInizio": "13:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "18-03-2026",
-        "oraInizio": "13:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "25-03-2026",
-        "oraInizio": "13:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "01-04-2026",
-        "oraInizio": "13:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "08-04-2026",
-        "oraInizio": "13:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "15-04-2026",
-        "oraInizio": "13:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "22-04-2026",
-        "oraInizio": "13:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "29-04-2026",
-        "oraInizio": "13:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "06-05-2026",
-        "oraInizio": "13:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "13-05-2026",
-        "oraInizio": "13:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "20-05-2026",
-        "oraInizio": "13:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "27-05-2026",
-        "oraInizio": "13:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "03-06-2026",
-        "oraInizio": "13:30",
-        "oraFine": "17:30"
-      }
-    ]
-  },
-  {
-    "corso": "Storia dell'arte moderna",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Magna 2",
-    "docente": "Vivarelli",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "lezioni": [
-      {
-        "data": "26-02-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "05-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "12-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "19-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "26-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "02-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "09-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "16-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "23-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "30-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "07-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "14-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "21-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "28-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "04-06-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      }
-    ]
-  },
-  {
-    "corso": "Pittura 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Pittura",
-    "docente": "Vanni",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "lezioni": [
-      {
-        "data": "26-02-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "05-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "12-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "19-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "26-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "02-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "09-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "16-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "23-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "30-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "07-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "14-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "21-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "28-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "04-06-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      }
-    ]
-  },
-  {
-    "corso": "Anatomia dell'immagine 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": null,
-    "aula": "Pittura",
-    "docente": "Iannella",
-    "note": null,
-    "corsoStudio": "PITTURA",
-    "lezioni": [
-      {
-        "data": "27-02-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "06-03-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "13-03-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "20-03-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "27-03-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "03-04-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "10-04-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "17-04-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "24-04-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "01-05-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "08-05-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "15-05-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "22-05-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "29-05-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "05-06-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      }
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
     "corso": "Fotografia",
@@ -628,102 +33,1660 @@
     "gruppo": null,
     "aula": "Digital HUB",
     "docente": "Lisi",
+    "start": "2027-02-03T10:00:00+01:00",
+    "end": "2027-02-03T13:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "lezioni": [
-      {
-        "data": "10-06-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      }
-    ]
+    "corsoStudio": "PITTURA"
   },
   {
-    "corso": "Italiano per stranieri",
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-02-03T13:30:00+01:00",
+    "end": "2027-02-03T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "start": "2027-02-04T14:00:00+01:00",
+    "end": "2027-02-04T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-02-05T10:30:00+01:00",
+    "end": "2027-02-05T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "start": "2027-02-08T14:00:00+01:00",
+    "end": "2027-02-08T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "start": "2027-02-10T10:00:00+01:00",
+    "end": "2027-02-10T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
     "oidCorso": null,
     "oidCorsi": null,
     "anno": 2,
     "gruppo": null,
     "aula": "Digital HUB",
-    "docente": "Carbone",
+    "docente": "Lisi",
+    "start": "2027-02-10T10:00:00+01:00",
+    "end": "2027-02-10T13:00:00+01:00",
     "note": null,
-    "corsoStudio": "PITTURA",
-    "lezioni": [
-      {
-        "data": "02-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "04-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "06-06-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "07-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "09-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "11-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "14-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "16-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "18-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "21-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "23-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "25-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "28-02-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "28-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "30-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      }
-    ]
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-02-10T13:30:00+01:00",
+    "end": "2027-02-10T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "start": "2027-02-11T14:00:00+01:00",
+    "end": "2027-02-11T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-02-12T10:30:00+01:00",
+    "end": "2027-02-12T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "start": "2027-02-15T14:00:00+01:00",
+    "end": "2027-02-15T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "start": "2027-02-17T10:00:00+01:00",
+    "end": "2027-02-17T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Lisi",
+    "start": "2027-02-17T10:00:00+01:00",
+    "end": "2027-02-17T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-02-17T13:30:00+01:00",
+    "end": "2027-02-17T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "start": "2027-02-18T14:00:00+01:00",
+    "end": "2027-02-18T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-02-19T10:30:00+01:00",
+    "end": "2027-02-19T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "start": "2027-02-22T14:00:00+01:00",
+    "end": "2027-02-22T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "start": "2027-02-24T10:00:00+01:00",
+    "end": "2027-02-24T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Lisi",
+    "start": "2027-02-24T10:00:00+01:00",
+    "end": "2027-02-24T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-02-24T13:30:00+01:00",
+    "end": "2027-02-24T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "start": "2027-02-25T14:00:00+01:00",
+    "end": "2027-02-25T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-02-26T10:30:00+01:00",
+    "end": "2027-02-26T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "start": "2027-03-01T14:00:00+01:00",
+    "end": "2027-03-01T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "start": "2027-03-03T10:00:00+01:00",
+    "end": "2027-03-03T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Lisi",
+    "start": "2027-03-03T10:00:00+01:00",
+    "end": "2027-03-03T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-03-03T13:30:00+01:00",
+    "end": "2027-03-03T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "start": "2027-03-04T14:00:00+01:00",
+    "end": "2027-03-04T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-03-05T10:30:00+01:00",
+    "end": "2027-03-05T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "start": "2027-03-08T14:00:00+01:00",
+    "end": "2027-03-08T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "start": "2027-03-10T10:00:00+01:00",
+    "end": "2027-03-10T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Lisi",
+    "start": "2027-03-10T10:00:00+01:00",
+    "end": "2027-03-10T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-03-10T13:30:00+01:00",
+    "end": "2027-03-10T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "start": "2027-03-11T14:00:00+01:00",
+    "end": "2027-03-11T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-03-12T10:30:00+01:00",
+    "end": "2027-03-12T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "start": "2027-03-15T14:00:00+01:00",
+    "end": "2027-03-15T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "start": "2027-03-17T10:00:00+01:00",
+    "end": "2027-03-17T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Lisi",
+    "start": "2027-03-17T10:00:00+01:00",
+    "end": "2027-03-17T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-03-17T13:30:00+01:00",
+    "end": "2027-03-17T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "start": "2027-03-18T14:00:00+01:00",
+    "end": "2027-03-18T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-03-19T10:30:00+01:00",
+    "end": "2027-03-19T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "start": "2027-03-22T14:00:00+01:00",
+    "end": "2027-03-22T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "start": "2027-03-24T10:00:00+01:00",
+    "end": "2027-03-24T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Lisi",
+    "start": "2027-03-24T10:00:00+01:00",
+    "end": "2027-03-24T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-03-24T13:30:00+01:00",
+    "end": "2027-03-24T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "start": "2027-03-25T14:00:00+01:00",
+    "end": "2027-03-25T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-03-26T10:30:00+01:00",
+    "end": "2027-03-26T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "start": "2027-03-29T14:00:00+01:00",
+    "end": "2027-03-29T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "start": "2027-03-31T10:00:00+01:00",
+    "end": "2027-03-31T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Lisi",
+    "start": "2027-03-31T10:00:00+01:00",
+    "end": "2027-03-31T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-03-31T13:30:00+01:00",
+    "end": "2027-03-31T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "start": "2027-04-01T14:00:00+01:00",
+    "end": "2027-04-01T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-04-02T10:30:00+01:00",
+    "end": "2027-04-02T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "start": "2027-04-05T14:00:00+01:00",
+    "end": "2027-04-05T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "start": "2027-04-07T10:00:00+01:00",
+    "end": "2027-04-07T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Lisi",
+    "start": "2027-04-07T10:00:00+01:00",
+    "end": "2027-04-07T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-04-07T13:30:00+01:00",
+    "end": "2027-04-07T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "start": "2027-04-08T14:00:00+01:00",
+    "end": "2027-04-08T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-04-09T10:30:00+01:00",
+    "end": "2027-04-09T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "start": "2027-04-12T14:00:00+01:00",
+    "end": "2027-04-12T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "start": "2027-04-14T10:00:00+01:00",
+    "end": "2027-04-14T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Lisi",
+    "start": "2027-04-14T10:00:00+01:00",
+    "end": "2027-04-14T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-04-14T13:30:00+01:00",
+    "end": "2027-04-14T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "start": "2027-04-15T14:00:00+01:00",
+    "end": "2027-04-15T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-04-16T10:30:00+01:00",
+    "end": "2027-04-16T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "start": "2027-04-19T14:00:00+01:00",
+    "end": "2027-04-19T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "start": "2027-04-21T10:00:00+01:00",
+    "end": "2027-04-21T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Lisi",
+    "start": "2027-04-21T10:00:00+01:00",
+    "end": "2027-04-21T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-04-21T13:30:00+01:00",
+    "end": "2027-04-21T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "start": "2027-04-22T14:00:00+01:00",
+    "end": "2027-04-22T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-04-23T10:30:00+01:00",
+    "end": "2027-04-23T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "start": "2027-04-26T14:00:00+01:00",
+    "end": "2027-04-26T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "start": "2027-04-28T10:00:00+01:00",
+    "end": "2027-04-28T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Lisi",
+    "start": "2027-04-28T10:00:00+01:00",
+    "end": "2027-04-28T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-04-28T13:30:00+01:00",
+    "end": "2027-04-28T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "start": "2027-04-29T14:00:00+01:00",
+    "end": "2027-04-29T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-04-30T10:30:00+01:00",
+    "end": "2027-04-30T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "start": "2027-05-03T14:00:00+01:00",
+    "end": "2027-05-03T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "start": "2027-05-05T10:00:00+01:00",
+    "end": "2027-05-05T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Lisi",
+    "start": "2027-05-05T10:00:00+01:00",
+    "end": "2027-05-05T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-05-05T13:30:00+01:00",
+    "end": "2027-05-05T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "start": "2027-05-06T14:00:00+01:00",
+    "end": "2027-05-06T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-05-07T10:30:00+01:00",
+    "end": "2027-05-07T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "start": "2027-05-10T14:00:00+01:00",
+    "end": "2027-05-10T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "start": "2027-05-12T10:00:00+01:00",
+    "end": "2027-05-12T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Lisi",
+    "start": "2027-05-12T10:00:00+01:00",
+    "end": "2027-05-12T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-05-12T13:30:00+01:00",
+    "end": "2027-05-12T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "start": "2027-05-13T14:00:00+01:00",
+    "end": "2027-05-13T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-05-14T10:30:00+01:00",
+    "end": "2027-05-14T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "start": "2027-05-17T14:00:00+01:00",
+    "end": "2027-05-17T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "start": "2027-05-19T10:00:00+01:00",
+    "end": "2027-05-19T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Lisi",
+    "start": "2027-05-19T10:00:00+01:00",
+    "end": "2027-05-19T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-05-19T13:30:00+01:00",
+    "end": "2027-05-19T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "start": "2027-05-20T14:00:00+01:00",
+    "end": "2027-05-20T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-05-21T10:30:00+01:00",
+    "end": "2027-05-21T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "start": "2027-05-24T14:00:00+01:00",
+    "end": "2027-05-24T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "start": "2027-05-26T10:00:00+01:00",
+    "end": "2027-05-26T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Lisi",
+    "start": "2027-05-26T10:00:00+01:00",
+    "end": "2027-05-26T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-05-26T13:30:00+01:00",
+    "end": "2027-05-26T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "start": "2027-05-27T14:00:00+01:00",
+    "end": "2027-05-27T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-05-28T10:30:00+01:00",
+    "end": "2027-05-28T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "start": "2027-05-31T14:00:00+01:00",
+    "end": "2027-05-31T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "start": "2027-06-02T10:00:00+01:00",
+    "end": "2027-06-02T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Lisi",
+    "start": "2027-06-02T10:00:00+01:00",
+    "end": "2027-06-02T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-06-02T13:30:00+01:00",
+    "end": "2027-06-02T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "start": "2027-06-03T14:00:00+01:00",
+    "end": "2027-06-03T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-06-04T10:30:00+01:00",
+    "end": "2027-06-04T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "start": "2027-06-07T14:00:00+01:00",
+    "end": "2027-06-07T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "start": "2027-06-09T10:00:00+01:00",
+    "end": "2027-06-09T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Lisi",
+    "start": "2027-06-09T10:00:00+01:00",
+    "end": "2027-06-09T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-06-09T13:30:00+01:00",
+    "end": "2027-06-09T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "start": "2027-06-10T14:00:00+01:00",
+    "end": "2027-06-10T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-06-11T10:30:00+01:00",
+    "end": "2027-06-11T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "start": "2027-06-14T14:00:00+01:00",
+    "end": "2027-06-14T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "start": "2027-06-16T10:00:00+01:00",
+    "end": "2027-06-16T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Lisi",
+    "start": "2027-06-16T10:00:00+01:00",
+    "end": "2027-06-16T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-06-16T13:30:00+01:00",
+    "end": "2027-06-16T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "start": "2027-06-17T14:00:00+01:00",
+    "end": "2027-06-17T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-06-18T10:30:00+01:00",
+    "end": "2027-06-18T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "start": "2027-06-21T14:00:00+01:00",
+    "end": "2027-06-21T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "start": "2027-06-23T10:00:00+01:00",
+    "end": "2027-06-23T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Lisi",
+    "start": "2027-06-23T10:00:00+01:00",
+    "end": "2027-06-23T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-06-23T13:30:00+01:00",
+    "end": "2027-06-23T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Vanni",
+    "start": "2027-06-24T14:00:00+01:00",
+    "end": "2027-06-24T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Anatomia dell'immagine 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Pittura",
+    "docente": "Iannella",
+    "start": "2027-06-25T10:30:00+01:00",
+    "end": "2027-06-25T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Pittura 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Vanni",
+    "start": "2027-06-28T14:00:00+01:00",
+    "end": "2027-06-28T18:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Lisi",
+    "start": "2027-06-30T10:00:00+01:00",
+    "end": "2027-06-30T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Fotografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Lisi",
+    "start": "2027-06-30T10:00:00+01:00",
+    "end": "2027-06-30T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
+  },
+  {
+    "corso": "Tecniche e tecnologie delle arti visive 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Macchi",
+    "start": "2027-06-30T13:30:00+01:00",
+    "end": "2027-06-30T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "PITTURA"
   }
 ]

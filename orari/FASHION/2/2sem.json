@@ -7,85 +7,10 @@
     "gruppo": "C",
     "aula": "Atelier",
     "docente": "Monaco",
+    "start": "2027-02-01T09:30:00+01:00",
+    "end": "2027-02-01T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "FASHION",
-    "lezioni": [
-      {
-        "data": "23-02-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "02-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "09-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "16-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "23-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "30-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "06-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "13-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "20-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "27-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "04-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "11-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "18-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "25-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "01-06-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      }
-    ]
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion design 2",
@@ -95,85 +20,10 @@
     "gruppo": "Y",
     "aula": "Sala Rossa",
     "docente": "Ventroni",
+    "start": "2027-02-01T14:30:00+01:00",
+    "end": "2027-02-01T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FASHION",
-    "lezioni": [
-      {
-        "data": "23-02-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "02-03-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "09-03-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "16-03-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "23-03-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "30-03-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "06-04-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "13-04-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "20-04-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "27-04-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "04-05-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "11-05-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "18-05-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "25-05-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "01-06-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      }
-    ]
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 2",
@@ -183,85 +33,10 @@
     "gruppo": "B",
     "aula": "Atelier",
     "docente": "Monaco",
+    "start": "2027-02-01T14:30:00+01:00",
+    "end": "2027-02-01T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FASHION",
-    "lezioni": [
-      {
-        "data": "23-02-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "02-03-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "09-03-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "16-03-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "23-03-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "30-03-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "06-04-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "13-04-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "20-04-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "27-04-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "04-05-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "11-05-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "18-05-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "25-05-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "01-06-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      }
-    ]
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Modellistica 2",
@@ -271,90 +46,10 @@
     "gruppo": "A",
     "aula": "Atelier",
     "docente": "Monaco",
+    "start": "2027-02-02T09:30:00+01:00",
+    "end": "2027-02-02T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "FASHION",
-    "lezioni": [
-      {
-        "data": "24-02-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "03-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "10-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "17-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "24-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "31-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "07-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "14-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "21-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "28-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "05-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "12-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "19-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "26-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "02-06-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "09-06-2026",
-        "oraInizio": "09:30",
-        "oraFine": "13:30"
-      }
-    ]
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Fashion design 2",
@@ -364,882 +59,10 @@
     "gruppo": "Z",
     "aula": "Sala Rossa",
     "docente": "Ventroni",
+    "start": "2027-02-02T14:30:00+01:00",
+    "end": "2027-02-02T18:30:00+01:00",
     "note": null,
-    "corsoStudio": "FASHION",
-    "lezioni": [
-      {
-        "data": "24-02-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "03-03-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "10-03-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "17-03-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "24-03-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "31-03-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "07-04-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "14-04-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "21-04-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "28-04-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "05-05-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "12-05-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "19-05-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "26-05-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      },
-      {
-        "data": "02-06-2026",
-        "oraInizio": "14:30",
-        "oraFine": "18:30"
-      }
-    ]
-  },
-  {
-    "corso": "Storia arte moderna",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Y",
-    "aula": "Sala Rossa",
-    "docente": "Vivarelli",
-    "note": null,
-    "corsoStudio": "FASHION",
-    "lezioni": [
-      {
-        "data": "25-02-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "04-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "11-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "18-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "25-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "01-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "08-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "15-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "22-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "29-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "06-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "13-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "20-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "27-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      },
-      {
-        "data": "03-06-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:00"
-      }
-    ]
-  },
-  {
-    "corso": "Storia arte moderna",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Vivarelli",
-    "note": null,
-    "corsoStudio": "FASHION",
-    "lezioni": [
-      {
-        "data": "25-02-2026",
-        "oraInizio": "12:30",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "04-03-2026",
-        "oraInizio": "12:30",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "11-03-2026",
-        "oraInizio": "12:30",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "18-03-2026",
-        "oraInizio": "12:30",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "25-03-2026",
-        "oraInizio": "12:30",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "01-04-2026",
-        "oraInizio": "12:30",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "08-04-2026",
-        "oraInizio": "12:30",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "15-04-2026",
-        "oraInizio": "12:30",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "22-04-2026",
-        "oraInizio": "12:30",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "29-04-2026",
-        "oraInizio": "12:30",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "06-05-2026",
-        "oraInizio": "12:30",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "13-05-2026",
-        "oraInizio": "12:30",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "20-05-2026",
-        "oraInizio": "12:30",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "27-05-2026",
-        "oraInizio": "12:30",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "03-06-2026",
-        "oraInizio": "12:30",
-        "oraFine": "15:00"
-      }
-    ]
-  },
-  {
-    "corso": "Organizzazione grandi eventi",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Roselli",
-    "note": null,
-    "corsoStudio": "FASHION",
-    "lezioni": [
-      {
-        "data": "25-02-2026",
-        "oraInizio": "15:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "04-03-2026",
-        "oraInizio": "15:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "11-03-2026",
-        "oraInizio": "15:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "18-03-2026",
-        "oraInizio": "15:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "25-03-2026",
-        "oraInizio": "15:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "01-04-2026",
-        "oraInizio": "15:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "08-04-2026",
-        "oraInizio": "15:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "15-04-2026",
-        "oraInizio": "15:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "22-04-2026",
-        "oraInizio": "15:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "29-04-2026",
-        "oraInizio": "15:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "06-05-2026",
-        "oraInizio": "15:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "13-05-2026",
-        "oraInizio": "15:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "20-05-2026",
-        "oraInizio": "15:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "27-05-2026",
-        "oraInizio": "15:30",
-        "oraFine": "17:30"
-      },
-      {
-        "data": "03-06-2026",
-        "oraInizio": "15:30",
-        "oraFine": "17:30"
-      }
-    ]
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "C",
-    "aula": "Sala Verde",
-    "docente": "Bracciale",
-    "note": null,
-    "corsoStudio": "FASHION",
-    "lezioni": [
-      {
-        "data": "26-02-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "05-03-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "12-03-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "19-03-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "26-03-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "02-04-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "09-04-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "16-04-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "23-04-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "30-04-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "07-05-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "14-05-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "21-05-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "28-05-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "04-06-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "11-06-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      }
-    ]
-  },
-  {
-    "corso": "Organizzazione grandi eventi",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Y",
-    "aula": "Sala Rossa",
-    "docente": "Roselli",
-    "note": null,
-    "corsoStudio": "FASHION",
-    "lezioni": [
-      {
-        "data": "26-02-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "05-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "12-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "19-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "26-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "02-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "09-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "16-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "23-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "30-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "07-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "14-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "21-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "28-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "04-06-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      }
-    ]
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "A",
-    "aula": "Sala Verde",
-    "docente": "Bracciale",
-    "note": null,
-    "corsoStudio": "FASHION",
-    "lezioni": [
-      {
-        "data": "27-02-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "06-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "13-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "20-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "27-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "03-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "10-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "17-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "24-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "01-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "08-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "15-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "22-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "29-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "05-06-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      }
-    ]
-  },
-  {
-    "corso": "Metodologia progettuale per la comunicazione visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Z",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "note": null,
-    "corsoStudio": "FASHION",
-    "lezioni": [
-      {
-        "data": "27-02-2026",
-        "oraInizio": "10:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "06-03-2026",
-        "oraInizio": "10:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "13-03-2026",
-        "oraInizio": "10:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "20-03-2026",
-        "oraInizio": "10:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "27-03-2026",
-        "oraInizio": "10:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "03-04-2026",
-        "oraInizio": "10:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "10-04-2026",
-        "oraInizio": "10:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "17-04-2026",
-        "oraInizio": "10:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "24-04-2026",
-        "oraInizio": "10:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "01-05-2026",
-        "oraInizio": "10:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "08-05-2026",
-        "oraInizio": "10:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "15-05-2026",
-        "oraInizio": "10:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "22-05-2026",
-        "oraInizio": "10:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "29-05-2026",
-        "oraInizio": "10:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "05-06-2026",
-        "oraInizio": "10:30",
-        "oraFine": "12:30"
-      }
-    ]
-  },
-  {
-    "corso": "Metodologia progettuale per la comunicazione visiva",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "Y",
-    "aula": "Sala Rossa",
-    "docente": "Pazzaglia",
-    "note": null,
-    "corsoStudio": "FASHION",
-    "lezioni": [
-      {
-        "data": "27-02-2026",
-        "oraInizio": "13:00",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "06-03-2026",
-        "oraInizio": "13:00",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "13-03-2026",
-        "oraInizio": "13:00",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "20-03-2026",
-        "oraInizio": "13:00",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "27-03-2026",
-        "oraInizio": "13:00",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "03-04-2026",
-        "oraInizio": "13:00",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "10-04-2026",
-        "oraInizio": "13:00",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "17-04-2026",
-        "oraInizio": "13:00",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "24-04-2026",
-        "oraInizio": "13:00",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "01-05-2026",
-        "oraInizio": "13:00",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "08-05-2026",
-        "oraInizio": "13:00",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "15-05-2026",
-        "oraInizio": "13:00",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "22-05-2026",
-        "oraInizio": "13:00",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "29-05-2026",
-        "oraInizio": "13:00",
-        "oraFine": "15:00"
-      },
-      {
-        "data": "05-06-2026",
-        "oraInizio": "13:00",
-        "oraFine": "15:00"
-      }
-    ]
-  },
-  {
-    "corso": "Design 2",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 2,
-    "gruppo": "B",
-    "aula": "Sala Verde",
-    "docente": "Bracciale",
-    "note": null,
-    "corsoStudio": "FASHION",
-    "lezioni": [
-      {
-        "data": "27-02-2026",
-        "oraInizio": "13:30",
-        "oraFine": "16:30"
-      },
-      {
-        "data": "06-03-2026",
-        "oraInizio": "13:30",
-        "oraFine": "16:30"
-      },
-      {
-        "data": "13-03-2026",
-        "oraInizio": "13:30",
-        "oraFine": "16:30"
-      },
-      {
-        "data": "20-03-2026",
-        "oraInizio": "13:30",
-        "oraFine": "16:30"
-      },
-      {
-        "data": "27-03-2026",
-        "oraInizio": "13:30",
-        "oraFine": "16:30"
-      },
-      {
-        "data": "03-04-2026",
-        "oraInizio": "13:30",
-        "oraFine": "16:30"
-      },
-      {
-        "data": "10-04-2026",
-        "oraInizio": "13:30",
-        "oraFine": "16:30"
-      },
-      {
-        "data": "17-04-2026",
-        "oraInizio": "13:30",
-        "oraFine": "16:30"
-      },
-      {
-        "data": "24-04-2026",
-        "oraInizio": "13:30",
-        "oraFine": "16:30"
-      },
-      {
-        "data": "01-05-2026",
-        "oraInizio": "13:30",
-        "oraFine": "16:30"
-      },
-      {
-        "data": "08-05-2026",
-        "oraInizio": "13:30",
-        "oraFine": "16:30"
-      },
-      {
-        "data": "15-05-2026",
-        "oraInizio": "13:30",
-        "oraFine": "16:30"
-      },
-      {
-        "data": "22-05-2026",
-        "oraInizio": "13:30",
-        "oraFine": "16:30"
-      },
-      {
-        "data": "29-05-2026",
-        "oraInizio": "13:30",
-        "oraFine": "16:30"
-      },
-      {
-        "data": "05-06-2026",
-        "oraInizio": "13:30",
-        "oraFine": "16:30"
-      }
-    ]
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Presentazione nuovo tema sfilata",
@@ -1249,15 +72,75 @@
     "gruppo": null,
     "aula": "Atelier",
     "docente": "Ventroni",
+    "start": "2027-02-02T14:30:00+01:00",
+    "end": "2027-02-02T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FASHION",
-    "lezioni": [
-      {
-        "data": "09-06-2026",
-        "oraInizio": "14:30",
-        "oraFine": "16:30"
-      }
-    ]
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-02-03T09:30:00+01:00",
+    "end": "2027-02-03T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-02-03T12:30:00+01:00",
+    "end": "2027-02-03T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-02-03T15:30:00+01:00",
+    "end": "2027-02-03T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-02-04T10:00:00+01:00",
+    "end": "2027-02-04T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-02-04T14:00:00+01:00",
+    "end": "2027-02-04T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 2",
@@ -1267,15 +150,49 @@
     "gruppo": "A",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2027-02-05T09:30:00+01:00",
+    "end": "2027-02-05T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "FASHION",
-    "lezioni": [
-      {
-        "data": "12-06-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      }
-    ]
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-02-05T10:00:00+01:00",
+    "end": "2027-02-05T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-02-05T10:30:00+01:00",
+    "end": "2027-02-05T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-02-05T13:00:00+01:00",
+    "end": "2027-02-05T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
   },
   {
     "corso": "Design 2",
@@ -1285,14 +202,4559 @@
     "gruppo": "B",
     "aula": "Sala Verde",
     "docente": "Bracciale",
+    "start": "2027-02-05T13:30:00+01:00",
+    "end": "2027-02-05T16:30:00+01:00",
     "note": null,
-    "corsoStudio": "FASHION",
-    "lezioni": [
-      {
-        "data": "12-06-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      }
-    ]
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-02-05T14:00:00+01:00",
+    "end": "2027-02-05T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-02-08T09:30:00+01:00",
+    "end": "2027-02-08T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-02-08T14:30:00+01:00",
+    "end": "2027-02-08T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-02-08T14:30:00+01:00",
+    "end": "2027-02-08T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-02-09T09:30:00+01:00",
+    "end": "2027-02-09T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-02-09T14:30:00+01:00",
+    "end": "2027-02-09T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "start": "2027-02-09T14:30:00+01:00",
+    "end": "2027-02-09T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-02-10T09:30:00+01:00",
+    "end": "2027-02-10T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-02-10T12:30:00+01:00",
+    "end": "2027-02-10T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-02-10T15:30:00+01:00",
+    "end": "2027-02-10T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-02-11T10:00:00+01:00",
+    "end": "2027-02-11T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-02-11T14:00:00+01:00",
+    "end": "2027-02-11T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-02-12T09:30:00+01:00",
+    "end": "2027-02-12T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-02-12T10:00:00+01:00",
+    "end": "2027-02-12T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-02-12T10:30:00+01:00",
+    "end": "2027-02-12T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-02-12T13:00:00+01:00",
+    "end": "2027-02-12T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-02-12T13:30:00+01:00",
+    "end": "2027-02-12T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-02-12T14:00:00+01:00",
+    "end": "2027-02-12T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-02-15T09:30:00+01:00",
+    "end": "2027-02-15T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-02-15T14:30:00+01:00",
+    "end": "2027-02-15T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-02-15T14:30:00+01:00",
+    "end": "2027-02-15T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-02-16T09:30:00+01:00",
+    "end": "2027-02-16T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-02-16T14:30:00+01:00",
+    "end": "2027-02-16T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "start": "2027-02-16T14:30:00+01:00",
+    "end": "2027-02-16T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-02-17T09:30:00+01:00",
+    "end": "2027-02-17T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-02-17T12:30:00+01:00",
+    "end": "2027-02-17T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-02-17T15:30:00+01:00",
+    "end": "2027-02-17T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-02-18T10:00:00+01:00",
+    "end": "2027-02-18T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-02-18T14:00:00+01:00",
+    "end": "2027-02-18T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-02-19T09:30:00+01:00",
+    "end": "2027-02-19T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-02-19T10:00:00+01:00",
+    "end": "2027-02-19T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-02-19T10:30:00+01:00",
+    "end": "2027-02-19T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-02-19T13:00:00+01:00",
+    "end": "2027-02-19T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-02-19T13:30:00+01:00",
+    "end": "2027-02-19T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-02-19T14:00:00+01:00",
+    "end": "2027-02-19T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-02-22T09:30:00+01:00",
+    "end": "2027-02-22T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-02-22T14:30:00+01:00",
+    "end": "2027-02-22T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-02-22T14:30:00+01:00",
+    "end": "2027-02-22T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-02-23T09:30:00+01:00",
+    "end": "2027-02-23T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-02-23T14:30:00+01:00",
+    "end": "2027-02-23T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "start": "2027-02-23T14:30:00+01:00",
+    "end": "2027-02-23T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-02-24T09:30:00+01:00",
+    "end": "2027-02-24T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-02-24T12:30:00+01:00",
+    "end": "2027-02-24T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-02-24T15:30:00+01:00",
+    "end": "2027-02-24T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-02-25T10:00:00+01:00",
+    "end": "2027-02-25T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-02-25T14:00:00+01:00",
+    "end": "2027-02-25T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-02-26T09:30:00+01:00",
+    "end": "2027-02-26T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-02-26T10:00:00+01:00",
+    "end": "2027-02-26T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-02-26T10:30:00+01:00",
+    "end": "2027-02-26T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-02-26T13:00:00+01:00",
+    "end": "2027-02-26T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-02-26T13:30:00+01:00",
+    "end": "2027-02-26T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-02-26T14:00:00+01:00",
+    "end": "2027-02-26T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-03-01T09:30:00+01:00",
+    "end": "2027-03-01T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-03-01T14:30:00+01:00",
+    "end": "2027-03-01T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-03-01T14:30:00+01:00",
+    "end": "2027-03-01T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-03-02T09:30:00+01:00",
+    "end": "2027-03-02T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-03-02T14:30:00+01:00",
+    "end": "2027-03-02T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "start": "2027-03-02T14:30:00+01:00",
+    "end": "2027-03-02T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-03-03T09:30:00+01:00",
+    "end": "2027-03-03T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-03-03T12:30:00+01:00",
+    "end": "2027-03-03T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-03-03T15:30:00+01:00",
+    "end": "2027-03-03T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-03-04T10:00:00+01:00",
+    "end": "2027-03-04T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-03-04T14:00:00+01:00",
+    "end": "2027-03-04T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-03-05T09:30:00+01:00",
+    "end": "2027-03-05T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-03-05T10:00:00+01:00",
+    "end": "2027-03-05T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-03-05T10:30:00+01:00",
+    "end": "2027-03-05T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-03-05T13:00:00+01:00",
+    "end": "2027-03-05T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-03-05T13:30:00+01:00",
+    "end": "2027-03-05T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-03-05T14:00:00+01:00",
+    "end": "2027-03-05T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-03-08T09:30:00+01:00",
+    "end": "2027-03-08T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-03-08T14:30:00+01:00",
+    "end": "2027-03-08T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-03-08T14:30:00+01:00",
+    "end": "2027-03-08T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-03-09T09:30:00+01:00",
+    "end": "2027-03-09T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-03-09T14:30:00+01:00",
+    "end": "2027-03-09T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "start": "2027-03-09T14:30:00+01:00",
+    "end": "2027-03-09T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-03-10T09:30:00+01:00",
+    "end": "2027-03-10T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-03-10T12:30:00+01:00",
+    "end": "2027-03-10T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-03-10T15:30:00+01:00",
+    "end": "2027-03-10T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-03-11T10:00:00+01:00",
+    "end": "2027-03-11T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-03-11T14:00:00+01:00",
+    "end": "2027-03-11T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-03-12T09:30:00+01:00",
+    "end": "2027-03-12T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-03-12T10:00:00+01:00",
+    "end": "2027-03-12T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-03-12T10:30:00+01:00",
+    "end": "2027-03-12T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-03-12T13:00:00+01:00",
+    "end": "2027-03-12T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-03-12T13:30:00+01:00",
+    "end": "2027-03-12T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-03-12T14:00:00+01:00",
+    "end": "2027-03-12T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-03-15T09:30:00+01:00",
+    "end": "2027-03-15T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-03-15T14:30:00+01:00",
+    "end": "2027-03-15T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-03-15T14:30:00+01:00",
+    "end": "2027-03-15T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-03-16T09:30:00+01:00",
+    "end": "2027-03-16T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-03-16T14:30:00+01:00",
+    "end": "2027-03-16T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "start": "2027-03-16T14:30:00+01:00",
+    "end": "2027-03-16T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-03-17T09:30:00+01:00",
+    "end": "2027-03-17T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-03-17T12:30:00+01:00",
+    "end": "2027-03-17T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-03-17T15:30:00+01:00",
+    "end": "2027-03-17T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-03-18T10:00:00+01:00",
+    "end": "2027-03-18T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-03-18T14:00:00+01:00",
+    "end": "2027-03-18T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-03-19T09:30:00+01:00",
+    "end": "2027-03-19T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-03-19T10:00:00+01:00",
+    "end": "2027-03-19T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-03-19T10:30:00+01:00",
+    "end": "2027-03-19T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-03-19T13:00:00+01:00",
+    "end": "2027-03-19T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-03-19T13:30:00+01:00",
+    "end": "2027-03-19T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-03-19T14:00:00+01:00",
+    "end": "2027-03-19T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-03-22T09:30:00+01:00",
+    "end": "2027-03-22T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-03-22T14:30:00+01:00",
+    "end": "2027-03-22T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-03-22T14:30:00+01:00",
+    "end": "2027-03-22T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-03-23T09:30:00+01:00",
+    "end": "2027-03-23T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-03-23T14:30:00+01:00",
+    "end": "2027-03-23T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "start": "2027-03-23T14:30:00+01:00",
+    "end": "2027-03-23T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-03-24T09:30:00+01:00",
+    "end": "2027-03-24T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-03-24T12:30:00+01:00",
+    "end": "2027-03-24T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-03-24T15:30:00+01:00",
+    "end": "2027-03-24T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-03-25T10:00:00+01:00",
+    "end": "2027-03-25T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-03-25T14:00:00+01:00",
+    "end": "2027-03-25T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-03-26T09:30:00+01:00",
+    "end": "2027-03-26T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-03-26T10:00:00+01:00",
+    "end": "2027-03-26T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-03-26T10:30:00+01:00",
+    "end": "2027-03-26T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-03-26T13:00:00+01:00",
+    "end": "2027-03-26T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-03-26T13:30:00+01:00",
+    "end": "2027-03-26T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-03-26T14:00:00+01:00",
+    "end": "2027-03-26T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-03-29T09:30:00+01:00",
+    "end": "2027-03-29T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-03-29T14:30:00+01:00",
+    "end": "2027-03-29T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-03-29T14:30:00+01:00",
+    "end": "2027-03-29T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-03-30T09:30:00+01:00",
+    "end": "2027-03-30T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-03-30T14:30:00+01:00",
+    "end": "2027-03-30T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "start": "2027-03-30T14:30:00+01:00",
+    "end": "2027-03-30T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-03-31T09:30:00+01:00",
+    "end": "2027-03-31T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-03-31T12:30:00+01:00",
+    "end": "2027-03-31T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-03-31T15:30:00+01:00",
+    "end": "2027-03-31T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-01T10:00:00+01:00",
+    "end": "2027-04-01T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-04-01T14:00:00+01:00",
+    "end": "2027-04-01T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-02T09:30:00+01:00",
+    "end": "2027-04-02T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-02T10:00:00+01:00",
+    "end": "2027-04-02T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-04-02T10:30:00+01:00",
+    "end": "2027-04-02T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-04-02T13:00:00+01:00",
+    "end": "2027-04-02T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-02T13:30:00+01:00",
+    "end": "2027-04-02T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-02T14:00:00+01:00",
+    "end": "2027-04-02T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-04-05T09:30:00+01:00",
+    "end": "2027-04-05T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-04-05T14:30:00+01:00",
+    "end": "2027-04-05T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-04-05T14:30:00+01:00",
+    "end": "2027-04-05T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-04-06T09:30:00+01:00",
+    "end": "2027-04-06T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-04-06T14:30:00+01:00",
+    "end": "2027-04-06T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "start": "2027-04-06T14:30:00+01:00",
+    "end": "2027-04-06T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-04-07T09:30:00+01:00",
+    "end": "2027-04-07T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-04-07T12:30:00+01:00",
+    "end": "2027-04-07T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-04-07T15:30:00+01:00",
+    "end": "2027-04-07T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-08T10:00:00+01:00",
+    "end": "2027-04-08T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-04-08T14:00:00+01:00",
+    "end": "2027-04-08T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-09T09:30:00+01:00",
+    "end": "2027-04-09T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-09T10:00:00+01:00",
+    "end": "2027-04-09T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-04-09T10:30:00+01:00",
+    "end": "2027-04-09T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-04-09T13:00:00+01:00",
+    "end": "2027-04-09T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-09T13:30:00+01:00",
+    "end": "2027-04-09T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-09T14:00:00+01:00",
+    "end": "2027-04-09T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-04-12T09:30:00+01:00",
+    "end": "2027-04-12T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-04-12T14:30:00+01:00",
+    "end": "2027-04-12T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-04-12T14:30:00+01:00",
+    "end": "2027-04-12T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-04-13T09:30:00+01:00",
+    "end": "2027-04-13T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-04-13T14:30:00+01:00",
+    "end": "2027-04-13T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "start": "2027-04-13T14:30:00+01:00",
+    "end": "2027-04-13T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-04-14T09:30:00+01:00",
+    "end": "2027-04-14T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-04-14T12:30:00+01:00",
+    "end": "2027-04-14T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-04-14T15:30:00+01:00",
+    "end": "2027-04-14T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-15T10:00:00+01:00",
+    "end": "2027-04-15T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-04-15T14:00:00+01:00",
+    "end": "2027-04-15T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-16T09:30:00+01:00",
+    "end": "2027-04-16T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-16T10:00:00+01:00",
+    "end": "2027-04-16T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-04-16T10:30:00+01:00",
+    "end": "2027-04-16T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-04-16T13:00:00+01:00",
+    "end": "2027-04-16T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-16T13:30:00+01:00",
+    "end": "2027-04-16T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-16T14:00:00+01:00",
+    "end": "2027-04-16T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-04-19T09:30:00+01:00",
+    "end": "2027-04-19T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-04-19T14:30:00+01:00",
+    "end": "2027-04-19T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-04-19T14:30:00+01:00",
+    "end": "2027-04-19T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-04-20T09:30:00+01:00",
+    "end": "2027-04-20T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-04-20T14:30:00+01:00",
+    "end": "2027-04-20T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "start": "2027-04-20T14:30:00+01:00",
+    "end": "2027-04-20T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-04-21T09:30:00+01:00",
+    "end": "2027-04-21T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-04-21T12:30:00+01:00",
+    "end": "2027-04-21T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-04-21T15:30:00+01:00",
+    "end": "2027-04-21T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-22T10:00:00+01:00",
+    "end": "2027-04-22T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-04-22T14:00:00+01:00",
+    "end": "2027-04-22T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-23T09:30:00+01:00",
+    "end": "2027-04-23T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-23T10:00:00+01:00",
+    "end": "2027-04-23T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-04-23T10:30:00+01:00",
+    "end": "2027-04-23T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-04-23T13:00:00+01:00",
+    "end": "2027-04-23T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-23T13:30:00+01:00",
+    "end": "2027-04-23T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-23T14:00:00+01:00",
+    "end": "2027-04-23T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-04-26T09:30:00+01:00",
+    "end": "2027-04-26T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-04-26T14:30:00+01:00",
+    "end": "2027-04-26T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-04-26T14:30:00+01:00",
+    "end": "2027-04-26T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-04-27T09:30:00+01:00",
+    "end": "2027-04-27T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-04-27T14:30:00+01:00",
+    "end": "2027-04-27T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "start": "2027-04-27T14:30:00+01:00",
+    "end": "2027-04-27T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-04-28T09:30:00+01:00",
+    "end": "2027-04-28T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-04-28T12:30:00+01:00",
+    "end": "2027-04-28T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-04-28T15:30:00+01:00",
+    "end": "2027-04-28T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-29T10:00:00+01:00",
+    "end": "2027-04-29T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-04-29T14:00:00+01:00",
+    "end": "2027-04-29T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-30T09:30:00+01:00",
+    "end": "2027-04-30T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-30T10:00:00+01:00",
+    "end": "2027-04-30T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-04-30T10:30:00+01:00",
+    "end": "2027-04-30T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-04-30T13:00:00+01:00",
+    "end": "2027-04-30T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-30T13:30:00+01:00",
+    "end": "2027-04-30T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-04-30T14:00:00+01:00",
+    "end": "2027-04-30T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-05-03T09:30:00+01:00",
+    "end": "2027-05-03T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-05-03T14:30:00+01:00",
+    "end": "2027-05-03T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-05-03T14:30:00+01:00",
+    "end": "2027-05-03T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-05-04T09:30:00+01:00",
+    "end": "2027-05-04T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-05-04T14:30:00+01:00",
+    "end": "2027-05-04T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "start": "2027-05-04T14:30:00+01:00",
+    "end": "2027-05-04T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-05-05T09:30:00+01:00",
+    "end": "2027-05-05T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-05-05T12:30:00+01:00",
+    "end": "2027-05-05T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-05-05T15:30:00+01:00",
+    "end": "2027-05-05T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-05-06T10:00:00+01:00",
+    "end": "2027-05-06T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-05-06T14:00:00+01:00",
+    "end": "2027-05-06T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-05-07T09:30:00+01:00",
+    "end": "2027-05-07T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-05-07T10:00:00+01:00",
+    "end": "2027-05-07T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-05-07T10:30:00+01:00",
+    "end": "2027-05-07T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-05-07T13:00:00+01:00",
+    "end": "2027-05-07T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-05-07T13:30:00+01:00",
+    "end": "2027-05-07T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-05-07T14:00:00+01:00",
+    "end": "2027-05-07T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-05-10T09:30:00+01:00",
+    "end": "2027-05-10T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-05-10T14:30:00+01:00",
+    "end": "2027-05-10T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-05-10T14:30:00+01:00",
+    "end": "2027-05-10T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-05-11T09:30:00+01:00",
+    "end": "2027-05-11T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-05-11T14:30:00+01:00",
+    "end": "2027-05-11T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "start": "2027-05-11T14:30:00+01:00",
+    "end": "2027-05-11T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-05-12T09:30:00+01:00",
+    "end": "2027-05-12T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-05-12T12:30:00+01:00",
+    "end": "2027-05-12T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-05-12T15:30:00+01:00",
+    "end": "2027-05-12T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-05-13T10:00:00+01:00",
+    "end": "2027-05-13T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-05-13T14:00:00+01:00",
+    "end": "2027-05-13T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-05-14T09:30:00+01:00",
+    "end": "2027-05-14T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-05-14T10:00:00+01:00",
+    "end": "2027-05-14T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-05-14T10:30:00+01:00",
+    "end": "2027-05-14T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-05-14T13:00:00+01:00",
+    "end": "2027-05-14T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-05-14T13:30:00+01:00",
+    "end": "2027-05-14T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-05-14T14:00:00+01:00",
+    "end": "2027-05-14T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-05-17T09:30:00+01:00",
+    "end": "2027-05-17T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-05-17T14:30:00+01:00",
+    "end": "2027-05-17T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-05-17T14:30:00+01:00",
+    "end": "2027-05-17T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-05-18T09:30:00+01:00",
+    "end": "2027-05-18T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-05-18T14:30:00+01:00",
+    "end": "2027-05-18T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "start": "2027-05-18T14:30:00+01:00",
+    "end": "2027-05-18T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-05-19T09:30:00+01:00",
+    "end": "2027-05-19T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-05-19T12:30:00+01:00",
+    "end": "2027-05-19T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-05-19T15:30:00+01:00",
+    "end": "2027-05-19T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-05-20T10:00:00+01:00",
+    "end": "2027-05-20T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-05-20T14:00:00+01:00",
+    "end": "2027-05-20T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-05-21T09:30:00+01:00",
+    "end": "2027-05-21T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-05-21T10:00:00+01:00",
+    "end": "2027-05-21T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-05-21T10:30:00+01:00",
+    "end": "2027-05-21T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-05-21T13:00:00+01:00",
+    "end": "2027-05-21T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-05-21T13:30:00+01:00",
+    "end": "2027-05-21T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-05-21T14:00:00+01:00",
+    "end": "2027-05-21T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-05-24T09:30:00+01:00",
+    "end": "2027-05-24T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-05-24T14:30:00+01:00",
+    "end": "2027-05-24T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-05-24T14:30:00+01:00",
+    "end": "2027-05-24T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-05-25T09:30:00+01:00",
+    "end": "2027-05-25T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-05-25T14:30:00+01:00",
+    "end": "2027-05-25T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "start": "2027-05-25T14:30:00+01:00",
+    "end": "2027-05-25T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-05-26T09:30:00+01:00",
+    "end": "2027-05-26T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-05-26T12:30:00+01:00",
+    "end": "2027-05-26T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-05-26T15:30:00+01:00",
+    "end": "2027-05-26T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-05-27T10:00:00+01:00",
+    "end": "2027-05-27T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-05-27T14:00:00+01:00",
+    "end": "2027-05-27T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-05-28T09:30:00+01:00",
+    "end": "2027-05-28T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-05-28T10:00:00+01:00",
+    "end": "2027-05-28T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-05-28T10:30:00+01:00",
+    "end": "2027-05-28T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-05-28T13:00:00+01:00",
+    "end": "2027-05-28T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-05-28T13:30:00+01:00",
+    "end": "2027-05-28T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-05-28T14:00:00+01:00",
+    "end": "2027-05-28T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-05-31T09:30:00+01:00",
+    "end": "2027-05-31T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-05-31T14:30:00+01:00",
+    "end": "2027-05-31T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-05-31T14:30:00+01:00",
+    "end": "2027-05-31T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-06-01T09:30:00+01:00",
+    "end": "2027-06-01T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-06-01T14:30:00+01:00",
+    "end": "2027-06-01T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "start": "2027-06-01T14:30:00+01:00",
+    "end": "2027-06-01T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-06-02T09:30:00+01:00",
+    "end": "2027-06-02T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-06-02T12:30:00+01:00",
+    "end": "2027-06-02T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-06-02T15:30:00+01:00",
+    "end": "2027-06-02T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-06-03T10:00:00+01:00",
+    "end": "2027-06-03T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-06-03T14:00:00+01:00",
+    "end": "2027-06-03T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-06-04T09:30:00+01:00",
+    "end": "2027-06-04T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-06-04T10:00:00+01:00",
+    "end": "2027-06-04T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-06-04T10:30:00+01:00",
+    "end": "2027-06-04T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-06-04T13:00:00+01:00",
+    "end": "2027-06-04T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-06-04T13:30:00+01:00",
+    "end": "2027-06-04T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-06-04T14:00:00+01:00",
+    "end": "2027-06-04T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-06-07T09:30:00+01:00",
+    "end": "2027-06-07T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-06-07T14:30:00+01:00",
+    "end": "2027-06-07T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-06-07T14:30:00+01:00",
+    "end": "2027-06-07T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-06-08T09:30:00+01:00",
+    "end": "2027-06-08T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-06-08T14:30:00+01:00",
+    "end": "2027-06-08T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "start": "2027-06-08T14:30:00+01:00",
+    "end": "2027-06-08T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-06-09T09:30:00+01:00",
+    "end": "2027-06-09T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-06-09T12:30:00+01:00",
+    "end": "2027-06-09T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-06-09T15:30:00+01:00",
+    "end": "2027-06-09T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-06-10T10:00:00+01:00",
+    "end": "2027-06-10T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-06-10T14:00:00+01:00",
+    "end": "2027-06-10T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-06-11T09:30:00+01:00",
+    "end": "2027-06-11T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-06-11T10:00:00+01:00",
+    "end": "2027-06-11T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-06-11T10:30:00+01:00",
+    "end": "2027-06-11T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-06-11T13:00:00+01:00",
+    "end": "2027-06-11T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-06-11T13:30:00+01:00",
+    "end": "2027-06-11T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-06-11T14:00:00+01:00",
+    "end": "2027-06-11T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-06-14T09:30:00+01:00",
+    "end": "2027-06-14T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-06-14T14:30:00+01:00",
+    "end": "2027-06-14T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-06-14T14:30:00+01:00",
+    "end": "2027-06-14T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-06-15T09:30:00+01:00",
+    "end": "2027-06-15T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-06-15T14:30:00+01:00",
+    "end": "2027-06-15T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "start": "2027-06-15T14:30:00+01:00",
+    "end": "2027-06-15T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-06-16T09:30:00+01:00",
+    "end": "2027-06-16T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-06-16T12:30:00+01:00",
+    "end": "2027-06-16T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-06-16T15:30:00+01:00",
+    "end": "2027-06-16T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-06-17T10:00:00+01:00",
+    "end": "2027-06-17T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-06-17T14:00:00+01:00",
+    "end": "2027-06-17T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-06-18T09:30:00+01:00",
+    "end": "2027-06-18T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-06-18T10:00:00+01:00",
+    "end": "2027-06-18T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-06-18T10:30:00+01:00",
+    "end": "2027-06-18T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-06-18T13:00:00+01:00",
+    "end": "2027-06-18T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-06-18T13:30:00+01:00",
+    "end": "2027-06-18T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-06-18T14:00:00+01:00",
+    "end": "2027-06-18T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-06-21T09:30:00+01:00",
+    "end": "2027-06-21T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-06-21T14:30:00+01:00",
+    "end": "2027-06-21T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-06-21T14:30:00+01:00",
+    "end": "2027-06-21T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-06-22T09:30:00+01:00",
+    "end": "2027-06-22T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-06-22T14:30:00+01:00",
+    "end": "2027-06-22T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "start": "2027-06-22T14:30:00+01:00",
+    "end": "2027-06-22T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-06-23T09:30:00+01:00",
+    "end": "2027-06-23T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-06-23T12:30:00+01:00",
+    "end": "2027-06-23T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-06-23T15:30:00+01:00",
+    "end": "2027-06-23T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-06-24T10:00:00+01:00",
+    "end": "2027-06-24T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-06-24T14:00:00+01:00",
+    "end": "2027-06-24T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-06-25T09:30:00+01:00",
+    "end": "2027-06-25T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-06-25T10:00:00+01:00",
+    "end": "2027-06-25T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-06-25T10:30:00+01:00",
+    "end": "2027-06-25T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Metodologia progettuale per la comunicazione visiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Pazzaglia",
+    "start": "2027-06-25T13:00:00+01:00",
+    "end": "2027-06-25T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-06-25T13:30:00+01:00",
+    "end": "2027-06-25T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Sala Verde",
+    "docente": "Bracciale",
+    "start": "2027-06-25T14:00:00+01:00",
+    "end": "2027-06-25T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "C",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-06-28T09:30:00+01:00",
+    "end": "2027-06-28T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-06-28T14:30:00+01:00",
+    "end": "2027-06-28T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-06-28T14:30:00+01:00",
+    "end": "2027-06-28T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "start": "2027-06-29T09:30:00+01:00",
+    "end": "2027-06-29T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Fashion design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Ventroni",
+    "start": "2027-06-29T14:30:00+01:00",
+    "end": "2027-06-29T18:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Presentazione nuovo tema sfilata",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Atelier",
+    "docente": "Ventroni",
+    "start": "2027-06-29T14:30:00+01:00",
+    "end": "2027-06-29T16:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Y",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-06-30T09:30:00+01:00",
+    "end": "2027-06-30T12:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Storia arte moderna",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Vivarelli",
+    "start": "2027-06-30T12:30:00+01:00",
+    "end": "2027-06-30T15:00:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
+  },
+  {
+    "corso": "Organizzazione grandi eventi",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "Z",
+    "aula": "Sala Rossa",
+    "docente": "Roselli",
+    "start": "2027-06-30T15:30:00+01:00",
+    "end": "2027-06-30T17:30:00+01:00",
+    "note": null,
+    "corsoStudio": "FASHION"
   }
 ]

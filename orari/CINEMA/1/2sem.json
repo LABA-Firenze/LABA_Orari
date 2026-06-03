@@ -1,355 +1,16 @@
 [
   {
-    "corso": "Tecniche di ripresa",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Movie Hall",
-    "docente": "Colombo",
-    "note": null,
-    "corsoStudio": "CINEMA",
-    "lezioni": [
-      {
-        "data": "23-02-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "02-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "09-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "16-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "23-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "30-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "06-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "13-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "20-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "27-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "04-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "11-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "18-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "25-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "01-06-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      }
-    ]
-  },
-  {
-    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Studio 2",
-    "docente": "Borrelli",
-    "note": null,
-    "corsoStudio": "CINEMA",
-    "lezioni": [
-      {
-        "data": "24-02-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "03-03-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "10-03-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "17-03-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "24-03-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "31-03-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "07-04-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "14-04-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "21-04-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "28-04-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "05-05-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "12-05-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "19-05-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "26-05-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      },
-      {
-        "data": "02-06-2026",
-        "oraInizio": "10:00",
-        "oraFine": "13:00"
-      }
-    ]
-  },
-  {
-    "corso": "Video editing",
-    "oidCorso": null,
-    "oidCorsi": null,
-    "anno": 1,
-    "gruppo": null,
-    "aula": "Conference 1",
-    "docente": "Mearelli",
-    "note": null,
-    "corsoStudio": "CINEMA",
-    "lezioni": [
-      {
-        "data": "24-02-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "03-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "10-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "17-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "24-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "31-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "07-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "14-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "21-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "28-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "05-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "12-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "19-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "26-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "02-06-2026",
-        "oraInizio": "14:00",
-        "oraFine": "17:00"
-      }
-    ]
-  },
-  {
     "corso": "Cinematografia",
     "oidCorso": null,
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Digital HUB",
+    "aula": "Movie Hall",
     "docente": "Corvino",
+    "start": "2027-02-01T09:30:00+01:00",
+    "end": "2027-02-01T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "CINEMA",
-    "lezioni": [
-      {
-        "data": "25-02-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "04-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "11-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "18-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "25-03-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "01-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "08-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "15-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "22-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "29-04-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "06-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "13-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "20-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "27-05-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      },
-      {
-        "data": "03-06-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      }
-    ]
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Regia",
@@ -359,271 +20,49 @@
     "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Corvino",
+    "start": "2027-02-01T13:00:00+01:00",
+    "end": "2027-02-01T17:00:00+01:00",
     "note": null,
-    "corsoStudio": "CINEMA",
-    "lezioni": [
-      {
-        "data": "25-02-2026",
-        "oraInizio": "13:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "04-03-2026",
-        "oraInizio": "13:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "11-03-2026",
-        "oraInizio": "13:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "18-03-2026",
-        "oraInizio": "13:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "25-03-2026",
-        "oraInizio": "13:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "01-04-2026",
-        "oraInizio": "13:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "08-04-2026",
-        "oraInizio": "13:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "15-04-2026",
-        "oraInizio": "13:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "22-04-2026",
-        "oraInizio": "13:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "29-04-2026",
-        "oraInizio": "13:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "06-05-2026",
-        "oraInizio": "13:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "13-05-2026",
-        "oraInizio": "13:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "20-05-2026",
-        "oraInizio": "13:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "27-05-2026",
-        "oraInizio": "13:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "03-06-2026",
-        "oraInizio": "13:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "08-06-2026",
-        "oraInizio": "13:00",
-        "oraFine": "17:00"
-      },
-      {
-        "data": "10-06-2026",
-        "oraInizio": "13:00",
-        "oraFine": "17:00"
-      }
-    ]
+    "corsoStudio": "CINEMA"
   },
   {
-    "corso": "Tecniche di documentazione audiovisiva",
+    "corso": "Tecniche di ripresa",
     "oidCorso": null,
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Citi",
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-02-01T14:00:00+01:00",
+    "end": "2027-02-01T17:00:00+01:00",
     "note": null,
-    "corsoStudio": "CINEMA",
-    "lezioni": [
-      {
-        "data": "27-02-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "06-03-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "13-03-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "20-03-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "27-03-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "03-04-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "10-04-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "17-04-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "24-04-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "01-05-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "08-05-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "15-05-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "22-05-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "29-05-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      },
-      {
-        "data": "05-06-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      }
-    ]
+    "corsoStudio": "CINEMA"
   },
   {
-    "corso": "Stile, storia dell'arte e del costume",
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
     "oidCorso": null,
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Conference 2",
-    "docente": "Bargelli",
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-02-02T10:00:00+01:00",
+    "end": "2027-02-02T13:00:00+01:00",
     "note": null,
-    "corsoStudio": "CINEMA",
-    "lezioni": [
-      {
-        "data": "27-02-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "06-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "13-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "20-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "27-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "03-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "10-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "17-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "24-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "01-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "08-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "15-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "22-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "29-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      },
-      {
-        "data": "05-06-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      }
-    ]
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-02-02T14:00:00+01:00",
+    "end": "2027-02-02T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Cinematografia",
@@ -631,17 +70,12 @@
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
-    "aula": "Movie Hall",
+    "aula": "Digital HUB",
     "docente": "Corvino",
+    "start": "2027-02-03T09:30:00+01:00",
+    "end": "2027-02-03T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "CINEMA",
-    "lezioni": [
-      {
-        "data": "08-06-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      }
-    ]
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Cinematografia",
@@ -651,15 +85,36 @@
     "gruppo": null,
     "aula": "Magna 1",
     "docente": "Corvino",
+    "start": "2027-02-03T09:30:00+01:00",
+    "end": "2027-02-03T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "CINEMA",
-    "lezioni": [
-      {
-        "data": "10-06-2026",
-        "oraInizio": "09:30",
-        "oraFine": "12:30"
-      }
-    ]
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-02-03T13:00:00+01:00",
+    "end": "2027-02-03T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-02-05T10:30:00+01:00",
+    "end": "2027-02-05T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Tecniche di documentazione audiovisiva",
@@ -669,15 +124,23 @@
     "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Citi",
+    "start": "2027-02-05T10:30:00+01:00",
+    "end": "2027-02-05T13:30:00+01:00",
     "note": null,
-    "corsoStudio": "CINEMA",
-    "lezioni": [
-      {
-        "data": "12-06-2026",
-        "oraInizio": "10:30",
-        "oraFine": "13:30"
-      }
-    ]
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-02-05T14:00:00+01:00",
+    "end": "2027-02-05T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
   },
   {
     "corso": "Stile, storia dell'arte e del costume",
@@ -687,102 +150,3233 @@
     "gruppo": null,
     "aula": "Movie Hall",
     "docente": "Bargelli",
+    "start": "2027-02-05T14:00:00+01:00",
+    "end": "2027-02-05T16:00:00+01:00",
     "note": null,
-    "corsoStudio": "CINEMA",
-    "lezioni": [
-      {
-        "data": "12-06-2026",
-        "oraInizio": "14:00",
-        "oraFine": "16:00"
-      }
-    ]
+    "corsoStudio": "CINEMA"
   },
   {
-    "corso": "Italiano per stranieri",
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-02-08T09:30:00+01:00",
+    "end": "2027-02-08T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-02-08T13:00:00+01:00",
+    "end": "2027-02-08T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-02-08T14:00:00+01:00",
+    "end": "2027-02-08T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-02-09T10:00:00+01:00",
+    "end": "2027-02-09T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-02-09T14:00:00+01:00",
+    "end": "2027-02-09T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
     "oidCorso": null,
     "oidCorsi": null,
     "anno": 1,
     "gruppo": null,
     "aula": "Digital HUB",
-    "docente": "Carbone",
+    "docente": "Corvino",
+    "start": "2027-02-10T09:30:00+01:00",
+    "end": "2027-02-10T12:30:00+01:00",
     "note": null,
-    "corsoStudio": "CINEMA",
-    "lezioni": [
-      {
-        "data": "02-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "04-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "06-06-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "07-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "09-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "11-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "14-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "16-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "18-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "21-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "23-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "25-04-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "28-02-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "28-03-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      },
-      {
-        "data": "30-05-2026",
-        "oraInizio": "14:00",
-        "oraFine": "18:00"
-      }
-    ]
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Corvino",
+    "start": "2027-02-10T09:30:00+01:00",
+    "end": "2027-02-10T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-02-10T13:00:00+01:00",
+    "end": "2027-02-10T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-02-12T10:30:00+01:00",
+    "end": "2027-02-12T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-02-12T10:30:00+01:00",
+    "end": "2027-02-12T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-02-12T14:00:00+01:00",
+    "end": "2027-02-12T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Bargelli",
+    "start": "2027-02-12T14:00:00+01:00",
+    "end": "2027-02-12T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-02-15T09:30:00+01:00",
+    "end": "2027-02-15T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-02-15T13:00:00+01:00",
+    "end": "2027-02-15T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-02-15T14:00:00+01:00",
+    "end": "2027-02-15T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-02-16T10:00:00+01:00",
+    "end": "2027-02-16T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-02-16T14:00:00+01:00",
+    "end": "2027-02-16T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-02-17T09:30:00+01:00",
+    "end": "2027-02-17T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Corvino",
+    "start": "2027-02-17T09:30:00+01:00",
+    "end": "2027-02-17T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-02-17T13:00:00+01:00",
+    "end": "2027-02-17T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-02-19T10:30:00+01:00",
+    "end": "2027-02-19T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-02-19T10:30:00+01:00",
+    "end": "2027-02-19T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-02-19T14:00:00+01:00",
+    "end": "2027-02-19T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Bargelli",
+    "start": "2027-02-19T14:00:00+01:00",
+    "end": "2027-02-19T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-02-22T09:30:00+01:00",
+    "end": "2027-02-22T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-02-22T13:00:00+01:00",
+    "end": "2027-02-22T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-02-22T14:00:00+01:00",
+    "end": "2027-02-22T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-02-23T10:00:00+01:00",
+    "end": "2027-02-23T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-02-23T14:00:00+01:00",
+    "end": "2027-02-23T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-02-24T09:30:00+01:00",
+    "end": "2027-02-24T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Corvino",
+    "start": "2027-02-24T09:30:00+01:00",
+    "end": "2027-02-24T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-02-24T13:00:00+01:00",
+    "end": "2027-02-24T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-02-26T10:30:00+01:00",
+    "end": "2027-02-26T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-02-26T10:30:00+01:00",
+    "end": "2027-02-26T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-02-26T14:00:00+01:00",
+    "end": "2027-02-26T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Bargelli",
+    "start": "2027-02-26T14:00:00+01:00",
+    "end": "2027-02-26T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-03-01T09:30:00+01:00",
+    "end": "2027-03-01T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-03-01T13:00:00+01:00",
+    "end": "2027-03-01T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-03-01T14:00:00+01:00",
+    "end": "2027-03-01T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-03-02T10:00:00+01:00",
+    "end": "2027-03-02T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-03-02T14:00:00+01:00",
+    "end": "2027-03-02T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-03-03T09:30:00+01:00",
+    "end": "2027-03-03T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Corvino",
+    "start": "2027-03-03T09:30:00+01:00",
+    "end": "2027-03-03T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-03-03T13:00:00+01:00",
+    "end": "2027-03-03T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-03-05T10:30:00+01:00",
+    "end": "2027-03-05T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-03-05T10:30:00+01:00",
+    "end": "2027-03-05T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-03-05T14:00:00+01:00",
+    "end": "2027-03-05T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Bargelli",
+    "start": "2027-03-05T14:00:00+01:00",
+    "end": "2027-03-05T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-03-08T09:30:00+01:00",
+    "end": "2027-03-08T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-03-08T13:00:00+01:00",
+    "end": "2027-03-08T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-03-08T14:00:00+01:00",
+    "end": "2027-03-08T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-03-09T10:00:00+01:00",
+    "end": "2027-03-09T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-03-09T14:00:00+01:00",
+    "end": "2027-03-09T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-03-10T09:30:00+01:00",
+    "end": "2027-03-10T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Corvino",
+    "start": "2027-03-10T09:30:00+01:00",
+    "end": "2027-03-10T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-03-10T13:00:00+01:00",
+    "end": "2027-03-10T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-03-12T10:30:00+01:00",
+    "end": "2027-03-12T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-03-12T10:30:00+01:00",
+    "end": "2027-03-12T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-03-12T14:00:00+01:00",
+    "end": "2027-03-12T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Bargelli",
+    "start": "2027-03-12T14:00:00+01:00",
+    "end": "2027-03-12T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-03-15T09:30:00+01:00",
+    "end": "2027-03-15T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-03-15T13:00:00+01:00",
+    "end": "2027-03-15T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-03-15T14:00:00+01:00",
+    "end": "2027-03-15T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-03-16T10:00:00+01:00",
+    "end": "2027-03-16T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-03-16T14:00:00+01:00",
+    "end": "2027-03-16T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-03-17T09:30:00+01:00",
+    "end": "2027-03-17T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Corvino",
+    "start": "2027-03-17T09:30:00+01:00",
+    "end": "2027-03-17T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-03-17T13:00:00+01:00",
+    "end": "2027-03-17T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-03-19T10:30:00+01:00",
+    "end": "2027-03-19T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-03-19T10:30:00+01:00",
+    "end": "2027-03-19T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-03-19T14:00:00+01:00",
+    "end": "2027-03-19T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Bargelli",
+    "start": "2027-03-19T14:00:00+01:00",
+    "end": "2027-03-19T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-03-22T09:30:00+01:00",
+    "end": "2027-03-22T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-03-22T13:00:00+01:00",
+    "end": "2027-03-22T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-03-22T14:00:00+01:00",
+    "end": "2027-03-22T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-03-23T10:00:00+01:00",
+    "end": "2027-03-23T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-03-23T14:00:00+01:00",
+    "end": "2027-03-23T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-03-24T09:30:00+01:00",
+    "end": "2027-03-24T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Corvino",
+    "start": "2027-03-24T09:30:00+01:00",
+    "end": "2027-03-24T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-03-24T13:00:00+01:00",
+    "end": "2027-03-24T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-03-26T10:30:00+01:00",
+    "end": "2027-03-26T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-03-26T10:30:00+01:00",
+    "end": "2027-03-26T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-03-26T14:00:00+01:00",
+    "end": "2027-03-26T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Bargelli",
+    "start": "2027-03-26T14:00:00+01:00",
+    "end": "2027-03-26T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-03-29T09:30:00+01:00",
+    "end": "2027-03-29T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-03-29T13:00:00+01:00",
+    "end": "2027-03-29T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-03-29T14:00:00+01:00",
+    "end": "2027-03-29T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-03-30T10:00:00+01:00",
+    "end": "2027-03-30T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-03-30T14:00:00+01:00",
+    "end": "2027-03-30T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-03-31T09:30:00+01:00",
+    "end": "2027-03-31T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Corvino",
+    "start": "2027-03-31T09:30:00+01:00",
+    "end": "2027-03-31T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-03-31T13:00:00+01:00",
+    "end": "2027-03-31T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-04-02T10:30:00+01:00",
+    "end": "2027-04-02T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-04-02T10:30:00+01:00",
+    "end": "2027-04-02T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-04-02T14:00:00+01:00",
+    "end": "2027-04-02T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Bargelli",
+    "start": "2027-04-02T14:00:00+01:00",
+    "end": "2027-04-02T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-04-05T09:30:00+01:00",
+    "end": "2027-04-05T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-04-05T13:00:00+01:00",
+    "end": "2027-04-05T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-04-05T14:00:00+01:00",
+    "end": "2027-04-05T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-04-06T10:00:00+01:00",
+    "end": "2027-04-06T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-04-06T14:00:00+01:00",
+    "end": "2027-04-06T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-04-07T09:30:00+01:00",
+    "end": "2027-04-07T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Corvino",
+    "start": "2027-04-07T09:30:00+01:00",
+    "end": "2027-04-07T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-04-07T13:00:00+01:00",
+    "end": "2027-04-07T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-04-09T10:30:00+01:00",
+    "end": "2027-04-09T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-04-09T10:30:00+01:00",
+    "end": "2027-04-09T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-04-09T14:00:00+01:00",
+    "end": "2027-04-09T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Bargelli",
+    "start": "2027-04-09T14:00:00+01:00",
+    "end": "2027-04-09T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-04-12T09:30:00+01:00",
+    "end": "2027-04-12T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-04-12T13:00:00+01:00",
+    "end": "2027-04-12T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-04-12T14:00:00+01:00",
+    "end": "2027-04-12T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-04-13T10:00:00+01:00",
+    "end": "2027-04-13T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-04-13T14:00:00+01:00",
+    "end": "2027-04-13T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-04-14T09:30:00+01:00",
+    "end": "2027-04-14T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Corvino",
+    "start": "2027-04-14T09:30:00+01:00",
+    "end": "2027-04-14T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-04-14T13:00:00+01:00",
+    "end": "2027-04-14T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-04-16T10:30:00+01:00",
+    "end": "2027-04-16T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-04-16T10:30:00+01:00",
+    "end": "2027-04-16T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-04-16T14:00:00+01:00",
+    "end": "2027-04-16T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Bargelli",
+    "start": "2027-04-16T14:00:00+01:00",
+    "end": "2027-04-16T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-04-19T09:30:00+01:00",
+    "end": "2027-04-19T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-04-19T13:00:00+01:00",
+    "end": "2027-04-19T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-04-19T14:00:00+01:00",
+    "end": "2027-04-19T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-04-20T10:00:00+01:00",
+    "end": "2027-04-20T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-04-20T14:00:00+01:00",
+    "end": "2027-04-20T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-04-21T09:30:00+01:00",
+    "end": "2027-04-21T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Corvino",
+    "start": "2027-04-21T09:30:00+01:00",
+    "end": "2027-04-21T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-04-21T13:00:00+01:00",
+    "end": "2027-04-21T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-04-23T10:30:00+01:00",
+    "end": "2027-04-23T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-04-23T10:30:00+01:00",
+    "end": "2027-04-23T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-04-23T14:00:00+01:00",
+    "end": "2027-04-23T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Bargelli",
+    "start": "2027-04-23T14:00:00+01:00",
+    "end": "2027-04-23T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-04-26T09:30:00+01:00",
+    "end": "2027-04-26T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-04-26T13:00:00+01:00",
+    "end": "2027-04-26T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-04-26T14:00:00+01:00",
+    "end": "2027-04-26T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-04-27T10:00:00+01:00",
+    "end": "2027-04-27T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-04-27T14:00:00+01:00",
+    "end": "2027-04-27T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-04-28T09:30:00+01:00",
+    "end": "2027-04-28T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Corvino",
+    "start": "2027-04-28T09:30:00+01:00",
+    "end": "2027-04-28T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-04-28T13:00:00+01:00",
+    "end": "2027-04-28T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-04-30T10:30:00+01:00",
+    "end": "2027-04-30T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-04-30T10:30:00+01:00",
+    "end": "2027-04-30T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-04-30T14:00:00+01:00",
+    "end": "2027-04-30T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Bargelli",
+    "start": "2027-04-30T14:00:00+01:00",
+    "end": "2027-04-30T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-05-03T09:30:00+01:00",
+    "end": "2027-05-03T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-05-03T13:00:00+01:00",
+    "end": "2027-05-03T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-05-03T14:00:00+01:00",
+    "end": "2027-05-03T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-05-04T10:00:00+01:00",
+    "end": "2027-05-04T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-05-04T14:00:00+01:00",
+    "end": "2027-05-04T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-05-05T09:30:00+01:00",
+    "end": "2027-05-05T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Corvino",
+    "start": "2027-05-05T09:30:00+01:00",
+    "end": "2027-05-05T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-05-05T13:00:00+01:00",
+    "end": "2027-05-05T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-05-07T10:30:00+01:00",
+    "end": "2027-05-07T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-05-07T10:30:00+01:00",
+    "end": "2027-05-07T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-05-07T14:00:00+01:00",
+    "end": "2027-05-07T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Bargelli",
+    "start": "2027-05-07T14:00:00+01:00",
+    "end": "2027-05-07T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-05-10T09:30:00+01:00",
+    "end": "2027-05-10T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-05-10T13:00:00+01:00",
+    "end": "2027-05-10T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-05-10T14:00:00+01:00",
+    "end": "2027-05-10T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-05-11T10:00:00+01:00",
+    "end": "2027-05-11T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-05-11T14:00:00+01:00",
+    "end": "2027-05-11T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-05-12T09:30:00+01:00",
+    "end": "2027-05-12T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Corvino",
+    "start": "2027-05-12T09:30:00+01:00",
+    "end": "2027-05-12T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-05-12T13:00:00+01:00",
+    "end": "2027-05-12T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-05-14T10:30:00+01:00",
+    "end": "2027-05-14T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-05-14T10:30:00+01:00",
+    "end": "2027-05-14T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-05-14T14:00:00+01:00",
+    "end": "2027-05-14T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Bargelli",
+    "start": "2027-05-14T14:00:00+01:00",
+    "end": "2027-05-14T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-05-17T09:30:00+01:00",
+    "end": "2027-05-17T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-05-17T13:00:00+01:00",
+    "end": "2027-05-17T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-05-17T14:00:00+01:00",
+    "end": "2027-05-17T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-05-18T10:00:00+01:00",
+    "end": "2027-05-18T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-05-18T14:00:00+01:00",
+    "end": "2027-05-18T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-05-19T09:30:00+01:00",
+    "end": "2027-05-19T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Corvino",
+    "start": "2027-05-19T09:30:00+01:00",
+    "end": "2027-05-19T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-05-19T13:00:00+01:00",
+    "end": "2027-05-19T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-05-21T10:30:00+01:00",
+    "end": "2027-05-21T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-05-21T10:30:00+01:00",
+    "end": "2027-05-21T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-05-21T14:00:00+01:00",
+    "end": "2027-05-21T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Bargelli",
+    "start": "2027-05-21T14:00:00+01:00",
+    "end": "2027-05-21T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-05-24T09:30:00+01:00",
+    "end": "2027-05-24T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-05-24T13:00:00+01:00",
+    "end": "2027-05-24T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-05-24T14:00:00+01:00",
+    "end": "2027-05-24T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-05-25T10:00:00+01:00",
+    "end": "2027-05-25T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-05-25T14:00:00+01:00",
+    "end": "2027-05-25T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-05-26T09:30:00+01:00",
+    "end": "2027-05-26T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Corvino",
+    "start": "2027-05-26T09:30:00+01:00",
+    "end": "2027-05-26T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-05-26T13:00:00+01:00",
+    "end": "2027-05-26T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-05-28T10:30:00+01:00",
+    "end": "2027-05-28T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-05-28T10:30:00+01:00",
+    "end": "2027-05-28T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-05-28T14:00:00+01:00",
+    "end": "2027-05-28T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Bargelli",
+    "start": "2027-05-28T14:00:00+01:00",
+    "end": "2027-05-28T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-05-31T09:30:00+01:00",
+    "end": "2027-05-31T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-05-31T13:00:00+01:00",
+    "end": "2027-05-31T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-05-31T14:00:00+01:00",
+    "end": "2027-05-31T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-06-01T10:00:00+01:00",
+    "end": "2027-06-01T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-06-01T14:00:00+01:00",
+    "end": "2027-06-01T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-06-02T09:30:00+01:00",
+    "end": "2027-06-02T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Corvino",
+    "start": "2027-06-02T09:30:00+01:00",
+    "end": "2027-06-02T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-06-02T13:00:00+01:00",
+    "end": "2027-06-02T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-06-04T10:30:00+01:00",
+    "end": "2027-06-04T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-06-04T10:30:00+01:00",
+    "end": "2027-06-04T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-06-04T14:00:00+01:00",
+    "end": "2027-06-04T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Bargelli",
+    "start": "2027-06-04T14:00:00+01:00",
+    "end": "2027-06-04T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-06-07T09:30:00+01:00",
+    "end": "2027-06-07T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-06-07T13:00:00+01:00",
+    "end": "2027-06-07T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-06-07T14:00:00+01:00",
+    "end": "2027-06-07T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-06-08T10:00:00+01:00",
+    "end": "2027-06-08T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-06-08T14:00:00+01:00",
+    "end": "2027-06-08T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-06-09T09:30:00+01:00",
+    "end": "2027-06-09T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Corvino",
+    "start": "2027-06-09T09:30:00+01:00",
+    "end": "2027-06-09T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-06-09T13:00:00+01:00",
+    "end": "2027-06-09T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-06-11T10:30:00+01:00",
+    "end": "2027-06-11T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-06-11T10:30:00+01:00",
+    "end": "2027-06-11T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-06-11T14:00:00+01:00",
+    "end": "2027-06-11T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Bargelli",
+    "start": "2027-06-11T14:00:00+01:00",
+    "end": "2027-06-11T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-06-14T09:30:00+01:00",
+    "end": "2027-06-14T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-06-14T13:00:00+01:00",
+    "end": "2027-06-14T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-06-14T14:00:00+01:00",
+    "end": "2027-06-14T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-06-15T10:00:00+01:00",
+    "end": "2027-06-15T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-06-15T14:00:00+01:00",
+    "end": "2027-06-15T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-06-16T09:30:00+01:00",
+    "end": "2027-06-16T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Corvino",
+    "start": "2027-06-16T09:30:00+01:00",
+    "end": "2027-06-16T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-06-16T13:00:00+01:00",
+    "end": "2027-06-16T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-06-18T10:30:00+01:00",
+    "end": "2027-06-18T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-06-18T10:30:00+01:00",
+    "end": "2027-06-18T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-06-18T14:00:00+01:00",
+    "end": "2027-06-18T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Bargelli",
+    "start": "2027-06-18T14:00:00+01:00",
+    "end": "2027-06-18T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-06-21T09:30:00+01:00",
+    "end": "2027-06-21T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-06-21T13:00:00+01:00",
+    "end": "2027-06-21T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-06-21T14:00:00+01:00",
+    "end": "2027-06-21T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-06-22T10:00:00+01:00",
+    "end": "2027-06-22T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-06-22T14:00:00+01:00",
+    "end": "2027-06-22T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-06-23T09:30:00+01:00",
+    "end": "2027-06-23T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Corvino",
+    "start": "2027-06-23T09:30:00+01:00",
+    "end": "2027-06-23T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-06-23T13:00:00+01:00",
+    "end": "2027-06-23T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Citi",
+    "start": "2027-06-25T10:30:00+01:00",
+    "end": "2027-06-25T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "start": "2027-06-25T10:30:00+01:00",
+    "end": "2027-06-25T13:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 2",
+    "docente": "Bargelli",
+    "start": "2027-06-25T14:00:00+01:00",
+    "end": "2027-06-25T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Bargelli",
+    "start": "2027-06-25T14:00:00+01:00",
+    "end": "2027-06-25T16:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-06-28T09:30:00+01:00",
+    "end": "2027-06-28T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-06-28T13:00:00+01:00",
+    "end": "2027-06-28T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Tecniche di ripresa",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Colombo",
+    "start": "2027-06-28T14:00:00+01:00",
+    "end": "2027-06-28T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Teoria e analisi del cinema e dell'audiovisivo",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Studio 2",
+    "docente": "Borrelli",
+    "start": "2027-06-29T10:00:00+01:00",
+    "end": "2027-06-29T13:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Video editing",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Mearelli",
+    "start": "2027-06-29T14:00:00+01:00",
+    "end": "2027-06-29T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Digital HUB",
+    "docente": "Corvino",
+    "start": "2027-06-30T09:30:00+01:00",
+    "end": "2027-06-30T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Corvino",
+    "start": "2027-06-30T09:30:00+01:00",
+    "end": "2027-06-30T12:30:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
+  },
+  {
+    "corso": "Regia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "start": "2027-06-30T13:00:00+01:00",
+    "end": "2027-06-30T17:00:00+01:00",
+    "note": null,
+    "corsoStudio": "CINEMA"
   }
 ]
