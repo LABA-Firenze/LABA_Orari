@@ -1,1 +1,970 @@
-[]
+[
+  {
+    "corso": "Semiotica dell'arte",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": null,
+    "aula": "Conference 1",
+    "docente": "Caciolli",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "24-02-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "03-03-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "10-03-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "17-03-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "24-03-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "31-03-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "07-04-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "14-04-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "21-04-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "28-04-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "05-05-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "12-05-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "19-05-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "26-05-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "02-06-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      }
+    ]
+  },
+  {
+    "corso": "Architettura degli interni 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Studio 1",
+    "docente": "Follesa",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "24-02-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "03-03-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "10-03-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "17-03-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "24-03-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "31-03-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "07-04-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "14-04-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "21-04-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "28-04-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "05-05-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "12-05-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "19-05-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "26-05-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      },
+      {
+        "data": "02-06-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      }
+    ]
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "25-02-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "04-03-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "11-03-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "18-03-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "25-03-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "01-04-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "08-04-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "15-04-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "22-04-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "29-04-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "06-05-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "13-05-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "20-05-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "27-05-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      },
+      {
+        "data": "03-06-2026",
+        "oraInizio": "10:00",
+        "oraFine": "13:00"
+      }
+    ]
+  },
+  {
+    "corso": "Modellistica 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Danti",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "25-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "04-03-2026",
+        "oraInizio": "14:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "11-03-2026",
+        "oraInizio": "14:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "18-03-2026",
+        "oraInizio": "14:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "25-03-2026",
+        "oraInizio": "14:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "01-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "08-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "15-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "22-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "29-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "06-05-2026",
+        "oraInizio": "14:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "13-05-2026",
+        "oraInizio": "14:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "20-05-2026",
+        "oraInizio": "14:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "27-05-2026",
+        "oraInizio": "14:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "03-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "17:00"
+      }
+    ]
+  },
+  {
+    "corso": "Tecniche dell'informazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Visual HUB",
+    "docente": "Lee",
+    "note": "portatili",
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "26-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "05-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "12-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "19-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "26-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "02-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "09-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "16-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "23-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "30-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "07-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "14-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "21-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "28-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      },
+      {
+        "data": "04-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
+      }
+    ]
+  },
+  {
+    "corso": "Tecniche dell'informazione",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "3D LAB",
+    "docente": "Lee",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "26-02-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "05-03-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "12-03-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "19-03-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "26-03-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "02-04-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "09-04-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "16-04-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "23-04-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "30-04-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "07-05-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "14-05-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "21-05-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "28-05-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      },
+      {
+        "data": "04-06-2026",
+        "oraInizio": "11:30",
+        "oraFine": "13:30"
+      }
+    ]
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Design LAB",
+    "docente": "Minisci",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "26-02-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "05-03-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "12-03-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "19-03-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "26-03-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "02-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "09-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "16-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "23-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "30-04-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "07-05-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "14-05-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "21-05-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "28-05-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      },
+      {
+        "data": "04-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      }
+    ]
+  },
+  {
+    "corso": "Architettura degli interni 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Digital HUB",
+    "docente": "Follesa",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "27-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "06-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "13-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "20-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "27-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "03-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "10-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "17-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "24-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "01-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "08-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "15-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "22-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "29-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "05-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      }
+    ]
+  },
+  {
+    "corso": "Product design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Visual HUB",
+    "docente": "Cantini",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "27-02-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "06-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "13-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "20-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "27-03-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "03-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "10-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "17-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "24-04-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "01-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "08-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "15-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "22-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "29-05-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      },
+      {
+        "data": "05-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      }
+    ]
+  },
+  {
+    "corso": "Product design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Visual HUB",
+    "docente": "Cantini",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "27-02-2026",
+        "oraInizio": "13:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "06-03-2026",
+        "oraInizio": "13:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "13-03-2026",
+        "oraInizio": "13:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "20-03-2026",
+        "oraInizio": "13:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "27-03-2026",
+        "oraInizio": "13:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "03-04-2026",
+        "oraInizio": "13:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "10-04-2026",
+        "oraInizio": "13:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "17-04-2026",
+        "oraInizio": "13:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "24-04-2026",
+        "oraInizio": "13:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "01-05-2026",
+        "oraInizio": "13:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "08-05-2026",
+        "oraInizio": "13:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "15-05-2026",
+        "oraInizio": "13:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "22-05-2026",
+        "oraInizio": "13:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "29-05-2026",
+        "oraInizio": "13:00",
+        "oraFine": "16:00"
+      },
+      {
+        "data": "05-06-2026",
+        "oraInizio": "13:00",
+        "oraFine": "16:00"
+      }
+    ]
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Design LAB",
+    "docente": "Minisci",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "27-02-2026",
+        "oraInizio": "13:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "06-03-2026",
+        "oraInizio": "13:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "13-03-2026",
+        "oraInizio": "13:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "20-03-2026",
+        "oraInizio": "13:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "27-03-2026",
+        "oraInizio": "13:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "03-04-2026",
+        "oraInizio": "13:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "10-04-2026",
+        "oraInizio": "13:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "17-04-2026",
+        "oraInizio": "13:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "24-04-2026",
+        "oraInizio": "13:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "01-05-2026",
+        "oraInizio": "13:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "08-05-2026",
+        "oraInizio": "13:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "15-05-2026",
+        "oraInizio": "13:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "22-05-2026",
+        "oraInizio": "13:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "29-05-2026",
+        "oraInizio": "13:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "05-06-2026",
+        "oraInizio": "13:00",
+        "oraFine": "17:00"
+      }
+    ]
+  }
+]
