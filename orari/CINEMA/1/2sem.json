@@ -436,6 +436,16 @@
         "data": "03-06-2026",
         "oraInizio": "13:00",
         "oraFine": "17:00"
+      },
+      {
+        "data": "08-06-2026",
+        "oraInizio": "13:00",
+        "oraFine": "17:00"
+      },
+      {
+        "data": "10-06-2026",
+        "oraInizio": "13:00",
+        "oraFine": "17:00"
       }
     ]
   },
@@ -610,6 +620,78 @@
       },
       {
         "data": "05-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "16:00"
+      }
+    ]
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Corvino",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "lezioni": [
+      {
+        "data": "08-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      }
+    ]
+  },
+  {
+    "corso": "Cinematografia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Aula Magna",
+    "docente": "Corvino",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "lezioni": [
+      {
+        "data": "10-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      }
+    ]
+  },
+  {
+    "corso": "Tecniche di documentazione audiovisiva",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Citi",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "lezioni": [
+      {
+        "data": "12-06-2026",
+        "oraInizio": "10:30",
+        "oraFine": "13:30"
+      }
+    ]
+  },
+  {
+    "corso": "Stile, storia dell'arte e del costume",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": null,
+    "aula": "Movie Hall",
+    "docente": "Bargelli",
+    "note": null,
+    "corsoStudio": "CINEMA",
+    "lezioni": [
+      {
+        "data": "12-06-2026",
         "oraInizio": "14:00",
         "oraFine": "16:00"
       }
