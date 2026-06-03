@@ -612,6 +612,11 @@
         "data": "03-06-2026",
         "oraInizio": "16:30",
         "oraFine": "18:30"
+      },
+      {
+        "data": "10-06-2026",
+        "oraInizio": "16:30",
+        "oraFine": "18:30"
       }
     ]
   },
@@ -788,6 +793,11 @@
         "data": "04-06-2026",
         "oraInizio": "09:30",
         "oraFine": "13:30"
+      },
+      {
+        "data": "11-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
       }
     ]
   },
@@ -964,6 +974,119 @@
         "data": "04-06-2026",
         "oraInizio": "14:00",
         "oraFine": "18:00"
+      },
+      {
+        "data": "11-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      }
+    ]
+  },
+  {
+    "corso": "Fotografia digitale 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Photo LAB 1+2",
+    "docente": "Verdiani",
+    "note": null,
+    "corsoStudio": "FOTOGRAFIA",
+    "lezioni": [
+      {
+        "data": "08-06-2026",
+        "oraInizio": "10:30",
+        "oraFine": "13:30"
+      }
+    ]
+  },
+  {
+    "corso": "Fotografia digitale 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Photo LAB 1+2",
+    "docente": "Verdiani",
+    "note": null,
+    "corsoStudio": "FOTOGRAFIA",
+    "lezioni": [
+      {
+        "data": "08-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "17:00"
+      }
+    ]
+  },
+  {
+    "corso": "Tecniche e applicazioni digitali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Studio 3",
+    "docente": "Menafra",
+    "note": null,
+    "corsoStudio": "FOTOGRAFIA",
+    "lezioni": [
+      {
+        "data": "09-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      }
+    ]
+  },
+  {
+    "corso": "Tecniche e applicazioni digitali",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Studio 3",
+    "docente": "Menafra",
+    "note": null,
+    "corsoStudio": "FOTOGRAFIA",
+    "lezioni": [
+      {
+        "data": "09-06-2026",
+        "oraInizio": "13:00",
+        "oraFine": "16:00"
+      }
+    ]
+  },
+  {
+    "corso": "Digital video",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Photo LAB 1+2",
+    "docente": "Provvedi",
+    "note": null,
+    "corsoStudio": "FOTOGRAFIA",
+    "lezioni": [
+      {
+        "data": "11-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      }
+    ]
+  },
+  {
+    "corso": "Digital video",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Photo LAB 1+2",
+    "docente": "Provvedi",
+    "note": null,
+    "corsoStudio": "FOTOGRAFIA",
+    "lezioni": [
+      {
+        "data": "11-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "17:00"
       }
     ]
   }
