@@ -966,5 +966,59 @@
         "oraFine": "17:00"
       }
     ]
+  },
+  {
+    "corso": "Architettura degli interni 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Aula Magna",
+    "docente": "Follesa",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "08-06-2026",
+        "oraInizio": "14:30",
+        "oraFine": "17:30"
+      }
+    ]
+  },
+  {
+    "corso": "Architettura degli interni 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "A",
+    "aula": "Magna 2",
+    "docente": "Follesa",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "11-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      }
+    ]
+  },
+  {
+    "corso": "Design 2",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 2,
+    "gruppo": "B",
+    "aula": "Studio 2",
+    "docente": "Minisci",
+    "note": null,
+    "corsoStudio": "DESIGN",
+    "lezioni": [
+      {
+        "data": "11-06-2026",
+        "oraInizio": "14:00",
+        "oraFine": "18:00"
+      }
+    ]
   }
 ]
