@@ -348,6 +348,11 @@
         "data": "03-06-2026",
         "oraInizio": "09:30",
         "oraFine": "11:30"
+      },
+      {
+        "data": "10-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "11:30"
       }
     ]
   },
@@ -612,6 +617,24 @@
         "data": "04-06-2026",
         "oraInizio": "09:30",
         "oraFine": "13:30"
+      }
+    ]
+  },
+  {
+    "corso": "Storia e modelli dell'arteterapia",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 3,
+    "gruppo": null,
+    "aula": "Tecn. Grafiche",
+    "docente": "Lauriola",
+    "note": null,
+    "corsoStudio": "PITTURA",
+    "lezioni": [
+      {
+        "data": "11-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
       }
     ]
   }
