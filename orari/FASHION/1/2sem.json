@@ -878,5 +878,77 @@
         "oraFine": "18:30"
       }
     ]
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "note": null,
+    "corsoStudio": "FASHION",
+    "lezioni": [
+      {
+        "data": "08-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "12:30"
+      }
+    ]
+  },
+  {
+    "corso": "Modellistica 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Atelier",
+    "docente": "Monaco",
+    "note": null,
+    "corsoStudio": "FASHION",
+    "lezioni": [
+      {
+        "data": "08-06-2026",
+        "oraInizio": "13:30",
+        "oraFine": "17:30"
+      }
+    ]
+  },
+  {
+    "corso": "Fashion design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "A",
+    "aula": "Sala Gialla",
+    "docente": "Frigerio",
+    "note": null,
+    "corsoStudio": "FASHION",
+    "lezioni": [
+      {
+        "data": "12-06-2026",
+        "oraInizio": "09:30",
+        "oraFine": "13:30"
+      }
+    ]
+  },
+  {
+    "corso": "Fashion design 1",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 1,
+    "gruppo": "B",
+    "aula": "Sala Gialla",
+    "docente": "Frigerio",
+    "note": null,
+    "corsoStudio": "FASHION",
+    "lezioni": [
+      {
+        "data": "12-06-2026",
+        "oraInizio": "14:30",
+        "oraFine": "18:30"
+      }
+    ]
   }
 ]
