@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "corso": "Prova",
+    "oidCorso": null,
+    "oidCorsi": null,
+    "anno": 3,
+    "gruppo": null,
+    "aula": "Magna 1",
+    "docente": "Ania Bartoli",
+    "note": null,
+    "corsoStudio": "GD",
+    "lezioni": [
+      {
+        "data": "02-02-2026",
+        "oraInizio": "00:30",
+        "oraFine": "02:30"
+      },
+      {
+        "data": "09-02-2026",
+        "oraInizio": "00:30",
+        "oraFine": "02:30"
+      },
+      {
+        "data": "16-02-2026",
+        "oraInizio": "00:30",
+        "oraFine": "02:30"
+      },
+      {
+        "data": "23-02-2026",
+        "oraInizio": "00:30",
+        "oraFine": "02:30"
+      },
+      {
+        "data": "02-03-2026",
+        "oraInizio": "00:30",
+        "oraFine": "02:30"
+      },
+      {
+        "data": "09-03-2026",
+        "oraInizio": "00:30",
+        "oraFine": "02:30"
+      },
+      {
+        "data": "16-03-2026",
+        "oraInizio": "00:30",
+        "oraFine": "02:30"
+      },
+      {
+        "data": "23-03-2026",
+        "oraInizio": "00:30",
+        "oraFine": "02:30"
+      },
+      {
+        "data": "30-03-2026",
+        "oraInizio": "00:30",
+        "oraFine": "02:30"
+      },
+      {
+        "data": "06-04-2026",
+        "oraInizio": "00:30",
+        "oraFine": "02:30"
+      },
+      {
+        "data": "13-04-2026",
+        "oraInizio": "00:30",
+        "oraFine": "02:30"
+      },
+      {
+        "data": "20-04-2026",
+        "oraInizio": "00:30",
+        "oraFine": "02:30"
+      },
+      {
+        "data": "27-04-2026",
+        "oraInizio": "00:30",
+        "oraFine": "02:30"
+      },
+      {
+        "data": "04-05-2026",
+        "oraInizio": "00:30",
+        "oraFine": "02:30"
+      },
+      {
+        "data": "11-05-2026",
+        "oraInizio": "00:30",
+        "oraFine": "02:30"
+      },
+      {
+        "data": "18-05-2026",
+        "oraInizio": "00:30",
+        "oraFine": "02:30"
+      },
+      {
+        "data": "25-05-2026",
+        "oraInizio": "00:30",
+        "oraFine": "02:30"
+      },
+      {
+        "data": "01-06-2026",
+        "oraInizio": "00:30",
+        "oraFine": "02:30"
+      },
+      {
+        "data": "08-06-2026",
+        "oraInizio": "00:30",
+        "oraFine": "02:30"
+      }
+    ]
+  }
+]
